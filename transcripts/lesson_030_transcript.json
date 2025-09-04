@@ -1,0 +1,327 @@
+{
+  "file_name": "030_Lesson_30.faudio-hi-0-Default.mp4",
+  "text": " Hey everyone, welcome back to the development module. We're finally going to be building the app focusing essentially on the core feature. Now what is the core feature you may ask? Well if we look at Kelly Eye as an example their core feature is taking a picture of food and then estimating the calories. That's what they started with, that's what they launched with and it worked really well. Now of course they're developing it, they have teams, they have you can connect Apple Health account etc etc but to be honest in the early days this is all fluff and you should be focusing on what is the most important feature of my app. Let me build that once that is built you can go out and validate it. So yeah for the UMax clone we essentially are going to be taking a picture of our face and then just displaying the results on the screen. That's all we need to do for this like MVP and I'm going to run through how to build this. This will be kind of a longer form video and you know I'm not going to like retake this many times I'm just going to like throw it all at you. You guys to be following along are we kind of explaining what things are as we go and you'll see how I transform this like hello world screen into like a functioning app and including the chat GBA API as well. So let's get fucking started boys. So the way I like to start is I love like logo straight away like maybe it seems stupid but I'm just going to go UMax. I'm going to go .footway.bold.font.title. There you go and then we're going to space this to the top. There we go and you can see the example on the right side that's exactly what we're building it's all getting like rendered in real time. Okay so next we want a button so we're going to create a button actually I'm going to zoom in a little bit just so you guys can see. Okay button label. So the label is essentially like what the button looks like and I'm not going to teach you guys how to code that I run through the fundamentals. We're going to go image system name and then we use the system name from the SF symbols library. So I can go plus dot circle and then comes up with this and we're just going to use this. We're going to make it resizable, skeletal, skeletal fit, frame and we're going to make it about like 30 pixels wide or maybe even bigger maybe 90. Yeah or 80 I think. Yeah okay because it's a core feature I'll keep it pretty big although like editing of course you can change this and again I'm going to teach you guys how to code but you can change the color so if you do foreground color maybe we make it red. So that's red. I think maybe purple is great for now though. Okay let's do purple and then yes that is all good. Great. So now this button should be the core feature and we're going to write the logic for this now and essentially when you click this button it should pop up a camera view and then you can take a picture once the picture is taken I get sent to the chat GBT API and then the API will rate the looks and then display that back on the front end and what I recommend is going here on the left side sorry right clicking and clicking add package dependencies going back into the document that you guys all provided with from the course and copy in this link GitHub.com slash Mac post. Open AI then you go back into Xcode paste this in the package URL section at the top right pasting it and click add in package and then adding it to you Mac clone 2. I've already added this previously in another cup but just it's really simple click on the Mac's clone 2 or whatever you call your project and click add package and boom it's available. So I'm going to ask chat GBT right now I will record it just give me a second I'm going to pause and pause I'll formulate a prompt and it will allow us pretty much to click on this button and then display an image sorry the camera view on the front end just so we could take the photo so I'll be back in a second. Okay guys so the first next step is to go to your web browser and what you need to do is get the API key from chat GBT so go to platform.openai.com which will open this web page and then if you have an account if you never had an account before just create one and if you already have a chat GBT account just log in it's simple as that then you click start building in the top right it might ask you for your organization name I'm just going to say you max clone create organization and I'll invite my team later we don't need to answer this and then we can call this first API key you max and click generate. I'll then give you a test key so just copy this and we'll bring it over to the next part of the tutorial I'll be back in one sec. Actually I just remember it is likely recommended to buy credits because they probably have a lot of spam so I would just pay for five hours of credits not a big deal and then join me after you've topped up your account.",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "text": "Hey everyone, welcome back to the development module. We're finally going to be"
+    },
+    {
+      "start": 4.8,
+      "end": 10.5,
+      "text": "building the app focusing essentially on the core feature. Now what is the core"
+    },
+    {
+      "start": 10.5,
+      "end": 15.120000000000001,
+      "text": "feature you may ask? Well if we look at Kelly Eye as an example their core"
+    },
+    {
+      "start": 15.120000000000001,
+      "end": 19.580000000000002,
+      "text": "feature is taking a picture of food and then estimating the calories. That's what"
+    },
+    {
+      "start": 19.580000000000002,
+      "end": 23.22,
+      "text": "they started with, that's what they launched with and it worked really well. Now"
+    },
+    {
+      "start": 23.22,
+      "end": 27.42,
+      "text": "of course they're developing it, they have teams, they have you can connect"
+    },
+    {
+      "start": 27.42,
+      "end": 31.5,
+      "text": "Apple Health account etc etc but to be honest in the early days this is all"
+    },
+    {
+      "start": 31.5,
+      "end": 36.58,
+      "text": "fluff and you should be focusing on what is the most important feature of my app."
+    },
+    {
+      "start": 36.58,
+      "end": 42.36,
+      "text": "Let me build that once that is built you can go out and validate it. So yeah for"
+    },
+    {
+      "start": 42.36,
+      "end": 46.28,
+      "text": "the UMax clone we essentially are going to be taking a picture of our face and"
+    },
+    {
+      "start": 46.28,
+      "end": 50.660000000000004,
+      "text": "then just displaying the results on the screen. That's all we need to do for this"
+    },
+    {
+      "start": 50.660000000000004,
+      "end": 54.82000000000001,
+      "text": "like MVP and I'm going to run through how to build this. This will be kind of a"
+    },
+    {
+      "start": 54.82,
+      "end": 58.66,
+      "text": "longer form video and you know I'm not going to like retake this many"
+    },
+    {
+      "start": 58.66,
+      "end": 62.66,
+      "text": "times I'm just going to like throw it all at you. You guys to be following along"
+    },
+    {
+      "start": 62.66,
+      "end": 67.26,
+      "text": "are we kind of explaining what things are as we go and you'll see how I"
+    },
+    {
+      "start": 67.26,
+      "end": 72.46000000000001,
+      "text": "transform this like hello world screen into like a functioning app and"
+    },
+    {
+      "start": 72.46000000000001,
+      "end": 80.42,
+      "text": "including the chat GBA API as well. So let's get fucking started boys. So the way"
+    },
+    {
+      "start": 80.42,
+      "end": 84.86,
+      "text": "I like to start is I love like logo straight away like maybe it seems stupid"
+    },
+    {
+      "start": 84.86,
+      "end": 88.54,
+      "text": "but I'm just going to go UMax."
+    },
+    {
+      "start": 91.54,
+      "end": 101.82000000000001,
+      "text": "I'm going to go .footway.bold.font.title. There you go and then we're going to"
+    },
+    {
+      "start": 101.82,
+      "end": 110.33999999999999,
+      "text": "space this to the top. There we go and you can see the example on the right"
+    },
+    {
+      "start": 110.33999999999999,
+      "end": 115.1,
+      "text": "side that's exactly what we're building it's all getting like rendered in real"
+    },
+    {
+      "start": 115.1,
+      "end": 119.02,
+      "text": "time. Okay so next we want a button so we're going to create a button actually"
+    },
+    {
+      "start": 119.02,
+      "end": 125.38,
+      "text": "I'm going to zoom in a little bit just so you guys can see. Okay button label. So"
+    },
+    {
+      "start": 125.38,
+      "end": 130.1,
+      "text": "the label is essentially like what the button looks like and I'm not going to"
+    },
+    {
+      "start": 130.1,
+      "end": 133.62,
+      "text": "teach you guys how to code that I run through the fundamentals. We're going to go"
+    },
+    {
+      "start": 133.62,
+      "end": 139.01999999999998,
+      "text": "image system name and then we use the system name from the SF symbols library."
+    },
+    {
+      "start": 139.01999999999998,
+      "end": 143.7,
+      "text": "So I can go plus dot circle and then comes up with this and we're just going to"
+    },
+    {
+      "start": 143.7,
+      "end": 150.45999999999998,
+      "text": "use this. We're going to make it resizable, skeletal, skeletal fit, frame and"
+    },
+    {
+      "start": 150.45999999999998,
+      "end": 156.42,
+      "text": "we're going to make it about like 30 pixels wide or maybe even bigger maybe 90."
+    },
+    {
+      "start": 156.61999999999998,
+      "end": 163.5,
+      "text": "Yeah or 80 I think. Yeah okay because it's a core feature I'll keep it pretty"
+    },
+    {
+      "start": 163.5,
+      "end": 168.17999999999998,
+      "text": "big although like editing of course you can change this and again I'm going to"
+    },
+    {
+      "start": 168.17999999999998,
+      "end": 171.45999999999998,
+      "text": "teach you guys how to code but you can change the color so if you do foreground"
+    },
+    {
+      "start": 171.45999999999998,
+      "end": 179.17999999999998,
+      "text": "color maybe we make it red. So that's red. I think maybe purple is great for"
+    },
+    {
+      "start": 179.18,
+      "end": 191.1,
+      "text": "now though. Okay let's do purple and then yes that is all good. Great. So now"
+    },
+    {
+      "start": 191.1,
+      "end": 194.58,
+      "text": "this button should be the core feature and we're going to write the logic for"
+    },
+    {
+      "start": 194.58,
+      "end": 199.98000000000002,
+      "text": "this now and essentially when you click this button it should pop up a camera"
+    },
+    {
+      "start": 199.98000000000002,
+      "end": 204.98000000000002,
+      "text": "view and then you can take a picture once the picture is taken I get"
+    },
+    {
+      "start": 204.98,
+      "end": 209.72,
+      "text": "sent to the chat GBT API and then the API will rate the looks and then display"
+    },
+    {
+      "start": 209.72,
+      "end": 216.33999999999997,
+      "text": "that back on the front end and what I recommend is going here on the left side"
+    },
+    {
+      "start": 216.33999999999997,
+      "end": 224.38,
+      "text": "sorry right clicking and clicking add package dependencies going back into the"
+    },
+    {
+      "start": 224.38,
+      "end": 227.89999999999998,
+      "text": "document that you guys all provided with from the course and copy in this link"
+    },
+    {
+      "start": 227.89999999999998,
+      "end": 234.01999999999998,
+      "text": "GitHub.com slash Mac post. Open AI then you go back into Xcode paste this in the"
+    },
+    {
+      "start": 234.02,
+      "end": 238.94,
+      "text": "package URL section at the top right pasting it and click add in package and"
+    },
+    {
+      "start": 238.94,
+      "end": 243.58,
+      "text": "then adding it to you Mac clone 2. I've already added this previously in"
+    },
+    {
+      "start": 243.58,
+      "end": 247.26000000000002,
+      "text": "another cup but just it's really simple click on the Mac's clone 2 or whatever"
+    },
+    {
+      "start": 247.26000000000002,
+      "end": 254.10000000000002,
+      "text": "you call your project and click add package and boom it's available. So I'm"
+    },
+    {
+      "start": 254.10000000000002,
+      "end": 257.98,
+      "text": "going to ask chat GBT right now I will record it just give me a second I'm"
+    },
+    {
+      "start": 257.98,
+      "end": 264.06,
+      "text": "going to pause and pause I'll formulate a prompt and it will allow us pretty"
+    },
+    {
+      "start": 264.06,
+      "end": 268.98,
+      "text": "much to click on this button and then display an image sorry the camera view on"
+    },
+    {
+      "start": 268.98,
+      "end": 273.78000000000003,
+      "text": "the front end just so we could take the photo so I'll be back in a second. Okay"
+    },
+    {
+      "start": 273.78000000000003,
+      "end": 280.38,
+      "text": "guys so the first next step is to go to your web browser and what you need to"
+    },
+    {
+      "start": 280.38,
+      "end": 287.5,
+      "text": "do is get the API key from chat GBT so go to platform.openai.com which will"
+    },
+    {
+      "start": 287.5,
+      "end": 291.38,
+      "text": "open this web page and then if you have an account if you never had an"
+    },
+    {
+      "start": 291.38,
+      "end": 295.58,
+      "text": "account before just create one and if you already have a chat GBT account just"
+    },
+    {
+      "start": 295.58,
+      "end": 299.46,
+      "text": "log in it's simple as that then you click start building in the top right it"
+    },
+    {
+      "start": 299.46,
+      "end": 304.74,
+      "text": "might ask you for your organization name I'm just going to say you max clone"
+    },
+    {
+      "start": 304.74,
+      "end": 309.38,
+      "text": "create organization and I'll invite my team later we don't need to answer this"
+    },
+    {
+      "start": 309.38,
+      "end": 314.38,
+      "text": "and then we can call this first API key you max and click generate."
+    },
+    {
+      "start": 314.38,
+      "end": 319.02,
+      "text": "I'll then give you a test key so just copy this and we'll bring it over to the"
+    },
+    {
+      "start": 319.02,
+      "end": 323.98,
+      "text": "next part of the tutorial I'll be back in one sec. Actually I just"
+    },
+    {
+      "start": 323.98,
+      "end": 327.46,
+      "text": "remember it is likely recommended to buy credits because they probably have a"
+    },
+    {
+      "start": 327.46,
+      "end": 333.65999999999997,
+      "text": "lot of spam so I would just pay for five hours of credits not a big deal and"
+    },
+    {
+      "start": 333.65999999999997,
+      "end": 337.86,
+      "text": "then join me after you've topped up your account."
+    }
+  ]
+}

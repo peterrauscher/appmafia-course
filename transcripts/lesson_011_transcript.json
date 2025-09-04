@@ -1,0 +1,992 @@
+{
+  "file_name": "011_Lesson_11.faudio-hi-0-Default.mp4",
+  "text": " We are on the final part or final lesson of ideation, which is, of course, finalizing your idea. This part will probably be short. It kind of builds off of everything we've done, but we'll serve as somewhat of a conclusion, and we'll go over some basic frameworks about how to actually pick your idea to move forward with. So we started off with case studies. We went through the background of idea versus execution, analyzing the different outcome curves, as well as asking yourself about what you're interested in and examining your constraints and resources. We went through human psychology, some of the underpinnings of what makes a great idea and what problems you should solve for people. We went through the process of ideation, identifying and solving your own problems, scrolling social media, performing competitive analysis on the app store, as well as sensor tower. Now finally, we are going to finalize your idea. So from start to finish, this is begin from a first principled perspective on human psychology, examine problems that you and others face, research similar products and competitors, and finally make your decision. Now an extremely important note to add here is once you make your decision to work on a product that doesn't mean that you can't go back on that decision, there are probably 20 products where I've gone through the ideation phase and said yes, I am going to build this. And then I open up Figma. Right, we'll talk about this in design at the next step. Like step number one after you've finished your process of ideation, we'll be beginning in Figma. I've opened up Figma, started to work on it, and then at some point between opening Figma and actually running influencer promos or doing UGC, some point in that process, I said, you know, actually I don't think this is it. I think a lot of people fall victim to the sunk cost fallacy. They put some time into something and they're like, I have to see this through. I even apply this to reading books in like the sort of self improvement domain on social media and popular culture. You will hear people say like if you start something, you need to finish it. People pick up a book and they say, I will finish this book because in the past, I've had issues with finishing books. But what they end up doing is they read, maybe they get a third through it and they realize that they're no longer interested. Or maybe they got everything out of it that they needed. And instead of closing it and saying, you know what, I'm good here, I'm going to go pick up a new book. They say, no, I'm going to finish it because this is a standard I'd hold myself too. And then they just stop reading. And then they go three months and they haven't picked the book up and now they no longer even read. So the same framework that I play to reading books, I would say probably about half, maybe even more than half of the books I read, I close before getting halfway through it. Some books I close after five pages. Others I get halfway through. I love the book and I say, you know, I think I've gotten everything that I need from this. That same framework I apply to building apps. And so just because you get here and you make your decision and you say, this is the idea I want to work on. This is the problem that I want to tackle. Does not mean that you have to make it all the way through modules two, three and four. There's absolutely nothing wrong with starting and quitting at some point thereafter. To me, I think the only real quitting is to quit your pursuit of entrepreneurship as a whole within the context of here building apps. But even that, it's like, man, I did social media marketing for a little while. I quit that to then do crypto, I built an Ethereum, I machine in 2016. I quit that to then I think I was actually prioritizing my landscaping business. Right. I quit in so many different domains. But the key thing is that as a whole, I don't quit working. Okay. Enough of that aside. In short, you know, just know that just because you make the decision to work on an idea doesn't mean that you can't go back to step one or step two and even one week later, one month later, whatever it may be. Now in the process of making this decision, I think some key questions to ask ourselves that we touched on earlier. But I think it's worth revisiting our, what does the timeline look like? Different products are going to have different life cycles. Certain products are going to be more design heavy. Other products are going to be more development heavy. Other products are going to be more distribution heavy. And you know, when you're new to a domain, you won't have deep knowledge in that you won't be able to very accurately predict. But it's worth making intuitive assessments as well as using chat GPT to help you predict. Chat GPT can serve as somewhat of your expert tutor. And if you are part of the AppMafia community, you'll be able to get guidance from other app founders. Next is, can I build this myself? How hard will it be to attract somebody that can? So do you have the design development and then distribution experience? And if you don't, will you be able to get somebody that can fill that gap? So beyond just analyzing how hard it will be from a development perspective, for example, before you end up finalizing this decision, it's worth asking yourself whether or not you'll be able to find that person. Now personally, I would actually recommend moving into the design process regardless. In terms of this question, the reason that I say that is, anytime you are going to try to recruit somebody to work on your idea, the more progress that you have, the easier it will be. And so if you have conviction, then I personally would recommend spending even just a few hours on design and getting somewhat of a mockup. And then sharing that with potential developers. I hate when people come to me with an idea and they don't have Figma. I say to people explicitly, if they send me an idea that they have, I'd say it's a friend, colleague, whenever. I'll say, hey man, thanks for reaching out. Let me know when you have some Figma designs. I'm a more visual person, right? How much cash will I need to get this off the ground, right? So these are, once again, very similar to the questions and nature of resources versus constraints that we went over an idea versus execution. But you need to ask yourself and reassess them when you get to this step of the process. Because if we remember when we were going over idea versus execution, this is looking at it from a macro perspective, right? What are the resources and constraints that I have that will inform how I even come up with ideas? And now that you have this idea or these couple of ideas that you're considering moving forward with, you want to go back and apply the same frame-wersing questions. This is of paramount importance to me. Set it before. I'll say it again and again and again and again. If I'm not deeply interested in a topic, I will not build around it. This was not always true. I did give a hand at projects where I thought that there was significant opportunity, specifically economic opportunity. And every single time I burnt out, every single time I burnt out, the two things that I really look at is I say, okay. Am I interested in this topic and the problem that I'm solving? That's one. And then I say, am I interested in engaging in the operations and the day-to-day that it will take to achieve that? And if the answer to either of those is no, I completely avoid it. To be honest, I think that the topic and the problem itself are more important actually than the day-to-day. If, man, there's a good quote here, but something along the lines of like, if you have a why, you can find almost any will. I probably butchered that, but essentially, if you care enough about the end result, and not just like what you get, not just like the money, but that can be the major motivator for many, but personally, it's like, do I care about bringing this into the world? And if, oh, oh, oh, he who has a why can bear almost any how, that's the quote. And so yeah, if I have a why, I can bear almost any how, and that I can do this shitty little day-to-day ops that are boring, in repetitive, and monotonous, because I know what life looks like at the end of the tunnel. I'll give an example here. In the early days of RIS GPT, we were going very viral, very, very, very viral, and we were just launching Android. The internet had been begging. TikTok had been absolutely begging for this product to get on Android. And so the day that we launched on Android, we're not charting because we have no sort of app store optimization. And in order to achieve that, what you need is people searching up your app and then organically downloading it. And at this time, I was just so focused on making the most because I didn't know anything about this space when we first launched this product. This is all kind of came out of nowhere. We're at $80,000 in MRR. My life just completely changed. And I was so focused on freedom. Freedom was my why. Freedom was the light at the end of the tunnel that if we executed and we got this shit done and we built something out of nothing that then I would be able to spend the rest of my life doing what I wanted with an entrepreneurship and what I wanted with my life rather than answering to some fucking bullshit retarded 9-5 balls. So we're launching on Android. And I'm like, man, we need to be ranking in the app store. So on the Google Play Store. And I went through all of our most viral videos and I responded to thousands and thousands of comments in a day. I swear to God, I was sitting there all fucking day for 16 hours just going through TikTok saying, search up, blah, blah, blah on the app store. Search up, blah, blah on the app store. Now, could I have outsourced this to a VA, whatever, like, yeah, theoretically I could but time was a paramount importance. Our competitor had just gotten on Android 2. We needed to beat them in the rankings and we didn't have a VA ready to go. And so like, yeah, no one wants to sit there and respond to the same comment for 12 hours straight, right? Like that sucks. Nobody wants to do that. But what I wanted more than anything else in the world was to ensure my long term freedom and setting up the and beating out our competitor in the rankings would put us in a position where our growth would be more long term sustainable and I would have more runway and ability to ensure that I never had to get a job. Now in retrospect, Android is actually not that important. It's like 10 to 15% of revenue across my different apps and I actually don't think that what I did there was entirely necessary. But given the data I had in the moment, that was what it took. And so, yeah, I think it's important to dig deep. It's another reason that I'm a big believer in the fact that like how you do one thing is how you do everything and the sort of willpower and determination that I've cultivated within myself over years of weightlifting and reading books and studying in general right statistics, calculus, psychology, whatever it may be, working on so many different failed business ventures that then when the rubber really hit the road and I finally had a working viable business model, I was the person that was able to take it all the way. And if you constantly chase these sort of bullshit, extrinsic motivators rather than having that why within you, you're going to burn out. And so I guess that's my motivational speech to end off this unit on ideation or this module on ideation. And the next module will go over design and taking the idea that you have and building it into an actual product in Figma. So that's that and I will, yeah, nope, that's it. That's that piece out guys. Hope you enjoyed.",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.0,
+      "text": "We are on the final part or final lesson of ideation, which is, of course, finalizing your"
+    },
+    {
+      "start": 12.0,
+      "end": 15.4,
+      "text": "idea."
+    },
+    {
+      "start": 15.4,
+      "end": 18.36,
+      "text": "This part will probably be short."
+    },
+    {
+      "start": 18.36,
+      "end": 23.32,
+      "text": "It kind of builds off of everything we've done, but we'll serve as somewhat of a conclusion,"
+    },
+    {
+      "start": 23.32,
+      "end": 28.400000000000002,
+      "text": "and we'll go over some basic frameworks about how to actually pick your idea to move forward"
+    },
+    {
+      "start": 28.4,
+      "end": 31.4,
+      "text": "with."
+    },
+    {
+      "start": 31.4,
+      "end": 34.239999999999995,
+      "text": "So we started off with case studies."
+    },
+    {
+      "start": 34.239999999999995,
+      "end": 39.28,
+      "text": "We went through the background of idea versus execution, analyzing the different outcome"
+    },
+    {
+      "start": 39.28,
+      "end": 44.959999999999994,
+      "text": "curves, as well as asking yourself about what you're interested in and examining your"
+    },
+    {
+      "start": 44.959999999999994,
+      "end": 48.4,
+      "text": "constraints and resources."
+    },
+    {
+      "start": 48.4,
+      "end": 54.84,
+      "text": "We went through human psychology, some of the underpinnings of what makes a great idea"
+    },
+    {
+      "start": 54.84,
+      "end": 59.400000000000006,
+      "text": "and what problems you should solve for people."
+    },
+    {
+      "start": 59.400000000000006,
+      "end": 64.68,
+      "text": "We went through the process of ideation, identifying and solving your own problems, scrolling"
+    },
+    {
+      "start": 64.68,
+      "end": 77.16,
+      "text": "social media, performing competitive analysis on the app store, as well as sensor tower."
+    },
+    {
+      "start": 77.16,
+      "end": 84.28,
+      "text": "Now finally, we are going to finalize your idea."
+    },
+    {
+      "start": 84.28,
+      "end": 91.12,
+      "text": "So from start to finish, this is begin from a first principled perspective on human psychology,"
+    },
+    {
+      "start": 91.12,
+      "end": 97.16,
+      "text": "examine problems that you and others face, research similar products and competitors,"
+    },
+    {
+      "start": 97.16,
+      "end": 100.44,
+      "text": "and finally make your decision."
+    },
+    {
+      "start": 100.44,
+      "end": 106.12,
+      "text": "Now an extremely important note to add here is once you make your decision to work on"
+    },
+    {
+      "start": 106.12,
+      "end": 113.56,
+      "text": "a product that doesn't mean that you can't go back on that decision, there are probably"
+    },
+    {
+      "start": 113.56,
+      "end": 120.0,
+      "text": "20 products where I've gone through the ideation phase and said yes, I am going to build"
+    },
+    {
+      "start": 120.0,
+      "end": 121.32000000000001,
+      "text": "this."
+    },
+    {
+      "start": 121.32000000000001,
+      "end": 123.56,
+      "text": "And then I open up Figma."
+    },
+    {
+      "start": 123.56,
+      "end": 127.04,
+      "text": "Right, we'll talk about this in design at the next step."
+    },
+    {
+      "start": 127.04,
+      "end": 131.76,
+      "text": "Like step number one after you've finished your process of ideation, we'll be beginning"
+    },
+    {
+      "start": 131.76,
+      "end": 133.76,
+      "text": "in Figma."
+    },
+    {
+      "start": 133.76,
+      "end": 142.4,
+      "text": "I've opened up Figma, started to work on it, and then at some point between opening Figma"
+    },
+    {
+      "start": 142.4,
+      "end": 149.88,
+      "text": "and actually running influencer promos or doing UGC, some point in that process, I said,"
+    },
+    {
+      "start": 149.88,
+      "end": 154.0,
+      "text": "you know, actually I don't think this is it."
+    },
+    {
+      "start": 154.0,
+      "end": 157.4,
+      "text": "I think a lot of people fall victim to the sunk cost fallacy."
+    },
+    {
+      "start": 157.4,
+      "end": 161.28,
+      "text": "They put some time into something and they're like, I have to see this through."
+    },
+    {
+      "start": 161.28,
+      "end": 168.08,
+      "text": "I even apply this to reading books in like the sort of self improvement domain on social"
+    },
+    {
+      "start": 168.08,
+      "end": 172.64000000000001,
+      "text": "media and popular culture."
+    },
+    {
+      "start": 172.64000000000001,
+      "end": 178.76000000000002,
+      "text": "You will hear people say like if you start something, you need to finish it."
+    },
+    {
+      "start": 178.76000000000002,
+      "end": 184.68,
+      "text": "People pick up a book and they say, I will finish this book because in the past, I've had"
+    },
+    {
+      "start": 184.68,
+      "end": 187.8,
+      "text": "issues with finishing books."
+    },
+    {
+      "start": 187.8,
+      "end": 193.88000000000002,
+      "text": "But what they end up doing is they read, maybe they get a third through it and they realize"
+    },
+    {
+      "start": 193.88000000000002,
+      "end": 195.84,
+      "text": "that they're no longer interested."
+    },
+    {
+      "start": 195.84,
+      "end": 199.6,
+      "text": "Or maybe they got everything out of it that they needed."
+    },
+    {
+      "start": 199.6,
+      "end": 204.08,
+      "text": "And instead of closing it and saying, you know what, I'm good here, I'm going to go pick"
+    },
+    {
+      "start": 204.08,
+      "end": 206.04,
+      "text": "up a new book."
+    },
+    {
+      "start": 206.04,
+      "end": 211.8,
+      "text": "They say, no, I'm going to finish it because this is a standard I'd hold myself too."
+    },
+    {
+      "start": 211.8,
+      "end": 213.8,
+      "text": "And then they just stop reading."
+    },
+    {
+      "start": 213.8,
+      "end": 217.88,
+      "text": "And then they go three months and they haven't picked the book up and now they no longer"
+    },
+    {
+      "start": 217.88,
+      "end": 219.84,
+      "text": "even read."
+    },
+    {
+      "start": 219.84,
+      "end": 226.16,
+      "text": "So the same framework that I play to reading books, I would say probably about half, maybe"
+    },
+    {
+      "start": 226.16,
+      "end": 232.6,
+      "text": "even more than half of the books I read, I close before getting halfway through it."
+    },
+    {
+      "start": 232.6,
+      "end": 234.8,
+      "text": "Some books I close after five pages."
+    },
+    {
+      "start": 234.8,
+      "end": 235.8,
+      "text": "Others I get halfway through."
+    },
+    {
+      "start": 235.8,
+      "end": 241.56,
+      "text": "I love the book and I say, you know, I think I've gotten everything that I need from this."
+    },
+    {
+      "start": 241.56,
+      "end": 244.56,
+      "text": "That same framework I apply to building apps."
+    },
+    {
+      "start": 244.56,
+      "end": 249.4,
+      "text": "And so just because you get here and you make your decision and you say, this is the idea"
+    },
+    {
+      "start": 249.4,
+      "end": 250.92000000000002,
+      "text": "I want to work on."
+    },
+    {
+      "start": 250.92000000000002,
+      "end": 253.52,
+      "text": "This is the problem that I want to tackle."
+    },
+    {
+      "start": 253.52,
+      "end": 259.52,
+      "text": "Does not mean that you have to make it all the way through modules two, three and four."
+    },
+    {
+      "start": 259.52,
+      "end": 268.88,
+      "text": "There's absolutely nothing wrong with starting and quitting at some point thereafter."
+    },
+    {
+      "start": 268.88,
+      "end": 276.52,
+      "text": "To me, I think the only real quitting is to quit your pursuit of entrepreneurship as a"
+    },
+    {
+      "start": 276.52,
+      "end": 282.88,
+      "text": "whole within the context of here building apps."
+    },
+    {
+      "start": 282.88,
+      "end": 289.84,
+      "text": "But even that, it's like, man, I did social media marketing for a little while."
+    },
+    {
+      "start": 289.84,
+      "end": 295.2,
+      "text": "I quit that to then do crypto, I built an Ethereum, I machine in 2016."
+    },
+    {
+      "start": 295.2,
+      "end": 300.59999999999997,
+      "text": "I quit that to then I think I was actually prioritizing my landscaping business."
+    },
+    {
+      "start": 300.59999999999997,
+      "end": 301.59999999999997,
+      "text": "Right."
+    },
+    {
+      "start": 301.6,
+      "end": 304.44,
+      "text": "I quit in so many different domains."
+    },
+    {
+      "start": 304.44,
+      "end": 309.28000000000003,
+      "text": "But the key thing is that as a whole, I don't quit working."
+    },
+    {
+      "start": 309.28000000000003,
+      "end": 310.8,
+      "text": "Okay."
+    },
+    {
+      "start": 310.8,
+      "end": 312.52000000000004,
+      "text": "Enough of that aside."
+    },
+    {
+      "start": 312.52000000000004,
+      "end": 317.44,
+      "text": "In short, you know, just know that just because you make the decision to work on an idea"
+    },
+    {
+      "start": 317.44,
+      "end": 323.48,
+      "text": "doesn't mean that you can't go back to step one or step two and even one week later,"
+    },
+    {
+      "start": 323.48,
+      "end": 328.08000000000004,
+      "text": "one month later, whatever it may be."
+    },
+    {
+      "start": 328.08,
+      "end": 335.44,
+      "text": "Now in the process of making this decision, I think some key questions to ask ourselves"
+    },
+    {
+      "start": 335.44,
+      "end": 337.96,
+      "text": "that we touched on earlier."
+    },
+    {
+      "start": 337.96,
+      "end": 344.84,
+      "text": "But I think it's worth revisiting our, what does the timeline look like?"
+    },
+    {
+      "start": 344.84,
+      "end": 347.71999999999997,
+      "text": "Different products are going to have different life cycles."
+    },
+    {
+      "start": 347.71999999999997,
+      "end": 350.64,
+      "text": "Certain products are going to be more design heavy."
+    },
+    {
+      "start": 350.64,
+      "end": 355.24,
+      "text": "Other products are going to be more development heavy."
+    },
+    {
+      "start": 355.24,
+      "end": 358.40000000000003,
+      "text": "Other products are going to be more distribution heavy."
+    },
+    {
+      "start": 358.40000000000003,
+      "end": 363.6,
+      "text": "And you know, when you're new to a domain, you won't have deep knowledge in that you won't"
+    },
+    {
+      "start": 363.6,
+      "end": 366.16,
+      "text": "be able to very accurately predict."
+    },
+    {
+      "start": 366.16,
+      "end": 372.72,
+      "text": "But it's worth making intuitive assessments as well as using chat GPT to help you predict."
+    },
+    {
+      "start": 372.72,
+      "end": 376.72,
+      "text": "Chat GPT can serve as somewhat of your expert tutor."
+    },
+    {
+      "start": 376.72,
+      "end": 380.92,
+      "text": "And if you are part of the AppMafia community, you'll be able to get guidance from other"
+    },
+    {
+      "start": 380.92,
+      "end": 384.04,
+      "text": "app founders."
+    },
+    {
+      "start": 384.04,
+      "end": 386.56,
+      "text": "Next is, can I build this myself?"
+    },
+    {
+      "start": 386.56,
+      "end": 389.76000000000005,
+      "text": "How hard will it be to attract somebody that can?"
+    },
+    {
+      "start": 389.76000000000005,
+      "end": 394.8,
+      "text": "So do you have the design development and then distribution experience?"
+    },
+    {
+      "start": 394.8,
+      "end": 399.68,
+      "text": "And if you don't, will you be able to get somebody that can fill that gap?"
+    },
+    {
+      "start": 399.68,
+      "end": 405.96000000000004,
+      "text": "So beyond just analyzing how hard it will be from a development perspective, for example,"
+    },
+    {
+      "start": 405.96000000000004,
+      "end": 411.52000000000004,
+      "text": "before you end up finalizing this decision, it's worth asking yourself whether or not"
+    },
+    {
+      "start": 411.52000000000004,
+      "end": 413.6,
+      "text": "you'll be able to find that person."
+    },
+    {
+      "start": 413.6,
+      "end": 419.76000000000005,
+      "text": "Now personally, I would actually recommend moving into the design process regardless."
+    },
+    {
+      "start": 419.76000000000005,
+      "end": 426.0,
+      "text": "In terms of this question, the reason that I say that is, anytime you are going to try"
+    },
+    {
+      "start": 426.0,
+      "end": 430.96000000000004,
+      "text": "to recruit somebody to work on your idea, the more progress that you have, the easier"
+    },
+    {
+      "start": 430.96000000000004,
+      "end": 431.96000000000004,
+      "text": "it will be."
+    },
+    {
+      "start": 431.96000000000004,
+      "end": 437.72,
+      "text": "And so if you have conviction, then I personally would recommend spending even just a few"
+    },
+    {
+      "start": 437.72,
+      "end": 442.32000000000005,
+      "text": "hours on design and getting somewhat of a mockup."
+    },
+    {
+      "start": 442.32,
+      "end": 445.2,
+      "text": "And then sharing that with potential developers."
+    },
+    {
+      "start": 445.2,
+      "end": 449.32,
+      "text": "I hate when people come to me with an idea and they don't have Figma."
+    },
+    {
+      "start": 449.32,
+      "end": 454.92,
+      "text": "I say to people explicitly, if they send me an idea that they have, I'd say it's a friend,"
+    },
+    {
+      "start": 454.92,
+      "end": 456.4,
+      "text": "colleague, whenever."
+    },
+    {
+      "start": 456.4,
+      "end": 459.03999999999996,
+      "text": "I'll say, hey man, thanks for reaching out."
+    },
+    {
+      "start": 459.03999999999996,
+      "end": 460.92,
+      "text": "Let me know when you have some Figma designs."
+    },
+    {
+      "start": 460.92,
+      "end": 465.48,
+      "text": "I'm a more visual person, right?"
+    },
+    {
+      "start": 465.48,
+      "end": 468.4,
+      "text": "How much cash will I need to get this off the ground, right?"
+    },
+    {
+      "start": 468.4,
+      "end": 476.64,
+      "text": "So these are, once again, very similar to the questions and nature of resources versus"
+    },
+    {
+      "start": 476.64,
+      "end": 480.35999999999996,
+      "text": "constraints that we went over an idea versus execution."
+    },
+    {
+      "start": 480.35999999999996,
+      "end": 486.35999999999996,
+      "text": "But you need to ask yourself and reassess them when you get to this step of the process."
+    },
+    {
+      "start": 486.35999999999996,
+      "end": 490.35999999999996,
+      "text": "Because if we remember when we were going over idea versus execution, this is looking at"
+    },
+    {
+      "start": 490.35999999999996,
+      "end": 493.96,
+      "text": "it from a macro perspective, right?"
+    },
+    {
+      "start": 493.96,
+      "end": 497.59999999999997,
+      "text": "What are the resources and constraints that I have that will inform how I even come up"
+    },
+    {
+      "start": 497.6,
+      "end": 499.0,
+      "text": "with ideas?"
+    },
+    {
+      "start": 499.0,
+      "end": 504.40000000000003,
+      "text": "And now that you have this idea or these couple of ideas that you're considering moving forward"
+    },
+    {
+      "start": 504.40000000000003,
+      "end": 513.0,
+      "text": "with, you want to go back and apply the same frame-wersing questions."
+    },
+    {
+      "start": 513.0,
+      "end": 518.0,
+      "text": "This is of paramount importance to me."
+    },
+    {
+      "start": 518.0,
+      "end": 519.0,
+      "text": "Set it before."
+    },
+    {
+      "start": 519.0,
+      "end": 521.5600000000001,
+      "text": "I'll say it again and again and again and again."
+    },
+    {
+      "start": 522.56,
+      "end": 527.7199999999999,
+      "text": "If I'm not deeply interested in a topic, I will not build around it."
+    },
+    {
+      "start": 527.7199999999999,
+      "end": 529.4799999999999,
+      "text": "This was not always true."
+    },
+    {
+      "start": 529.4799999999999,
+      "end": 534.8,
+      "text": "I did give a hand at projects where I thought that there was significant opportunity, specifically"
+    },
+    {
+      "start": 534.8,
+      "end": 538.92,
+      "text": "economic opportunity."
+    },
+    {
+      "start": 538.92,
+      "end": 547.64,
+      "text": "And every single time I burnt out, every single time I burnt out, the two things that I really"
+    },
+    {
+      "start": 547.64,
+      "end": 550.52,
+      "text": "look at is I say, okay."
+    },
+    {
+      "start": 550.52,
+      "end": 555.64,
+      "text": "Am I interested in this topic and the problem that I'm solving?"
+    },
+    {
+      "start": 555.64,
+      "end": 556.96,
+      "text": "That's one."
+    },
+    {
+      "start": 556.96,
+      "end": 562.24,
+      "text": "And then I say, am I interested in engaging in the operations and the day-to-day that it"
+    },
+    {
+      "start": 562.24,
+      "end": 565.3199999999999,
+      "text": "will take to achieve that?"
+    },
+    {
+      "start": 565.3199999999999,
+      "end": 570.72,
+      "text": "And if the answer to either of those is no, I completely avoid it."
+    },
+    {
+      "start": 570.72,
+      "end": 575.52,
+      "text": "To be honest, I think that the topic and the problem itself are more important actually"
+    },
+    {
+      "start": 575.52,
+      "end": 581.12,
+      "text": "than the day-to-day."
+    },
+    {
+      "start": 581.12,
+      "end": 589.3199999999999,
+      "text": "If, man, there's a good quote here, but something along the lines of like, if you have a why,"
+    },
+    {
+      "start": 589.3199999999999,
+      "end": 592.36,
+      "text": "you can find almost any will."
+    },
+    {
+      "start": 592.36,
+      "end": 599.96,
+      "text": "I probably butchered that, but essentially, if you care enough about the end result, and"
+    },
+    {
+      "start": 599.96,
+      "end": 604.6,
+      "text": "not just like what you get, not just like the money, but that can be the major motivator"
+    },
+    {
+      "start": 604.6,
+      "end": 611.08,
+      "text": "for many, but personally, it's like, do I care about bringing this into the world?"
+    },
+    {
+      "start": 611.08,
+      "end": 618.48,
+      "text": "And if, oh, oh, oh, he who has a why can bear almost any how, that's the quote."
+    },
+    {
+      "start": 618.48,
+      "end": 622.8000000000001,
+      "text": "And so yeah, if I have a why, I can bear almost any how, and that I can do this shitty"
+    },
+    {
+      "start": 622.8000000000001,
+      "end": 628.6800000000001,
+      "text": "little day-to-day ops that are boring, in repetitive, and monotonous, because I know what life"
+    },
+    {
+      "start": 628.6800000000001,
+      "end": 630.9200000000001,
+      "text": "looks like at the end of the tunnel."
+    },
+    {
+      "start": 630.9200000000001,
+      "end": 633.6,
+      "text": "I'll give an example here."
+    },
+    {
+      "start": 633.6,
+      "end": 641.52,
+      "text": "In the early days of RIS GPT, we were going very viral, very, very, very viral, and we"
+    },
+    {
+      "start": 641.52,
+      "end": 643.32,
+      "text": "were just launching Android."
+    },
+    {
+      "start": 643.32,
+      "end": 645.52,
+      "text": "The internet had been begging."
+    },
+    {
+      "start": 645.52,
+      "end": 649.32,
+      "text": "TikTok had been absolutely begging for this product to get on Android."
+    },
+    {
+      "start": 649.32,
+      "end": 653.88,
+      "text": "And so the day that we launched on Android, we're not charting because we have no sort"
+    },
+    {
+      "start": 653.88,
+      "end": 656.84,
+      "text": "of app store optimization."
+    },
+    {
+      "start": 656.84,
+      "end": 660.9200000000001,
+      "text": "And in order to achieve that, what you need is people searching up your app and then organically"
+    },
+    {
+      "start": 660.9200000000001,
+      "end": 663.12,
+      "text": "downloading it."
+    },
+    {
+      "start": 663.12,
+      "end": 669.48,
+      "text": "And at this time, I was just so focused on making the most because I didn't know anything"
+    },
+    {
+      "start": 669.48,
+      "end": 671.72,
+      "text": "about this space when we first launched this product."
+    },
+    {
+      "start": 671.72,
+      "end": 675.96,
+      "text": "This is all kind of came out of nowhere."
+    },
+    {
+      "start": 675.96,
+      "end": 678.0,
+      "text": "We're at $80,000 in MRR."
+    },
+    {
+      "start": 678.0,
+      "end": 680.12,
+      "text": "My life just completely changed."
+    },
+    {
+      "start": 680.12,
+      "end": 683.4,
+      "text": "And I was so focused on freedom."
+    },
+    {
+      "start": 683.4,
+      "end": 685.52,
+      "text": "Freedom was my why."
+    },
+    {
+      "start": 685.52,
+      "end": 691.08,
+      "text": "Freedom was the light at the end of the tunnel that if we executed and we got this shit"
+    },
+    {
+      "start": 691.08,
+      "end": 697.64,
+      "text": "done and we built something out of nothing that then I would be able to spend the rest"
+    },
+    {
+      "start": 697.64,
+      "end": 704.0400000000001,
+      "text": "of my life doing what I wanted with an entrepreneurship and what I wanted with my life rather than"
+    },
+    {
+      "start": 704.0400000000001,
+      "end": 711.12,
+      "text": "answering to some fucking bullshit retarded 9-5 balls."
+    },
+    {
+      "start": 711.12,
+      "end": 713.44,
+      "text": "So we're launching on Android."
+    },
+    {
+      "start": 713.44,
+      "end": 717.36,
+      "text": "And I'm like, man, we need to be ranking in the app store."
+    },
+    {
+      "start": 717.36,
+      "end": 720.8000000000001,
+      "text": "So on the Google Play Store."
+    },
+    {
+      "start": 720.8,
+      "end": 726.88,
+      "text": "And I went through all of our most viral videos and I responded to thousands and thousands"
+    },
+    {
+      "start": 726.88,
+      "end": 729.04,
+      "text": "of comments in a day."
+    },
+    {
+      "start": 729.04,
+      "end": 736.52,
+      "text": "I swear to God, I was sitting there all fucking day for 16 hours just going through TikTok"
+    },
+    {
+      "start": 736.52,
+      "end": 739.16,
+      "text": "saying, search up, blah, blah, blah on the app store."
+    },
+    {
+      "start": 739.16,
+      "end": 740.8,
+      "text": "Search up, blah, blah on the app store."
+    },
+    {
+      "start": 740.8,
+      "end": 745.88,
+      "text": "Now, could I have outsourced this to a VA, whatever, like, yeah, theoretically I could"
+    },
+    {
+      "start": 746.6,
+      "end": 750.88,
+      "text": "but time was a paramount importance."
+    },
+    {
+      "start": 750.88,
+      "end": 753.08,
+      "text": "Our competitor had just gotten on Android 2."
+    },
+    {
+      "start": 753.08,
+      "end": 759.68,
+      "text": "We needed to beat them in the rankings and we didn't have a VA ready to go."
+    },
+    {
+      "start": 759.68,
+      "end": 764.52,
+      "text": "And so like, yeah, no one wants to sit there and respond to the same comment for 12 hours"
+    },
+    {
+      "start": 764.52,
+      "end": 765.52,
+      "text": "straight, right?"
+    },
+    {
+      "start": 765.52,
+      "end": 767.04,
+      "text": "Like that sucks."
+    },
+    {
+      "start": 767.04,
+      "end": 770.52,
+      "text": "Nobody wants to do that."
+    },
+    {
+      "start": 770.52,
+      "end": 777.52,
+      "text": "But what I wanted more than anything else in the world was to ensure my long term freedom"
+    },
+    {
+      "start": 777.52,
+      "end": 784.76,
+      "text": "and setting up the and beating out our competitor in the rankings would put us in a position"
+    },
+    {
+      "start": 784.76,
+      "end": 791.4,
+      "text": "where our growth would be more long term sustainable and I would have more runway and ability"
+    },
+    {
+      "start": 791.4,
+      "end": 795.36,
+      "text": "to ensure that I never had to get a job."
+    },
+    {
+      "start": 795.36,
+      "end": 798.4,
+      "text": "Now in retrospect, Android is actually not that important."
+    },
+    {
+      "start": 798.4,
+      "end": 803.72,
+      "text": "It's like 10 to 15% of revenue across my different apps and I actually don't think that"
+    },
+    {
+      "start": 803.72,
+      "end": 806.92,
+      "text": "what I did there was entirely necessary."
+    },
+    {
+      "start": 806.92,
+      "end": 812.24,
+      "text": "But given the data I had in the moment, that was what it took."
+    },
+    {
+      "start": 812.24,
+      "end": 818.48,
+      "text": "And so, yeah, I think it's important to dig deep."
+    },
+    {
+      "start": 818.48,
+      "end": 822.64,
+      "text": "It's another reason that I'm a big believer in the fact that like how you do one thing"
+    },
+    {
+      "start": 822.64,
+      "end": 828.36,
+      "text": "is how you do everything and the sort of willpower and determination that I've cultivated"
+    },
+    {
+      "start": 828.84,
+      "end": 835.5600000000001,
+      "text": "within myself over years of weightlifting and reading books and studying in general right"
+    },
+    {
+      "start": 835.5600000000001,
+      "end": 841.12,
+      "text": "statistics, calculus, psychology, whatever it may be, working on so many different failed"
+    },
+    {
+      "start": 841.12,
+      "end": 849.6,
+      "text": "business ventures that then when the rubber really hit the road and I finally had a working"
+    },
+    {
+      "start": 849.6,
+      "end": 856.9200000000001,
+      "text": "viable business model, I was the person that was able to take it all the way."
+    },
+    {
+      "start": 856.9200000000001,
+      "end": 866.28,
+      "text": "And if you constantly chase these sort of bullshit, extrinsic motivators rather than having"
+    },
+    {
+      "start": 866.28,
+      "end": 873.52,
+      "text": "that why within you, you're going to burn out."
+    },
+    {
+      "start": 873.52,
+      "end": 880.88,
+      "text": "And so I guess that's my motivational speech to end off this unit on ideation or this module"
+    },
+    {
+      "start": 880.88,
+      "end": 882.48,
+      "text": "on ideation."
+    },
+    {
+      "start": 882.48,
+      "end": 889.36,
+      "text": "And the next module will go over design and taking the idea that you have and building"
+    },
+    {
+      "start": 889.36,
+      "end": 895.8,
+      "text": "it into an actual product in Figma."
+    },
+    {
+      "start": 895.8,
+      "end": 906.4,
+      "text": "So that's that and I will, yeah, nope, that's it."
+    },
+    {
+      "start": 906.4,
+      "end": 907.8399999999999,
+      "text": "That's that piece out guys."
+    },
+    {
+      "start": 907.8399999999999,
+      "end": 908.4399999999999,
+      "text": "Hope you enjoyed."
+    }
+  ]
+}

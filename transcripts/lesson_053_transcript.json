@@ -1,0 +1,3972 @@
+{
+  "file_name": "053_Lesson_53.faudio-hi-0-Default.mp4",
+  "text": " Okay, ladies and gentlemen, I'm going to, I almost did the fucking hammer thing, but I didn't, I stopped myself. I am going to show you guys how to set up your campaign structure. And we're gonna do this in Facebook. We're gonna set up a campaign. It is, so it's actually meta ads, not Facebook. So we'll run on both Facebook and Instagram when I'm about to teach you. And although I am just teaching you how to set up on meta, the setup is very, very similar for all platforms. So this will be applicable to TikTok, Google ads, everything else. It's slightly different, but this is, first of all, what my main expertise is, is meta ads. And also it's what I recommend starting with. So that's why I'm showing it. But everything I show here, it's pretty transferable. So let's jump into the platform. You're going to want to go to business.facebook.com. Actually, go to adsmanager.facebook.com and it will redirect you here. I don't, maybe business.facebook.com also goes here, but I know that link works. And you're gonna want to log in. So I'm gonna log into my account. I'm paused my record. I don't know. Oh, they can't, okay. You guys can't see my password nice. I thought for a second you were able to see it. Beautiful. Okay. Just log in, got some two factor authentication. You guys should be creating an account instead of logging into one unless you already have one. Okay. Trust this device. Boom. We are in. So when you get in, you will maybe see one thing like this. I mean, delete this. I could kind of show what you guys will see. Well, do I know how to delete it? Nice. Cool. So you'll see something like this. No results found. You have not created any ads yet. This is the campaign section of the Facebook ad manager. And there may be an odd. I don't think there's an onboarding, but if there isn't onboarding, there are all kinds of tutorials on getting set up on Facebook ads and getting to this step. But it should be straightforward as follow the instructions. Make sure you're with me here in the campaign step. So what we're going to want to do is create a new campaign. And I'm actually going to switch into the Cali icon because. Because up here are all of our ads. You could see we spent $374,000 in the last 30 days on meta ads. I don't know what we spent in the last week. What did we spend yesterday? Yesterday 9K, last 7 days 72K. I want to see last month. Last month 390. This month 2 to 6 months isn't over yet. Okay. Cool. But yeah, we've been scaling paid ads pretty heavily the last few months. We were never really taking it seriously until recently. But let's jump into this. Okay. Let's go to today. Let's go to. Going to hide everything. Okay. So you'll see like a blank thing. You won't see anything. And we're going to want to create a new campaign. This campaign is the campaign we will run our ads through. It is. It's your first campaign. This is where you are running paid ads to. You're going to be generating sales there here. The campaign objective. So this goes to one of the other things we were discussing before. How you go to awareness or just showing people stuff traffic. It's setting people to website. There's engagement where it's getting people to like the video leads, which I've been used. But I believe that's more for more for in person businesses. App promotion. That is what we want to do. Get people to install your app. We get app installs and app events tracked and then sales. And this is for e-commerce source. So we'll do app promotion. We'll continue going through. You should name it. Like whatever you want really like there is a bunch of structure that you could really go deep into in the details of naming conventions to make sure you're super organized for this. Since it's just your first campaign, it doesn't matter. Again, what I'm teaching you guys is how to get it off the ground so that someone can eventually take it off your hands or you could build upon the knowledge yourself. So here I wouldn't stress about it, but name it something. Name it something good like. I would name it like Cali. I campaign one. Shit. Campaign one. But do whatever you want. Yeah. I'm going to call it test for this case. You know what tutorial. Campaign. All right. I'm really overcomking them. So we're going to go through campaign details, buying type auction. Nice. We do want to keep it like that. Campaign objective app promotion. That's good. See show more settings. A spending limit. None. None right now. We don't want to set a spending limit. So campaign budget. We want to switch this. There are two concepts here. It's CBO and ABO. CBO is campaign budget optimization. ABO is ad set budget optimization. And the difference is if you choose campaign budget optimization, you'll see first we're creating this campaign. And then within the campaign we create ad sets. And within ad sets you'll have the unique ads, the unique videos. That's how it is structured. So you can see if you're campaign ad sets ads. And if you choose campaign budget optimization, you set the budget at the campaign level. And then algorithm will determine how much to spend in each ad set, based on what it thinks will perform the best. But because we are just getting started, we want to have two ad sets. A testers ad set. And a winners ad set. And I'll get more into why we're going to add them, how they're going to work together. But essentially the tester's ad set is going to be spending less money every day. It's going to be where we just throw in creatives that we think will work, will convert. And the winning ad set will be all of the ads that perform well in the testing ad set. We'll move them from testing to winners. So let's go to ad set budget. iOS 14 plus campaign. We need to put that on this is due to apples privacy rules. If we have this off, we will not deliver ads to people with iOS 14 plus. And how many people, how many iPhone users are on iPhone iOS 14 plus? Okay, more than 72%. I think it's actually a lot more than this. Let's see. Yeah. So it's like at this point, there's like maybe 0.5%, maybe 1% of people max using iOS 14 plus. So you can see 96% of people already switched iOS 15 from 14. And that number is just going to keep going up. So very few people you'll be targeting very, very few people. And so even though you'll be able to get more in-depth attribution tracking, you will not be targeting people new phones. And if you're not targeting people new phones, iOS 14 was on phones like five years ago or something. If you're targeting people with phones from five years ago, you will bet. You better bet that they're not going to buy your product. They do not have money to spend. So you will need to select the app that you want people to use and install. This is something you'll have to set up. Let's see. If I can't find my app, so you will need to set up your app on Meta for developers. Whoops. So let's go through this. I'm not going to do all of this again. It's looking very annoying, but I'll show you. Set up your app on Meta for developers. That was my speech-ify plugin. Know the founder of this cliff? Really, really cool. Set up your app on Meta for developers. Whoops. Okay. Get started with app events on iOS. So just follow this guide, developers at facebook.com slash docs, slash app, whatever you see here. Just go copy that and go through the tutorial to basically set up your app. And you will also want to... You'll need to do a little bit of coding within your app to completely set it up. But it's nothing crazy. It shows you step by step how to do everything. Cool. So either do it yourself or send it to your developer or whatever you're using. And for the sake of this tutorial, we're only showing iOS ads and Android is a whole new story. So, okay. Make sure you set up your app. After you set up your app, it should show here. So here we go. Kalei. Boom. Click on it. Hopefully it's not sensitive showing my app ID. I don't imagine it would be, but... Okay. We go through. And now we hit next. No, they're settings. We want to change. Now we are in the ad set level. And like I explained before, we want a testers ad set. And a winner's ad set. So for the testers, I recommend you start minimum $20 a day. And for the winners ad set, I suggest a minimum of 100. But actually the winners, it's a little more nuanced. So we're going to get to that later. But for the testers, $20 a day, something important for you to understand is this idea of a learning phase. When you first create an ad on Facebook ads, when you first have an ad running, you just go through this learning phase where until it gets 50 events, 50 conversions, 50, whatever you're optimizing for, it will basically still be in this learning phase. And technically the algorithm hasn't found it's like core target, core demographic yet. And on $20 a day, we're going to assume, so first of all, we're going to get to this in a second. And I don't actually, this will make more sense. So I'm going to put a fucking pin in here. Let's just go through. So $20 a day. And our, which we didn't actually put yet, but performance goal maximized the number of app installs. So that's what it is by default. We want to maximize for the number of app events. This is something that you're going to have to set up with your MMP, which should be in the development section of the course. So there are plenty of tutorials, apps, flyer, and adjust are the two biggest ones. And the event we want to use is the, it's going to either be purchase, subscribe, or for our sake, for Cali, we do start trial. And the reason we do start trial and not purchase or not conversion is because you want as much data, you want to try to keep all data that's sent back a 24 hour window. If it's within a 24 hour window, you will have the least data drop off. This is another thing with Apple's privacy thing, where it's pretty fucking annoying. If you have a three day trial, and you wait three days to send back, okay, this person did subscribe, a lot of that data actually can be lost. So you want to try to get everything back as soon as possible within 24 hours. And this has to do with attribution windows. There's one day click and seven day click. If you do seven day click, then technically you can still get data three days later. If you do one day click, you cannot. And I believe that's somewhere down here that we're going to set. But just do make sure it's set to an event that happens within 24 hours. This is partially for getting data back clean with Apple's privacy things, not blocking us. But then secondly, it's so that the algorithm can learn faster. If it has to wait three days to get results of, is this a good, is this someone who will purchase or not? Then your learning will be very, very slow. It will take a long time to figure out who likes your product. So that's what I recommend. Is either store trial or if you don't have a free trial, then just purchase is also okay. And if you're a premium app, then it's more difficult. That is something where you may want to optimize for some kind of product. Or some kind of core event that happens in the first 24 hours. That causes, or that has a heavy correlation with the user being very likely to end up paying. That's more complex though. I recommend for all of your apps, you basically hard paywall, which means put the paywall right away up front. That at least works the best for paid ads influence marketing. Because you'll have direct attribution, you'll know right away. Okay, like was this video profitable? Was it not? If you have premium, it gets a lot more convoluted because then cohorts will convert over longer time horizons and you have slower learnings. So we're optimizing for the store trial. And now going back to this. So there's this idea of a cost per result. It's the cost per whatever event you set. Our cost per result. It's the cost of the start trial event. And for new apps, it's probably going to be pretty high. Your app is probably not going to be super optimized. And therefore, you could assume your cost per result. It's going to be in the tens of, it very much so depends. Very determinant on your price, your onboarding flow, how much people want it, how much competition you have, the price of your competitors, all of that. And something with paid ads, actually specifically, as people who is recommend doing a really high price, like $100 a year subscriptions. And a lot of people believe if you don't price higher than like $70 a year, you just can't scale paid ads. With Cal AI, we found that's not true. We sell $30 a year subscriptions, and we are very profitable with paid ads. But that is something a lot of people say. And that's just because some industries are so saturated that your customer acquisition cost or your cost per result, actually in this case, will be so much higher than your price. And so you have to increase your price in order for it to be profitable. And generally, as you increase your price, the cost per result will increase as well. If you lower it, it will generally lower as well. Then it's like, this is weird curve, it will plateau at some point or whatever. Okay. So the $20 per day, assuming that your cost per result is like $10. And that's the cost per result of a Cal AI trial start about, that's what we optimize for us. So yours is probably actually going to be worse than that. I imagine because your app isn't going to be optimized right away. Again, it does depend on so many things like your price. But you want to make sure that you're spending enough in the test ad set, where you will, you don't necessarily need to get out of the learning phase right away, because you could still see generally what, how ads are performing without being out of learning phase, for starting out, for like the first few tests you run. So I'd suggest starting low, maybe like $20 a day on your test ad set. And then through that, you'll be able to see, okay, which ads have the lowest cost per result. And then after you see kind of what your cost per result ends up being the lowest cost per result possible, because like let's say your cost per result really is $10. That will take, you need 50 conversions to get out of it. You're getting two conversions a day, if you're only spending $20 a day. So it's going to take 25 days. It's three and a half weeks. And we're not waiting three and a half weeks to know if a test is, if an ad is profitable. So we're going to run a few ads on this low, on this limited budget, see which ones do well, double down on those creatives. So we're going to talk about creatives in the next module. But essentially you're going to want to just test all kinds of different angles, see what does go double down. Once you've found the angles that you think works the best, and you see what your cost per result, kind of the lowest cost per result possible is, then it's, then you have to raise your budgets, so that you're getting at least 50 conversions a week. Otherwise, you're not going to be able to move fast enough. So that's why paid ads is difficult to start. It's also expensive to start. It may not be the best thing for everyone, if you're on a very tight budget. But you might need to be spending $100 a day on your tester's ad set, just to see if stuff is profitable. Just to test. And that's not even, like the goal of the tester's ad set isn't even trying to be profitable. We're going to get more into this. So let's keep going through. Cost per result goal. This is something where you can basically tell the algorithm, I'm trying to keep my cost per result goal around this number. And it's not something I recommend starting with. If your cost per result goal is extremely high, you could play around trying things out here. Some people swear against this, because they think, okay, if you put your cost per result goal here, meta will try to keep it profitable, but decrease the margin, so you're not making it profitable. But decrease the margin, so you're not making it as much profit, but it's still getting you that goal. These are like some theories and loopholes about how the algorithm works. We are using it on some campaigns for CaliI, and it's been working kind of well for us. It's interesting, like the slightest change. You change it half a dollar in your cost per result goal, and it will drop or increase the cost per result, like the spending to actually, this is cost per result goal. This is not cost cap. So that's actually different when I was saying for CaliI. We do something called cost caps, where we literally don't let it spend more than a certain amount to acquire a customer. So, okay, cost per result goal. You don't put anything. This is what I was saying about the attribution settings. You could have seven a click or one day click. Generally, one day click is better for faster learnings. I would actually suggest starting on one day click, because then the algorithm will learn fast. If you're only sending data back in the 24 hour window, if you do have a three day trial, and you're going to optimize on a conversion at the end of the three day trial, which for some apps, like I said in the beginning, nothing is what you have to do. These are all just generally what works the best for my experience. So you could try that. I definitely encourage experimentation. One day click, I was just starting with. Because that's how you can get the fastest learnings. The algorithm will learn the fastest to find your core users. So daily budget is the tester. So, yo, $20 a day. Start day and date none. Blah blah blah. No saved audience or anything. Okay. Locations, inclusion. So right now, I guess we have a default to the US is what we do for Kali. That may be best honestly. For, yeah, that's, I would recommend doing that. Because what you'll eventually do is you'll have a bunch of different campaigns for different countries. The US always says the most money to spend. So I would suggest starting with just the US. Sometimes people like the bundle in Canada, because Canada consumers are similar to United States. So you could try both, but start with the US minimum age 18. This is something that's kind of important to do. Well, I guess it's the lowest you can do. But yeah, okay. Yeah, just keep it 18. It doesn't really matter. It's just like people that are under 18 have less money to spend. So, so low conversion rates, whatever. If you have a free trial, often times you may get a lot of people starting a trial that are young, but they won't actually convert from trial to paying if they're too young. Okay, we keep on going through. Keep on going through placements, blah blah. Okay. Boom, see apples, fucking privacy rules getting in the way of things. But all right, we're going to click next. And now we created our test add set. So now this is where we can upload our first ad. So test add one. Test add one. So in here, we're not actually going to upload it yet. This is this does you got to upload now that so I'll walk you through really quick. Now, actually, we will, we're going to publish this as is. I'm actually going to delete that test add. We probably could have just not launched with that. Okay, it's publishing the changes. Boom. So tutorial campaign we go in, we see the ad set. This should be the tester's ad set. If it loads, we shall see if it loads. Sometimes these platforms suck. Maybe my life is just so. Okay, testers add set. So budget $20 a day, you can change it here. And we're going to go inside. This is our first ad. So we do not want this ad actually. Let me edit this and delete it. Boom. Okay. Well, we do actually want to start creating ads. So you can see the testers campaign. You will want to create some ads. So name this ad. You could have done it back then. But okay, testers one. This is where you'll actually drop your ads. And I just just dropping. Like a few at a time that are different angles at least in the beginning. Maybe like try to record five to ten completely different angles. Just throw them all in the test add set. And the algorithm will figure out what is spending the best. And we're going to get into creatives in the next segment. But okay. So you don't need to do much manual upload single image or video. Something interesting you could do is custom product page, which we're going to get into later that can help you override Apple's privacy bullshit. Okay, I've actually p really badly. So yeah, after this, I'm going to take a break. So add creative boom. So add creative video ad. And then here you can upload it. I guess we have a bunch here. So yeah, you could click upload and send what I'm just going to put one in that we already have. You could edit it if you need to. It will show you what it will kind of look like. You'll want to write a primary text. And this is something you're going to need to experiment with. I recommend doing like a main call to action. It's actually see what we do on the main Calais once as a reference. So on the main Calais ads, we will write. Let's see. We write AI can now count your calories just from a photo. Calais turns the camera into a smart tracker giving you instant nutritional breakdowns. You can hit your goals without wasting time when manual logging. And the headline AI counts your food for you. So you could see what it looks like here. AI counts your food for you. AI can now count your calories. It looks like an organic post almost. This is what it looks like on Facebook. And then this is what it looks like on Instagram. So you could put whatever you want here. But yeah, the headline should be like short and sweet. The primary text is more of like a description of what your app is. And to be honest, this doesn't matter too much. Just try to sound really authentic with the brand messaging. Try not to sound like an ad. If you sound too much like an ad, you're not going to fucking convert. And that's the biggest thing at the end of the day. Everything to do with distribution and advertisement is a game of just coming off as authentic. If you write like, if you do the typical salesman stuff, and it's like, do you want to get in shape for the summer? Well, you need a Cal AI. And it's 20% off for the next few weeks. Buy it today. It's like no one's going to convert. Yes, a small amount will, but that sounds way worse. I'm being like, yo bro, it's time for that summer cut. Let's get on it at Cal AI. Something like that. It sounds way more authentic. And that's what people like to see at the end of the day in this world of internet marketing. People do not trust brands. You don't. It's the truth. So you have to sound like your cool guy. Sounds just like a cool dude. So write your primary text, write your headline, do whatever you want there. I showed you what we have. And then the call to action. Usually we do download download install. Now I don't think this matters. This is all stuff you can test and play around with. We actually didn't do much testing on this early on. We just wrote something and it's just stuck. So ask Judge VT to get some help. Short and sweet sound authentic. Okay, enhancements. I'm going to really look at this stuff. I just sit down. And there we go. Sad fucking music. But we could just keep adding new ads. Create ad. You just keep adding new ones. Duplicate whatever. And once you're done with all of that, you'll want to hit publish. I'm going to hit publish. It will put it here. Your campaign will need to be reviewed. It will say no ads for like 24 hours or something. While it's in review. Is it your ads have to process? Then it will go to like interview and whatever. You'll see all that happening. And then once all of it's done, it will finally start spending. And because the ad set is $20 a day, all of the ads in here. Essentially the algorithm will. It won't spend them. And necessarily it will usually pick out the best one and put like 90% of the budget into the best one. And the strategy essentially looks like what you'll want to do is just see whichever ad is getting the most money put into it. If the cost per result, which is. Where is the cost per result? Should be one of these. Is this it? Oh, okay, here we go. You could change these columns. You might, you might. Yeah, I don't know if your columns are probably not ordered like this. I realize you could go in here. Columns. Customize columns. And these are the columns that I have clicked actions. Mount spent click through impressions delivery reach results attribution setting. Cost per. That's one of the, that's probably the most important actually. App installs. Cool. So. That's it name whatever I don't, I think this stuff is default. And then I believe you could like move it around to in the customize and in the custom columns. So this is how I put it. I'll show you how much it's spending. And you'll want to rank all the ads you have after like a few days of it. Running $20 a day. You want to put highest to low spending. And whatever is the highest spending for some reason the algorithm really has a bias towards it. If the cost per result is super unprofitable, extremely unprofitable, we're not extreme, but if it's just pretty unprofitable, you will want to turn off the ad. You want to turn it off. And that will allow the algorithm to start spending in other ads. Because like I said, it will choose one and then just put all of the fuel into that one. And so if it's not profitable, you want to give the algorithm a chance to test the other ones. Generally, it's going to pick whatever will have the lowest cost per result. If that's what you're optimizing for. But it's still a good thing if you see like one of them is getting $19 a day and the other one are getting a few cents. They're probably not getting enough. It's, it's not necessarily enough testing done to know if it's profitable. Honestly, for the most time, it will be correct. The algorithm will work. So like in bulk, you can just start uploading a ton. You could upload up to 50 ads in an ad set, I believe. So you could just keep uploading. And then whichever is our gift, whichever is getting the most spend. It's probably going to have the lowest cost per result as well. So if you see that it's unprofitable, we turn it off. We upload new ones. If you see that, it's profitable. Usually by the way, what most people do is they'll wait until an ad gets $100 in spending. $100 in spending, unprofitably, then they'll turn it off. And if it's $100 in spending profitably, then they will move it to the winners ad set. And we're going to talk about that soon. But that's the strat right now. It's just like create a ton of different angles. If you see an angle, that's working really well. Create more content in that angle. And we're going to talk about creatives. If something is doing really good in testers, I would just starting to scale the testers ad set. What you'll want to do is scale up the budget from $20 daily to. Well, you'll want to go up 20 to 30%. Every like two days, two to three days, that is profitable. If you increase the budget more than 20 to 30%. More than 30%. Actually, it will go into learning again. And you don't want your ads to go into learning all the time because then that takes a while to get out of learning. It's not a bad thing every once in a while to go and learning, especially if your budget is high enough where you're getting the 50 conversions. Every single day. Then getting and learning is not a is not a problem. But if it's like $20 a day, you're spending. And so it's going to take weeks to get out of learning. It would be pretty devastating to put an ad back into learning. So it's going to hurt performance. It's going to hurt performance for a little. The algorithm will start like relearning what works. Almost from like, yeah, not from scratch, but it may throw things off for your ads performance. So I know I'm throwing a lot of just dense information at you. To bring it all down, what you're going to want to do is create the campaign, create the ad set as I showed you. In the testers ad set, you're just going to want to start throwing ads in here. And the ones that are doing good. You will want to. You'll want to keep if they get $100 in. Spend it and they're unprofitable. Let's turn them off. So then we will create another ad set. And this will be the winners. Winners ad set. So this will have the same things, but this will have more money. $100 a day. This ad set is for all of the ads that are actually profitable. It's for all the ads that worked in the testers. Anything that got $100 in spending and their cost per result was a profitable cost per result. What you'll want to do is this is inside the testers. You'll want to click duplicate existing campaign. Original campaign. Actually. On Zim not. Yeah, actually, no idea. We're going to figure this out. Duplicate existing campaign. Existing ads instead of the existing ads that we go to winners. So we'll duplicate it there. And what this will do is it will move over the ad to the winners campaign. So. Once you do that, I think it's the objective mismatch. Oh, the objective here was app events. We did not make it start trial. Okay, cool. That should get rid of the errors. We've got to save that. So now in winner since we moved it over, you will have the ad that we copied over. It copied everything. I'm going to go p-alder it back. Okay, I'm back. So I just changed this sheet right now. When the ad hits $100, we want to either turn it off or move it to the winners' ad. So I just wanted to clarify that on the sheet. The whole $20 thing and scaling. So just like full circle. I just want to collect our thoughts because this is super long module. We went through a lot. We went through a lot. Ideally, you can increase the tester's ad set from $20 a day to more. The reason you actually have to start at $20 should have mentioned this. When you first create an ad account, it limits you to like $50 a day max. And then the second week, you could do $150 a day. And then third week, maybe $200 or $300. It just keeps scaling. So you have to kind of start slow. You have to start slow. In terms of increasing the budget. You can do it for you should do it for both the testers and winners. But primarily, you're going to want to scale up the winners. Not necessarily the testers. Like the testers at the scale that you guys are going to be operating. You probably only need it at like $100 a couple hundred dollars a day max for a Cali. Let's look at our testers. I don't actually hours is very complicated. We have a lot of campaigns, but here's like, let's let's look at our amount spent. So okay, this is a testing campaign. And we spent $933 today. And today's not over yet. So this is probably unlike $2,000 a day to this one. To this one test campaign. And by the way, we're doing testing at the campaign level and not the ad set level, which is another difference. But this is more complex. You guys don't need to worry about this stuff. Cool. Yeah, just to like go through here. So you guys get some like value. I mean, this is like, so you'll see eventually as you start scaling, you'll be able to see the amount you're spending. The cost per result. And the cost per result. We're going to talk about this more. But it's because of Apple's privacy rules. They're never actually accurate. Usually they're about 50% better or it could be up to 50% better is usually the case. Budging impressions, click through it. That's like an important thing for creatives will get into. But all right, whatever. Can't give you guys. I think this is, I think this is a good amount of info for one module. Anything I'm forgetting. I don't know. Honestly, I might have missed stuff. I know that this specific module was confusing. It was a lot. A lot. I just threw it at you. And I want to reiterate, I'm not an expert at paid ads. We primarily grew. Callie, I threw influencer marketing. I started the paid ads. I spoke to a lot of founders to learn their strategies. And then I ultimately hired someone on the team to take over. So this should give you the ability to get started. And obviously finish the rest of the modules. You're not there yet. Slow down, motherfucker. But when you do finish it, you'll be able to get it started yourself. You'll be able to spend. You should be able to scale to a good amount of daily ad spend. Like with this strategy, you could probably scale to like five K a day. Before things are going to start like seriously getting fucked up and broken. But let's move on to the next step.",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.5600000000000005,
+      "text": "Okay, ladies and gentlemen, I'm going to, I almost did the fucking hammer thing, but I didn't, I stopped myself."
+    },
+    {
+      "start": 6.5600000000000005,
+      "end": 11.52,
+      "text": "I am going to show you guys how to set up your campaign structure."
+    },
+    {
+      "start": 11.52,
+      "end": 15.96,
+      "text": "And we're gonna do this in Facebook. We're gonna set up a campaign."
+    },
+    {
+      "start": 15.96,
+      "end": 21.56,
+      "text": "It is, so it's actually meta ads, not Facebook."
+    },
+    {
+      "start": 21.56,
+      "end": 25.16,
+      "text": "So we'll run on both Facebook and Instagram when I'm about to teach you."
+    },
+    {
+      "start": 25.16,
+      "end": 29.12,
+      "text": "And although I am just teaching you how to set up on meta,"
+    },
+    {
+      "start": 29.400000000000002,
+      "end": 32.2,
+      "text": "the setup is very, very similar for all platforms."
+    },
+    {
+      "start": 32.2,
+      "end": 36.52,
+      "text": "So this will be applicable to TikTok, Google ads, everything else."
+    },
+    {
+      "start": 36.52,
+      "end": 44.6,
+      "text": "It's slightly different, but this is, first of all, what my main expertise is, is meta ads."
+    },
+    {
+      "start": 44.6,
+      "end": 47.2,
+      "text": "And also it's what I recommend starting with."
+    },
+    {
+      "start": 47.2,
+      "end": 49.28,
+      "text": "So that's why I'm showing it."
+    },
+    {
+      "start": 49.28,
+      "end": 52.72,
+      "text": "But everything I show here, it's pretty transferable."
+    },
+    {
+      "start": 52.72,
+      "end": 55.72,
+      "text": "So let's jump into the platform."
+    },
+    {
+      "start": 55.72,
+      "end": 60.68,
+      "text": "You're going to want to go to business.facebook.com."
+    },
+    {
+      "start": 60.68,
+      "end": 64.28,
+      "text": "Actually, go to adsmanager.facebook.com and it will redirect you here."
+    },
+    {
+      "start": 64.28,
+      "end": 68.44,
+      "text": "I don't, maybe business.facebook.com also goes here, but I know that link works."
+    },
+    {
+      "start": 68.44,
+      "end": 69.72,
+      "text": "And you're gonna want to log in."
+    },
+    {
+      "start": 69.72,
+      "end": 71.75999999999999,
+      "text": "So I'm gonna log into my account."
+    },
+    {
+      "start": 85.72,
+      "end": 86.72,
+      "text": "I'm paused my record."
+    },
+    {
+      "start": 86.72,
+      "end": 87.72,
+      "text": "I don't know."
+    },
+    {
+      "start": 89.72,
+      "end": 90.64,
+      "text": "Oh, they can't, okay."
+    },
+    {
+      "start": 90.64,
+      "end": 92.64,
+      "text": "You guys can't see my password nice."
+    },
+    {
+      "start": 92.64,
+      "end": 94.92,
+      "text": "I thought for a second you were able to see it."
+    },
+    {
+      "start": 94.92,
+      "end": 95.92,
+      "text": "Beautiful."
+    },
+    {
+      "start": 98.68,
+      "end": 99.68,
+      "text": "Okay."
+    },
+    {
+      "start": 100.52,
+      "end": 103.52,
+      "text": "Just log in, got some two factor authentication."
+    },
+    {
+      "start": 103.52,
+      "end": 118.52,
+      "text": "You guys should be creating an account instead of logging into one unless you already have one."
+    },
+    {
+      "start": 118.52,
+      "end": 119.52,
+      "text": "Okay."
+    },
+    {
+      "start": 119.52,
+      "end": 123.52,
+      "text": "Trust this device."
+    },
+    {
+      "start": 123.52,
+      "end": 124.52,
+      "text": "Boom."
+    },
+    {
+      "start": 124.52,
+      "end": 126.52,
+      "text": "We are in."
+    },
+    {
+      "start": 126.52,
+      "end": 132.51999999999998,
+      "text": "So when you get in, you will maybe see one thing like this."
+    },
+    {
+      "start": 132.52,
+      "end": 133.52,
+      "text": "I mean, delete this."
+    },
+    {
+      "start": 133.52,
+      "end": 136.52,
+      "text": "I could kind of show what you guys will see."
+    },
+    {
+      "start": 136.52,
+      "end": 137.52,
+      "text": "Well,"
+    },
+    {
+      "start": 142.52,
+      "end": 144.52,
+      "text": "do I know how to delete it?"
+    },
+    {
+      "start": 144.52,
+      "end": 145.52,
+      "text": "Nice."
+    },
+    {
+      "start": 145.52,
+      "end": 146.52,
+      "text": "Cool."
+    },
+    {
+      "start": 146.52,
+      "end": 147.52,
+      "text": "So you'll see something like this."
+    },
+    {
+      "start": 147.52,
+      "end": 148.52,
+      "text": "No results found."
+    },
+    {
+      "start": 148.52,
+      "end": 150.52,
+      "text": "You have not created any ads yet."
+    },
+    {
+      "start": 150.52,
+      "end": 154.52,
+      "text": "This is the campaign section of the Facebook ad manager."
+    },
+    {
+      "start": 154.52,
+      "end": 157.52,
+      "text": "And there may be an odd."
+    },
+    {
+      "start": 157.52,
+      "end": 160.52,
+      "text": "I don't think there's an onboarding, but if there isn't onboarding,"
+    },
+    {
+      "start": 160.52,
+      "end": 166.52,
+      "text": "there are all kinds of tutorials on getting set up on Facebook ads and getting to this step."
+    },
+    {
+      "start": 166.52,
+      "end": 168.52,
+      "text": "But it should be straightforward as follow the instructions."
+    },
+    {
+      "start": 168.52,
+      "end": 171.52,
+      "text": "Make sure you're with me here in the campaign step."
+    },
+    {
+      "start": 171.52,
+      "end": 179.52,
+      "text": "So what we're going to want to do is create a new campaign."
+    },
+    {
+      "start": 179.52,
+      "end": 185.52,
+      "text": "And I'm actually going to switch into the Cali icon because."
+    },
+    {
+      "start": 185.52,
+      "end": 187.52,
+      "text": "Because up here are all of our ads."
+    },
+    {
+      "start": 187.52,
+      "end": 195.52,
+      "text": "You could see we spent $374,000 in the last 30 days on meta ads."
+    },
+    {
+      "start": 195.52,
+      "end": 197.52,
+      "text": "I don't know what we spent in the last week."
+    },
+    {
+      "start": 197.52,
+      "end": 198.52,
+      "text": "What did we spend yesterday?"
+    },
+    {
+      "start": 198.52,
+      "end": 200.52,
+      "text": "Yesterday 9K,"
+    },
+    {
+      "start": 200.52,
+      "end": 204.52,
+      "text": "last 7 days 72K."
+    },
+    {
+      "start": 204.52,
+      "end": 208.52,
+      "text": "I want to see last month."
+    },
+    {
+      "start": 208.52,
+      "end": 211.52,
+      "text": "Last month 390."
+    },
+    {
+      "start": 211.52,
+      "end": 215.52,
+      "text": "This month 2 to 6 months isn't over yet."
+    },
+    {
+      "start": 215.52,
+      "end": 216.52,
+      "text": "Okay."
+    },
+    {
+      "start": 216.52,
+      "end": 217.52,
+      "text": "Cool."
+    },
+    {
+      "start": 217.52,
+      "end": 221.52,
+      "text": "But yeah, we've been scaling paid ads pretty heavily the last few months."
+    },
+    {
+      "start": 221.52,
+      "end": 224.52,
+      "text": "We were never really taking it seriously until recently."
+    },
+    {
+      "start": 224.52,
+      "end": 227.52,
+      "text": "But let's jump into this."
+    },
+    {
+      "start": 227.52,
+      "end": 228.52,
+      "text": "Okay."
+    },
+    {
+      "start": 228.52,
+      "end": 229.52,
+      "text": "Let's go to today."
+    },
+    {
+      "start": 229.52,
+      "end": 232.52,
+      "text": "Let's go to."
+    },
+    {
+      "start": 232.52,
+      "end": 235.52,
+      "text": "Going to hide everything."
+    },
+    {
+      "start": 235.52,
+      "end": 253.52,
+      "text": "Okay."
+    },
+    {
+      "start": 253.52,
+      "end": 255.52,
+      "text": "So you'll see like a blank thing."
+    },
+    {
+      "start": 255.52,
+      "end": 257.52,
+      "text": "You won't see anything."
+    },
+    {
+      "start": 257.52,
+      "end": 260.52,
+      "text": "And we're going to want to create a new campaign."
+    },
+    {
+      "start": 260.52,
+      "end": 265.52,
+      "text": "This campaign is the campaign we will run our ads through."
+    },
+    {
+      "start": 265.52,
+      "end": 266.52,
+      "text": "It is."
+    },
+    {
+      "start": 266.52,
+      "end": 267.52,
+      "text": "It's your first campaign."
+    },
+    {
+      "start": 267.52,
+      "end": 269.52,
+      "text": "This is where you are running paid ads to."
+    },
+    {
+      "start": 269.52,
+      "end": 272.52,
+      "text": "You're going to be generating sales there here."
+    },
+    {
+      "start": 272.52,
+      "end": 273.52,
+      "text": "The campaign objective."
+    },
+    {
+      "start": 273.52,
+      "end": 276.52,
+      "text": "So this goes to one of the other things we were discussing before."
+    },
+    {
+      "start": 276.52,
+      "end": 280.52,
+      "text": "How you go to awareness or just showing people stuff traffic."
+    },
+    {
+      "start": 280.52,
+      "end": 282.52,
+      "text": "It's setting people to website."
+    },
+    {
+      "start": 282.52,
+      "end": 285.52,
+      "text": "There's engagement where it's getting people to like the video leads,"
+    },
+    {
+      "start": 285.52,
+      "end": 286.52,
+      "text": "which I've been used."
+    },
+    {
+      "start": 286.52,
+      "end": 289.52,
+      "text": "But I believe that's more for more for in person businesses."
+    },
+    {
+      "start": 289.52,
+      "end": 291.52,
+      "text": "App promotion."
+    },
+    {
+      "start": 291.52,
+      "end": 292.52,
+      "text": "That is what we want to do."
+    },
+    {
+      "start": 292.52,
+      "end": 294.52,
+      "text": "Get people to install your app."
+    },
+    {
+      "start": 294.52,
+      "end": 298.52,
+      "text": "We get app installs and app events tracked and then sales."
+    },
+    {
+      "start": 298.52,
+      "end": 299.52,
+      "text": "And this is for e-commerce source."
+    },
+    {
+      "start": 299.52,
+      "end": 301.52,
+      "text": "So we'll do app promotion."
+    },
+    {
+      "start": 301.52,
+      "end": 304.52,
+      "text": "We'll continue going through."
+    },
+    {
+      "start": 304.52,
+      "end": 306.52,
+      "text": "You should name it."
+    },
+    {
+      "start": 306.52,
+      "end": 310.52,
+      "text": "Like whatever you want really like there is a bunch of structure that you could"
+    },
+    {
+      "start": 310.52,
+      "end": 315.52,
+      "text": "really go deep into in the details of naming conventions to make sure you're super"
+    },
+    {
+      "start": 315.52,
+      "end": 316.52,
+      "text": "organized for this."
+    },
+    {
+      "start": 316.52,
+      "end": 318.52,
+      "text": "Since it's just your first campaign, it doesn't matter."
+    },
+    {
+      "start": 318.52,
+      "end": 321.52,
+      "text": "Again, what I'm teaching you guys is how to get it off the ground so that"
+    },
+    {
+      "start": 321.52,
+      "end": 325.52,
+      "text": "someone can eventually take it off your hands or you could build upon the knowledge"
+    },
+    {
+      "start": 325.52,
+      "end": 326.52,
+      "text": "yourself."
+    },
+    {
+      "start": 326.52,
+      "end": 329.52,
+      "text": "So here I wouldn't stress about it, but name it something."
+    },
+    {
+      "start": 329.52,
+      "end": 332.52,
+      "text": "Name it something good like."
+    },
+    {
+      "start": 332.52,
+      "end": 333.52,
+      "text": "I would name it like Cali."
+    },
+    {
+      "start": 333.52,
+      "end": 335.52,
+      "text": "I campaign one."
+    },
+    {
+      "start": 335.52,
+      "end": 336.52,
+      "text": "Shit."
+    },
+    {
+      "start": 336.52,
+      "end": 338.52,
+      "text": "Campaign one."
+    },
+    {
+      "start": 338.52,
+      "end": 341.52,
+      "text": "But do whatever you want."
+    },
+    {
+      "start": 341.52,
+      "end": 342.52,
+      "text": "Yeah."
+    },
+    {
+      "start": 342.52,
+      "end": 349.52,
+      "text": "I'm going to call it test for this case."
+    },
+    {
+      "start": 349.52,
+      "end": 351.52,
+      "text": "You know what tutorial."
+    },
+    {
+      "start": 351.52,
+      "end": 352.52,
+      "text": "Campaign."
+    },
+    {
+      "start": 352.52,
+      "end": 353.52,
+      "text": "All right."
+    },
+    {
+      "start": 353.52,
+      "end": 354.52,
+      "text": "I'm really overcomking them."
+    },
+    {
+      "start": 354.52,
+      "end": 358.52,
+      "text": "So we're going to go through campaign details, buying type auction."
+    },
+    {
+      "start": 358.52,
+      "end": 359.52,
+      "text": "Nice."
+    },
+    {
+      "start": 359.52,
+      "end": 361.52,
+      "text": "We do want to keep it like that."
+    },
+    {
+      "start": 361.52,
+      "end": 364.52,
+      "text": "Campaign objective app promotion."
+    },
+    {
+      "start": 364.52,
+      "end": 365.52,
+      "text": "That's good."
+    },
+    {
+      "start": 365.52,
+      "end": 367.52,
+      "text": "See show more settings."
+    },
+    {
+      "start": 367.52,
+      "end": 368.52,
+      "text": "A spending limit."
+    },
+    {
+      "start": 368.52,
+      "end": 369.52,
+      "text": "None."
+    },
+    {
+      "start": 369.52,
+      "end": 370.52,
+      "text": "None right now."
+    },
+    {
+      "start": 370.52,
+      "end": 371.52,
+      "text": "We don't want to set a spending limit."
+    },
+    {
+      "start": 371.52,
+      "end": 373.52,
+      "text": "So campaign budget."
+    },
+    {
+      "start": 373.52,
+      "end": 375.52,
+      "text": "We want to switch this."
+    },
+    {
+      "start": 375.52,
+      "end": 377.52,
+      "text": "There are two concepts here."
+    },
+    {
+      "start": 377.52,
+      "end": 380.52,
+      "text": "It's CBO and ABO."
+    },
+    {
+      "start": 380.52,
+      "end": 382.52,
+      "text": "CBO is campaign budget optimization."
+    },
+    {
+      "start": 382.52,
+      "end": 386.52,
+      "text": "ABO is ad set budget optimization."
+    },
+    {
+      "start": 386.52,
+      "end": 390.52,
+      "text": "And the difference is if you choose campaign budget optimization,"
+    },
+    {
+      "start": 390.52,
+      "end": 392.52,
+      "text": "you'll see first we're creating this campaign."
+    },
+    {
+      "start": 392.52,
+      "end": 395.52,
+      "text": "And then within the campaign we create ad sets."
+    },
+    {
+      "start": 395.52,
+      "end": 398.52,
+      "text": "And within ad sets you'll have the unique ads, the unique videos."
+    },
+    {
+      "start": 398.52,
+      "end": 400.52,
+      "text": "That's how it is structured."
+    },
+    {
+      "start": 400.52,
+      "end": 404.52,
+      "text": "So you can see if you're campaign ad sets ads."
+    },
+    {
+      "start": 404.52,
+      "end": 407.52,
+      "text": "And if you choose campaign budget optimization,"
+    },
+    {
+      "start": 407.52,
+      "end": 410.52,
+      "text": "you set the budget at the campaign level."
+    },
+    {
+      "start": 410.52,
+      "end": 414.52,
+      "text": "And then algorithm will determine how much to spend in each ad set,"
+    },
+    {
+      "start": 414.52,
+      "end": 417.52,
+      "text": "based on what it thinks will perform the best."
+    },
+    {
+      "start": 417.52,
+      "end": 420.52,
+      "text": "But because we are just getting started,"
+    },
+    {
+      "start": 420.52,
+      "end": 422.52,
+      "text": "we want to have two ad sets."
+    },
+    {
+      "start": 422.52,
+      "end": 424.52,
+      "text": "A testers ad set."
+    },
+    {
+      "start": 424.52,
+      "end": 426.52,
+      "text": "And a winners ad set."
+    },
+    {
+      "start": 426.52,
+      "end": 430.52,
+      "text": "And I'll get more into why we're going to add them,"
+    },
+    {
+      "start": 430.52,
+      "end": 432.52,
+      "text": "how they're going to work together."
+    },
+    {
+      "start": 432.52,
+      "end": 437.52,
+      "text": "But essentially the tester's ad set is going to be spending less money every day."
+    },
+    {
+      "start": 437.52,
+      "end": 441.52,
+      "text": "It's going to be where we just throw in creatives that we think will work,"
+    },
+    {
+      "start": 441.52,
+      "end": 443.52,
+      "text": "will convert."
+    },
+    {
+      "start": 443.52,
+      "end": 448.52,
+      "text": "And the winning ad set will be all of the ads that perform well in the testing ad set."
+    },
+    {
+      "start": 448.52,
+      "end": 452.52,
+      "text": "We'll move them from testing to winners."
+    },
+    {
+      "start": 452.52,
+      "end": 456.52,
+      "text": "So let's go to ad set budget."
+    },
+    {
+      "start": 456.52,
+      "end": 458.52,
+      "text": "iOS 14 plus campaign."
+    },
+    {
+      "start": 458.52,
+      "end": 462.52,
+      "text": "We need to put that on this is due to apples privacy rules."
+    },
+    {
+      "start": 462.52,
+      "end": 467.52,
+      "text": "If we have this off, we will not deliver ads to people with iOS 14 plus."
+    },
+    {
+      "start": 467.52,
+      "end": 475.52,
+      "text": "And how many people, how many iPhone users are on iPhone iOS 14 plus?"
+    },
+    {
+      "start": 482.52,
+      "end": 484.52,
+      "text": "Okay, more than 72%."
+    },
+    {
+      "start": 484.52,
+      "end": 486.52,
+      "text": "I think it's actually a lot more than this."
+    },
+    {
+      "start": 486.52,
+      "end": 490.52,
+      "text": "Let's see."
+    },
+    {
+      "start": 490.52,
+      "end": 491.52,
+      "text": "Yeah."
+    },
+    {
+      "start": 491.52,
+      "end": 495.52,
+      "text": "So it's like at this point,"
+    },
+    {
+      "start": 495.52,
+      "end": 503.52,
+      "text": "there's like maybe 0.5%, maybe 1% of people max using iOS 14 plus."
+    },
+    {
+      "start": 503.52,
+      "end": 508.52,
+      "text": "So you can see 96% of people already switched iOS 15 from 14."
+    },
+    {
+      "start": 508.52,
+      "end": 511.52,
+      "text": "And that number is just going to keep going up."
+    },
+    {
+      "start": 511.52,
+      "end": 515.52,
+      "text": "So very few people you'll be targeting very, very few people."
+    },
+    {
+      "start": 515.52,
+      "end": 519.52,
+      "text": "And so even though you'll be able to get more in-depth attribution tracking,"
+    },
+    {
+      "start": 519.52,
+      "end": 521.52,
+      "text": "you will not be targeting people new phones."
+    },
+    {
+      "start": 521.52,
+      "end": 523.52,
+      "text": "And if you're not targeting people new phones,"
+    },
+    {
+      "start": 523.52,
+      "end": 526.52,
+      "text": "iOS 14 was on phones like five years ago or something."
+    },
+    {
+      "start": 526.52,
+      "end": 530.52,
+      "text": "If you're targeting people with phones from five years ago,"
+    },
+    {
+      "start": 530.52,
+      "end": 531.52,
+      "text": "you will bet."
+    },
+    {
+      "start": 531.52,
+      "end": 534.52,
+      "text": "You better bet that they're not going to buy your product."
+    },
+    {
+      "start": 534.52,
+      "end": 536.52,
+      "text": "They do not have money to spend."
+    },
+    {
+      "start": 536.52,
+      "end": 541.52,
+      "text": "So you will need to select the app that you want people to use and install."
+    },
+    {
+      "start": 541.52,
+      "end": 543.52,
+      "text": "This is something you'll have to set up."
+    },
+    {
+      "start": 543.52,
+      "end": 545.52,
+      "text": "Let's see."
+    },
+    {
+      "start": 545.52,
+      "end": 547.52,
+      "text": "If I can't find my app,"
+    },
+    {
+      "start": 547.52,
+      "end": 554.52,
+      "text": "so you will need to set up your app on Meta for developers."
+    },
+    {
+      "start": 554.52,
+      "end": 556.52,
+      "text": "Whoops."
+    },
+    {
+      "start": 556.52,
+      "end": 558.52,
+      "text": "So let's go through this."
+    },
+    {
+      "start": 558.52,
+      "end": 559.52,
+      "text": "I'm not going to do all of this again."
+    },
+    {
+      "start": 559.52,
+      "end": 561.52,
+      "text": "It's looking very annoying, but I'll show you."
+    },
+    {
+      "start": 561.52,
+      "end": 563.52,
+      "text": "Set up your app on Meta for developers."
+    },
+    {
+      "start": 563.52,
+      "end": 565.52,
+      "text": "That was my speech-ify plugin."
+    },
+    {
+      "start": 565.52,
+      "end": 567.52,
+      "text": "Know the founder of this cliff?"
+    },
+    {
+      "start": 567.52,
+      "end": 568.52,
+      "text": "Really, really cool."
+    },
+    {
+      "start": 568.52,
+      "end": 570.52,
+      "text": "Set up your app on Meta for developers."
+    },
+    {
+      "start": 570.52,
+      "end": 571.52,
+      "text": "Whoops."
+    },
+    {
+      "start": 571.52,
+      "end": 572.52,
+      "text": "Okay."
+    },
+    {
+      "start": 572.52,
+      "end": 574.52,
+      "text": "Get started with app events on iOS."
+    },
+    {
+      "start": 574.52,
+      "end": 576.52,
+      "text": "So just follow this guide,"
+    },
+    {
+      "start": 576.52,
+      "end": 578.52,
+      "text": "developers at facebook.com slash docs,"
+    },
+    {
+      "start": 578.52,
+      "end": 580.52,
+      "text": "slash app, whatever you see here."
+    },
+    {
+      "start": 580.52,
+      "end": 587.52,
+      "text": "Just go copy that and go through the tutorial to basically set up your app."
+    },
+    {
+      "start": 587.52,
+      "end": 591.52,
+      "text": "And you will also want to..."
+    },
+    {
+      "start": 591.52,
+      "end": 601.52,
+      "text": "You'll need to do a little bit of coding within your app to completely set it up."
+    },
+    {
+      "start": 601.52,
+      "end": 602.52,
+      "text": "But it's nothing crazy."
+    },
+    {
+      "start": 602.52,
+      "end": 607.52,
+      "text": "It shows you step by step how to do everything."
+    },
+    {
+      "start": 607.52,
+      "end": 608.52,
+      "text": "Cool."
+    },
+    {
+      "start": 608.52,
+      "end": 612.52,
+      "text": "So either do it yourself or send it to your developer or whatever you're using."
+    },
+    {
+      "start": 612.52,
+      "end": 614.52,
+      "text": "And for the sake of this tutorial,"
+    },
+    {
+      "start": 614.52,
+      "end": 620.52,
+      "text": "we're only showing iOS ads and Android is a whole new story."
+    },
+    {
+      "start": 620.52,
+      "end": 621.52,
+      "text": "So, okay."
+    },
+    {
+      "start": 621.52,
+      "end": 623.52,
+      "text": "Make sure you set up your app."
+    },
+    {
+      "start": 623.52,
+      "end": 625.52,
+      "text": "After you set up your app, it should show here."
+    },
+    {
+      "start": 625.52,
+      "end": 626.52,
+      "text": "So here we go."
+    },
+    {
+      "start": 626.52,
+      "end": 627.52,
+      "text": "Kalei."
+    },
+    {
+      "start": 627.52,
+      "end": 628.52,
+      "text": "Boom."
+    },
+    {
+      "start": 628.52,
+      "end": 629.52,
+      "text": "Click on it."
+    },
+    {
+      "start": 629.52,
+      "end": 631.52,
+      "text": "Hopefully it's not sensitive showing my app ID."
+    },
+    {
+      "start": 631.52,
+      "end": 633.52,
+      "text": "I don't imagine it would be, but..."
+    },
+    {
+      "start": 633.52,
+      "end": 634.52,
+      "text": "Okay."
+    },
+    {
+      "start": 634.52,
+      "end": 635.52,
+      "text": "We go through."
+    },
+    {
+      "start": 635.52,
+      "end": 637.52,
+      "text": "And now we hit next."
+    },
+    {
+      "start": 637.52,
+      "end": 638.52,
+      "text": "No, they're settings."
+    },
+    {
+      "start": 638.52,
+      "end": 639.52,
+      "text": "We want to change."
+    },
+    {
+      "start": 639.52,
+      "end": 642.52,
+      "text": "Now we are in the ad set level."
+    },
+    {
+      "start": 642.52,
+      "end": 645.52,
+      "text": "And like I explained before, we want a testers ad set."
+    },
+    {
+      "start": 645.52,
+      "end": 648.52,
+      "text": "And a winner's ad set."
+    },
+    {
+      "start": 648.52,
+      "end": 653.52,
+      "text": "So for the testers, I recommend you start minimum $20 a day."
+    },
+    {
+      "start": 653.52,
+      "end": 658.52,
+      "text": "And for the winners ad set, I suggest a minimum of 100."
+    },
+    {
+      "start": 658.52,
+      "end": 660.52,
+      "text": "But actually the winners, it's a little more nuanced."
+    },
+    {
+      "start": 660.52,
+      "end": 662.52,
+      "text": "So we're going to get to that later."
+    },
+    {
+      "start": 662.52,
+      "end": 666.52,
+      "text": "But for the testers, $20 a day,"
+    },
+    {
+      "start": 666.52,
+      "end": 671.52,
+      "text": "something important for you to understand is this idea of a learning phase."
+    },
+    {
+      "start": 671.52,
+      "end": 674.52,
+      "text": "When you first create an ad on Facebook ads,"
+    },
+    {
+      "start": 674.52,
+      "end": 676.52,
+      "text": "when you first have an ad running,"
+    },
+    {
+      "start": 676.52,
+      "end": 682.52,
+      "text": "you just go through this learning phase where until it gets 50 events,"
+    },
+    {
+      "start": 682.52,
+      "end": 687.52,
+      "text": "50 conversions, 50, whatever you're optimizing for,"
+    },
+    {
+      "start": 687.52,
+      "end": 691.52,
+      "text": "it will basically still be in this learning phase."
+    },
+    {
+      "start": 691.52,
+      "end": 695.52,
+      "text": "And technically the algorithm hasn't found it's like core target,"
+    },
+    {
+      "start": 695.52,
+      "end": 697.52,
+      "text": "core demographic yet."
+    },
+    {
+      "start": 697.52,
+      "end": 701.52,
+      "text": "And on $20 a day, we're going to assume,"
+    },
+    {
+      "start": 701.52,
+      "end": 704.52,
+      "text": "so first of all, we're going to get to this in a second."
+    },
+    {
+      "start": 704.52,
+      "end": 707.52,
+      "text": "And I don't actually, this will make more sense."
+    },
+    {
+      "start": 707.52,
+      "end": 710.52,
+      "text": "So I'm going to put a fucking pin in here."
+    },
+    {
+      "start": 710.52,
+      "end": 711.52,
+      "text": "Let's just go through."
+    },
+    {
+      "start": 711.52,
+      "end": 713.52,
+      "text": "So $20 a day."
+    },
+    {
+      "start": 713.52,
+      "end": 716.52,
+      "text": "And our, which we didn't actually put yet,"
+    },
+    {
+      "start": 716.52,
+      "end": 719.52,
+      "text": "but performance goal maximized the number of app installs."
+    },
+    {
+      "start": 719.52,
+      "end": 721.52,
+      "text": "So that's what it is by default."
+    },
+    {
+      "start": 721.52,
+      "end": 724.52,
+      "text": "We want to maximize for the number of app events."
+    },
+    {
+      "start": 724.52,
+      "end": 729.52,
+      "text": "This is something that you're going to have to set up with your MMP,"
+    },
+    {
+      "start": 729.52,
+      "end": 731.52,
+      "text": "which should be in the development section of the course."
+    },
+    {
+      "start": 731.52,
+      "end": 735.52,
+      "text": "So there are plenty of tutorials, apps,"
+    },
+    {
+      "start": 735.52,
+      "end": 738.52,
+      "text": "flyer, and adjust are the two biggest ones."
+    },
+    {
+      "start": 738.52,
+      "end": 744.52,
+      "text": "And the event we want to use is the,"
+    },
+    {
+      "start": 744.52,
+      "end": 746.52,
+      "text": "it's going to either be purchase, subscribe,"
+    },
+    {
+      "start": 746.52,
+      "end": 749.52,
+      "text": "or for our sake, for Cali, we do start trial."
+    },
+    {
+      "start": 749.52,
+      "end": 754.52,
+      "text": "And the reason we do start trial and not purchase or not conversion"
+    },
+    {
+      "start": 754.52,
+      "end": 757.52,
+      "text": "is because you want as much data,"
+    },
+    {
+      "start": 757.52,
+      "end": 760.52,
+      "text": "you want to try to keep all data that's sent back"
+    },
+    {
+      "start": 760.52,
+      "end": 761.52,
+      "text": "a 24 hour window."
+    },
+    {
+      "start": 761.52,
+      "end": 763.52,
+      "text": "If it's within a 24 hour window,"
+    },
+    {
+      "start": 763.52,
+      "end": 766.52,
+      "text": "you will have the least data drop off."
+    },
+    {
+      "start": 766.52,
+      "end": 769.52,
+      "text": "This is another thing with Apple's privacy thing,"
+    },
+    {
+      "start": 769.52,
+      "end": 771.52,
+      "text": "where it's pretty fucking annoying."
+    },
+    {
+      "start": 771.52,
+      "end": 773.52,
+      "text": "If you have a three day trial,"
+    },
+    {
+      "start": 773.52,
+      "end": 776.52,
+      "text": "and you wait three days to send back,"
+    },
+    {
+      "start": 776.52,
+      "end": 778.52,
+      "text": "okay, this person did subscribe,"
+    },
+    {
+      "start": 778.52,
+      "end": 781.52,
+      "text": "a lot of that data actually can be lost."
+    },
+    {
+      "start": 781.52,
+      "end": 784.52,
+      "text": "So you want to try to get everything back as soon as possible"
+    },
+    {
+      "start": 784.52,
+      "end": 786.52,
+      "text": "within 24 hours."
+    },
+    {
+      "start": 786.52,
+      "end": 788.52,
+      "text": "And this has to do with attribution windows."
+    },
+    {
+      "start": 788.52,
+      "end": 790.52,
+      "text": "There's one day click and seven day click."
+    },
+    {
+      "start": 790.52,
+      "end": 793.52,
+      "text": "If you do seven day click, then technically you can still get data"
+    },
+    {
+      "start": 793.52,
+      "end": 794.52,
+      "text": "three days later."
+    },
+    {
+      "start": 794.52,
+      "end": 796.52,
+      "text": "If you do one day click, you cannot."
+    },
+    {
+      "start": 796.52,
+      "end": 799.52,
+      "text": "And I believe that's somewhere down here that we're going to set."
+    },
+    {
+      "start": 799.52,
+      "end": 807.52,
+      "text": "But just do make sure it's set to an event that happens within 24 hours."
+    },
+    {
+      "start": 807.52,
+      "end": 811.52,
+      "text": "This is partially for getting data back clean with Apple's privacy things,"
+    },
+    {
+      "start": 811.52,
+      "end": 812.52,
+      "text": "not blocking us."
+    },
+    {
+      "start": 812.52,
+      "end": 814.52,
+      "text": "But then secondly,"
+    },
+    {
+      "start": 814.52,
+      "end": 816.52,
+      "text": "it's so that the algorithm can learn faster."
+    },
+    {
+      "start": 816.52,
+      "end": 819.52,
+      "text": "If it has to wait three days to get results of,"
+    },
+    {
+      "start": 819.52,
+      "end": 820.52,
+      "text": "is this a good,"
+    },
+    {
+      "start": 820.52,
+      "end": 822.52,
+      "text": "is this someone who will purchase or not?"
+    },
+    {
+      "start": 822.52,
+      "end": 825.52,
+      "text": "Then your learning will be very, very slow."
+    },
+    {
+      "start": 825.52,
+      "end": 829.52,
+      "text": "It will take a long time to figure out who likes your product."
+    },
+    {
+      "start": 829.52,
+      "end": 831.52,
+      "text": "So that's what I recommend."
+    },
+    {
+      "start": 831.52,
+      "end": 834.52,
+      "text": "Is either store trial or if you don't have a free trial,"
+    },
+    {
+      "start": 834.52,
+      "end": 836.52,
+      "text": "then just purchase is also okay."
+    },
+    {
+      "start": 836.52,
+      "end": 840.52,
+      "text": "And if you're a premium app, then it's more difficult."
+    },
+    {
+      "start": 840.52,
+      "end": 845.52,
+      "text": "That is something where you may want to optimize for some kind of product."
+    },
+    {
+      "start": 845.52,
+      "end": 849.52,
+      "text": "Or some kind of core event that happens in the first 24 hours."
+    },
+    {
+      "start": 849.52,
+      "end": 851.52,
+      "text": "That causes,"
+    },
+    {
+      "start": 851.52,
+      "end": 857.52,
+      "text": "or that has a heavy correlation with the user being very likely to end up paying."
+    },
+    {
+      "start": 857.52,
+      "end": 858.52,
+      "text": "That's more complex though."
+    },
+    {
+      "start": 858.52,
+      "end": 860.52,
+      "text": "I recommend for all of your apps,"
+    },
+    {
+      "start": 860.52,
+      "end": 861.52,
+      "text": "you basically hard paywall,"
+    },
+    {
+      "start": 861.52,
+      "end": 864.52,
+      "text": "which means put the paywall right away up front."
+    },
+    {
+      "start": 864.52,
+      "end": 869.52,
+      "text": "That at least works the best for paid ads influence marketing."
+    },
+    {
+      "start": 869.52,
+      "end": 872.52,
+      "text": "Because you'll have direct attribution,"
+    },
+    {
+      "start": 872.52,
+      "end": 873.52,
+      "text": "you'll know right away."
+    },
+    {
+      "start": 873.52,
+      "end": 875.52,
+      "text": "Okay, like was this video profitable?"
+    },
+    {
+      "start": 875.52,
+      "end": 876.52,
+      "text": "Was it not?"
+    },
+    {
+      "start": 876.52,
+      "end": 878.52,
+      "text": "If you have premium, it gets a lot more convoluted"
+    },
+    {
+      "start": 878.52,
+      "end": 882.52,
+      "text": "because then cohorts will convert over longer time horizons"
+    },
+    {
+      "start": 882.52,
+      "end": 886.52,
+      "text": "and you have slower learnings."
+    },
+    {
+      "start": 886.52,
+      "end": 889.52,
+      "text": "So we're optimizing for the store trial."
+    },
+    {
+      "start": 889.52,
+      "end": 891.52,
+      "text": "And now going back to this."
+    },
+    {
+      "start": 891.52,
+      "end": 894.52,
+      "text": "So there's this idea of a cost per result."
+    },
+    {
+      "start": 894.52,
+      "end": 897.52,
+      "text": "It's the cost per whatever event you set."
+    },
+    {
+      "start": 897.52,
+      "end": 899.52,
+      "text": "Our cost per result."
+    },
+    {
+      "start": 899.52,
+      "end": 903.52,
+      "text": "It's the cost of the start trial event."
+    },
+    {
+      "start": 903.52,
+      "end": 905.52,
+      "text": "And for new apps,"
+    },
+    {
+      "start": 905.52,
+      "end": 907.52,
+      "text": "it's probably going to be pretty high."
+    },
+    {
+      "start": 907.52,
+      "end": 909.52,
+      "text": "Your app is probably not going to be super optimized."
+    },
+    {
+      "start": 909.52,
+      "end": 910.52,
+      "text": "And therefore,"
+    },
+    {
+      "start": 910.52,
+      "end": 912.52,
+      "text": "you could assume your cost per result."
+    },
+    {
+      "start": 912.52,
+      "end": 914.52,
+      "text": "It's going to be in the tens of,"
+    },
+    {
+      "start": 914.52,
+      "end": 916.52,
+      "text": "it very much so depends."
+    },
+    {
+      "start": 916.52,
+      "end": 920.52,
+      "text": "Very determinant on your price,"
+    },
+    {
+      "start": 920.52,
+      "end": 922.52,
+      "text": "your onboarding flow,"
+    },
+    {
+      "start": 922.52,
+      "end": 923.52,
+      "text": "how much people want it,"
+    },
+    {
+      "start": 923.52,
+      "end": 924.52,
+      "text": "how much competition you have,"
+    },
+    {
+      "start": 924.52,
+      "end": 926.52,
+      "text": "the price of your competitors,"
+    },
+    {
+      "start": 926.52,
+      "end": 927.52,
+      "text": "all of that."
+    },
+    {
+      "start": 927.52,
+      "end": 930.52,
+      "text": "And something with paid ads,"
+    },
+    {
+      "start": 930.52,
+      "end": 931.52,
+      "text": "actually specifically,"
+    },
+    {
+      "start": 931.52,
+      "end": 933.52,
+      "text": "as people who is recommend doing a really high price,"
+    },
+    {
+      "start": 933.52,
+      "end": 937.52,
+      "text": "like $100 a year subscriptions."
+    },
+    {
+      "start": 937.52,
+      "end": 940.52,
+      "text": "And a lot of people believe if you don't price higher"
+    },
+    {
+      "start": 940.52,
+      "end": 941.52,
+      "text": "than like $70 a year,"
+    },
+    {
+      "start": 941.52,
+      "end": 943.52,
+      "text": "you just can't scale paid ads."
+    },
+    {
+      "start": 943.52,
+      "end": 944.52,
+      "text": "With Cal AI,"
+    },
+    {
+      "start": 944.52,
+      "end": 945.52,
+      "text": "we found that's not true."
+    },
+    {
+      "start": 945.52,
+      "end": 947.52,
+      "text": "We sell $30 a year subscriptions,"
+    },
+    {
+      "start": 947.52,
+      "end": 950.52,
+      "text": "and we are very profitable with paid ads."
+    },
+    {
+      "start": 950.52,
+      "end": 952.52,
+      "text": "But that is something a lot of people say."
+    },
+    {
+      "start": 952.52,
+      "end": 955.52,
+      "text": "And that's just because some industries are so saturated"
+    },
+    {
+      "start": 955.52,
+      "end": 958.52,
+      "text": "that your customer acquisition cost"
+    },
+    {
+      "start": 958.52,
+      "end": 960.52,
+      "text": "or your cost per result,"
+    },
+    {
+      "start": 960.52,
+      "end": 961.52,
+      "text": "actually in this case,"
+    },
+    {
+      "start": 961.52,
+      "end": 964.52,
+      "text": "will be so much higher than your price."
+    },
+    {
+      "start": 964.52,
+      "end": 966.52,
+      "text": "And so you have to increase your price in order"
+    },
+    {
+      "start": 966.52,
+      "end": 968.52,
+      "text": "for it to be profitable."
+    },
+    {
+      "start": 968.52,
+      "end": 970.52,
+      "text": "And generally, as you increase your price,"
+    },
+    {
+      "start": 970.52,
+      "end": 972.52,
+      "text": "the cost per result will increase as well."
+    },
+    {
+      "start": 972.52,
+      "end": 973.52,
+      "text": "If you lower it,"
+    },
+    {
+      "start": 973.52,
+      "end": 975.52,
+      "text": "it will generally lower as well."
+    },
+    {
+      "start": 975.52,
+      "end": 976.52,
+      "text": "Then it's like,"
+    },
+    {
+      "start": 976.52,
+      "end": 977.52,
+      "text": "this is weird curve,"
+    },
+    {
+      "start": 977.52,
+      "end": 980.52,
+      "text": "it will plateau at some point or whatever."
+    },
+    {
+      "start": 980.52,
+      "end": 984.52,
+      "text": "Okay."
+    },
+    {
+      "start": 984.52,
+      "end": 989.52,
+      "text": "So the $20 per day,"
+    },
+    {
+      "start": 989.52,
+      "end": 991.52,
+      "text": "assuming that your cost per result is like $10."
+    },
+    {
+      "start": 991.52,
+      "end": 995.52,
+      "text": "And that's the cost per result of a Cal AI trial start"
+    },
+    {
+      "start": 995.52,
+      "end": 997.52,
+      "text": "about, that's what we optimize for us."
+    },
+    {
+      "start": 997.52,
+      "end": 999.52,
+      "text": "So yours is probably actually going to be worse than that."
+    },
+    {
+      "start": 999.52,
+      "end": 1001.52,
+      "text": "I imagine because your app isn't going to be optimized right away."
+    },
+    {
+      "start": 1001.52,
+      "end": 1004.52,
+      "text": "Again, it does depend on so many things like your price."
+    },
+    {
+      "start": 1004.52,
+      "end": 1009.52,
+      "text": "But you want to make sure that you're spending enough"
+    },
+    {
+      "start": 1009.52,
+      "end": 1010.52,
+      "text": "in the test ad set,"
+    },
+    {
+      "start": 1010.52,
+      "end": 1013.52,
+      "text": "where you will,"
+    },
+    {
+      "start": 1013.52,
+      "end": 1015.52,
+      "text": "you don't necessarily need to get out of the learning phase"
+    },
+    {
+      "start": 1015.52,
+      "end": 1016.52,
+      "text": "right away,"
+    },
+    {
+      "start": 1016.52,
+      "end": 1019.52,
+      "text": "because you could still see generally what,"
+    },
+    {
+      "start": 1019.52,
+      "end": 1022.52,
+      "text": "how ads are performing without being out of learning phase,"
+    },
+    {
+      "start": 1022.52,
+      "end": 1023.52,
+      "text": "for starting out,"
+    },
+    {
+      "start": 1023.52,
+      "end": 1026.52,
+      "text": "for like the first few tests you run."
+    },
+    {
+      "start": 1026.52,
+      "end": 1030.52,
+      "text": "So I'd suggest starting low,"
+    },
+    {
+      "start": 1030.52,
+      "end": 1033.52,
+      "text": "maybe like $20 a day on your test ad set."
+    },
+    {
+      "start": 1033.52,
+      "end": 1034.52,
+      "text": "And then through that,"
+    },
+    {
+      "start": 1034.52,
+      "end": 1035.52,
+      "text": "you'll be able to see,"
+    },
+    {
+      "start": 1035.52,
+      "end": 1038.52,
+      "text": "okay, which ads have the lowest cost per result."
+    },
+    {
+      "start": 1039.52,
+      "end": 1043.52,
+      "text": "And then after you see kind of what your cost per result"
+    },
+    {
+      "start": 1043.52,
+      "end": 1046.52,
+      "text": "ends up being the lowest cost per result possible,"
+    },
+    {
+      "start": 1046.52,
+      "end": 1049.52,
+      "text": "because like let's say your cost per result really is $10."
+    },
+    {
+      "start": 1049.52,
+      "end": 1050.52,
+      "text": "That will take,"
+    },
+    {
+      "start": 1050.52,
+      "end": 1052.52,
+      "text": "you need 50 conversions to get out of it."
+    },
+    {
+      "start": 1052.52,
+      "end": 1054.52,
+      "text": "You're getting two conversions a day,"
+    },
+    {
+      "start": 1054.52,
+      "end": 1056.52,
+      "text": "if you're only spending $20 a day."
+    },
+    {
+      "start": 1056.52,
+      "end": 1058.52,
+      "text": "So it's going to take 25 days."
+    },
+    {
+      "start": 1058.52,
+      "end": 1059.52,
+      "text": "It's three and a half weeks."
+    },
+    {
+      "start": 1059.52,
+      "end": 1061.52,
+      "text": "And we're not waiting three and a half weeks"
+    },
+    {
+      "start": 1061.52,
+      "end": 1062.52,
+      "text": "to know if a test is,"
+    },
+    {
+      "start": 1062.52,
+      "end": 1064.52,
+      "text": "if an ad is profitable."
+    },
+    {
+      "start": 1064.52,
+      "end": 1067.52,
+      "text": "So we're going to run a few ads on this low,"
+    },
+    {
+      "start": 1068.52,
+      "end": 1069.52,
+      "text": "on this limited budget,"
+    },
+    {
+      "start": 1069.52,
+      "end": 1070.52,
+      "text": "see which ones do well,"
+    },
+    {
+      "start": 1070.52,
+      "end": 1072.52,
+      "text": "double down on those creatives."
+    },
+    {
+      "start": 1072.52,
+      "end": 1075.52,
+      "text": "So we're going to talk about creatives in the next module."
+    },
+    {
+      "start": 1075.52,
+      "end": 1079.52,
+      "text": "But essentially you're going to want to just test"
+    },
+    {
+      "start": 1079.52,
+      "end": 1081.52,
+      "text": "all kinds of different angles,"
+    },
+    {
+      "start": 1081.52,
+      "end": 1083.52,
+      "text": "see what does go double down."
+    },
+    {
+      "start": 1083.52,
+      "end": 1086.52,
+      "text": "Once you've found the angles that you think works the best,"
+    },
+    {
+      "start": 1086.52,
+      "end": 1089.52,
+      "text": "and you see what your cost per result,"
+    },
+    {
+      "start": 1089.52,
+      "end": 1091.52,
+      "text": "kind of the lowest cost per result possible is,"
+    },
+    {
+      "start": 1091.52,
+      "end": 1093.52,
+      "text": "then it's,"
+    },
+    {
+      "start": 1093.52,
+      "end": 1094.52,
+      "text": "then you have to raise your budgets,"
+    },
+    {
+      "start": 1094.52,
+      "end": 1096.52,
+      "text": "so that you're getting at least 50 conversions"
+    },
+    {
+      "start": 1096.52,
+      "end": 1097.52,
+      "text": "a week."
+    },
+    {
+      "start": 1097.52,
+      "end": 1099.52,
+      "text": "Otherwise, you're not going to be able to move fast enough."
+    },
+    {
+      "start": 1099.52,
+      "end": 1101.52,
+      "text": "So that's why paid ads is difficult to start."
+    },
+    {
+      "start": 1101.52,
+      "end": 1102.52,
+      "text": "It's also expensive to start."
+    },
+    {
+      "start": 1102.52,
+      "end": 1104.52,
+      "text": "It may not be the best thing for everyone,"
+    },
+    {
+      "start": 1104.52,
+      "end": 1105.52,
+      "text": "if you're on a very tight budget."
+    },
+    {
+      "start": 1105.52,
+      "end": 1108.52,
+      "text": "But you might need to be spending $100 a day"
+    },
+    {
+      "start": 1108.52,
+      "end": 1110.52,
+      "text": "on your tester's ad set,"
+    },
+    {
+      "start": 1110.52,
+      "end": 1113.52,
+      "text": "just to see if stuff is profitable."
+    },
+    {
+      "start": 1113.52,
+      "end": 1115.52,
+      "text": "Just to test."
+    },
+    {
+      "start": 1115.52,
+      "end": 1116.52,
+      "text": "And that's not even,"
+    },
+    {
+      "start": 1116.52,
+      "end": 1118.52,
+      "text": "like the goal of the tester's ad set"
+    },
+    {
+      "start": 1118.52,
+      "end": 1120.52,
+      "text": "isn't even trying to be profitable."
+    },
+    {
+      "start": 1120.52,
+      "end": 1122.52,
+      "text": "We're going to get more into this."
+    },
+    {
+      "start": 1122.52,
+      "end": 1124.52,
+      "text": "So let's keep going through."
+    },
+    {
+      "start": 1124.52,
+      "end": 1126.52,
+      "text": "Cost per result goal."
+    },
+    {
+      "start": 1126.52,
+      "end": 1130.52,
+      "text": "This is something where you can basically tell the algorithm,"
+    },
+    {
+      "start": 1130.52,
+      "end": 1134.52,
+      "text": "I'm trying to keep my cost per result goal around this number."
+    },
+    {
+      "start": 1134.52,
+      "end": 1138.52,
+      "text": "And it's not something I recommend starting with."
+    },
+    {
+      "start": 1138.52,
+      "end": 1140.52,
+      "text": "If your cost per result goal is extremely high,"
+    },
+    {
+      "start": 1140.52,
+      "end": 1142.52,
+      "text": "you could play around trying things out here."
+    },
+    {
+      "start": 1142.52,
+      "end": 1144.52,
+      "text": "Some people swear against this,"
+    },
+    {
+      "start": 1144.52,
+      "end": 1145.52,
+      "text": "because they think,"
+    },
+    {
+      "start": 1145.52,
+      "end": 1147.52,
+      "text": "okay, if you put your cost per result goal here,"
+    },
+    {
+      "start": 1147.52,
+      "end": 1149.52,
+      "text": "meta will try to keep it profitable,"
+    },
+    {
+      "start": 1149.52,
+      "end": 1150.52,
+      "text": "but decrease the margin,"
+    },
+    {
+      "start": 1150.52,
+      "end": 1152.52,
+      "text": "so you're not making it profitable."
+    },
+    {
+      "start": 1152.52,
+      "end": 1153.52,
+      "text": "But decrease the margin,"
+    },
+    {
+      "start": 1153.52,
+      "end": 1155.52,
+      "text": "so you're not making it as much profit,"
+    },
+    {
+      "start": 1155.52,
+      "end": 1157.52,
+      "text": "but it's still getting you that goal."
+    },
+    {
+      "start": 1157.52,
+      "end": 1160.52,
+      "text": "These are like some theories and loopholes"
+    },
+    {
+      "start": 1160.52,
+      "end": 1162.52,
+      "text": "about how the algorithm works."
+    },
+    {
+      "start": 1162.52,
+      "end": 1165.52,
+      "text": "We are using it on some campaigns for CaliI,"
+    },
+    {
+      "start": 1165.52,
+      "end": 1168.52,
+      "text": "and it's been working kind of well for us."
+    },
+    {
+      "start": 1168.52,
+      "end": 1170.52,
+      "text": "It's interesting, like the slightest change."
+    },
+    {
+      "start": 1170.52,
+      "end": 1174.52,
+      "text": "You change it half a dollar in your cost per result goal,"
+    },
+    {
+      "start": 1174.52,
+      "end": 1177.52,
+      "text": "and it will drop or increase the cost per result,"
+    },
+    {
+      "start": 1177.52,
+      "end": 1180.52,
+      "text": "like the spending to actually,"
+    },
+    {
+      "start": 1180.52,
+      "end": 1182.52,
+      "text": "this is cost per result goal."
+    },
+    {
+      "start": 1182.52,
+      "end": 1183.52,
+      "text": "This is not cost cap."
+    },
+    {
+      "start": 1183.52,
+      "end": 1185.52,
+      "text": "So that's actually different"
+    },
+    {
+      "start": 1185.52,
+      "end": 1186.52,
+      "text": "when I was saying for CaliI."
+    },
+    {
+      "start": 1186.52,
+      "end": 1187.52,
+      "text": "We do something called cost caps,"
+    },
+    {
+      "start": 1187.52,
+      "end": 1189.52,
+      "text": "where we literally don't let it spend"
+    },
+    {
+      "start": 1189.52,
+      "end": 1192.52,
+      "text": "more than a certain amount to acquire a customer."
+    },
+    {
+      "start": 1192.52,
+      "end": 1195.52,
+      "text": "So, okay, cost per result goal."
+    },
+    {
+      "start": 1195.52,
+      "end": 1197.52,
+      "text": "You don't put anything."
+    },
+    {
+      "start": 1197.52,
+      "end": 1199.52,
+      "text": "This is what I was saying about the attribution settings."
+    },
+    {
+      "start": 1199.52,
+      "end": 1201.52,
+      "text": "You could have seven a click or one day click."
+    },
+    {
+      "start": 1201.52,
+      "end": 1205.52,
+      "text": "Generally, one day click is better for faster learnings."
+    },
+    {
+      "start": 1205.52,
+      "end": 1207.52,
+      "text": "I would actually suggest starting on one day click,"
+    },
+    {
+      "start": 1207.52,
+      "end": 1209.52,
+      "text": "because then the algorithm will learn fast."
+    },
+    {
+      "start": 1209.52,
+      "end": 1212.52,
+      "text": "If you're only sending data back in the 24 hour window,"
+    },
+    {
+      "start": 1212.52,
+      "end": 1214.52,
+      "text": "if you do have a three day trial,"
+    },
+    {
+      "start": 1214.52,
+      "end": 1217.52,
+      "text": "and you're going to optimize on a conversion at the end of the three day trial,"
+    },
+    {
+      "start": 1217.52,
+      "end": 1219.52,
+      "text": "which for some apps, like I said in the beginning,"
+    },
+    {
+      "start": 1219.52,
+      "end": 1221.52,
+      "text": "nothing is what you have to do."
+    },
+    {
+      "start": 1221.52,
+      "end": 1224.52,
+      "text": "These are all just generally what works the best for my experience."
+    },
+    {
+      "start": 1224.52,
+      "end": 1225.52,
+      "text": "So you could try that."
+    },
+    {
+      "start": 1225.52,
+      "end": 1227.52,
+      "text": "I definitely encourage experimentation."
+    },
+    {
+      "start": 1227.52,
+      "end": 1229.52,
+      "text": "One day click, I was just starting with."
+    },
+    {
+      "start": 1229.52,
+      "end": 1231.52,
+      "text": "Because that's how you can get the fastest learnings."
+    },
+    {
+      "start": 1231.52,
+      "end": 1235.52,
+      "text": "The algorithm will learn the fastest to find your core users."
+    },
+    {
+      "start": 1235.52,
+      "end": 1237.52,
+      "text": "So daily budget is the tester."
+    },
+    {
+      "start": 1237.52,
+      "end": 1240.52,
+      "text": "So, yo, $20 a day."
+    },
+    {
+      "start": 1242.52,
+      "end": 1244.52,
+      "text": "Start day and date none."
+    },
+    {
+      "start": 1244.52,
+      "end": 1246.52,
+      "text": "Blah blah blah."
+    },
+    {
+      "start": 1246.52,
+      "end": 1249.52,
+      "text": "No saved audience or anything."
+    },
+    {
+      "start": 1251.52,
+      "end": 1252.52,
+      "text": "Okay."
+    },
+    {
+      "start": 1253.52,
+      "end": 1255.52,
+      "text": "Locations, inclusion."
+    },
+    {
+      "start": 1255.52,
+      "end": 1260.52,
+      "text": "So right now, I guess we have a default to the US is what we do for Kali."
+    },
+    {
+      "start": 1260.52,
+      "end": 1262.52,
+      "text": "That may be best honestly."
+    },
+    {
+      "start": 1262.52,
+      "end": 1266.52,
+      "text": "For, yeah, that's, I would recommend doing that."
+    },
+    {
+      "start": 1266.52,
+      "end": 1272.52,
+      "text": "Because what you'll eventually do is you'll have a bunch of different campaigns for different countries."
+    },
+    {
+      "start": 1272.52,
+      "end": 1274.52,
+      "text": "The US always says the most money to spend."
+    },
+    {
+      "start": 1274.52,
+      "end": 1276.52,
+      "text": "So I would suggest starting with just the US."
+    },
+    {
+      "start": 1276.52,
+      "end": 1278.52,
+      "text": "Sometimes people like the bundle in Canada,"
+    },
+    {
+      "start": 1278.52,
+      "end": 1281.52,
+      "text": "because Canada consumers are similar to United States."
+    },
+    {
+      "start": 1281.52,
+      "end": 1285.52,
+      "text": "So you could try both, but start with the US minimum age 18."
+    },
+    {
+      "start": 1285.52,
+      "end": 1288.52,
+      "text": "This is something that's kind of important to do."
+    },
+    {
+      "start": 1288.52,
+      "end": 1291.52,
+      "text": "Well, I guess it's the lowest you can do."
+    },
+    {
+      "start": 1291.52,
+      "end": 1292.52,
+      "text": "But yeah, okay."
+    },
+    {
+      "start": 1292.52,
+      "end": 1293.52,
+      "text": "Yeah, just keep it 18."
+    },
+    {
+      "start": 1293.52,
+      "end": 1294.52,
+      "text": "It doesn't really matter."
+    },
+    {
+      "start": 1294.52,
+      "end": 1298.52,
+      "text": "It's just like people that are under 18 have less money to spend."
+    },
+    {
+      "start": 1298.52,
+      "end": 1300.52,
+      "text": "So, so low conversion rates, whatever."
+    },
+    {
+      "start": 1300.52,
+      "end": 1306.52,
+      "text": "If you have a free trial, often times you may get a lot of people starting a trial that are young,"
+    },
+    {
+      "start": 1306.52,
+      "end": 1312.52,
+      "text": "but they won't actually convert from trial to paying if they're too young."
+    },
+    {
+      "start": 1312.52,
+      "end": 1314.52,
+      "text": "Okay, we keep on going through."
+    },
+    {
+      "start": 1314.52,
+      "end": 1317.52,
+      "text": "Keep on going through placements, blah blah."
+    },
+    {
+      "start": 1317.52,
+      "end": 1318.52,
+      "text": "Okay."
+    },
+    {
+      "start": 1318.52,
+      "end": 1322.52,
+      "text": "Boom, see apples, fucking privacy rules getting in the way of things."
+    },
+    {
+      "start": 1322.52,
+      "end": 1324.52,
+      "text": "But all right, we're going to click next."
+    },
+    {
+      "start": 1324.52,
+      "end": 1327.52,
+      "text": "And now we created our test add set."
+    },
+    {
+      "start": 1327.52,
+      "end": 1331.52,
+      "text": "So now this is where we can upload our first ad."
+    },
+    {
+      "start": 1331.52,
+      "end": 1335.52,
+      "text": "So test add one."
+    },
+    {
+      "start": 1335.52,
+      "end": 1338.52,
+      "text": "Test add one."
+    },
+    {
+      "start": 1338.52,
+      "end": 1343.52,
+      "text": "So in here, we're not actually going to upload it yet."
+    },
+    {
+      "start": 1343.52,
+      "end": 1348.52,
+      "text": "This is this does you got to upload now that so I'll walk you through really quick."
+    },
+    {
+      "start": 1348.52,
+      "end": 1352.52,
+      "text": "Now, actually, we will, we're going to publish this as is."
+    },
+    {
+      "start": 1352.52,
+      "end": 1354.52,
+      "text": "I'm actually going to delete that test add."
+    },
+    {
+      "start": 1354.52,
+      "end": 1357.52,
+      "text": "We probably could have just not launched with that."
+    },
+    {
+      "start": 1357.52,
+      "end": 1359.52,
+      "text": "Okay, it's publishing the changes."
+    },
+    {
+      "start": 1359.52,
+      "end": 1360.52,
+      "text": "Boom."
+    },
+    {
+      "start": 1360.52,
+      "end": 1364.52,
+      "text": "So tutorial campaign we go in, we see the ad set."
+    },
+    {
+      "start": 1364.52,
+      "end": 1366.52,
+      "text": "This should be the tester's ad set."
+    },
+    {
+      "start": 1366.52,
+      "end": 1376.52,
+      "text": "If it loads, we shall see if it loads."
+    },
+    {
+      "start": 1376.52,
+      "end": 1379.52,
+      "text": "Sometimes these platforms suck."
+    },
+    {
+      "start": 1379.52,
+      "end": 1381.52,
+      "text": "Maybe my life is just so."
+    },
+    {
+      "start": 1381.52,
+      "end": 1383.52,
+      "text": "Okay, testers add set."
+    },
+    {
+      "start": 1383.52,
+      "end": 1386.52,
+      "text": "So budget $20 a day, you can change it here."
+    },
+    {
+      "start": 1386.52,
+      "end": 1389.52,
+      "text": "And we're going to go inside."
+    },
+    {
+      "start": 1389.52,
+      "end": 1390.52,
+      "text": "This is our first ad."
+    },
+    {
+      "start": 1390.52,
+      "end": 1393.52,
+      "text": "So we do not want this ad actually."
+    },
+    {
+      "start": 1393.52,
+      "end": 1399.52,
+      "text": "Let me edit this and delete it."
+    },
+    {
+      "start": 1399.52,
+      "end": 1400.52,
+      "text": "Boom."
+    },
+    {
+      "start": 1400.52,
+      "end": 1402.52,
+      "text": "Okay."
+    },
+    {
+      "start": 1402.52,
+      "end": 1405.52,
+      "text": "Well, we do actually want to start creating ads."
+    },
+    {
+      "start": 1405.52,
+      "end": 1408.52,
+      "text": "So you can see the testers campaign."
+    },
+    {
+      "start": 1408.52,
+      "end": 1411.52,
+      "text": "You will want to create some ads."
+    },
+    {
+      "start": 1411.52,
+      "end": 1412.52,
+      "text": "So name this ad."
+    },
+    {
+      "start": 1412.52,
+      "end": 1414.52,
+      "text": "You could have done it back then."
+    },
+    {
+      "start": 1414.52,
+      "end": 1416.52,
+      "text": "But okay, testers one."
+    },
+    {
+      "start": 1416.52,
+      "end": 1419.52,
+      "text": "This is where you'll actually drop your ads."
+    },
+    {
+      "start": 1419.52,
+      "end": 1421.52,
+      "text": "And I just just dropping."
+    },
+    {
+      "start": 1421.52,
+      "end": 1425.52,
+      "text": "Like a few at a time that are different angles at least in the beginning."
+    },
+    {
+      "start": 1425.52,
+      "end": 1429.52,
+      "text": "Maybe like try to record five to ten completely different angles."
+    },
+    {
+      "start": 1429.52,
+      "end": 1431.52,
+      "text": "Just throw them all in the test add set."
+    },
+    {
+      "start": 1431.52,
+      "end": 1434.52,
+      "text": "And the algorithm will figure out what is spending the best."
+    },
+    {
+      "start": 1434.52,
+      "end": 1437.52,
+      "text": "And we're going to get into creatives in the next segment."
+    },
+    {
+      "start": 1437.52,
+      "end": 1438.52,
+      "text": "But okay."
+    },
+    {
+      "start": 1438.52,
+      "end": 1447.52,
+      "text": "So you don't need to do much manual upload single image or video."
+    },
+    {
+      "start": 1447.52,
+      "end": 1450.52,
+      "text": "Something interesting you could do is custom product page,"
+    },
+    {
+      "start": 1450.52,
+      "end": 1456.52,
+      "text": "which we're going to get into later that can help you override Apple's privacy bullshit."
+    },
+    {
+      "start": 1456.52,
+      "end": 1459.52,
+      "text": "Okay, I've actually p really badly."
+    },
+    {
+      "start": 1459.52,
+      "end": 1463.52,
+      "text": "So yeah, after this, I'm going to take a break."
+    },
+    {
+      "start": 1463.52,
+      "end": 1466.52,
+      "text": "So add creative boom."
+    },
+    {
+      "start": 1466.52,
+      "end": 1468.52,
+      "text": "So add creative video ad."
+    },
+    {
+      "start": 1468.52,
+      "end": 1469.52,
+      "text": "And then here you can upload it."
+    },
+    {
+      "start": 1469.52,
+      "end": 1471.52,
+      "text": "I guess we have a bunch here."
+    },
+    {
+      "start": 1471.52,
+      "end": 1476.52,
+      "text": "So yeah, you could click upload and send what I'm just going to put one in that we already have."
+    },
+    {
+      "start": 1476.52,
+      "end": 1478.52,
+      "text": "You could edit it if you need to."
+    },
+    {
+      "start": 1478.52,
+      "end": 1480.52,
+      "text": "It will show you what it will kind of look like."
+    },
+    {
+      "start": 1480.52,
+      "end": 1482.52,
+      "text": "You'll want to write a primary text."
+    },
+    {
+      "start": 1482.52,
+      "end": 1486.52,
+      "text": "And this is something you're going to need to experiment with."
+    },
+    {
+      "start": 1486.52,
+      "end": 1489.52,
+      "text": "I recommend doing like a main call to action."
+    },
+    {
+      "start": 1489.52,
+      "end": 1494.52,
+      "text": "It's actually see what we do on the main Calais once as a reference."
+    },
+    {
+      "start": 1494.52,
+      "end": 1500.52,
+      "text": "So on the main Calais ads, we will write."
+    },
+    {
+      "start": 1500.52,
+      "end": 1506.52,
+      "text": "Let's see."
+    },
+    {
+      "start": 1506.52,
+      "end": 1509.52,
+      "text": "We write AI can now count your calories just from a photo."
+    },
+    {
+      "start": 1509.52,
+      "end": 1513.52,
+      "text": "Calais turns the camera into a smart tracker giving you instant nutritional breakdowns."
+    },
+    {
+      "start": 1513.52,
+      "end": 1518.52,
+      "text": "You can hit your goals without wasting time when manual logging."
+    },
+    {
+      "start": 1518.52,
+      "end": 1520.52,
+      "text": "And the headline AI counts your food for you."
+    },
+    {
+      "start": 1520.52,
+      "end": 1522.52,
+      "text": "So you could see what it looks like here."
+    },
+    {
+      "start": 1522.52,
+      "end": 1523.52,
+      "text": "AI counts your food for you."
+    },
+    {
+      "start": 1523.52,
+      "end": 1524.52,
+      "text": "AI can now count your calories."
+    },
+    {
+      "start": 1524.52,
+      "end": 1526.52,
+      "text": "It looks like an organic post almost."
+    },
+    {
+      "start": 1526.52,
+      "end": 1528.52,
+      "text": "This is what it looks like on Facebook."
+    },
+    {
+      "start": 1528.52,
+      "end": 1538.52,
+      "text": "And then this is what it looks like on Instagram."
+    },
+    {
+      "start": 1538.52,
+      "end": 1540.52,
+      "text": "So you could put whatever you want here."
+    },
+    {
+      "start": 1540.52,
+      "end": 1543.52,
+      "text": "But yeah, the headline should be like short and sweet."
+    },
+    {
+      "start": 1543.52,
+      "end": 1547.52,
+      "text": "The primary text is more of like a description of what your app is."
+    },
+    {
+      "start": 1547.52,
+      "end": 1550.52,
+      "text": "And to be honest, this doesn't matter too much."
+    },
+    {
+      "start": 1550.52,
+      "end": 1553.52,
+      "text": "Just try to sound really authentic with the brand messaging."
+    },
+    {
+      "start": 1553.52,
+      "end": 1555.52,
+      "text": "Try not to sound like an ad."
+    },
+    {
+      "start": 1555.52,
+      "end": 1558.52,
+      "text": "If you sound too much like an ad, you're not going to fucking convert."
+    },
+    {
+      "start": 1558.52,
+      "end": 1560.52,
+      "text": "And that's the biggest thing at the end of the day."
+    },
+    {
+      "start": 1560.52,
+      "end": 1564.52,
+      "text": "Everything to do with distribution and advertisement is a game of just coming off as authentic."
+    },
+    {
+      "start": 1564.52,
+      "end": 1567.52,
+      "text": "If you write like,"
+    },
+    {
+      "start": 1567.52,
+      "end": 1574.52,
+      "text": "if you do the typical salesman stuff, and it's like,"
+    },
+    {
+      "start": 1574.52,
+      "end": 1578.52,
+      "text": "do you want to get in shape for the summer?"
+    },
+    {
+      "start": 1578.52,
+      "end": 1580.52,
+      "text": "Well, you need a Cal AI."
+    },
+    {
+      "start": 1580.52,
+      "end": 1583.52,
+      "text": "And it's 20% off for the next few weeks."
+    },
+    {
+      "start": 1583.52,
+      "end": 1584.52,
+      "text": "Buy it today."
+    },
+    {
+      "start": 1584.52,
+      "end": 1586.52,
+      "text": "It's like no one's going to convert."
+    },
+    {
+      "start": 1586.52,
+      "end": 1589.52,
+      "text": "Yes, a small amount will, but that sounds way worse."
+    },
+    {
+      "start": 1589.52,
+      "end": 1592.52,
+      "text": "I'm being like, yo bro, it's time for that summer cut."
+    },
+    {
+      "start": 1592.52,
+      "end": 1594.52,
+      "text": "Let's get on it at Cal AI."
+    },
+    {
+      "start": 1594.52,
+      "end": 1595.52,
+      "text": "Something like that."
+    },
+    {
+      "start": 1595.52,
+      "end": 1597.52,
+      "text": "It sounds way more authentic."
+    },
+    {
+      "start": 1597.52,
+      "end": 1603.52,
+      "text": "And that's what people like to see at the end of the day in this world of internet marketing."
+    },
+    {
+      "start": 1603.52,
+      "end": 1605.52,
+      "text": "People do not trust brands."
+    },
+    {
+      "start": 1605.52,
+      "end": 1606.52,
+      "text": "You don't."
+    },
+    {
+      "start": 1606.52,
+      "end": 1607.52,
+      "text": "It's the truth."
+    },
+    {
+      "start": 1607.52,
+      "end": 1609.52,
+      "text": "So you have to sound like your cool guy."
+    },
+    {
+      "start": 1609.52,
+      "end": 1610.52,
+      "text": "Sounds just like a cool dude."
+    },
+    {
+      "start": 1610.52,
+      "end": 1614.52,
+      "text": "So write your primary text, write your headline, do whatever you want there."
+    },
+    {
+      "start": 1614.52,
+      "end": 1616.52,
+      "text": "I showed you what we have."
+    },
+    {
+      "start": 1616.52,
+      "end": 1618.52,
+      "text": "And then the call to action."
+    },
+    {
+      "start": 1618.52,
+      "end": 1620.52,
+      "text": "Usually we do download download install."
+    },
+    {
+      "start": 1620.52,
+      "end": 1621.52,
+      "text": "Now I don't think this matters."
+    },
+    {
+      "start": 1621.52,
+      "end": 1623.52,
+      "text": "This is all stuff you can test and play around with."
+    },
+    {
+      "start": 1623.52,
+      "end": 1625.52,
+      "text": "We actually didn't do much testing on this early on."
+    },
+    {
+      "start": 1625.52,
+      "end": 1628.52,
+      "text": "We just wrote something and it's just stuck."
+    },
+    {
+      "start": 1628.52,
+      "end": 1630.52,
+      "text": "So ask Judge VT to get some help."
+    },
+    {
+      "start": 1630.52,
+      "end": 1632.52,
+      "text": "Short and sweet sound authentic."
+    },
+    {
+      "start": 1632.52,
+      "end": 1633.52,
+      "text": "Okay, enhancements."
+    },
+    {
+      "start": 1633.52,
+      "end": 1635.52,
+      "text": "I'm going to really look at this stuff."
+    },
+    {
+      "start": 1635.52,
+      "end": 1638.52,
+      "text": "I just sit down."
+    },
+    {
+      "start": 1638.52,
+      "end": 1639.52,
+      "text": "And there we go."
+    },
+    {
+      "start": 1639.52,
+      "end": 1646.52,
+      "text": "Sad fucking music."
+    },
+    {
+      "start": 1646.52,
+      "end": 1648.52,
+      "text": "But we could just keep adding new ads."
+    },
+    {
+      "start": 1648.52,
+      "end": 1649.52,
+      "text": "Create ad."
+    },
+    {
+      "start": 1649.52,
+      "end": 1650.52,
+      "text": "You just keep adding new ones."
+    },
+    {
+      "start": 1650.52,
+      "end": 1652.52,
+      "text": "Duplicate whatever."
+    },
+    {
+      "start": 1652.52,
+      "end": 1656.52,
+      "text": "And once you're done with all of that, you'll want to hit publish."
+    },
+    {
+      "start": 1656.52,
+      "end": 1657.52,
+      "text": "I'm going to hit publish."
+    },
+    {
+      "start": 1657.52,
+      "end": 1659.52,
+      "text": "It will put it here."
+    },
+    {
+      "start": 1659.52,
+      "end": 1662.52,
+      "text": "Your campaign will need to be reviewed."
+    },
+    {
+      "start": 1662.52,
+      "end": 1665.52,
+      "text": "It will say no ads for like 24 hours or something."
+    },
+    {
+      "start": 1665.52,
+      "end": 1669.52,
+      "text": "While it's in review."
+    },
+    {
+      "start": 1669.52,
+      "end": 1671.52,
+      "text": "Is it your ads have to process?"
+    },
+    {
+      "start": 1671.52,
+      "end": 1674.52,
+      "text": "Then it will go to like interview and whatever."
+    },
+    {
+      "start": 1674.52,
+      "end": 1676.52,
+      "text": "You'll see all that happening."
+    },
+    {
+      "start": 1676.52,
+      "end": 1679.52,
+      "text": "And then once all of it's done, it will finally start spending."
+    },
+    {
+      "start": 1679.52,
+      "end": 1683.52,
+      "text": "And because the ad set is $20 a day, all of the ads in here."
+    },
+    {
+      "start": 1683.52,
+      "end": 1685.52,
+      "text": "Essentially the algorithm will."
+    },
+    {
+      "start": 1685.52,
+      "end": 1686.52,
+      "text": "It won't spend them."
+    },
+    {
+      "start": 1686.52,
+      "end": 1693.52,
+      "text": "And necessarily it will usually pick out the best one and put like 90% of the budget into the best one."
+    },
+    {
+      "start": 1693.52,
+      "end": 1702.52,
+      "text": "And the strategy essentially looks like what you'll want to do is just see whichever ad is getting the most money put into it."
+    },
+    {
+      "start": 1702.52,
+      "end": 1708.52,
+      "text": "If the cost per result, which is."
+    },
+    {
+      "start": 1708.52,
+      "end": 1710.52,
+      "text": "Where is the cost per result?"
+    },
+    {
+      "start": 1710.52,
+      "end": 1711.52,
+      "text": "Should be one of these."
+    },
+    {
+      "start": 1711.52,
+      "end": 1712.52,
+      "text": "Is this it?"
+    },
+    {
+      "start": 1712.52,
+      "end": 1716.52,
+      "text": "Oh, okay, here we go."
+    },
+    {
+      "start": 1716.52,
+      "end": 1719.52,
+      "text": "You could change these columns."
+    },
+    {
+      "start": 1719.52,
+      "end": 1720.52,
+      "text": "You might, you might."
+    },
+    {
+      "start": 1720.52,
+      "end": 1724.52,
+      "text": "Yeah, I don't know if your columns are probably not ordered like this."
+    },
+    {
+      "start": 1724.52,
+      "end": 1726.52,
+      "text": "I realize you could go in here."
+    },
+    {
+      "start": 1726.52,
+      "end": 1728.52,
+      "text": "Columns."
+    },
+    {
+      "start": 1728.52,
+      "end": 1730.52,
+      "text": "Customize columns."
+    },
+    {
+      "start": 1730.52,
+      "end": 1733.52,
+      "text": "And these are the columns that I have clicked actions."
+    },
+    {
+      "start": 1733.52,
+      "end": 1738.52,
+      "text": "Mount spent click through impressions delivery reach results attribution setting."
+    },
+    {
+      "start": 1738.52,
+      "end": 1739.52,
+      "text": "Cost per."
+    },
+    {
+      "start": 1739.52,
+      "end": 1744.52,
+      "text": "That's one of the, that's probably the most important actually."
+    },
+    {
+      "start": 1744.52,
+      "end": 1746.52,
+      "text": "App installs."
+    },
+    {
+      "start": 1746.52,
+      "end": 1747.52,
+      "text": "Cool."
+    },
+    {
+      "start": 1747.52,
+      "end": 1749.52,
+      "text": "So."
+    },
+    {
+      "start": 1749.52,
+      "end": 1753.52,
+      "text": "That's it name whatever I don't, I think this stuff is default."
+    },
+    {
+      "start": 1753.52,
+      "end": 1758.52,
+      "text": "And then I believe you could like move it around to in the customize and in the custom columns."
+    },
+    {
+      "start": 1758.52,
+      "end": 1760.52,
+      "text": "So this is how I put it."
+    },
+    {
+      "start": 1760.52,
+      "end": 1762.52,
+      "text": "I'll show you how much it's spending."
+    },
+    {
+      "start": 1762.52,
+      "end": 1767.52,
+      "text": "And you'll want to rank all the ads you have after like a few days of it."
+    },
+    {
+      "start": 1767.52,
+      "end": 1768.52,
+      "text": "Running $20 a day."
+    },
+    {
+      "start": 1768.52,
+      "end": 1770.52,
+      "text": "You want to put highest to low spending."
+    },
+    {
+      "start": 1770.52,
+      "end": 1777.52,
+      "text": "And whatever is the highest spending for some reason the algorithm really has a bias towards it."
+    },
+    {
+      "start": 1777.52,
+      "end": 1781.52,
+      "text": "If the cost per result is super unprofitable, extremely unprofitable,"
+    },
+    {
+      "start": 1781.52,
+      "end": 1784.52,
+      "text": "we're not extreme, but if it's just pretty unprofitable,"
+    },
+    {
+      "start": 1784.52,
+      "end": 1787.52,
+      "text": "you will want to turn off the ad."
+    },
+    {
+      "start": 1787.52,
+      "end": 1788.52,
+      "text": "You want to turn it off."
+    },
+    {
+      "start": 1788.52,
+      "end": 1792.52,
+      "text": "And that will allow the algorithm to start spending in other ads."
+    },
+    {
+      "start": 1792.52,
+      "end": 1797.52,
+      "text": "Because like I said, it will choose one and then just put all of the fuel into that one."
+    },
+    {
+      "start": 1797.52,
+      "end": 1800.52,
+      "text": "And so if it's not profitable, you want to give the algorithm a chance to test the other ones."
+    },
+    {
+      "start": 1800.52,
+      "end": 1804.52,
+      "text": "Generally, it's going to pick whatever will have the lowest cost per result."
+    },
+    {
+      "start": 1804.52,
+      "end": 1806.52,
+      "text": "If that's what you're optimizing for."
+    },
+    {
+      "start": 1806.52,
+      "end": 1810.52,
+      "text": "But it's still a good thing if you see like one of them is getting $19 a day and the other one"
+    },
+    {
+      "start": 1810.52,
+      "end": 1811.52,
+      "text": "are getting a few cents."
+    },
+    {
+      "start": 1811.52,
+      "end": 1813.52,
+      "text": "They're probably not getting enough."
+    },
+    {
+      "start": 1813.52,
+      "end": 1818.52,
+      "text": "It's, it's not necessarily enough testing done to know if it's profitable."
+    },
+    {
+      "start": 1818.52,
+      "end": 1821.52,
+      "text": "Honestly, for the most time, it will be correct."
+    },
+    {
+      "start": 1821.52,
+      "end": 1822.52,
+      "text": "The algorithm will work."
+    },
+    {
+      "start": 1822.52,
+      "end": 1825.52,
+      "text": "So like in bulk, you can just start uploading a ton."
+    },
+    {
+      "start": 1825.52,
+      "end": 1828.52,
+      "text": "You could upload up to 50 ads in an ad set, I believe."
+    },
+    {
+      "start": 1828.52,
+      "end": 1829.52,
+      "text": "So you could just keep uploading."
+    },
+    {
+      "start": 1829.52,
+      "end": 1833.52,
+      "text": "And then whichever is our gift, whichever is getting the most spend."
+    },
+    {
+      "start": 1833.52,
+      "end": 1838.52,
+      "text": "It's probably going to have the lowest cost per result as well."
+    },
+    {
+      "start": 1838.52,
+      "end": 1843.52,
+      "text": "So if you see that it's unprofitable, we turn it off."
+    },
+    {
+      "start": 1843.52,
+      "end": 1844.52,
+      "text": "We upload new ones."
+    },
+    {
+      "start": 1844.52,
+      "end": 1847.52,
+      "text": "If you see that, it's profitable."
+    },
+    {
+      "start": 1847.52,
+      "end": 1853.52,
+      "text": "Usually by the way, what most people do is they'll wait until an ad gets $100 in spending."
+    },
+    {
+      "start": 1853.52,
+      "end": 1858.52,
+      "text": "$100 in spending, unprofitably, then they'll turn it off."
+    },
+    {
+      "start": 1858.52,
+      "end": 1866.52,
+      "text": "And if it's $100 in spending profitably, then they will move it to the winners ad set."
+    },
+    {
+      "start": 1866.52,
+      "end": 1868.52,
+      "text": "And we're going to talk about that soon."
+    },
+    {
+      "start": 1868.52,
+      "end": 1870.52,
+      "text": "But that's the strat right now."
+    },
+    {
+      "start": 1870.52,
+      "end": 1873.52,
+      "text": "It's just like create a ton of different angles."
+    },
+    {
+      "start": 1873.52,
+      "end": 1875.52,
+      "text": "If you see an angle, that's working really well."
+    },
+    {
+      "start": 1875.52,
+      "end": 1877.52,
+      "text": "Create more content in that angle."
+    },
+    {
+      "start": 1877.52,
+      "end": 1879.52,
+      "text": "And we're going to talk about creatives."
+    },
+    {
+      "start": 1879.52,
+      "end": 1888.52,
+      "text": "If something is doing really good in testers, I would just starting to scale the testers ad set."
+    },
+    {
+      "start": 1888.52,
+      "end": 1896.52,
+      "text": "What you'll want to do is scale up the budget from $20 daily to."
+    },
+    {
+      "start": 1896.52,
+      "end": 1901.52,
+      "text": "Well, you'll want to go up 20 to 30%."
+    },
+    {
+      "start": 1901.52,
+      "end": 1905.52,
+      "text": "Every like two days, two to three days, that is profitable."
+    },
+    {
+      "start": 1905.52,
+      "end": 1908.52,
+      "text": "If you increase the budget more than 20 to 30%."
+    },
+    {
+      "start": 1908.52,
+      "end": 1910.52,
+      "text": "More than 30%."
+    },
+    {
+      "start": 1910.52,
+      "end": 1913.52,
+      "text": "Actually, it will go into learning again."
+    },
+    {
+      "start": 1913.52,
+      "end": 1918.52,
+      "text": "And you don't want your ads to go into learning all the time because then that takes a while to get out of learning."
+    },
+    {
+      "start": 1918.52,
+      "end": 1924.52,
+      "text": "It's not a bad thing every once in a while to go and learning, especially if your budget is high enough where you're getting the 50 conversions."
+    },
+    {
+      "start": 1924.52,
+      "end": 1926.52,
+      "text": "Every single day."
+    },
+    {
+      "start": 1926.52,
+      "end": 1929.52,
+      "text": "Then getting and learning is not a is not a problem."
+    },
+    {
+      "start": 1929.52,
+      "end": 1932.52,
+      "text": "But if it's like $20 a day, you're spending."
+    },
+    {
+      "start": 1932.52,
+      "end": 1934.52,
+      "text": "And so it's going to take weeks to get out of learning."
+    },
+    {
+      "start": 1934.52,
+      "end": 1938.52,
+      "text": "It would be pretty devastating to put an ad back into learning."
+    },
+    {
+      "start": 1938.52,
+      "end": 1940.52,
+      "text": "So it's going to hurt performance."
+    },
+    {
+      "start": 1940.52,
+      "end": 1942.52,
+      "text": "It's going to hurt performance for a little."
+    },
+    {
+      "start": 1942.52,
+      "end": 1945.52,
+      "text": "The algorithm will start like relearning what works."
+    },
+    {
+      "start": 1945.52,
+      "end": 1951.52,
+      "text": "Almost from like, yeah, not from scratch, but it may throw things off for your ads performance."
+    },
+    {
+      "start": 1951.52,
+      "end": 1956.52,
+      "text": "So I know I'm throwing a lot of just dense information at you."
+    },
+    {
+      "start": 1956.52,
+      "end": 1963.52,
+      "text": "To bring it all down, what you're going to want to do is create the campaign, create the ad set as I showed you."
+    },
+    {
+      "start": 1963.52,
+      "end": 1967.52,
+      "text": "In the testers ad set, you're just going to want to start throwing ads in here."
+    },
+    {
+      "start": 1967.52,
+      "end": 1970.52,
+      "text": "And the ones that are doing good."
+    },
+    {
+      "start": 1970.52,
+      "end": 1972.52,
+      "text": "You will want to."
+    },
+    {
+      "start": 1972.52,
+      "end": 1977.52,
+      "text": "You'll want to keep if they get $100 in."
+    },
+    {
+      "start": 1978.52,
+      "end": 1983.52,
+      "text": "Spend it and they're unprofitable. Let's turn them off."
+    },
+    {
+      "start": 1983.52,
+      "end": 1986.52,
+      "text": "So then we will create another ad set."
+    },
+    {
+      "start": 1986.52,
+      "end": 1989.52,
+      "text": "And this will be the winners."
+    },
+    {
+      "start": 1989.52,
+      "end": 1991.52,
+      "text": "Winners ad set."
+    },
+    {
+      "start": 1991.52,
+      "end": 1996.52,
+      "text": "So this will have the same things, but this will have more money."
+    },
+    {
+      "start": 1996.52,
+      "end": 1998.52,
+      "text": "$100 a day."
+    },
+    {
+      "start": 1998.52,
+      "end": 2003.52,
+      "text": "This ad set is for all of the ads that are actually profitable."
+    },
+    {
+      "start": 2003.52,
+      "end": 2006.52,
+      "text": "It's for all the ads that worked in the testers."
+    },
+    {
+      "start": 2006.52,
+      "end": 2013.52,
+      "text": "Anything that got $100 in spending and their cost per result was a profitable cost per result."
+    },
+    {
+      "start": 2013.52,
+      "end": 2018.52,
+      "text": "What you'll want to do is this is inside the testers."
+    },
+    {
+      "start": 2018.52,
+      "end": 2027.52,
+      "text": "You'll want to click duplicate existing campaign."
+    },
+    {
+      "start": 2028.52,
+      "end": 2031.52,
+      "text": "Original campaign."
+    },
+    {
+      "start": 2031.52,
+      "end": 2034.52,
+      "text": "Actually."
+    },
+    {
+      "start": 2034.52,
+      "end": 2037.52,
+      "text": "On Zim not."
+    },
+    {
+      "start": 2037.52,
+      "end": 2039.52,
+      "text": "Yeah, actually, no idea."
+    },
+    {
+      "start": 2039.52,
+      "end": 2042.52,
+      "text": "We're going to figure this out."
+    },
+    {
+      "start": 2042.52,
+      "end": 2045.52,
+      "text": "Duplicate existing campaign."
+    },
+    {
+      "start": 2045.52,
+      "end": 2049.52,
+      "text": "Existing ads instead of the existing ads that we go to winners."
+    },
+    {
+      "start": 2049.52,
+      "end": 2051.52,
+      "text": "So we'll duplicate it there."
+    },
+    {
+      "start": 2051.52,
+      "end": 2055.52,
+      "text": "And what this will do is it will move over the ad to the winners campaign."
+    },
+    {
+      "start": 2055.52,
+      "end": 2058.52,
+      "text": "So."
+    },
+    {
+      "start": 2058.52,
+      "end": 2061.52,
+      "text": "Once you do that, I think it's the objective mismatch."
+    },
+    {
+      "start": 2061.52,
+      "end": 2064.52,
+      "text": "Oh, the objective here was app events."
+    },
+    {
+      "start": 2064.52,
+      "end": 2066.52,
+      "text": "We did not make it start trial."
+    },
+    {
+      "start": 2066.52,
+      "end": 2067.52,
+      "text": "Okay, cool."
+    },
+    {
+      "start": 2067.52,
+      "end": 2069.52,
+      "text": "That should get rid of the errors."
+    },
+    {
+      "start": 2069.52,
+      "end": 2078.52,
+      "text": "We've got to save that."
+    },
+    {
+      "start": 2078.52,
+      "end": 2082.52,
+      "text": "So now in winner since we moved it over, you will have the ad that we copied over."
+    },
+    {
+      "start": 2083.52,
+      "end": 2085.52,
+      "text": "It copied everything."
+    },
+    {
+      "start": 2085.52,
+      "end": 2088.52,
+      "text": "I'm going to go p-alder it back."
+    },
+    {
+      "start": 2088.52,
+      "end": 2090.52,
+      "text": "Okay, I'm back."
+    },
+    {
+      "start": 2090.52,
+      "end": 2093.52,
+      "text": "So I just changed this sheet right now."
+    },
+    {
+      "start": 2093.52,
+      "end": 2098.52,
+      "text": "When the ad hits $100, we want to either turn it off or move it to the winners' ad."
+    },
+    {
+      "start": 2098.52,
+      "end": 2102.52,
+      "text": "So I just wanted to clarify that on the sheet."
+    },
+    {
+      "start": 2102.52,
+      "end": 2105.52,
+      "text": "The whole $20 thing and scaling."
+    },
+    {
+      "start": 2105.52,
+      "end": 2107.52,
+      "text": "So just like full circle."
+    },
+    {
+      "start": 2107.52,
+      "end": 2111.52,
+      "text": "I just want to collect our thoughts because this is super long module."
+    },
+    {
+      "start": 2111.52,
+      "end": 2114.52,
+      "text": "We went through a lot."
+    },
+    {
+      "start": 2114.52,
+      "end": 2117.52,
+      "text": "We went through a lot."
+    },
+    {
+      "start": 2117.52,
+      "end": 2123.52,
+      "text": "Ideally, you can increase the tester's ad set from $20 a day to more."
+    },
+    {
+      "start": 2123.52,
+      "end": 2127.52,
+      "text": "The reason you actually have to start at $20 should have mentioned this."
+    },
+    {
+      "start": 2127.52,
+      "end": 2131.52,
+      "text": "When you first create an ad account, it limits you to like $50 a day max."
+    },
+    {
+      "start": 2131.52,
+      "end": 2134.52,
+      "text": "And then the second week, you could do $150 a day."
+    },
+    {
+      "start": 2134.52,
+      "end": 2137.52,
+      "text": "And then third week, maybe $200 or $300."
+    },
+    {
+      "start": 2137.52,
+      "end": 2139.52,
+      "text": "It just keeps scaling."
+    },
+    {
+      "start": 2139.52,
+      "end": 2143.52,
+      "text": "So you have to kind of start slow."
+    },
+    {
+      "start": 2143.52,
+      "end": 2144.52,
+      "text": "You have to start slow."
+    },
+    {
+      "start": 2144.52,
+      "end": 2149.52,
+      "text": "In terms of increasing the budget."
+    },
+    {
+      "start": 2149.52,
+      "end": 2153.52,
+      "text": "You can do it for you should do it for both the testers and winners."
+    },
+    {
+      "start": 2153.52,
+      "end": 2156.52,
+      "text": "But primarily, you're going to want to scale up the winners."
+    },
+    {
+      "start": 2156.52,
+      "end": 2158.52,
+      "text": "Not necessarily the testers."
+    },
+    {
+      "start": 2158.52,
+      "end": 2163.52,
+      "text": "Like the testers at the scale that you guys are going to be operating."
+    },
+    {
+      "start": 2163.52,
+      "end": 2171.52,
+      "text": "You probably only need it at like $100 a couple hundred dollars a day max for a Cali."
+    },
+    {
+      "start": 2171.52,
+      "end": 2173.52,
+      "text": "Let's look at our testers."
+    },
+    {
+      "start": 2173.52,
+      "end": 2175.52,
+      "text": "I don't actually hours is very complicated."
+    },
+    {
+      "start": 2175.52,
+      "end": 2181.52,
+      "text": "We have a lot of campaigns, but here's like, let's let's look at our amount spent."
+    },
+    {
+      "start": 2181.52,
+      "end": 2183.52,
+      "text": "So okay, this is a testing campaign."
+    },
+    {
+      "start": 2183.52,
+      "end": 2187.52,
+      "text": "And we spent $933 today."
+    },
+    {
+      "start": 2187.52,
+      "end": 2188.52,
+      "text": "And today's not over yet."
+    },
+    {
+      "start": 2188.52,
+      "end": 2192.52,
+      "text": "So this is probably unlike $2,000 a day to this one."
+    },
+    {
+      "start": 2192.52,
+      "end": 2194.52,
+      "text": "To this one test campaign."
+    },
+    {
+      "start": 2194.52,
+      "end": 2200.52,
+      "text": "And by the way, we're doing testing at the campaign level and not the ad set level, which is another difference."
+    },
+    {
+      "start": 2200.52,
+      "end": 2202.52,
+      "text": "But this is more complex."
+    },
+    {
+      "start": 2202.52,
+      "end": 2206.52,
+      "text": "You guys don't need to worry about this stuff."
+    },
+    {
+      "start": 2206.52,
+      "end": 2207.52,
+      "text": "Cool."
+    },
+    {
+      "start": 2207.52,
+      "end": 2209.52,
+      "text": "Yeah, just to like go through here."
+    },
+    {
+      "start": 2209.52,
+      "end": 2211.52,
+      "text": "So you guys get some like value."
+    },
+    {
+      "start": 2211.52,
+      "end": 2218.52,
+      "text": "I mean, this is like, so you'll see eventually as you start scaling, you'll be able to see the amount you're spending."
+    },
+    {
+      "start": 2218.52,
+      "end": 2221.52,
+      "text": "The cost per result."
+    },
+    {
+      "start": 2221.52,
+      "end": 2223.52,
+      "text": "And the cost per result."
+    },
+    {
+      "start": 2223.52,
+      "end": 2225.52,
+      "text": "We're going to talk about this more."
+    },
+    {
+      "start": 2225.52,
+      "end": 2228.52,
+      "text": "But it's because of Apple's privacy rules."
+    },
+    {
+      "start": 2228.52,
+      "end": 2229.52,
+      "text": "They're never actually accurate."
+    },
+    {
+      "start": 2229.52,
+      "end": 2238.52,
+      "text": "Usually they're about 50% better or it could be up to 50% better is usually the case."
+    },
+    {
+      "start": 2238.52,
+      "end": 2240.52,
+      "text": "Budging impressions, click through it."
+    },
+    {
+      "start": 2240.52,
+      "end": 2242.52,
+      "text": "That's like an important thing for creatives will get into."
+    },
+    {
+      "start": 2242.52,
+      "end": 2244.52,
+      "text": "But all right, whatever."
+    },
+    {
+      "start": 2244.52,
+      "end": 2246.52,
+      "text": "Can't give you guys."
+    },
+    {
+      "start": 2246.52,
+      "end": 2253.52,
+      "text": "I think this is, I think this is a good amount of info for one module."
+    },
+    {
+      "start": 2253.52,
+      "end": 2256.52,
+      "text": "Anything I'm forgetting."
+    },
+    {
+      "start": 2256.52,
+      "end": 2257.52,
+      "text": "I don't know."
+    },
+    {
+      "start": 2257.52,
+      "end": 2259.52,
+      "text": "Honestly, I might have missed stuff."
+    },
+    {
+      "start": 2259.52,
+      "end": 2262.52,
+      "text": "I know that this specific module was confusing."
+    },
+    {
+      "start": 2262.52,
+      "end": 2263.52,
+      "text": "It was a lot."
+    },
+    {
+      "start": 2263.52,
+      "end": 2264.52,
+      "text": "A lot."
+    },
+    {
+      "start": 2264.52,
+      "end": 2265.52,
+      "text": "I just threw it at you."
+    },
+    {
+      "start": 2265.52,
+      "end": 2267.52,
+      "text": "And I want to reiterate, I'm not an expert at paid ads."
+    },
+    {
+      "start": 2267.52,
+      "end": 2269.52,
+      "text": "We primarily grew."
+    },
+    {
+      "start": 2269.52,
+      "end": 2271.52,
+      "text": "Callie, I threw influencer marketing."
+    },
+    {
+      "start": 2271.52,
+      "end": 2272.52,
+      "text": "I started the paid ads."
+    },
+    {
+      "start": 2272.52,
+      "end": 2275.52,
+      "text": "I spoke to a lot of founders to learn their strategies."
+    },
+    {
+      "start": 2275.52,
+      "end": 2280.52,
+      "text": "And then I ultimately hired someone on the team to take over."
+    },
+    {
+      "start": 2280.52,
+      "end": 2284.52,
+      "text": "So this should give you the ability to get started."
+    },
+    {
+      "start": 2284.52,
+      "end": 2286.52,
+      "text": "And obviously finish the rest of the modules."
+    },
+    {
+      "start": 2286.52,
+      "end": 2287.52,
+      "text": "You're not there yet."
+    },
+    {
+      "start": 2287.52,
+      "end": 2289.52,
+      "text": "Slow down, motherfucker."
+    },
+    {
+      "start": 2289.52,
+      "end": 2293.52,
+      "text": "But when you do finish it, you'll be able to get it started yourself."
+    },
+    {
+      "start": 2293.52,
+      "end": 2294.52,
+      "text": "You'll be able to spend."
+    },
+    {
+      "start": 2294.52,
+      "end": 2299.52,
+      "text": "You should be able to scale to a good amount of daily ad spend."
+    },
+    {
+      "start": 2299.52,
+      "end": 2304.52,
+      "text": "Like with this strategy, you could probably scale to like five K a day."
+    },
+    {
+      "start": 2304.52,
+      "end": 2308.52,
+      "text": "Before things are going to start like seriously getting fucked up and broken."
+    },
+    {
+      "start": 2308.52,
+      "end": 2313.52,
+      "text": "But let's move on to the next step."
+    }
+  ]
+}

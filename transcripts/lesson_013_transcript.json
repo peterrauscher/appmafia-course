@@ -1,0 +1,1892 @@
+{
+  "file_name": "013_Lesson_13.faudio-hi-0-Default.mp4",
+  "text": " All right, lesson two of design. We are going to dive into wire framing. So the term wire framing is essentially to put in the bones or the skeleton of your app. Now, in the previous lesson, we went over the basics of Figma. Now we're gonna get into actual app design. So there are three primary steps here that I employ. The first one is to define the core actions and user journey. You should have done some of this already in the process of ideation, but it's worth doing again as you begin wire framing. Next, a core element of wire framing is to start with low fidelity. Wire frames are low fidelity. Low fidelity means that you're not worried about colors or corner radiuses and whatnot. Even though I showed you that in the previous lesson, it's not so important. What we're really focused on is what goes where, right? User experience. What elements go in what spots and what they lead to and the sort of actions and transformations that are performed by the software on the user input, data, whatever it may be. The third is kits. I love this term. I try to remind myself of it every single day, which is keep it simple, stupid. This is an acronym that applies to so much in life. I was, we were filming a podcast today and I made the remark that it's interesting to see how many indie hackers and software developers employ very complex app store optimization and sort of, you know, hacky, not hacky, but complex design techniques and engineering, and yet they're at $400 in MRR or monthly recurring revenue. Meanwhile, when I launched RISGPT, we hit over $80,000 a month within just three days because we kept it super simple and we focused on the things that mattered, which at the time was distribution and going viral and getting money in the door so that we could use that cash to deploy for future growth. So the same way that it applies to how you operate your business, it really applies to the start of design and wire framing. Complexity will only increase as you go throughout the process of designing your app. You're gonna continue to add and add and add screens. It's a lot easier to start simple and slowly expand into start complex and then make it simple. I see people all the time, they start with this incredibly complicated app. I'm like, dude, I don't even fucking know how to use this, right? It should be like a three year old should be able to use your product or, you know, maybe more realistically, I think a term I've used is your product should be able to be used by a seven and a 70 year old. So for many reasons, keep it simple. One reason that it's really important to begin wire framing as quickly as possible is in my opinion, it is required if you want people to actually believe in your vision. I have people hit me up all the time to say, hey, man, can you review my idea? Like, I wanna build this app blah, blah, blah. I go, yes, send me the, send me the Figma file and it's silence, right? They don't have it. And I'm like, man, wire framing should take you no more than a couple of minutes. If you're really just trying to move as quickly as possible and it will make the vision much more clear for anyone that sees it, right? So more data means more informed decision-making both for yourself and others. All right, enough of the background. Let's get into it. All right, so context real quick. I'm coming into this with pretty much no preconceived notions. I want this to be raw and authentic rather than planned out. And so I'm gonna try to walk you guys through my thought process. What this means is I'm not going to design an entire application within these lessons, but I'm gonna share with you guys how I think about the design. Okay, so honestly, here, I wanna start with text. I almost always do this. I'm gonna increase the size of this. So it's a little bit more visible. Let's go even more honestly. Okay. So later on, we're gonna define in the, I think two lessons from now, we're gonna go deeper into core or primary and secondary actions, but for now, as we begin wire-framing, I'm just gonna kind of jot down a couple of actions. So this might be a little bit too big. We go, yeah, I like this. Actions. All right, so if we're trying to help people increase their testosterone, right? This is the problem that we're solving. We should first think about what do we need from the individual, right? One of the major advantages of applications as a whole is that they're interactive, right? It's not just text or an article where you come into this product and then it's just everything's pre-packaged, right? We can add interactions. And so for here, I think that the first thing is getting data from the individual. So if we want to improve testosterone, I think I'm gonna jot down some things that are valuable. I'm gonna make this even smaller. So I'm gonna be typing a good amount. Self, selfie of face, picture of body, demographic, and then so demographic, meaning, age, gender. I think that this will be pretty much all men. So we're not gonna assume that they're male, they're female that wants to optimize their testosterone for whatever reason that maybe the app won't be great for them. So we can just chop this down to age, race, race. I don't know the degree to which testosterone's correlated with race, but could be important. And then let's see like a lifestyle, right? So how often do you exercise what sort of food do you eat? Okay, I think this is kind of like a core information that we want to get from the individual. So these aren't actions themselves. So the action here would be receive in analysis or input your data. Okay, so now anytime that we have an action that the user takes, we should think about what is the result. Here, we're getting the inputs from the user. So what is the output going to be? We can do UMAC style. So UMACs, you get face ratings and recommendations. So we'll do what are some things that people are interested in? They're probably interested in, so now we'll do output of the data. So this will be the analysis. People are interested in estimated to stosh your own. I think that that is the most obvious one to start. Maybe biological age, depending on the questions that we ask, that could be pretty interesting. So these are the more predictive components. Maybe like a masculinity score, but that's just kind of estimated testosterone. Percentile, we should add that in the estimated testosterone. Percentile relative to age. Okay, I think that that... Yeah, so this is like the sort of like rating, right? These are like the predictions that we're making, the scores that we're giving to the individual, and next we have recommendations. So one component here to think about is like, how do we make the recommendations personalized rather than just like how often do you exercise one time per week? And then the recommendation is just exercise more, you know? That's kind of obvious. So I think that this is where the selfie and body come into play. Ooh, so we should do a physique rating. You can even do facial rating. So beyond just the estimated testosterone, right? This is all encompassing. These would be more specific. All right, so we're gonna take all this and we're actually gonna all nest this under. This will be the analysis, we'll say. So within the output, we have the analysis and we have the recommendations. Okay, recommendations. Okay. Okay. Based on body slash. So actually we don't have to explain the methodology of how we produce it, but exercise frequency, sleep improvement. You know, when we make this beyond just test max, like me, we make this like a holistic version of UMax, right? This is what UMax was always kind of intended to be. All right. Dot it, obviously, sleep, but the, yeah, yeah, yeah. Oh, yeah, you're asleep. Okay. Cool. Some that you might notice is that like while I'm explaining and going through this process, I'm significantly less structured or clear thinking as I usually am, or at least strive to be. Part of the reason is because this is inherently very, it's a very creative endeavor and there's gonna be a lot of iteration in trying to figure out what the correct inputs and outputs look like as well as sort of functionality. Okay. And so once you get this output, I think the important component here is something along the lines of habit tracking and accountability. So accountability plus tracking. So this is why it's very important to get screenshots of comparable apps. Once again, like I would have way more, I'd have like 100 plus screenshots if I were actually going through the full process of building it at myself. But I really like what Quitter has here and I think Opal has something similar too, which is like the core functionality, like the first fucking thing that you see when you open the app is your streak. And I think that that's pretty important here, invaluable. Okay. So in the previous lesson, we did some basic sort of mocking of redesigning UMax. We're gonna do somewhat similar design here, but it's gonna be different, right? We're not just redesigning UMax. So I think I kind of want to merge UMax and Quitter. All right. I'm not certain what I want the core UI display to be right here. I don't know if it's the streak or your current estimated testosterone or maybe both. Maybe it could be actions remaining for the day. So maybe we go more habit tracker style. It could be interesting to have percent completion. And we show that through the previous days. And we can fill it up. I want to do this right. And yet at the same time, I want to move relatively quickly. Okay. Let's do this. So at the top, we're gonna do the streak. We'll just do pretty basic. I'm here. I'm gonna create a component or a frame so that I can auto layout and then just bang, bang, bang, bang. That should be seven. It should be seven. We'll maybe increase the size of this a little bit. And I'll add a note here and this is weekly out. So I'll add these comments if I'm working with someone, either a designer or co-founder. It's very important to have comments here as you're going through the process wire framing. So they know what you're actually building out. Now, I think maybe some text along the lines of like, maybe we say like you, maybe we give like a percent score. Let's give you interesting. Let me bring this in a little bit. All right, let's do a little percent score. I know like more common is streak, right? And I think that streak is good, but I want something that's like a, you know. Maybe it's um, that's the thing. Maybe it's um, I'm not sure if I can make a mistake. I want like a number, you know, I want something that where you're like, I need to ensure that I'm hitting this every single day. So, right? So for quitter, they have the, the amount of time that you've been free from point for Cal AI. We have your daily calories for UMACs. I actually think that this was a major shortcoming, which was that we did not have a lot of time. I think that's a lot of time. I think that's a lot of time. Which was that we did not have a sort of core action to return to. We had this daily tab here, which was kind of a routine, but the fact that that wasn't on the first page, it was a major issue. Okay, we'll leave this for now. This will um, I'll just add a note. I'll be like, I want something catchy here. Okay. And then your actual actions will be your routine. Right? So we'll have here. So, uh, whoa, what did I do here? Action one. Action two and so forth. Yeah. Cool. Don't worry about the little thing myself that I'm doing with the components and whatnot. If you don't know how to do it, no worries. You'll learn with time. I'm not all that good with stigma, right? But um, okay. All right. So I have the core sort of habits here. Um, maybe I should have named these habits and cares. And then I kind of like what quitter does here with like the panic button at the bottom. Um, we want the analysis to be obvious enough. So this will probably be when the individual has already, when the individual has already sort of a, perform their first analysis because that will set their habits. But if they have not completed their habits, we'll say, we'll maybe do the UMAC style, complete your first analysis. All right. We'll change this. This will just be like button. Cool. One more thing. Oops. I should just ungroup this. Okay. So when you have not performed your first analysis, it'll ask you to start. Once you have performed it, the core action will be the number of habits that you have. Um, we'll just name this to actions. The number of actions that you have remaining for the day. You can go ahead and frame this. I'll make it nice and pretty. I'm just going to center that real quick. Sorry. I'm being a little bit of a perfectionist here, which is somewhat ironic, because wireframe is obviously imperfect. Great. Now what I have here is I have like the basic skeleton for the core functionality of the app. We have the homepage where if you haven't scanned, it prompts you to start. We would then have some sort of upload flow, right? So that would come in between these two. So move this on over. Insert upload flow. And then we have this. And to be honest, like this is all that you really need to know when it comes to wireframing. There's a good amount of theory, and we'll touch on that a little bit more in the next unit of this module for design. But I think that this covers the high level. Take screenshots of other apps, clearly define what your actions are within the product, and keep it as simple as possible to start, and then whip up your first couple of screens. In the next lesson, we're going to go over hiring a designer. So honestly, screens like this are more than enough to begin working with a designer. I've worked on working with the designers with much less than this before, to be honest, like as little as this, honestly. Now the reason that I try to hire a designer pretty quickly in the project is, if you want to move as fast as possible, and you're not constrained by capital, I'm sure some people here are, that's fine, we did not hire one for a plug AI, actually ever. Then as soon as you figure out what the kind of like, even just one screen of the app is going to look like, you explain the project to a bunch of designers, you can start testing, figuring out who's best. Once again, we're going to go over this in the next lesson, but yeah, this is essentially my process for wire framing. See you guys later.",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.44,
+      "text": "All right, lesson two of design."
+    },
+    {
+      "start": 3.44,
+      "end": 6.8,
+      "text": "We are going to dive into wire framing."
+    },
+    {
+      "start": 6.8,
+      "end": 9.8,
+      "text": "So the term wire framing is essentially"
+    },
+    {
+      "start": 9.8,
+      "end": 14.8,
+      "text": "to put in the bones or the skeleton of your app."
+    },
+    {
+      "start": 16.8,
+      "end": 18.76,
+      "text": "Now, in the previous lesson,"
+    },
+    {
+      "start": 18.76,
+      "end": 20.84,
+      "text": "we went over the basics of Figma."
+    },
+    {
+      "start": 20.84,
+      "end": 23.96,
+      "text": "Now we're gonna get into actual app design."
+    },
+    {
+      "start": 23.96,
+      "end": 27.28,
+      "text": "So there are three primary steps here that I employ."
+    },
+    {
+      "start": 27.32,
+      "end": 29.36,
+      "text": "The first one is to define the core actions"
+    },
+    {
+      "start": 29.36,
+      "end": 30.720000000000002,
+      "text": "and user journey."
+    },
+    {
+      "start": 30.720000000000002,
+      "end": 32.120000000000005,
+      "text": "You should have done some of this already"
+    },
+    {
+      "start": 32.120000000000005,
+      "end": 33.800000000000004,
+      "text": "in the process of ideation,"
+    },
+    {
+      "start": 35.44,
+      "end": 40.28,
+      "text": "but it's worth doing again as you begin wire framing."
+    },
+    {
+      "start": 40.28,
+      "end": 42.160000000000004,
+      "text": "Next, a core element of wire framing"
+    },
+    {
+      "start": 42.160000000000004,
+      "end": 44.040000000000006,
+      "text": "is to start with low fidelity."
+    },
+    {
+      "start": 44.040000000000006,
+      "end": 46.32,
+      "text": "Wire frames are low fidelity."
+    },
+    {
+      "start": 46.32,
+      "end": 49.8,
+      "text": "Low fidelity means that you're not worried about colors"
+    },
+    {
+      "start": 49.8,
+      "end": 53.24,
+      "text": "or corner radiuses and whatnot."
+    },
+    {
+      "start": 53.24,
+      "end": 55.36,
+      "text": "Even though I showed you that in the previous lesson,"
+    },
+    {
+      "start": 55.519999999999996,
+      "end": 56.519999999999996,
+      "text": "it's not so important."
+    },
+    {
+      "start": 56.519999999999996,
+      "end": 60.36,
+      "text": "What we're really focused on is what goes where, right?"
+    },
+    {
+      "start": 60.36,
+      "end": 61.8,
+      "text": "User experience."
+    },
+    {
+      "start": 62.96,
+      "end": 66.28,
+      "text": "What elements go in what spots and what they lead to"
+    },
+    {
+      "start": 66.28,
+      "end": 68.64,
+      "text": "and the sort of actions and transformations"
+    },
+    {
+      "start": 68.64,
+      "end": 71.0,
+      "text": "that are performed by the software"
+    },
+    {
+      "start": 71.0,
+      "end": 73.56,
+      "text": "on the user input, data, whatever it may be."
+    },
+    {
+      "start": 74.76,
+      "end": 76.32,
+      "text": "The third is kits."
+    },
+    {
+      "start": 76.32,
+      "end": 78.0,
+      "text": "I love this term."
+    },
+    {
+      "start": 78.0,
+      "end": 81.56,
+      "text": "I try to remind myself of it every single day,"
+    },
+    {
+      "start": 81.56,
+      "end": 84.2,
+      "text": "which is keep it simple, stupid."
+    },
+    {
+      "start": 85.67999999999999,
+      "end": 90.36,
+      "text": "This is an acronym that applies to so much in life."
+    },
+    {
+      "start": 90.36,
+      "end": 93.36,
+      "text": "I was, we were filming a podcast today"
+    },
+    {
+      "start": 93.36,
+      "end": 98.36,
+      "text": "and I made the remark that it's interesting to see"
+    },
+    {
+      "start": 99.76,
+      "end": 102.96000000000001,
+      "text": "how many indie hackers and software developers"
+    },
+    {
+      "start": 104.24,
+      "end": 107.84,
+      "text": "employ very complex app store optimization"
+    },
+    {
+      "start": 107.84,
+      "end": 108.76,
+      "text": "and sort of,"
+    },
+    {
+      "start": 109.76,
+      "end": 114.76,
+      "text": "you know, hacky, not hacky, but complex design techniques"
+    },
+    {
+      "start": 117.52000000000001,
+      "end": 119.84,
+      "text": "and engineering,"
+    },
+    {
+      "start": 119.84,
+      "end": 122.12,
+      "text": "and yet they're at $400 in MRR"
+    },
+    {
+      "start": 122.12,
+      "end": 123.56,
+      "text": "or monthly recurring revenue."
+    },
+    {
+      "start": 124.64,
+      "end": 126.76,
+      "text": "Meanwhile, when I launched RISGPT,"
+    },
+    {
+      "start": 126.76,
+      "end": 131.76,
+      "text": "we hit over $80,000 a month within just three days"
+    },
+    {
+      "start": 134.16,
+      "end": 136.36,
+      "text": "because we kept it super simple"
+    },
+    {
+      "start": 136.36,
+      "end": 138.20000000000002,
+      "text": "and we focused on the things that mattered,"
+    },
+    {
+      "start": 138.2,
+      "end": 141.11999999999998,
+      "text": "which at the time was distribution and going viral"
+    },
+    {
+      "start": 141.11999999999998,
+      "end": 142.48,
+      "text": "and getting money in the door"
+    },
+    {
+      "start": 142.48,
+      "end": 146.32,
+      "text": "so that we could use that cash to deploy for future growth."
+    },
+    {
+      "start": 147.76,
+      "end": 150.44,
+      "text": "So the same way that it applies to how you operate your business,"
+    },
+    {
+      "start": 150.44,
+      "end": 155.51999999999998,
+      "text": "it really applies to the start of design and wire framing."
+    },
+    {
+      "start": 155.51999999999998,
+      "end": 158.12,
+      "text": "Complexity will only increase"
+    },
+    {
+      "start": 158.12,
+      "end": 160.56,
+      "text": "as you go throughout the process of designing your app."
+    },
+    {
+      "start": 160.56,
+      "end": 163.48,
+      "text": "You're gonna continue to add and add and add screens."
+    },
+    {
+      "start": 163.48,
+      "end": 167.76,
+      "text": "It's a lot easier to start simple and slowly expand"
+    },
+    {
+      "start": 167.76,
+      "end": 171.44,
+      "text": "into start complex and then make it simple."
+    },
+    {
+      "start": 171.44,
+      "end": 172.48,
+      "text": "I see people all the time,"
+    },
+    {
+      "start": 172.48,
+      "end": 174.64,
+      "text": "they start with this incredibly complicated app."
+    },
+    {
+      "start": 174.64,
+      "end": 177.56,
+      "text": "I'm like, dude, I don't even fucking know how to use this, right?"
+    },
+    {
+      "start": 177.56,
+      "end": 180.44,
+      "text": "It should be like a three year old"
+    },
+    {
+      "start": 180.44,
+      "end": 181.76,
+      "text": "should be able to use your product"
+    },
+    {
+      "start": 181.76,
+      "end": 184.39999999999998,
+      "text": "or, you know, maybe more realistically,"
+    },
+    {
+      "start": 184.39999999999998,
+      "end": 188.04,
+      "text": "I think a term I've used is your product"
+    },
+    {
+      "start": 188.04,
+      "end": 191.6,
+      "text": "should be able to be used by a seven and a 70 year old."
+    },
+    {
+      "start": 193.35999999999999,
+      "end": 196.12,
+      "text": "So for many reasons, keep it simple."
+    },
+    {
+      "start": 198.35999999999999,
+      "end": 202.76,
+      "text": "One reason that it's really important"
+    },
+    {
+      "start": 202.76,
+      "end": 205.2,
+      "text": "to begin wire framing as quickly as possible"
+    },
+    {
+      "start": 205.2,
+      "end": 207.28,
+      "text": "is in my opinion, it is required"
+    },
+    {
+      "start": 207.28,
+      "end": 209.48,
+      "text": "if you want people to actually believe in your vision."
+    },
+    {
+      "start": 209.48,
+      "end": 211.04,
+      "text": "I have people hit me up all the time to say,"
+    },
+    {
+      "start": 211.04,
+      "end": 213.35999999999999,
+      "text": "hey, man, can you review my idea?"
+    },
+    {
+      "start": 213.35999999999999,
+      "end": 215.07999999999998,
+      "text": "Like, I wanna build this app blah, blah, blah."
+    },
+    {
+      "start": 215.07999999999998,
+      "end": 217.64,
+      "text": "I go, yes, send me the, send me the Figma file"
+    },
+    {
+      "start": 217.64,
+      "end": 219.88,
+      "text": "and it's silence, right?"
+    },
+    {
+      "start": 219.88,
+      "end": 220.72,
+      "text": "They don't have it."
+    },
+    {
+      "start": 220.72,
+      "end": 224.07999999999998,
+      "text": "And I'm like, man, wire framing should take you no more"
+    },
+    {
+      "start": 224.07999999999998,
+      "end": 225.68,
+      "text": "than a couple of minutes."
+    },
+    {
+      "start": 226.64000000000001,
+      "end": 229.04000000000002,
+      "text": "If you're really just trying to move as quickly as possible"
+    },
+    {
+      "start": 229.04000000000002,
+      "end": 232.6,
+      "text": "and it will make the vision much more clear"
+    },
+    {
+      "start": 232.6,
+      "end": 234.36,
+      "text": "for anyone that sees it, right?"
+    },
+    {
+      "start": 234.36,
+      "end": 237.92000000000002,
+      "text": "So more data means more informed decision-making"
+    },
+    {
+      "start": 237.92000000000002,
+      "end": 240.16,
+      "text": "both for yourself and others."
+    },
+    {
+      "start": 240.16,
+      "end": 242.12,
+      "text": "All right, enough of the background."
+    },
+    {
+      "start": 242.12,
+      "end": 242.96,
+      "text": "Let's get into it."
+    },
+    {
+      "start": 244.8,
+      "end": 246.64000000000001,
+      "text": "All right, so context real quick."
+    },
+    {
+      "start": 246.64000000000001,
+      "end": 250.0,
+      "text": "I'm coming into this with pretty much no preconceived notions."
+    },
+    {
+      "start": 250.0,
+      "end": 252.28,
+      "text": "I want this to be raw and authentic"
+    },
+    {
+      "start": 252.28,
+      "end": 254.12,
+      "text": "rather than planned out."
+    },
+    {
+      "start": 254.36,
+      "end": 257.16,
+      "text": "And so I'm gonna try to walk you guys through my thought process."
+    },
+    {
+      "start": 257.16,
+      "end": 259.24,
+      "text": "What this means is I'm not going to design"
+    },
+    {
+      "start": 259.24,
+      "end": 262.72,
+      "text": "an entire application within these lessons,"
+    },
+    {
+      "start": 262.72,
+      "end": 264.0,
+      "text": "but I'm gonna share with you guys"
+    },
+    {
+      "start": 264.0,
+      "end": 265.56,
+      "text": "how I think about the design."
+    },
+    {
+      "start": 265.56,
+      "end": 268.12,
+      "text": "Okay, so honestly, here, I wanna start with text."
+    },
+    {
+      "start": 268.12,
+      "end": 269.32,
+      "text": "I almost always do this."
+    },
+    {
+      "start": 272.48,
+      "end": 274.68,
+      "text": "I'm gonna increase the size of this."
+    },
+    {
+      "start": 274.68,
+      "end": 276.56,
+      "text": "So it's a little bit more visible."
+    },
+    {
+      "start": 277.36,
+      "end": 279.68,
+      "text": "Let's go even more honestly."
+    },
+    {
+      "start": 279.68,
+      "end": 280.52,
+      "text": "Okay."
+    },
+    {
+      "start": 281.44,
+      "end": 284.91999999999996,
+      "text": "So later on, we're gonna define in the,"
+    },
+    {
+      "start": 284.91999999999996,
+      "end": 286.0,
+      "text": "I think two lessons from now,"
+    },
+    {
+      "start": 286.0,
+      "end": 288.79999999999995,
+      "text": "we're gonna go deeper into core or primary"
+    },
+    {
+      "start": 288.79999999999995,
+      "end": 291.24,
+      "text": "and secondary actions, but for now,"
+    },
+    {
+      "start": 291.24,
+      "end": 292.32,
+      "text": "as we begin wire-framing,"
+    },
+    {
+      "start": 292.32,
+      "end": 296.91999999999996,
+      "text": "I'm just gonna kind of jot down a couple of actions."
+    },
+    {
+      "start": 296.91999999999996,
+      "end": 300.28,
+      "text": "So this might be a little bit too big."
+    },
+    {
+      "start": 300.28,
+      "end": 303.76,
+      "text": "We go, yeah, I like this."
+    },
+    {
+      "start": 303.76,
+      "end": 304.59999999999997,
+      "text": "Actions."
+    },
+    {
+      "start": 305.79999999999995,
+      "end": 308.4,
+      "text": "All right, so if we're trying to help people"
+    },
+    {
+      "start": 308.4,
+      "end": 310.28,
+      "text": "increase their testosterone, right?"
+    },
+    {
+      "start": 310.28,
+      "end": 312.67999999999995,
+      "text": "This is the problem that we're solving."
+    },
+    {
+      "start": 312.67999999999995,
+      "end": 315.76,
+      "text": "We should first think about what do we need"
+    },
+    {
+      "start": 315.76,
+      "end": 317.08,
+      "text": "from the individual, right?"
+    },
+    {
+      "start": 319.84,
+      "end": 322.23999999999995,
+      "text": "One of the major advantages of applications as a whole"
+    },
+    {
+      "start": 322.23999999999995,
+      "end": 325.0,
+      "text": "is that they're interactive, right?"
+    },
+    {
+      "start": 325.0,
+      "end": 327.2,
+      "text": "It's not just text or an article"
+    },
+    {
+      "start": 327.2,
+      "end": 328.59999999999997,
+      "text": "where you come into this product"
+    },
+    {
+      "start": 328.59999999999997,
+      "end": 330.55999999999995,
+      "text": "and then it's just everything's pre-packaged, right?"
+    },
+    {
+      "start": 330.55999999999995,
+      "end": 332.32,
+      "text": "We can add interactions."
+    },
+    {
+      "start": 333.67999999999995,
+      "end": 335.4,
+      "text": "And so for here, I think that the first thing"
+    },
+    {
+      "start": 335.4,
+      "end": 337.03999999999996,
+      "text": "is getting data from the individual."
+    },
+    {
+      "start": 337.03999999999996,
+      "end": 339.84,
+      "text": "So if we want to improve testosterone,"
+    },
+    {
+      "start": 339.84,
+      "end": 344.0,
+      "text": "I think I'm gonna jot down some things that are valuable."
+    },
+    {
+      "start": 344.0,
+      "end": 346.35999999999996,
+      "text": "I'm gonna make this even smaller."
+    },
+    {
+      "start": 346.35999999999996,
+      "end": 347.91999999999996,
+      "text": "So I'm gonna be typing a good amount."
+    },
+    {
+      "start": 352.59999999999997,
+      "end": 353.35999999999996,
+      "text": "Self,"
+    },
+    {
+      "start": 356.08,
+      "end": 357.88,
+      "text": "selfie of face,"
+    },
+    {
+      "start": 359.35999999999996,
+      "end": 361.32,
+      "text": "picture of body,"
+    },
+    {
+      "start": 365.23999999999995,
+      "end": 367.0,
+      "text": "demographic,"
+    },
+    {
+      "start": 367.0,
+      "end": 372.0,
+      "text": "and then so demographic, meaning, age, gender."
+    },
+    {
+      "start": 372.24,
+      "end": 374.12,
+      "text": "I think that this will be pretty much all men."
+    },
+    {
+      "start": 374.12,
+      "end": 377.12,
+      "text": "So we're not gonna assume that they're male,"
+    },
+    {
+      "start": 377.12,
+      "end": 379.44,
+      "text": "they're female that wants to optimize their testosterone"
+    },
+    {
+      "start": 379.44,
+      "end": 384.44,
+      "text": "for whatever reason that maybe the app won't be great for them."
+    },
+    {
+      "start": 385.24,
+      "end": 390.24,
+      "text": "So we can just chop this down to age, race, race."
+    },
+    {
+      "start": 390.36,
+      "end": 393.96,
+      "text": "I don't know the degree to which testosterone's correlated"
+    },
+    {
+      "start": 393.96,
+      "end": 396.48,
+      "text": "with race, but could be important."
+    },
+    {
+      "start": 397.16,
+      "end": 400.08,
+      "text": "And then let's see like a lifestyle, right?"
+    },
+    {
+      "start": 401.28,
+      "end": 406.28,
+      "text": "So how often do you exercise"
+    },
+    {
+      "start": 411.16,
+      "end": 416.16,
+      "text": "what sort of food do you eat?"
+    },
+    {
+      "start": 416.16,
+      "end": 419.12,
+      "text": "Okay, I think this is kind of like a core information"
+    },
+    {
+      "start": 419.12,
+      "end": 421.12,
+      "text": "that we want to get from the individual."
+    },
+    {
+      "start": 421.36,
+      "end": 424.36,
+      "text": "So these aren't actions themselves."
+    },
+    {
+      "start": 424.36,
+      "end": 429.36,
+      "text": "So the action here would be receive in analysis"
+    },
+    {
+      "start": 437.64,
+      "end": 441.28000000000003,
+      "text": "or input your data."
+    },
+    {
+      "start": 441.28000000000003,
+      "end": 443.64,
+      "text": "Okay, so now anytime that we have an action"
+    },
+    {
+      "start": 443.64,
+      "end": 447.12,
+      "text": "that the user takes, we should think about what is the result."
+    },
+    {
+      "start": 447.12,
+      "end": 450.68,
+      "text": "Here, we're getting the inputs from the user."
+    },
+    {
+      "start": 450.68,
+      "end": 452.48,
+      "text": "So what is the output going to be?"
+    },
+    {
+      "start": 458.68,
+      "end": 460.40000000000003,
+      "text": "We can do UMAC style."
+    },
+    {
+      "start": 460.40000000000003,
+      "end": 463.40000000000003,
+      "text": "So UMACs, you get face ratings and recommendations."
+    },
+    {
+      "start": 463.40000000000003,
+      "end": 467.12,
+      "text": "So we'll do what are some things that people are interested in?"
+    },
+    {
+      "start": 467.12,
+      "end": 468.48,
+      "text": "They're probably interested in,"
+    },
+    {
+      "start": 470.88,
+      "end": 475.88,
+      "text": "so now we'll do output of the data."
+    },
+    {
+      "start": 478.36,
+      "end": 479.84000000000003,
+      "text": "So this will be the analysis."
+    },
+    {
+      "start": 479.84,
+      "end": 484.47999999999996,
+      "text": "People are interested in estimated to stosh your own."
+    },
+    {
+      "start": 484.47999999999996,
+      "end": 487.91999999999996,
+      "text": "I think that that is the most obvious one to start."
+    },
+    {
+      "start": 487.91999999999996,
+      "end": 490.84,
+      "text": "Maybe biological age, depending on the questions"
+    },
+    {
+      "start": 490.84,
+      "end": 492.64,
+      "text": "that we ask, that could be pretty interesting."
+    },
+    {
+      "start": 500.12,
+      "end": 503.28,
+      "text": "So these are the more predictive components."
+    },
+    {
+      "start": 503.28,
+      "end": 505.44,
+      "text": "Maybe like a masculinity score,"
+    },
+    {
+      "start": 505.44,
+      "end": 507.91999999999996,
+      "text": "but that's just kind of estimated testosterone."
+    },
+    {
+      "start": 510.56,
+      "end": 515.56,
+      "text": "Percentile, we should add that in the estimated testosterone."
+    },
+    {
+      "start": 515.56,
+      "end": 520.24,
+      "text": "Percentile relative to age."
+    },
+    {
+      "start": 523.24,
+      "end": 525.24,
+      "text": "Okay, I think that that..."
+    },
+    {
+      "start": 530.24,
+      "end": 533.04,
+      "text": "Yeah, so this is like the sort of like rating, right?"
+    },
+    {
+      "start": 533.04,
+      "end": 534.68,
+      "text": "These are like the predictions that we're making,"
+    },
+    {
+      "start": 534.68,
+      "end": 536.52,
+      "text": "the scores that we're giving to the individual,"
+    },
+    {
+      "start": 536.52,
+      "end": 538.04,
+      "text": "and next we have recommendations."
+    },
+    {
+      "start": 540.6,
+      "end": 545.1600000000001,
+      "text": "So one component here to think about is like,"
+    },
+    {
+      "start": 545.1600000000001,
+      "end": 547.32,
+      "text": "how do we make the recommendations personalized"
+    },
+    {
+      "start": 547.32,
+      "end": 551.52,
+      "text": "rather than just like how often do you exercise one time per week?"
+    },
+    {
+      "start": 551.52,
+      "end": 554.72,
+      "text": "And then the recommendation is just exercise more, you know?"
+    },
+    {
+      "start": 554.72,
+      "end": 556.12,
+      "text": "That's kind of obvious."
+    },
+    {
+      "start": 558.88,
+      "end": 562.84,
+      "text": "So I think that this is where the selfie and body come into play."
+    },
+    {
+      "start": 562.84,
+      "end": 567.84,
+      "text": "Ooh, so we should do a physique rating."
+    },
+    {
+      "start": 570.2,
+      "end": 572.88,
+      "text": "You can even do facial rating."
+    },
+    {
+      "start": 572.88,
+      "end": 574.96,
+      "text": "So beyond just the estimated testosterone, right?"
+    },
+    {
+      "start": 574.96,
+      "end": 576.4,
+      "text": "This is all encompassing."
+    },
+    {
+      "start": 577.4,
+      "end": 579.76,
+      "text": "These would be more specific."
+    },
+    {
+      "start": 579.76,
+      "end": 581.0400000000001,
+      "text": "All right, so we're gonna take all this"
+    },
+    {
+      "start": 581.0400000000001,
+      "end": 583.2,
+      "text": "and we're actually gonna all nest this under."
+    },
+    {
+      "start": 584.6,
+      "end": 587.48,
+      "text": "This will be the analysis, we'll say."
+    },
+    {
+      "start": 587.48,
+      "end": 589.44,
+      "text": "So within the output, we have the analysis"
+    },
+    {
+      "start": 589.44,
+      "end": 591.48,
+      "text": "and we have the recommendations."
+    },
+    {
+      "start": 591.48,
+      "end": 593.36,
+      "text": "Okay, recommendations."
+    },
+    {
+      "start": 593.92,
+      "end": 594.92,
+      "text": "Okay."
+    },
+    {
+      "start": 594.92,
+      "end": 595.76,
+      "text": "Okay."
+    },
+    {
+      "start": 598.76,
+      "end": 603.76,
+      "text": "Based on body slash."
+    },
+    {
+      "start": 605.96,
+      "end": 608.24,
+      "text": "So actually we don't have to explain the methodology"
+    },
+    {
+      "start": 608.24,
+      "end": 613.24,
+      "text": "of how we produce it, but exercise frequency, sleep improvement."
+    },
+    {
+      "start": 623.6,
+      "end": 625.6,
+      "text": "You know, when we make this beyond just test max,"
+    },
+    {
+      "start": 625.6,
+      "end": 629.96,
+      "text": "like me, we make this like a holistic version of UMax, right?"
+    },
+    {
+      "start": 629.96,
+      "end": 632.48,
+      "text": "This is what UMax was always kind of intended to be."
+    },
+    {
+      "start": 636.92,
+      "end": 637.76,
+      "text": "All right."
+    },
+    {
+      "start": 640.24,
+      "end": 644.24,
+      "text": "Dot it, obviously, sleep, but the, yeah, yeah, yeah."
+    },
+    {
+      "start": 644.24,
+      "end": 646.28,
+      "text": "Oh, yeah, you're asleep."
+    },
+    {
+      "start": 646.28,
+      "end": 647.12,
+      "text": "Okay."
+    },
+    {
+      "start": 649.6800000000001,
+      "end": 650.88,
+      "text": "Cool."
+    },
+    {
+      "start": 650.88,
+      "end": 653.4399999999999,
+      "text": "Some that you might notice is that like while I'm explaining"
+    },
+    {
+      "start": 653.4399999999999,
+      "end": 659.4399999999999,
+      "text": "and going through this process, I'm significantly less structured"
+    },
+    {
+      "start": 662.36,
+      "end": 667.36,
+      "text": "or clear thinking as I usually am, or at least strive to be."
+    },
+    {
+      "start": 668.76,
+      "end": 672.76,
+      "text": "Part of the reason is because this is inherently very,"
+    },
+    {
+      "start": 672.76,
+      "end": 675.96,
+      "text": "it's a very creative endeavor and there's gonna be a lot of"
+    },
+    {
+      "start": 675.96,
+      "end": 679.4,
+      "text": "iteration in trying to figure out what the correct inputs"
+    },
+    {
+      "start": 679.4,
+      "end": 683.16,
+      "text": "and outputs look like as well as sort of functionality."
+    },
+    {
+      "start": 684.28,
+      "end": 685.12,
+      "text": "Okay."
+    },
+    {
+      "start": 685.12,
+      "end": 688.16,
+      "text": "And so once you get this output, I think the important component"
+    },
+    {
+      "start": 688.16,
+      "end": 691.72,
+      "text": "here is something along the lines of habit tracking"
+    },
+    {
+      "start": 694.9599999999999,
+      "end": 696.48,
+      "text": "and accountability."
+    },
+    {
+      "start": 696.48,
+      "end": 701.4,
+      "text": "So accountability plus tracking."
+    },
+    {
+      "start": 701.4,
+      "end": 706.4,
+      "text": "So this is why it's very important to get screenshots"
+    },
+    {
+      "start": 707.4,
+      "end": 709.1999999999999,
+      "text": "of comparable apps."
+    },
+    {
+      "start": 709.1999999999999,
+      "end": 711.28,
+      "text": "Once again, like I would have way more,"
+    },
+    {
+      "start": 711.28,
+      "end": 713.48,
+      "text": "I'd have like 100 plus screenshots"
+    },
+    {
+      "start": 713.48,
+      "end": 715.4,
+      "text": "if I were actually going through the full process"
+    },
+    {
+      "start": 715.4,
+      "end": 716.64,
+      "text": "of building it at myself."
+    },
+    {
+      "start": 718.92,
+      "end": 720.52,
+      "text": "But I really like what Quitter has here"
+    },
+    {
+      "start": 720.52,
+      "end": 722.52,
+      "text": "and I think Opal has something similar too,"
+    },
+    {
+      "start": 722.52,
+      "end": 724.76,
+      "text": "which is like the core functionality,"
+    },
+    {
+      "start": 724.76,
+      "end": 728.9599999999999,
+      "text": "like the first fucking thing that you see when you open the app"
+    },
+    {
+      "start": 728.9599999999999,
+      "end": 730.96,
+      "text": "is your streak."
+    },
+    {
+      "start": 730.96,
+      "end": 733.84,
+      "text": "And I think that that's pretty important here, invaluable."
+    },
+    {
+      "start": 734.84,
+      "end": 736.0,
+      "text": "Okay."
+    },
+    {
+      "start": 737.6,
+      "end": 742.8000000000001,
+      "text": "So in the previous lesson, we did some basic sort of mocking"
+    },
+    {
+      "start": 743.2800000000001,
+      "end": 744.88,
+      "text": "of redesigning UMax."
+    },
+    {
+      "start": 744.88,
+      "end": 747.88,
+      "text": "We're gonna do somewhat similar design here,"
+    },
+    {
+      "start": 747.88,
+      "end": 749.4,
+      "text": "but it's gonna be different, right?"
+    },
+    {
+      "start": 749.4,
+      "end": 751.6,
+      "text": "We're not just redesigning UMax."
+    },
+    {
+      "start": 751.6,
+      "end": 756.0400000000001,
+      "text": "So I think I kind of want to merge UMax and Quitter."
+    },
+    {
+      "start": 756.0400000000001,
+      "end": 756.88,
+      "text": "All right."
+    },
+    {
+      "start": 757.84,
+      "end": 762.84,
+      "text": "I'm not certain what I want the core UI display to be right here."
+    },
+    {
+      "start": 764.52,
+      "end": 768.52,
+      "text": "I don't know if it's the streak or your current estimated"
+    },
+    {
+      "start": 769.52,
+      "end": 771.52,
+      "text": "testosterone or maybe both."
+    },
+    {
+      "start": 775.52,
+      "end": 778.52,
+      "text": "Maybe it could be actions remaining for the day."
+    },
+    {
+      "start": 778.52,
+      "end": 781.52,
+      "text": "So maybe we go more habit tracker style."
+    },
+    {
+      "start": 787.08,
+      "end": 792.08,
+      "text": "It could be interesting to have percent completion."
+    },
+    {
+      "start": 793.04,
+      "end": 796.04,
+      "text": "And we show that through the previous days."
+    },
+    {
+      "start": 796.04,
+      "end": 798.04,
+      "text": "And we can fill it up."
+    },
+    {
+      "start": 812.36,
+      "end": 814.36,
+      "text": "I want to do this right."
+    },
+    {
+      "start": 814.52,
+      "end": 816.52,
+      "text": "And yet at the same time,"
+    },
+    {
+      "start": 820.32,
+      "end": 823.32,
+      "text": "I want to move relatively quickly."
+    },
+    {
+      "start": 823.32,
+      "end": 825.32,
+      "text": "Okay. Let's do this."
+    },
+    {
+      "start": 825.32,
+      "end": 828.32,
+      "text": "So at the top, we're gonna do the streak."
+    },
+    {
+      "start": 830.32,
+      "end": 832.32,
+      "text": "We'll just do pretty basic."
+    },
+    {
+      "start": 833.32,
+      "end": 837.32,
+      "text": "I'm here. I'm gonna create a component or a frame so that I can"
+    },
+    {
+      "start": 837.32,
+      "end": 840.32,
+      "text": "auto layout and then just bang, bang, bang, bang."
+    },
+    {
+      "start": 840.32,
+      "end": 842.32,
+      "text": "That should be seven."
+    },
+    {
+      "start": 842.32,
+      "end": 844.32,
+      "text": "It should be seven."
+    },
+    {
+      "start": 844.32,
+      "end": 847.32,
+      "text": "We'll maybe increase the size of this a little bit."
+    },
+    {
+      "start": 849.32,
+      "end": 851.32,
+      "text": "And I'll add a note here and this is"
+    },
+    {
+      "start": 857.6400000000001,
+      "end": 858.6400000000001,
+      "text": "weekly out."
+    },
+    {
+      "start": 859.96,
+      "end": 863.12,
+      "text": "So I'll add these comments if I'm working with someone,"
+    },
+    {
+      "start": 864.12,
+      "end": 866.8800000000001,
+      "text": "either a designer or co-founder."
+    },
+    {
+      "start": 866.8800000000001,
+      "end": 869.2800000000001,
+      "text": "It's very important to have comments here as you're going"
+    },
+    {
+      "start": 869.2800000000001,
+      "end": 870.6400000000001,
+      "text": "through the process wire framing."
+    },
+    {
+      "start": 870.64,
+      "end": 872.64,
+      "text": "So they know what you're actually building out."
+    },
+    {
+      "start": 874.3199999999999,
+      "end": 877.3199999999999,
+      "text": "Now, I think maybe some text along the lines of like,"
+    },
+    {
+      "start": 877.3199999999999,
+      "end": 879.48,
+      "text": "maybe we say like you,"
+    },
+    {
+      "start": 883.68,
+      "end": 885.88,
+      "text": "maybe we give like a percent score."
+    },
+    {
+      "start": 887.08,
+      "end": 888.28,
+      "text": "Let's give you interesting."
+    },
+    {
+      "start": 890.28,
+      "end": 894.68,
+      "text": "Let me bring this in a little bit."
+    },
+    {
+      "start": 894.68,
+      "end": 897.4399999999999,
+      "text": "All right, let's do a little percent score."
+    },
+    {
+      "start": 901.6,
+      "end": 903.6,
+      "text": "I know like more common is streak, right?"
+    },
+    {
+      "start": 903.6,
+      "end": 906.6,
+      "text": "And I think that streak is good, but I want something that's"
+    },
+    {
+      "start": 906.6,
+      "end": 908.6,
+      "text": "like a, you know."
+    },
+    {
+      "start": 912.6,
+      "end": 914.6,
+      "text": "Maybe it's um,"
+    },
+    {
+      "start": 918.6,
+      "end": 920.6,
+      "text": "that's the thing."
+    },
+    {
+      "start": 923.6,
+      "end": 925.6,
+      "text": "Maybe it's um,"
+    },
+    {
+      "start": 925.6,
+      "end": 927.6,
+      "text": "I'm not sure if I can make a mistake."
+    },
+    {
+      "start": 928.6,
+      "end": 932.6,
+      "text": "I want like a number, you know, I want something that where you're like,"
+    },
+    {
+      "start": 932.6,
+      "end": 937.6,
+      "text": "I need to ensure that I'm hitting this every single day."
+    },
+    {
+      "start": 937.6,
+      "end": 938.6,
+      "text": "So, right?"
+    },
+    {
+      "start": 938.6,
+      "end": 943.6,
+      "text": "So for quitter, they have the, the amount of time that you've been free"
+    },
+    {
+      "start": 943.6,
+      "end": 945.6,
+      "text": "from point for Cal AI."
+    },
+    {
+      "start": 945.6,
+      "end": 947.6,
+      "text": "We have your daily calories for UMACs."
+    },
+    {
+      "start": 947.6,
+      "end": 949.6,
+      "text": "I actually think that this was a major shortcoming,"
+    },
+    {
+      "start": 949.6,
+      "end": 951.6,
+      "text": "which was that we did not have a lot of time."
+    },
+    {
+      "start": 951.6,
+      "end": 953.6,
+      "text": "I think that's a lot of time."
+    },
+    {
+      "start": 953.6,
+      "end": 955.6,
+      "text": "I think that's a lot of time."
+    },
+    {
+      "start": 955.6,
+      "end": 959.6,
+      "text": "Which was that we did not have a sort of core action to return to."
+    },
+    {
+      "start": 959.6,
+      "end": 962.6,
+      "text": "We had this daily tab here, which was kind of a routine,"
+    },
+    {
+      "start": 962.6,
+      "end": 965.6,
+      "text": "but the fact that that wasn't on the first page, it was a major issue."
+    },
+    {
+      "start": 970.6,
+      "end": 972.6,
+      "text": "Okay, we'll leave this for now."
+    },
+    {
+      "start": 972.6,
+      "end": 974.6,
+      "text": "This will um,"
+    },
+    {
+      "start": 974.6,
+      "end": 975.6,
+      "text": "I'll just add a note."
+    },
+    {
+      "start": 975.6,
+      "end": 977.6,
+      "text": "I'll be like,"
+    },
+    {
+      "start": 977.6,
+      "end": 981.6,
+      "text": "I want something catchy here."
+    },
+    {
+      "start": 981.6,
+      "end": 983.6,
+      "text": "Okay."
+    },
+    {
+      "start": 983.6,
+      "end": 987.6,
+      "text": "And then your actual actions will be your routine."
+    },
+    {
+      "start": 987.6,
+      "end": 988.6,
+      "text": "Right?"
+    },
+    {
+      "start": 988.6,
+      "end": 991.6,
+      "text": "So we'll have here."
+    },
+    {
+      "start": 991.6,
+      "end": 997.6,
+      "text": "So, uh, whoa, what did I do here?"
+    },
+    {
+      "start": 1000.6,
+      "end": 1003.6,
+      "text": "Action one."
+    },
+    {
+      "start": 1007.6,
+      "end": 1012.6,
+      "text": "Action two and so forth."
+    },
+    {
+      "start": 1014.6,
+      "end": 1016.6,
+      "text": "Yeah."
+    },
+    {
+      "start": 1028.6,
+      "end": 1030.6,
+      "text": "Cool."
+    },
+    {
+      "start": 1030.6,
+      "end": 1034.6,
+      "text": "Don't worry about the little thing myself that I'm doing with the components and whatnot."
+    },
+    {
+      "start": 1034.6,
+      "end": 1036.6,
+      "text": "If you don't know how to do it, no worries."
+    },
+    {
+      "start": 1036.6,
+      "end": 1038.6,
+      "text": "You'll learn with time."
+    },
+    {
+      "start": 1038.6,
+      "end": 1040.6,
+      "text": "I'm not all that good with stigma, right?"
+    },
+    {
+      "start": 1040.6,
+      "end": 1043.6,
+      "text": "But um,"
+    },
+    {
+      "start": 1043.6,
+      "end": 1045.6,
+      "text": "okay."
+    },
+    {
+      "start": 1045.6,
+      "end": 1046.6,
+      "text": "All right."
+    },
+    {
+      "start": 1046.6,
+      "end": 1048.6,
+      "text": "So I have the core sort of habits here."
+    },
+    {
+      "start": 1048.6,
+      "end": 1056.6,
+      "text": "Um, maybe I should have named these habits and cares."
+    },
+    {
+      "start": 1056.6,
+      "end": 1065.6,
+      "text": "And then I kind of like what quitter does here with like the panic button at the bottom."
+    },
+    {
+      "start": 1065.6,
+      "end": 1069.6,
+      "text": "Um, we want the analysis to be obvious enough."
+    },
+    {
+      "start": 1069.6,
+      "end": 1076.6,
+      "text": "So this will probably be when the individual has already,"
+    },
+    {
+      "start": 1076.6,
+      "end": 1081.6,
+      "text": "when the individual has already sort of a,"
+    },
+    {
+      "start": 1081.6,
+      "end": 1090.6,
+      "text": "perform their first analysis because that will set their habits."
+    },
+    {
+      "start": 1090.6,
+      "end": 1094.6,
+      "text": "But if they have not completed their habits,"
+    },
+    {
+      "start": 1094.6,
+      "end": 1097.6,
+      "text": "we'll say,"
+    },
+    {
+      "start": 1102.6,
+      "end": 1106.6,
+      "text": "we'll maybe do the UMAC style,"
+    },
+    {
+      "start": 1111.6,
+      "end": 1117.6,
+      "text": "complete your first analysis."
+    },
+    {
+      "start": 1124.6,
+      "end": 1134.6,
+      "text": "All right."
+    },
+    {
+      "start": 1134.6,
+      "end": 1142.6,
+      "text": "We'll change this."
+    },
+    {
+      "start": 1142.6,
+      "end": 1147.6,
+      "text": "This will just be like button."
+    },
+    {
+      "start": 1147.6,
+      "end": 1159.6,
+      "text": "Cool."
+    },
+    {
+      "start": 1159.6,
+      "end": 1167.6,
+      "text": "One more thing."
+    },
+    {
+      "start": 1167.6,
+      "end": 1168.6,
+      "text": "Oops."
+    },
+    {
+      "start": 1168.6,
+      "end": 1175.6,
+      "text": "I should just ungroup this."
+    },
+    {
+      "start": 1175.6,
+      "end": 1177.6,
+      "text": "Okay."
+    },
+    {
+      "start": 1177.6,
+      "end": 1180.6,
+      "text": "So when you have not performed your first analysis,"
+    },
+    {
+      "start": 1180.6,
+      "end": 1182.6,
+      "text": "it'll ask you to start."
+    },
+    {
+      "start": 1182.6,
+      "end": 1184.6,
+      "text": "Once you have performed it,"
+    },
+    {
+      "start": 1184.6,
+      "end": 1187.6,
+      "text": "the core action will be the number of habits that you have."
+    },
+    {
+      "start": 1187.6,
+      "end": 1189.6,
+      "text": "Um,"
+    },
+    {
+      "start": 1189.6,
+      "end": 1191.6,
+      "text": "we'll just name this to actions."
+    },
+    {
+      "start": 1191.6,
+      "end": 1194.6,
+      "text": "The number of actions that you have remaining for the day."
+    },
+    {
+      "start": 1194.6,
+      "end": 1197.6,
+      "text": "You can go ahead and frame this."
+    },
+    {
+      "start": 1197.6,
+      "end": 1204.6,
+      "text": "I'll make it nice and pretty."
+    },
+    {
+      "start": 1204.6,
+      "end": 1206.6,
+      "text": "I'm just going to center that real quick."
+    },
+    {
+      "start": 1206.6,
+      "end": 1209.6,
+      "text": "Sorry. I'm being a little bit of a perfectionist here,"
+    },
+    {
+      "start": 1209.6,
+      "end": 1211.6,
+      "text": "which is somewhat ironic,"
+    },
+    {
+      "start": 1211.6,
+      "end": 1216.6,
+      "text": "because wireframe is obviously imperfect."
+    },
+    {
+      "start": 1216.6,
+      "end": 1218.6,
+      "text": "Great."
+    },
+    {
+      "start": 1218.6,
+      "end": 1221.6,
+      "text": "Now what I have here is I have like the basic skeleton"
+    },
+    {
+      "start": 1221.6,
+      "end": 1224.6,
+      "text": "for the core functionality of the app."
+    },
+    {
+      "start": 1224.6,
+      "end": 1227.6,
+      "text": "We have the homepage where if you haven't scanned,"
+    },
+    {
+      "start": 1227.6,
+      "end": 1230.6,
+      "text": "it prompts you to start."
+    },
+    {
+      "start": 1230.6,
+      "end": 1233.6,
+      "text": "We would then have some sort of upload flow,"
+    },
+    {
+      "start": 1233.6,
+      "end": 1234.6,
+      "text": "right?"
+    },
+    {
+      "start": 1234.6,
+      "end": 1236.6,
+      "text": "So that would come in between these two."
+    },
+    {
+      "start": 1236.6,
+      "end": 1241.6,
+      "text": "So move this on over."
+    },
+    {
+      "start": 1241.6,
+      "end": 1245.6,
+      "text": "Insert upload flow."
+    },
+    {
+      "start": 1245.6,
+      "end": 1246.6,
+      "text": "And then we have this."
+    },
+    {
+      "start": 1246.6,
+      "end": 1247.6,
+      "text": "And to be honest,"
+    },
+    {
+      "start": 1247.6,
+      "end": 1250.6,
+      "text": "like this is all that you really need to know"
+    },
+    {
+      "start": 1250.6,
+      "end": 1252.6,
+      "text": "when it comes to wireframing."
+    },
+    {
+      "start": 1252.6,
+      "end": 1254.6,
+      "text": "There's a good amount of theory,"
+    },
+    {
+      "start": 1254.6,
+      "end": 1257.6,
+      "text": "and we'll touch on that a little bit more in the next unit"
+    },
+    {
+      "start": 1257.6,
+      "end": 1260.6,
+      "text": "of this module for design."
+    },
+    {
+      "start": 1261.6,
+      "end": 1265.6,
+      "text": "But I think that this covers the high level."
+    },
+    {
+      "start": 1265.6,
+      "end": 1267.6,
+      "text": "Take screenshots of other apps,"
+    },
+    {
+      "start": 1267.6,
+      "end": 1271.6,
+      "text": "clearly define what your actions are within the product,"
+    },
+    {
+      "start": 1271.6,
+      "end": 1275.6,
+      "text": "and keep it as simple as possible to start,"
+    },
+    {
+      "start": 1275.6,
+      "end": 1279.6,
+      "text": "and then whip up your first couple of screens."
+    },
+    {
+      "start": 1279.6,
+      "end": 1280.6,
+      "text": "In the next lesson,"
+    },
+    {
+      "start": 1280.6,
+      "end": 1282.6,
+      "text": "we're going to go over hiring a designer."
+    },
+    {
+      "start": 1282.6,
+      "end": 1286.6,
+      "text": "So honestly, screens like this are more than enough"
+    },
+    {
+      "start": 1286.6,
+      "end": 1289.6,
+      "text": "to begin working with a designer."
+    },
+    {
+      "start": 1289.6,
+      "end": 1292.6,
+      "text": "I've worked on working with the designers"
+    },
+    {
+      "start": 1292.6,
+      "end": 1295.6,
+      "text": "with much less than this before, to be honest,"
+    },
+    {
+      "start": 1295.6,
+      "end": 1298.6,
+      "text": "like as little as this, honestly."
+    },
+    {
+      "start": 1298.6,
+      "end": 1300.6,
+      "text": "Now the reason that I try to hire a designer"
+    },
+    {
+      "start": 1300.6,
+      "end": 1303.6,
+      "text": "pretty quickly in the project is,"
+    },
+    {
+      "start": 1303.6,
+      "end": 1305.6,
+      "text": "if you want to move as fast as possible,"
+    },
+    {
+      "start": 1305.6,
+      "end": 1307.6,
+      "text": "and you're not constrained by capital,"
+    },
+    {
+      "start": 1307.6,
+      "end": 1309.6,
+      "text": "I'm sure some people here are,"
+    },
+    {
+      "start": 1309.6,
+      "end": 1312.6,
+      "text": "that's fine, we did not hire one for a plug AI,"
+    },
+    {
+      "start": 1312.6,
+      "end": 1313.6,
+      "text": "actually ever."
+    },
+    {
+      "start": 1313.6,
+      "end": 1321.6,
+      "text": "Then as soon as you figure out what the kind of like,"
+    },
+    {
+      "start": 1321.6,
+      "end": 1325.6,
+      "text": "even just one screen of the app is going to look like,"
+    },
+    {
+      "start": 1325.6,
+      "end": 1328.6,
+      "text": "you explain the project to a bunch of designers,"
+    },
+    {
+      "start": 1328.6,
+      "end": 1331.6,
+      "text": "you can start testing, figuring out who's best."
+    },
+    {
+      "start": 1331.6,
+      "end": 1334.6,
+      "text": "Once again, we're going to go over this in the next lesson,"
+    },
+    {
+      "start": 1334.6,
+      "end": 1339.6,
+      "text": "but yeah, this is essentially my process for wire framing."
+    },
+    {
+      "start": 1339.6,
+      "end": 1341.6,
+      "text": "See you guys later."
+    }
+  ]
+}

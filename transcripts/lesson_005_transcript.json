@@ -1,0 +1,957 @@
+{
+  "file_name": "005_Lesson_05.faudio-hi-0-Default.mp4",
+  "text": " All right, lesson three or lesson 1.0.2, we're going over human psychology. So previously we went through some case studies that can serve as inspiration in your process of coming up with ideas and building apps. And then we went over the trade-offs of idea versus execution and using that framework with when you're coming up with ideas, determining which are worth working on and pursuing. I wanted to start with that because that will kind of narrow down the set of ideas that you looked work on. But in the process of actually uncovering the ideas that are valuable and are going to work within that set, I think the best place to start is human psychology. Now this is probably the last very theoretical framework that we are going to go over before we jump into the actual tangible identification of problems and ideas to work on. So to start here, I want you to ignore everything that you have learned up to this point about human psychology. And I want to begin and sort of re-teach everything from a first principle perspective. Now if you already have a very deep understanding of psychology, this unit may not be all that important for you. But I think that it's always very valuable to go back to the very basics. What is the biological imperative? The biological imperative asserts that every living being exists to pass on its genes. This drives all biological human and other life-form behavior. As we see here, this is the fundamental univaction that drives every living being. From single-cell organisms to multicell to complex life, we all exist to pass on our genes. Everything that we know about human psychology and more importantly for building apps, consumer behavior is just an abstraction of this concept. Now we see this truth in its most extreme form through the fact that animals will literally sacrifice their own survival to reproduce or protect their offspring. Some animals will die in the process of reproduction. I think salmon is one classic example. And then others will die to protect their offspring. This should not come a surprise to any of us that are humans. Very classic mythology, you die, you take the bullet to protect your child. I would do it, I'm sure most people watching do this would do it, it's because we want to pass on our genes. Now this is complex, it extends beyond just passing on our children. We want our children to survive and grow up healthy to continue to pass down generation after generation after generation. I think that Maslow's hierarchy of needs is a very culturally popular but also more nuanced representation of this principle. The biological imperative is very simple. As Maslow's hierarchy of needs brings this up a couple levels of abstraction and develops it further beyond just live and reproduce but it says, okay, physiological needs to continue surviving are most important and then safety, security. And then we get into intimate relationship, friends, prestige, feelings of accomplishment and self actualization at the very top. The key takeaway here is that survival is solved, okay, for the biological imperative we exist to pass on our genes that means we exist to continue living and to reproduce. Continue living is solved largely. Now this isn't true for all humans but if you're watching this it's solved for you and solve for the majority of people who you are going to target as your customers. So since survival is solved we should seek to increase the health status, meaning and quality, slash quantity of romantic partners for our potential customers. Solve the biggest problems first. The closer you are to the biological imperative, the lower you are on the pyramid that is Maslow's hierarchy of needs, the easier it will be to sell your product. Everything I just said for the past few minutes boils down to that. Solve major problems. Solve the key things that people want to get out of their life. And I would go so far as to assert that it is almost always easier and more lucrative and higher probability of building a successful product when you solve 10% of a major problem rather than 100% of a minor problem. Okay, so major problems. Like I stated above here, the lower we have in the Maslow's hierarchy of needs the more of a major problem it is. If for example, you know, let's set aside apps for a second, if there exists a marketplace where people that are coming to this marketplace don't have reliable sources of food, then the product that you want to solve is probably food. Everybody is going to purchase that from you. When it comes to software, physiological and safety needs are largely not problems that we solve. So we go to the next most important. We go to intimate relationships. We go to status. We go to health. There's health obviously, you know, somewhat physiological in nature, but the health that we're talking about is increasing feelings of wellness rather than just survival. Okay. So if we want to solve a major problem such as finding a romantic partner, a, this is written wrongly at this real quick, a 10% solution here would be an AI dating app that suggests better responses. Okay. Go back to the case studies. This is just Riz. This is Plague AI, Riz GPT. Now on the flip side, if we're not solving major problems, we're probably solving minor problems. For example, splitting a dinner bill evenly. Okay. Now what's like the fundamental problem here? Saving along the lines of like fairness, it's also like saving money, right? But this is a major abstraction of the underlying problem of like making money, which is like related to having high status and this concept of fairness, right? It's convoluted. It's over intellectualized. And I want, I want to harp on that word over intellectualized. This is one of the major problems that I see people experience when they're building consumer applications. They over intellectualize and abstract too far out from the actual underlying problem that they're trying to solve. So while an app that calculates and charges everyone instantly is a 100% solution of this problem, sure this is a problem a lot of people listening have come up with. I've come up with it myself. It's not strong. It's not that important. And when it's not that important, the probability that people are going to pay you is very low. Now you might be listening to this reading what I have here on the page and you might say, well, you know, buddy, I've got plenty of examples of apps that solve relatively minor problems that are very successful to which I would say that certainly that is the case. But it's generally more so an exception than it is the rule. It's pretty rare that you have an app category that is able to actually contribute to solving a major problem that a lot of people experience and is able to contribute to a large proportion of those people were the entire app category flops. So as with everything, there are always exceptions both with respect to minor problem, 100% solutions that succeed in major problem 10% solutions that fail. But this is a great overarching principle to abide by. When you're coming up with your ideas, refer back to the case studies, refer back to these principles. Is it solving a major problem that a lot of people experience even if in a minor way? If you go to a bunch of your friends and you share with them your idea and the overwhelming reaction is like, oh, well, I mean, yeah, I guess, yeah, that's a good idea. No, yeah, you should definitely do that. They're probably just being supportive. They probably think that it's a fucking bad idea. So the good ideas are always abundantly obvious. Okay. Now building off of this final thought here, make people feel, don't make them think in line with that. When you tell someone your idea, they should be able to feel it because when people see an advertisement for your product, they don't have enough time to go through. Deep, rigorous analysis of why that problem that you're solving is going to be important to them and why it's going to improve their life. No, they need to feel that, right? Our subconscious process is more quickly than our conscious does. This is what leads to a scrolling past a video versus seeing it and immediately downloading the product and paying for it thereafter. Okay, so identify the fundamental human drive that the problem you're solving relates to. This is why we have this column here. All right, we're solving dating or solving health, discipline, spirituality, success, social validation, right? We're not abstracting out these terms too much when we're listening them here. We're keeping it very, very simple, very straightforward. Okay, identify the fundamental human drive, build as close to it as possible. You could abstract out this, splitting a dinner bill evenly. You could say, well, this actually helps with reproduction because if you save a little bit of money and there's increased fairness in the world, then you are going to be able to position yourself as a higher status person or you save cash or maybe the friend group likes you more because you come up with these creative solutions and therefore everyone wants to be the person that introduces this product to the friend group because you'll get social credit for that. Thereby it enables you to get more action way too much, way too much. Build a close to it. Build a close, simple. Finally, don't fear starting small on a big problem when we were building RISGPT, when we built UMax, Kelly, people often said that they were very small advances for RISGPT. It's like, well, who's actually going to pay to have an AI respond to them? The answer is a lot of people. For UMax, it's like, dude, to get a rating of how attractive I am, I don't fucking need that. That doesn't actually help me become more attractive. A lot of people still like that product. A lot of people think that it's going to help them advance, which it does. It provides recommendations on how to improve. You might say, well, I can just look at myself in the mirror and I understand, but not everybody does. Finally, Cal AI, everyone's like, well, AI calorie tracking, the current calorie tracker has already worked. It can't be that accurate. The current calorie trackers have a lot of friction and minor increases, I would say even like 2x increase in speed to track the calories results in people across the board being able to achieve their fitness goals, a much higher degree of probability of success, right? Even though there may be slight decreases in accuracy, it will enable people that previously struggled with the consistency of calorie tracking to be able to lose weight or gain weight, which are of paramount importance in humans lives. Okay. That is pretty much it on human psychology. These are simple truths, but there are truths nonetheless that I think are not adequately represented. The importance of the biological imperative, building close to the major problems that people experience rather than over intellectualized abstractions, solving these massive problems even in a minor way, and then making sure that people can feel it without having to think about it. Okay. Next up, you have an assignment to apply some of the principles and ideas that we spoke about in this lesson and the previous. In the analysis of the case studies listed in the first lesson, in the next unit, we are going to go over actually identifying the very specific problems in your life as well as on social media. So stay tuned for that. If you have any questions on the assignment, figure it out. I believe in you. Peace out.",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.64,
+      "text": "All right, lesson three or lesson 1.0.2, we're going over human psychology."
+    },
+    {
+      "start": 8.64,
+      "end": 14.120000000000001,
+      "text": "So previously we went through some case studies that can serve as inspiration in your process"
+    },
+    {
+      "start": 14.120000000000001,
+      "end": 17.04,
+      "text": "of coming up with ideas and building apps."
+    },
+    {
+      "start": 17.04,
+      "end": 22.68,
+      "text": "And then we went over the trade-offs of idea versus execution and using that framework"
+    },
+    {
+      "start": 22.68,
+      "end": 28.240000000000002,
+      "text": "with when you're coming up with ideas, determining which are worth working on and pursuing."
+    },
+    {
+      "start": 28.759999999999998,
+      "end": 34.28,
+      "text": "I wanted to start with that because that will kind of narrow down the set of ideas"
+    },
+    {
+      "start": 34.28,
+      "end": 36.199999999999996,
+      "text": "that you looked work on."
+    },
+    {
+      "start": 36.199999999999996,
+      "end": 42.36,
+      "text": "But in the process of actually uncovering the ideas that are valuable and are going to work"
+    },
+    {
+      "start": 42.36,
+      "end": 48.28,
+      "text": "within that set, I think the best place to start is human psychology."
+    },
+    {
+      "start": 48.28,
+      "end": 53.44,
+      "text": "Now this is probably the last very theoretical framework that we are going to go over"
+    },
+    {
+      "start": 53.44,
+      "end": 60.44,
+      "text": "before we jump into the actual tangible identification of problems and ideas to work on."
+    },
+    {
+      "start": 61.519999999999996,
+      "end": 66.48,
+      "text": "So to start here, I want you to ignore everything that you have learned up to this point"
+    },
+    {
+      "start": 66.48,
+      "end": 68.36,
+      "text": "about human psychology."
+    },
+    {
+      "start": 68.36,
+      "end": 74.8,
+      "text": "And I want to begin and sort of re-teach everything from a first principle perspective."
+    },
+    {
+      "start": 74.8,
+      "end": 78.88,
+      "text": "Now if you already have a very deep understanding of psychology, this unit may not be all that"
+    },
+    {
+      "start": 78.88,
+      "end": 80.8,
+      "text": "important for you."
+    },
+    {
+      "start": 80.8,
+      "end": 88.52,
+      "text": "But I think that it's always very valuable to go back to the very basics."
+    },
+    {
+      "start": 88.52,
+      "end": 90.72,
+      "text": "What is the biological imperative?"
+    },
+    {
+      "start": 90.72,
+      "end": 99.44,
+      "text": "The biological imperative asserts that every living being exists to pass on its genes."
+    },
+    {
+      "start": 99.44,
+      "end": 107.8,
+      "text": "This drives all biological human and other life-form behavior."
+    },
+    {
+      "start": 107.8,
+      "end": 113.24,
+      "text": "As we see here, this is the fundamental univaction that drives every living being."
+    },
+    {
+      "start": 113.24,
+      "end": 121.47999999999999,
+      "text": "From single-cell organisms to multicell to complex life, we all exist to pass on our genes."
+    },
+    {
+      "start": 121.47999999999999,
+      "end": 127.28,
+      "text": "Everything that we know about human psychology and more importantly for building apps, consumer"
+    },
+    {
+      "start": 127.28,
+      "end": 132.88,
+      "text": "behavior is just an abstraction of this concept."
+    },
+    {
+      "start": 132.88,
+      "end": 138.56,
+      "text": "Now we see this truth in its most extreme form through the fact that animals will literally"
+    },
+    {
+      "start": 138.56,
+      "end": 144.28,
+      "text": "sacrifice their own survival to reproduce or protect their offspring."
+    },
+    {
+      "start": 144.28,
+      "end": 148.32,
+      "text": "Some animals will die in the process of reproduction."
+    },
+    {
+      "start": 148.32,
+      "end": 151.88,
+      "text": "I think salmon is one classic example."
+    },
+    {
+      "start": 151.88,
+      "end": 154.96,
+      "text": "And then others will die to protect their offspring."
+    },
+    {
+      "start": 154.96,
+      "end": 160.4,
+      "text": "This should not come a surprise to any of us that are humans."
+    },
+    {
+      "start": 160.4,
+      "end": 165.08,
+      "text": "Very classic mythology, you die, you take the bullet to protect your child."
+    },
+    {
+      "start": 165.08,
+      "end": 168.8,
+      "text": "I would do it, I'm sure most people watching do this would do it, it's because we want"
+    },
+    {
+      "start": 168.8,
+      "end": 170.4,
+      "text": "to pass on our genes."
+    },
+    {
+      "start": 170.4,
+      "end": 174.72,
+      "text": "Now this is complex, it extends beyond just passing on our children."
+    },
+    {
+      "start": 174.72,
+      "end": 178.96,
+      "text": "We want our children to survive and grow up healthy to continue to pass down generation"
+    },
+    {
+      "start": 178.96,
+      "end": 180.64000000000001,
+      "text": "after generation after generation."
+    },
+    {
+      "start": 180.64000000000001,
+      "end": 188.92000000000002,
+      "text": "I think that Maslow's hierarchy of needs is a very culturally popular but also more nuanced"
+    },
+    {
+      "start": 188.92,
+      "end": 191.2,
+      "text": "representation of this principle."
+    },
+    {
+      "start": 191.2,
+      "end": 193.79999999999998,
+      "text": "The biological imperative is very simple."
+    },
+    {
+      "start": 193.79999999999998,
+      "end": 200.04,
+      "text": "As Maslow's hierarchy of needs brings this up a couple levels of abstraction and develops"
+    },
+    {
+      "start": 200.04,
+      "end": 206.04,
+      "text": "it further beyond just live and reproduce but it says, okay, physiological needs to continue"
+    },
+    {
+      "start": 206.04,
+      "end": 210.07999999999998,
+      "text": "surviving are most important and then safety, security."
+    },
+    {
+      "start": 210.07999999999998,
+      "end": 215.76,
+      "text": "And then we get into intimate relationship, friends, prestige, feelings of accomplishment"
+    },
+    {
+      "start": 215.76,
+      "end": 219.39999999999998,
+      "text": "and self actualization at the very top."
+    },
+    {
+      "start": 219.39999999999998,
+      "end": 224.35999999999999,
+      "text": "The key takeaway here is that survival is solved, okay, for the biological imperative we"
+    },
+    {
+      "start": 224.35999999999999,
+      "end": 229.23999999999998,
+      "text": "exist to pass on our genes that means we exist to continue living and to reproduce."
+    },
+    {
+      "start": 229.23999999999998,
+      "end": 232.0,
+      "text": "Continue living is solved largely."
+    },
+    {
+      "start": 232.0,
+      "end": 236.56,
+      "text": "Now this isn't true for all humans but if you're watching this it's solved for you and"
+    },
+    {
+      "start": 236.56,
+      "end": 241.39999999999998,
+      "text": "solve for the majority of people who you are going to target as your customers."
+    },
+    {
+      "start": 241.4,
+      "end": 249.96,
+      "text": "So since survival is solved we should seek to increase the health status, meaning and"
+    },
+    {
+      "start": 249.96,
+      "end": 256.88,
+      "text": "quality, slash quantity of romantic partners for our potential customers."
+    },
+    {
+      "start": 256.88,
+      "end": 259.24,
+      "text": "Solve the biggest problems first."
+    },
+    {
+      "start": 259.24,
+      "end": 265.92,
+      "text": "The closer you are to the biological imperative, the lower you are on the pyramid that is"
+    },
+    {
+      "start": 265.92,
+      "end": 272.48,
+      "text": "Maslow's hierarchy of needs, the easier it will be to sell your product."
+    },
+    {
+      "start": 272.48,
+      "end": 277.2,
+      "text": "Everything I just said for the past few minutes boils down to that."
+    },
+    {
+      "start": 277.2,
+      "end": 279.76,
+      "text": "Solve major problems."
+    },
+    {
+      "start": 279.76,
+      "end": 285.04,
+      "text": "Solve the key things that people want to get out of their life."
+    },
+    {
+      "start": 285.04,
+      "end": 293.32,
+      "text": "And I would go so far as to assert that it is almost always easier and more lucrative"
+    },
+    {
+      "start": 293.32,
+      "end": 300.0,
+      "text": "and higher probability of building a successful product when you solve 10% of a major problem"
+    },
+    {
+      "start": 300.0,
+      "end": 303.8,
+      "text": "rather than 100% of a minor problem."
+    },
+    {
+      "start": 303.8,
+      "end": 306.12,
+      "text": "Okay, so major problems."
+    },
+    {
+      "start": 306.12,
+      "end": 311.4,
+      "text": "Like I stated above here, the lower we have in the Maslow's hierarchy of needs the more"
+    },
+    {
+      "start": 311.4,
+      "end": 312.96,
+      "text": "of a major problem it is."
+    },
+    {
+      "start": 312.96,
+      "end": 318.48,
+      "text": "If for example, you know, let's set aside apps for a second, if there exists a marketplace"
+    },
+    {
+      "start": 318.48,
+      "end": 324.56,
+      "text": "where people that are coming to this marketplace don't have reliable sources of food, then the"
+    },
+    {
+      "start": 324.56,
+      "end": 328.04,
+      "text": "product that you want to solve is probably food."
+    },
+    {
+      "start": 328.04,
+      "end": 331.12,
+      "text": "Everybody is going to purchase that from you."
+    },
+    {
+      "start": 331.12,
+      "end": 337.0,
+      "text": "When it comes to software, physiological and safety needs are largely not problems that"
+    },
+    {
+      "start": 337.0,
+      "end": 338.48,
+      "text": "we solve."
+    },
+    {
+      "start": 338.48,
+      "end": 340.44,
+      "text": "So we go to the next most important."
+    },
+    {
+      "start": 340.44,
+      "end": 342.6,
+      "text": "We go to intimate relationships."
+    },
+    {
+      "start": 342.6,
+      "end": 344.36,
+      "text": "We go to status."
+    },
+    {
+      "start": 344.36,
+      "end": 347.6,
+      "text": "We go to health."
+    },
+    {
+      "start": 347.6,
+      "end": 350.8,
+      "text": "There's health obviously, you know, somewhat physiological in nature, but the health that"
+    },
+    {
+      "start": 350.8,
+      "end": 356.52000000000004,
+      "text": "we're talking about is increasing feelings of wellness rather than just survival."
+    },
+    {
+      "start": 356.52000000000004,
+      "end": 359.28000000000003,
+      "text": "Okay."
+    },
+    {
+      "start": 359.28000000000003,
+      "end": 366.84000000000003,
+      "text": "So if we want to solve a major problem such as finding a romantic partner, a, this is"
+    },
+    {
+      "start": 366.84000000000003,
+      "end": 375.92,
+      "text": "written wrongly at this real quick, a 10% solution here would be an AI dating app that"
+    },
+    {
+      "start": 375.92,
+      "end": 378.6,
+      "text": "suggests better responses."
+    },
+    {
+      "start": 378.6,
+      "end": 379.6,
+      "text": "Okay."
+    },
+    {
+      "start": 379.6,
+      "end": 381.32,
+      "text": "Go back to the case studies."
+    },
+    {
+      "start": 381.32,
+      "end": 382.72,
+      "text": "This is just Riz."
+    },
+    {
+      "start": 382.72,
+      "end": 390.16,
+      "text": "This is Plague AI, Riz GPT."
+    },
+    {
+      "start": 390.16,
+      "end": 394.12,
+      "text": "Now on the flip side, if we're not solving major problems, we're probably solving minor"
+    },
+    {
+      "start": 394.12,
+      "end": 395.32,
+      "text": "problems."
+    },
+    {
+      "start": 395.32,
+      "end": 399.12,
+      "text": "For example, splitting a dinner bill evenly."
+    },
+    {
+      "start": 399.12,
+      "end": 400.12,
+      "text": "Okay."
+    },
+    {
+      "start": 400.12,
+      "end": 402.32,
+      "text": "Now what's like the fundamental problem here?"
+    },
+    {
+      "start": 402.32,
+      "end": 408.24,
+      "text": "Saving along the lines of like fairness, it's also like saving money, right?"
+    },
+    {
+      "start": 408.24,
+      "end": 416.68,
+      "text": "But this is a major abstraction of the underlying problem of like making money, which is like"
+    },
+    {
+      "start": 416.68,
+      "end": 421.56,
+      "text": "related to having high status and this concept of fairness, right?"
+    },
+    {
+      "start": 421.56,
+      "end": 423.64,
+      "text": "It's convoluted."
+    },
+    {
+      "start": 423.64,
+      "end": 426.08,
+      "text": "It's over intellectualized."
+    },
+    {
+      "start": 426.08,
+      "end": 429.6,
+      "text": "And I want, I want to harp on that word over intellectualized."
+    },
+    {
+      "start": 429.6,
+      "end": 434.96000000000004,
+      "text": "This is one of the major problems that I see people experience when they're building"
+    },
+    {
+      "start": 434.96000000000004,
+      "end": 436.96000000000004,
+      "text": "consumer applications."
+    },
+    {
+      "start": 436.96000000000004,
+      "end": 443.6,
+      "text": "They over intellectualize and abstract too far out from the actual underlying problem"
+    },
+    {
+      "start": 443.6,
+      "end": 446.48,
+      "text": "that they're trying to solve."
+    },
+    {
+      "start": 446.48,
+      "end": 451.68,
+      "text": "So while an app that calculates and charges everyone instantly is a 100% solution of"
+    },
+    {
+      "start": 451.68,
+      "end": 455.68,
+      "text": "this problem, sure this is a problem a lot of people listening have come up with."
+    },
+    {
+      "start": 455.68,
+      "end": 458.04,
+      "text": "I've come up with it myself."
+    },
+    {
+      "start": 458.04,
+      "end": 460.56,
+      "text": "It's not strong."
+    },
+    {
+      "start": 460.56,
+      "end": 462.40000000000003,
+      "text": "It's not that important."
+    },
+    {
+      "start": 462.40000000000003,
+      "end": 469.8,
+      "text": "And when it's not that important, the probability that people are going to pay you is very low."
+    },
+    {
+      "start": 469.8,
+      "end": 476.08000000000004,
+      "text": "Now you might be listening to this reading what I have here on the page and you might say,"
+    },
+    {
+      "start": 476.08000000000004,
+      "end": 482.6,
+      "text": "well, you know, buddy, I've got plenty of examples of apps that solve relatively minor problems"
+    },
+    {
+      "start": 482.6,
+      "end": 488.0,
+      "text": "that are very successful to which I would say that certainly that is the case."
+    },
+    {
+      "start": 488.0,
+      "end": 493.48,
+      "text": "But it's generally more so an exception than it is the rule."
+    },
+    {
+      "start": 493.48,
+      "end": 501.68,
+      "text": "It's pretty rare that you have an app category that is able to actually contribute to solving"
+    },
+    {
+      "start": 501.68,
+      "end": 508.12,
+      "text": "a major problem that a lot of people experience and is able to contribute to a large proportion"
+    },
+    {
+      "start": 508.12,
+      "end": 513.32,
+      "text": "of those people were the entire app category flops."
+    },
+    {
+      "start": 513.32,
+      "end": 526.12,
+      "text": "So as with everything, there are always exceptions both with respect to minor problem, 100% solutions"
+    },
+    {
+      "start": 526.12,
+      "end": 529.6400000000001,
+      "text": "that succeed in major problem 10% solutions that fail."
+    },
+    {
+      "start": 529.6400000000001,
+      "end": 533.8000000000001,
+      "text": "But this is a great overarching principle to abide by."
+    },
+    {
+      "start": 533.8000000000001,
+      "end": 539.44,
+      "text": "When you're coming up with your ideas, refer back to the case studies, refer back to these"
+    },
+    {
+      "start": 539.44,
+      "end": 541.6400000000001,
+      "text": "principles."
+    },
+    {
+      "start": 541.6400000000001,
+      "end": 548.72,
+      "text": "Is it solving a major problem that a lot of people experience even if in a minor way?"
+    },
+    {
+      "start": 548.72,
+      "end": 553.96,
+      "text": "If you go to a bunch of your friends and you share with them your idea and the overwhelming"
+    },
+    {
+      "start": 553.96,
+      "end": 560.48,
+      "text": "reaction is like, oh, well, I mean, yeah, I guess, yeah, that's a good idea."
+    },
+    {
+      "start": 560.48,
+      "end": 563.48,
+      "text": "No, yeah, you should definitely do that."
+    },
+    {
+      "start": 563.48,
+      "end": 565.84,
+      "text": "They're probably just being supportive."
+    },
+    {
+      "start": 565.84,
+      "end": 571.76,
+      "text": "They probably think that it's a fucking bad idea."
+    },
+    {
+      "start": 571.76,
+      "end": 576.5600000000001,
+      "text": "So the good ideas are always abundantly obvious."
+    },
+    {
+      "start": 576.5600000000001,
+      "end": 577.5600000000001,
+      "text": "Okay."
+    },
+    {
+      "start": 577.5600000000001,
+      "end": 582.72,
+      "text": "Now building off of this final thought here, make people feel, don't make them think in"
+    },
+    {
+      "start": 582.72,
+      "end": 585.5600000000001,
+      "text": "line with that."
+    },
+    {
+      "start": 585.5600000000001,
+      "end": 589.84,
+      "text": "When you tell someone your idea, they should be able to feel it because when people see"
+    },
+    {
+      "start": 589.84,
+      "end": 595.8000000000001,
+      "text": "an advertisement for your product, they don't have enough time to go through."
+    },
+    {
+      "start": 595.8,
+      "end": 601.68,
+      "text": "Deep, rigorous analysis of why that problem that you're solving is going to be important"
+    },
+    {
+      "start": 601.68,
+      "end": 604.64,
+      "text": "to them and why it's going to improve their life."
+    },
+    {
+      "start": 604.64,
+      "end": 607.4399999999999,
+      "text": "No, they need to feel that, right?"
+    },
+    {
+      "start": 607.4399999999999,
+      "end": 612.28,
+      "text": "Our subconscious process is more quickly than our conscious does."
+    },
+    {
+      "start": 612.28,
+      "end": 619.3599999999999,
+      "text": "This is what leads to a scrolling past a video versus seeing it and immediately downloading"
+    },
+    {
+      "start": 619.3599999999999,
+      "end": 622.64,
+      "text": "the product and paying for it thereafter."
+    },
+    {
+      "start": 623.36,
+      "end": 629.08,
+      "text": "Okay, so identify the fundamental human drive that the problem you're solving relates to."
+    },
+    {
+      "start": 629.08,
+      "end": 631.6,
+      "text": "This is why we have this column here."
+    },
+    {
+      "start": 631.6,
+      "end": 639.16,
+      "text": "All right, we're solving dating or solving health, discipline, spirituality, success, social"
+    },
+    {
+      "start": 639.16,
+      "end": 640.16,
+      "text": "validation, right?"
+    },
+    {
+      "start": 640.16,
+      "end": 643.88,
+      "text": "We're not abstracting out these terms too much when we're listening them here."
+    },
+    {
+      "start": 643.88,
+      "end": 647.16,
+      "text": "We're keeping it very, very simple, very straightforward."
+    },
+    {
+      "start": 647.16,
+      "end": 652.6,
+      "text": "Okay, identify the fundamental human drive, build as close to it as possible."
+    },
+    {
+      "start": 652.88,
+      "end": 656.16,
+      "text": "You could abstract out this, splitting a dinner bill evenly."
+    },
+    {
+      "start": 656.16,
+      "end": 661.32,
+      "text": "You could say, well, this actually helps with reproduction because if you save a little"
+    },
+    {
+      "start": 661.32,
+      "end": 666.8000000000001,
+      "text": "bit of money and there's increased fairness in the world, then you are going to be able"
+    },
+    {
+      "start": 666.8000000000001,
+      "end": 673.44,
+      "text": "to position yourself as a higher status person or you save cash or maybe the friend group"
+    },
+    {
+      "start": 673.44,
+      "end": 679.28,
+      "text": "likes you more because you come up with these creative solutions and therefore everyone"
+    },
+    {
+      "start": 679.28,
+      "end": 682.8399999999999,
+      "text": "wants to be the person that introduces this product to the friend group because you'll"
+    },
+    {
+      "start": 682.8399999999999,
+      "end": 684.48,
+      "text": "get social credit for that."
+    },
+    {
+      "start": 684.48,
+      "end": 693.6,
+      "text": "Thereby it enables you to get more action way too much, way too much."
+    },
+    {
+      "start": 693.6,
+      "end": 696.04,
+      "text": "Build a close to it."
+    },
+    {
+      "start": 696.04,
+      "end": 698.72,
+      "text": "Build a close, simple."
+    },
+    {
+      "start": 698.72,
+      "end": 705.92,
+      "text": "Finally, don't fear starting small on a big problem when we were building RISGPT, when"
+    },
+    {
+      "start": 705.92,
+      "end": 712.3199999999999,
+      "text": "we built UMax, Kelly, people often said that they were very small advances for RISGPT."
+    },
+    {
+      "start": 712.3199999999999,
+      "end": 716.76,
+      "text": "It's like, well, who's actually going to pay to have an AI respond to them?"
+    },
+    {
+      "start": 716.76,
+      "end": 719.3199999999999,
+      "text": "The answer is a lot of people."
+    },
+    {
+      "start": 719.3199999999999,
+      "end": 725.4399999999999,
+      "text": "For UMax, it's like, dude, to get a rating of how attractive I am, I don't fucking need"
+    },
+    {
+      "start": 725.4399999999999,
+      "end": 726.76,
+      "text": "that."
+    },
+    {
+      "start": 726.76,
+      "end": 731.4,
+      "text": "That doesn't actually help me become more attractive."
+    },
+    {
+      "start": 731.4,
+      "end": 733.24,
+      "text": "A lot of people still like that product."
+    },
+    {
+      "start": 733.24,
+      "end": 736.48,
+      "text": "A lot of people think that it's going to help them advance, which it does."
+    },
+    {
+      "start": 736.48,
+      "end": 739.2,
+      "text": "It provides recommendations on how to improve."
+    },
+    {
+      "start": 739.2,
+      "end": 742.44,
+      "text": "You might say, well, I can just look at myself in the mirror and I understand, but not"
+    },
+    {
+      "start": 742.44,
+      "end": 745.04,
+      "text": "everybody does."
+    },
+    {
+      "start": 745.04,
+      "end": 749.6800000000001,
+      "text": "Finally, Cal AI, everyone's like, well, AI calorie tracking, the current calorie tracker"
+    },
+    {
+      "start": 749.6800000000001,
+      "end": 751.16,
+      "text": "has already worked."
+    },
+    {
+      "start": 751.16,
+      "end": 754.84,
+      "text": "It can't be that accurate."
+    },
+    {
+      "start": 754.84,
+      "end": 761.32,
+      "text": "The current calorie trackers have a lot of friction and minor increases, I would say even"
+    },
+    {
+      "start": 761.32,
+      "end": 766.84,
+      "text": "like 2x increase in speed to track the calories results in people across the board being able"
+    },
+    {
+      "start": 766.84,
+      "end": 773.7600000000001,
+      "text": "to achieve their fitness goals, a much higher degree of probability of success, right?"
+    },
+    {
+      "start": 773.7600000000001,
+      "end": 779.72,
+      "text": "Even though there may be slight decreases in accuracy, it will enable people that previously"
+    },
+    {
+      "start": 779.72,
+      "end": 785.5200000000001,
+      "text": "struggled with the consistency of calorie tracking to be able to lose weight or gain weight,"
+    },
+    {
+      "start": 785.52,
+      "end": 792.52,
+      "text": "which are of paramount importance in humans lives."
+    },
+    {
+      "start": 792.52,
+      "end": 794.24,
+      "text": "Okay."
+    },
+    {
+      "start": 794.24,
+      "end": 798.92,
+      "text": "That is pretty much it on human psychology."
+    },
+    {
+      "start": 798.92,
+      "end": 803.3199999999999,
+      "text": "These are simple truths, but there are truths nonetheless that I think are not adequately"
+    },
+    {
+      "start": 803.3199999999999,
+      "end": 805.4,
+      "text": "represented."
+    },
+    {
+      "start": 805.4,
+      "end": 810.8,
+      "text": "The importance of the biological imperative, building close to the major problems that people"
+    },
+    {
+      "start": 810.8,
+      "end": 817.9599999999999,
+      "text": "experience rather than over intellectualized abstractions, solving these massive problems"
+    },
+    {
+      "start": 817.9599999999999,
+      "end": 824.4,
+      "text": "even in a minor way, and then making sure that people can feel it without having to think"
+    },
+    {
+      "start": 824.4,
+      "end": 825.4,
+      "text": "about it."
+    },
+    {
+      "start": 825.4,
+      "end": 826.4,
+      "text": "Okay."
+    },
+    {
+      "start": 826.4,
+      "end": 830.24,
+      "text": "Next up, you have an assignment to apply some of the principles and ideas that we spoke"
+    },
+    {
+      "start": 830.24,
+      "end": 833.16,
+      "text": "about in this lesson and the previous."
+    },
+    {
+      "start": 833.16,
+      "end": 840.28,
+      "text": "In the analysis of the case studies listed in the first lesson, in the next unit, we are"
+    },
+    {
+      "start": 840.28,
+      "end": 846.24,
+      "text": "going to go over actually identifying the very specific problems in your life as well"
+    },
+    {
+      "start": 846.24,
+      "end": 848.36,
+      "text": "as on social media."
+    },
+    {
+      "start": 848.36,
+      "end": 849.6,
+      "text": "So stay tuned for that."
+    },
+    {
+      "start": 849.6,
+      "end": 857.36,
+      "text": "If you have any questions on the assignment, figure it out."
+    },
+    {
+      "start": 857.36,
+      "end": 859.36,
+      "text": "I believe in you."
+    },
+    {
+      "start": 859.36,
+      "end": 860.1999999999999,
+      "text": "Peace out."
+    }
+  ]
+}

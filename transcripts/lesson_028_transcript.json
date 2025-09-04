@@ -1,0 +1,67 @@
+{
+  "file_name": "028_Lesson_28.faudio-hi-0-Default.mp4",
+  "text": " Now if you're pretty serious about coding long term, this is very important to know, whereas if you're just following this tutorial as fine, I will match this architecture anyway, but the most optimal way to structure code in SwiftUI is model, view, model, and view. So the view model acts as the back end, and that back end works with the front end, and also the models to make a very cohesive app. Now, as might be confusing, there's a little diagram on the screen that explains how it works, like user lectures from the view, go back to the view model, and that transmutes back to the model and then the view. It's a pretty simple structure, but I generally recommend knowing or understanding this before we get started, instead of over-complicated code, et cetera, et cetera. But as I said, during this tutorial, I will stick to this architecture anyway, so you have nothing to worry about, but longer term is important to know this is very fundamental so in a long-lasting app, we'll say that.",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.76,
+      "text": "Now if you're pretty serious about coding long term, this is very important to know,"
+    },
+    {
+      "start": 4.76,
+      "end": 9.36,
+      "text": "whereas if you're just following this tutorial as fine, I will match this architecture anyway,"
+    },
+    {
+      "start": 9.36,
+      "end": 17.04,
+      "text": "but the most optimal way to structure code in SwiftUI is model, view, model, and view."
+    },
+    {
+      "start": 17.04,
+      "end": 23.28,
+      "text": "So the view model acts as the back end, and that back end works with the front end,"
+    },
+    {
+      "start": 23.28,
+      "end": 26.92,
+      "text": "and also the models to make a very cohesive app."
+    },
+    {
+      "start": 27.32,
+      "end": 31.32,
+      "text": "Now, as might be confusing, there's a little diagram on the screen that explains"
+    },
+    {
+      "start": 31.32,
+      "end": 35.24,
+      "text": "how it works, like user lectures from the view, go back to the view model, and that transmutes"
+    },
+    {
+      "start": 35.24,
+      "end": 39.88,
+      "text": "back to the model and then the view. It's a pretty simple structure, but I generally"
+    },
+    {
+      "start": 39.88,
+      "end": 44.760000000000005,
+      "text": "recommend knowing or understanding this before we get started, instead of over-complicated code,"
+    },
+    {
+      "start": 44.760000000000005,
+      "end": 50.040000000000006,
+      "text": "et cetera, et cetera. But as I said, during this tutorial, I will stick to this architecture anyway,"
+    },
+    {
+      "start": 50.040000000000006,
+      "end": 54.84,
+      "text": "so you have nothing to worry about, but longer term is important to know this is very fundamental"
+    },
+    {
+      "start": 54.84,
+      "end": 58.84,
+      "text": "so in a long-lasting app, we'll say that."
+    }
+  ]
+}

@@ -1,0 +1,3067 @@
+{
+  "file_name": "019_Lesson_19.faudio-hi-0-Default.mp4",
+  "text": " What's up everybody? This is Module 2, viral app design. My name is Hunter. A little bit of background on myself. I have been designing viral consumer apps since 2017. My apps have done over 300 million downloads. Currently have over 150 million monthly active users. I have generated over 100 million dollars in revenue across social, dating, lifestyle, fintech, many categories of apps. I've been in the game for eight years. I'm 26 now. I started when I was just high school. So if you're a young guy or a young girl watching this, I was at the beginning not too long ago. It's definitely an industry that you cut your teeth on and you call through the mud, but it's worth it. Today I'm really excited because I'm going to get to talk about my favorite part of building an app which is the design. We're not going to just have a figma how to. We're really going to talk about frameworks, key terms, methodologies, and really general mindset of how to build a viral app. I'm going to try to get you into that mindset and you can apply these lessons and these frameworks across your apps and your ideas in any niche. I'm going to talk about really what makes an app go viral and that's the first question. So what makes an app go viral? There's a number of things that make an app go viral. The way that I've broken it down is like this. There are emotional hugs and core human drivers. This is something called the Maslow's hierarchy of needs. This is something you know, concept and psychology. You have the bottom needs which are more basic and as you go up the pyramid you reach self-actualization and these are the highest level and these highest vibration needs. Apps that go viral are usually targeted one of these needs. So belongingness and love. That's a great example of there's a lot of apps that target that. You know, esteem needs, prestige, feeling of accomplishment. I would say an app like Duolingo, you know, where you're hitting streaks or Kaliai and you're logging your meals and you're maintaining your consistency. Safety needs could be, you know, other kinds of social apps, you know, social apps like gas from 2022. People wanted to know like, you know, am I, you know, do people think I'm cool? Do people think I'm nice? Do people think I'm funny? Right. NGL would follow that as well. You know, what do my friends think about me? You know, these are core human drivers and these are core human needs. I think Maslow's hierarchy of needs is a great thing to look at whenever you're building apps is always just remember that like this is why people do things. And I think it's really important to remember that. So when you're looking at your apps and you're looking at like, what is my app doing? What is it providing to people in terms of a core human driver and a core need? I would take a look at this and try to figure out where you plot on the pyramid, right? Because depending on where you are, it will inform things like you're onboarding, like how much user investment you want in the product prior to coming in. It will also inform like what, you know, what is the core action of the product? So I think this is an important thing to look at and something I've used for many years. So some examples of this, right? This is one of my apps that I co-founded and GL this did over 300 million downloads. The core human driver in this app is what do people think about me? Right? Everybody wants to know what their friends think about them, especially when there's no filter or you know, it's anonymous, right? So people want to know. And this is a very effective driver because people will jump through hoops and go down a complicated, somewhat complicated UX route in order to satisfy this drive. So that's NGL's core driver. Gas, another viral app from 2022, was really about who likes me? Gas was about sending anonymous compliments. So it was about who likes me, who thinks I have nice hair, who thinks I have nice eyes, who thinks that I'm a great person. And that's a fundamental need, right? Who likes me? So we have what do people think about me and who likes me? Then we have tea. This is a newer app. It's blown up. And this is really what are they saying about me? If I'm a guy, right? I want to know what they're saying about me because it's a women's only app or if I'm a girl, what are they saying about someone? This app is extremely effective at getting a core human need, right? Wanting to know what people are saying about you or somebody else really struck a core and that's why they went number one. Be real. I don't remember being real. The core human driver and be real. It was like you would open the app because you get a notification. Your friend posted. You wanted to see what your friend posted. Like that you wanted to see it. So you were willing to take a picture. So you know, what picture do my friend post? This is another really core human driver. All in all these apps, what number one on the app store? And that's why we talk about them. These are apps that went, you know, super viral, number one on the app store, millions and millions of downloads. So that's really what I look at when it comes to emotional hooks and core human drivers. The next thing we're going to talk about is K factor. So I wrote it out right here. It's super simple. It's the average number of new users, each user invites. Pretty simple, right? So I'm a believer that when you build a product, you should have the product really serve as the marketing as well. I like product led growth. So I love to encourage users to share. I love to get a certain percentage of users as many as possible to do specific actions to share or invite contacts, share an asset on social media. I really always like to aim for a K factor greater than one. This is a big part of my methodology. So I'm always thinking about how can we get a pile of users, bring them into the product, and then we know that at minimum, they're going to bring back everybody plus 10% or everybody plus 50% or in the case of an app like NGL, everybody, you know, times two, three, five. So K factor is extremely important and something to think about. And this is a term you're going to hear a lot across viral apps, not just in design across everything. Great. So this is a little story time. This was when NGL went number one in the app store, which was an awesome experience that was super, super grateful. This is really when I talk about K factor, you know, this is what I'm really talking about. This is the hourly downloads for NGL. So this was, you know, one of our one of our highest hours. And you see how just goes straight up. And this is what's called having really a high K factor when you go from a thousand downloads. And then this was about I think a week or so later, two weeks later, not even. And now we have a million users in the last 30 minutes. And, you know, I think it's really important. Use unique trackable links. Very, very important because you want to know where the growth is coming from. And I tell this to founders. So this, these are just some tips, right? You have to implement data, mix panel, amplitude, track every user event. Because we want to know what's going on in every facet of the app, because this is going to help us maximize K factor. So this is just an important tip. But when you have extraction, this is a little meme from what we've said to run at one of my companies that makes panel amplitude. These services, they want their money. So it's a, I guess, a good problem to have when it works. But yes, use unique trackable links. Make sure that, you know, I love using ref links for users of a big fan of that. So I can track everything and know which users coming from which user. I'm a big fan of that. Okay. So the next thing we're going to talk about is social proof. So cues showing the app's popularity and acceptance as socially normative. This loses your trust and engagement. The way that I see social proof is it really establishes comfort. At the end of the day, you want to see that other people are doing the thing that the app is asking you to do. For apps like NGL, social proof was critical to our success. The reason that the app succeeded is enough people saw their friends doing it. So then they decided to do it because it was socially normal. This can also be not just people posting links and participating in loops like NGL. This could be just having a lot of views on TikTok videos for your app. Having lots of people see your app, lots of eyeballs creates a sense of social proof and knowing that people know that this app does this thing. It's known and it's widely accepted and understood. Social proof really is kind of it's about enough users have comprehended the purpose of your app and expressed it, shared it, amplified it to the point where people don't feel weird for using it or posting it. And I think social proof is something that you just really always have to be thinking about because certain apps have different ways of implementing social proof. And we'll obviously talk about that. So I love to talk about the band Aladdin of that. Classic human behavior. We are more willing to like a video with more likes or more willing to engage with something that is perceived as more popular. Humans have a tendency to really like, as I say, arbitrary big numbers. They put a power into it. And it makes sense. It's the wisdom of the crowd. If the crowd has deemed this video or this piece of content or this app or whatever it is. If it's perceived as a lot of people using it, then somehow it's perceived as once again socially normative. Like we talked about up here with social proof. So bandwagon effect is super important. And a lot of apps, especially viral apps that are in consumer social, really thrive on creating bandwagon effect. And I think that I really work on creating with my apps is really getting everybody to do the same thing at the same time because everybody is doing it and they all hop on the bandwagon because they see everybody doing it. And it comes down to really knowing how to just activate that pocket of users to initiate the bandwagon effect. But when you're designing the apps, you really have to think about how do you get someone to hop on this bandwagon. How do you get them to join in with the fun. And that really comes down to social proof as a big thing there. Right. You want them to feel comfortable and confident to do the thing that you're asking them to do. So yeah, make people feel socially acceptable by sharing or inviting. Sharing should maintain or boost social capital. Totally agree with it. And I think certain apps cannot be shared like this. I'm really talking about some apps can be shared. Right. Some apps you can share, you know, your streak on dualingo. Right. You can share, you know, your, your NGL link. Right. You can share and someone sent you a compliment on gas. Right. You could, you know, you could share a tick-tock over iMessage to your friend. Right. Like there's, there's, you know, sharing shouldn't not decrease social capital. Right. So sharing dating app is pretty difficult. Right. That's a more difficult one getting someone to post that they're on a dating app. That's really difficult. Right. So, you always keep in mind like there is something about boosting social capital that's very important. And it, and it all comes back to, you know, comfort and security, which we talked about earlier with, you know, Maslow's hierarchy of needs. And then sharing on different platforms, right. There's different motivations. The things you share on Instagram are different than the things that you would share on Snapchat or the things you share on X. This is especially true when targeting younger users. Right. Most of my apps have been used in the core demo of, you know, 18 to 30. So really you have to look at what are people posting on their Instagram? What are they willing to post on their Instagram? You know, some things are better posted on Snapchat. You know, I had an app called Wink that I was a designer of, we did 70 million downloads. I built that with my first mentor who created musically. He was the president of the company. And we learned a lot in that app. That app used to, you know, I'm old, you know, growth loop on Instagram. And we worked on Snapchat really well because the app was to, you know, about making friends on Snapchat. And GL really worked on Instagram. You know, there had never been anonymous app that had been built on Instagram prior to, and GL, we were the first. And when we took off on Instagram, it then permeated to other platforms. Right. X, for example, I've launched things exclusively on X. My Fintech platform, DAIS, was exclusively on X. We used X as the primary driver of organic viral growth with sharing links similar to GL, sharing link. This time on X. The point of what I'm saying is that sharing on IG, sharing on Snap, sharing on X, all have different motivations. And there's a different quality filter. So I always like to think about what is postable on these platforms. And there's just something to think about, right. You won't post the same thing on X that you will post on Instagram or Snapchat or any other platform. Or you won't send the same things over text that you would post on your story. Right. So you have to understand the context in which your app can be shared in order to optimize for that virality. Great. So virality. Now we're going to talk about viral growth loops. This is a word I use a lot. This is a word I tweet a lot. This is where I say a lot. You're going to hear me say this a lot. The way that I summed it up is, you know, a viral growth loop is a self-sustaining cycle where a user's action triggers new users to join, which creates a hockey stick growth. Right. I showed earlier in the previous section on K factor examples of hockey stick growth. That growth came from a viral loop. So I also like to say if loops are strong enough, they will reengage users who have churned. Right. So if you can get people to share your app or share content from your app and push it out more and more, create UGC videos for your app, then ultimately users that have already encountered your app, will be brought in again through the net and reactivated. So that's something just to always consider with building these kinds of loops is yes, it's a self-sustaining growth of new users, but also it's bringing users in that have already churned because you're still getting those views. So if you're still having lots of users engage, you're still kind of the fly reel is still including the people that have churned. Keep that in mind. That's really one of the major things about viral loops that I like to think about is how do you make sure you reengage existing users. Right. So we'll talk more about that later of course. Right now I'm going to talk about explicit explicit loops. Right. So this is the NGL flow right here. We're going to walk through the flow and I'm going to explain exactly how it works and why I designed the way I did it. So this is the share asset. You can just post a link by itself, you know, and put any vote you want, but this is the main share asset that we direct people to post. We tried many different share assets. So we tried share assets that were very bright colored. We tried share assets with different size profile pictures. We just tried different, different call to actions with the text. This is ultimately the one that won because it was the most direct. It was directly talking at the user send me and on in this messages. The link was very easily framed there. Your eye goes exactly where it needs to go. So this is the initial touch point for every user and NGL. Every user that comes into NGL discovers it by encountering it in the wild on their friends Instagram story. So your initial touch point essentially is your friend endorsing this product, which is very powerful. Right. So once you tap on the link, you go to a website inside of Instagram where you can send a message. You can tap on the dice to get example messages and these also, you know, change every second or so. So you can send a message when you send it. We tell you to get your own messages or send another message. When you get your own messages, you are sent to the app store where you download the app. Then pretend it's your profile picture, not mine. Then you come to the app, you follow the instructions and it keeps your mind. You came from your friend doing this. So when I talked about earlier the notion of getting people through, you know, getting earlier, you came from your friend, your friend posted this. You sent a message. You did that core action that you now know your friends are going to do. So this is one of the key learnings that I found because the motivation was so strong, we were able to get users through a four step tutorial. So you follow the instructions, copy your link, share your link in your story, and then these four steps right here where you click on sticker button, click on link. We tell you to paste your link, we tell you to frame your link, and then you go and do it pretend obviously this is your PFP not mine. Then you get messages. Remember you sent a message to your friend at the beginning of this loop. Now you get messages. So notifications are super important, super, super important. Then here's your messages in your app. You open the messages. You can reply by putting it on your story and then you can type your response. So really what this is in summed up is clear expectation, minimal actions and a variable reward formula. That's what's happening here. You're starting with seeing what's going to happen to you. You're starting with seeing your friend posted a link and your friend got replies. Because you'll see your friend posted a link and maybe they put in they got a couple replies as well. In many cases actually we found that users wouldn't actually send messages until or the bulk of users wouldn't send messages until their friend had already shared a reply. Because sometimes your friend posted a link and like, oh, but nobody replied to it. So there was a user comfort there too by getting a user to share just the link and share the replies. Then more people sent replies because those people felt comfortable to do it. So it's an interesting kind of comfort level on both sides. And this is something that I think about in viral design. So this is the NGL case study, which was I said, and explicit explicit loop, right, tap on my NGL link sending messages and then maybe you'll, you'll get your own messages. Then there are implicit loops, right? So for example, TikTok, TikTok, whenever you export a video and send it to your friend, there's always a watermark and the watermark bounces around the screen so you can't really crop it out. And there are sites where you literally crop out the TikTok watermark where they take the watermark off because people don't like it. But it was a very effective growth loop because what TikTok did is just have videos from TikTok, posted on Instagram, posted on to various platforms, posted on YouTube, and then people would see, oh, this is funny video, this is an entertaining video, TikTok, I'm going to go down to TikTok. And then once they had TikTok and they see more funny TikToks, they think about, oh, I should probably open up TikTok, right? So this is an implicit one, implicit growth loop here because you're seeing the TikTok logo, you're registering the content came from there, but it's not asking you to tap a link, it's not asking you to do some kind of core action. It's simply reminding you that this piece of content came from this app so you should maybe open that app at some point, maybe now or maybe later. And this is really a big strategy of how TikTok was able to take over the last five, six years. So to review, we have four major terms that we define, emotional hooks and core human drivers, right? This is what gets people into a viral app. And it's important to think about this with the viral design aspect is how do we carry in the emotional hook from that ad, from that UGC content, or from your friend posting something on their social media or your friend sending you something. How do we carry that emotional hook into the design? How do we target the right core, even driver? K factor, right? K factor, like we talked about, is super important for maintaining and tracking how viral your app actually is. So I'm also really making sure that you orient your decisions around K factor. It's very important. I guess I'd always track everything and figure out where your users are coming from. We also talked about social proof, right? And how social proof is really important establishing comfort. And comfort is essential to create viral growth loop, right? For our growth loops, something that have been used to grow massive apps across multiple sectors, right? We talked about TikTok with an implicit growth loop with the watermark, Vine did that. X is now doing that. That's a very common practice than NGL with link sharing. Many other apps use link sharing as well. Yeah, really that's the main bulk of this first modules. These are the important terms that I'm always thinking about when I'm designing. Before we jump into Figma, before we talk about branding and we talk about colors and fonts and that fun stuff, it flows and user journeys and on-boarding and what to ask for. I really think it's important to just remember what makes an app go viral and why we are going to design things the way we're going to design them and how we're going to think about these things. So, yeah, one thing I'm going to talk about now, I'm going to kind of just kick off the next section right now. Okay, so this is going to be like a rough draft of me talking about curating the first session. So, section two of my viral app design module is called curating the first session. A lot of people think about apps in terms of D1, D7, D3, etc. I think of apps more in terms of section one, session two, etc. I think this makes decision making much easier because we're focused on sessions, we're not focused on more of the long tail, attentive type features. I like to focus first on like what are they doing in session one? Section one is the most important, right? So, we're going to talk about onboarding, that's going to be part of this section. We're going to talk about core actions, right? What are the things that you're doing on the app? We're going to talk about onboarding, the initial experience, what questions are we asking the users? What do they have to provide and sign up as far as information, building profiles, long onboarding versus short onboarding? We're going to talk about what the benefits are for long versus short versus long. And we're going to talk about everything in onboarding. I'm going to show examples of onboarding of my own apps, as well as apps of other members of the mafia. We're also talking about core actions. Core actions is the action that people are taking on your app the majority of the time. This is the most important, essential action that users are taking. In the example of Snapchat, it's sending stats, right? Pretty simple. For TikTok, it's scrolling the for you. For NGL, it's posting a link and getting replies from your followers. Figuring out your core action is essential for also figuring out short versus medium versus long onboarding. And your core action dictates what information you're going to ask people to do. Because you may not need all the permissions, right? We're going to talk about permission, we're going to talk about notification permissions, camera permissions, contact permissions, how to prompt them correctly. Because you have to figure out what the core action is going to be to know what the onboarding is going to require. And then it all becomes this self-sustaining cycle. So don't think if these are things in direct order. We're going to be figuring this out at the same time. So we're going to talk about single player versus multiplayer experiences. Designing a single player app versus designing a multiplayer app and what that means. We're going to talk about magic moments, right? How do we deliver a dopamine hit in the app? How do we get people excited? What's that moment where they feel the apps value and they lock in that comprehension of the app and its purpose for Tinder. It's getting a match, right? For NGL, it's getting a message on your link. For, you know, Duolingo, it's hitting a streak for Snapchat. It's also maintaining a streak, right? I like to use notifications, confetti, halftax, excitement, right? Making magic moments truly magic. And we're going to show a few examples of magic moments. In right, share, and paywalls. We're going to talk about walls and walls versus hurdles. You're going to talk about what a hard date is. Hard date for sharing, hard date for inviting, hard, you know, a hard paywall. We're going to talk about various examples of these and we're going to show them. North Star Metrics. The North Star Metric is the key metric reflecting user value and viral success, which guides design choices. Users funding wallets on bags is a North Star Metric. NGL posting is a North Star Metric. North Star Metrics affects every other metric. It's the main driver of success for the app. It should be very obvious to identify with the North Star. For Zoom University, my viral double dating app, the North Star Metric was number of minutes per average call time. We fell in the call time as higher. People had better conversations with one another, which led to more magic moments of people connecting and getting dropped into group chats. We wanted to maximize quality of call. This is this section. I'm really excited to dive into this section because there's a lot of great things to talk about. Let's start with onboarding. Alright, welcome back. We're going to do the next round. This is titled Curating the First Session. One of the questions I get asked extremely often is always about people ask about retention. People ask about D1, D7 retention, D30. We have these conversations about retention. I like to have those conversations, but really the conversation I enjoy more than I think is more impactful to the successful viral app is talking about sessions. Not talking in terms of days, talking in terms of sessions. Users can turn out very, very quickly if you don't have a great session one, session two, etc, etc. Experience. We're going to talk about curating the first session. We're going to talk about what it is that we're going to be doing to curate the first session. We're going to hop in now with onboarding. The way I define it is the initial experience that conveys value in hooks users. Short onboarding and long onboarding. This is the biggest question I get as well. People ask me, 100, should I have short onboarding or long onboarding? What is the correct answer? There is no correct answer. It just depends what you're maximizing for. Short maximizes for speed and virality. You want to get them into the product quickly. You want to get them to hit the end of onboarding. Get in there fast and do whatever core actions the app requires them to do. Long onboarding, it does risk that friction. It creates investment. It creates some cost. If you spend a lot of time onboarding, filling out personal information for a profile like a dating app. Or going through a long offer wall, ending in some kind of hard paywall. Where you're answering questions and quizzing and what have you. That creates investment. Both are correct. It just depends what you want to optimize for. I said the word core action. The core action is the primary user behavior on the app. It's really easy to spot this. If you don't know the core action of your app, you're probably overthinking the question. I have some examples here of apps. The core action of the core action is scrolling and watching content. Getting you on the four new pages. One percent of the people are creating content. The 99 percent are consuming content. The core action of the app is scrolling. TikTok would want to maximize for how fast and at what rate do we drop them into the core action? With TikTok, you open the app and you can immediately start swiping. Then you have to sign up when you interact with various tab icons. They want you to get right into the action. They want you to be immediately immersed. That's one core action. I'd say similar type of photos. I'm originally taking photos, applying filters, messaging. Obviously, it's expanded a lot. The core of this is feed. Most people are absorbing content in the feed. Whether it's the real feed or the main feed. Or watching their friend's stories. That's where the main core action is on an app like Instagram. You want to maximize getting you into the app to get to that core action. Snapchat. Core action is taking pictures or it's snapping and chatting. The core action of an app like bags, this is my fintech app, is trading and creating meme coins. That's the core action of the app. That's what we get everybody to do. At the end of onboarding, we prompt you to fund your wallet. We have you do that with Apple Pay or we have just crypto. Our goal is to get you into the app so you can start trading. With NGL, one of my other apps. The core action is posting a link, posting replies. Just having fun on your story. That's the core action. We want to get you into the app and want to get you to that core action as quickly as possible. At the right rate. And have the user be in the right mindset. The user needs to be primed and programmed and ready for that core action. There's a chat GBT, another great example. The core action of chat GBT is prompting chat GBT. So typing. Hinge primary action would be sending likes to various profiles. That's what they want you to do. They want you to spend time in the feed. WhatsApp, obviously, is texting and messaging. And the origin is free texting, free messaging. That's the core action. And Kalei, core action Kalei is obviously scanning food, scanning your items, figuring out what's in it, based on calories and various nutrients. And then logging your food, having a streak, and being healthy. That's the core action of Kalei. So these are the core actions that I always like to think about the core actions of an app when I go into designing them because we have to think about what is the core action and when do we want the user to do it? And what do we want them to see before they do it? How are they primed? So we're going to continue talking about this. But some notes here. So figure out what the core action will be at the end of onboarding, and depending on the action you can optimize for shorter long onboarding. So core actions and onboarding length have a direct relationship. I always keep them in mind, right? Because this is going to inform also the next thing I'm going to talk about which is the things that we're going to get into sign up during onboarding and how that correlates to the core action of the app as well. So with NGL it's a short sign up for the sharing prompt, right? Maximizes for virality and sharing. It's multiplayer, variable reward, and it's primarily an external motivator, right? You want to post an NGLing because you want to get other people to send you messages. Maybe you saw your friend do it. You want the external motivation, external validation. You want to feel cool. You want to feel socially accepted. So we have a short sign up, right? We want to get you in there fast to get you into this quality, at least we want to get you in there fast and get you into this multiplayer experience. So CaliI as another example, right? Long sign up flow with a hard paywall. This drives investment, right? Because you go down this long journey and we're going to show it in a second and it creates some cost. And it's a single player experience, more of an internal motivator, right? So different ways of looking at the apps, and that way you can see, well a short onboarding works for this, but a long onboarding actually works for this, right? That's the purpose of bringing these up. Yeah, so multiplayer, variable rewards, NGL messages, Instagram likes, or single player consistency, dual-lingo streaks, CaliI streaks. You get the purpose. This is kind of the differentiator here, but both are correct, ultimately. Long or short onboarding is correct. So next we're going to talk about this. So, depending on the type of app, that you're building, you're going to want to ask for different information in sign up. This I think really comes down to what is required, what do you need, and what's a nice to have, right? So a great example of this. In the context of a dating app, having your age, very important, right? In the context of an app to share recipes, maybe your age is in this important, right? So figuring out what is essential, what is the final, what information do I need as the creator of this app, as the designer of this app, in order to make sure that I have all the information I need to deliver the user to that core action, right? To bring them in, and we have everything we need so they can do their thing, right? So in the case of dating, how do we get all their information and sign up, so we can build their profile, and then we can take their profile, and we can push it out to our users and they can start swiping, right? So think about what you need to get from the user. So what kind of authentication, right? What kind of auth? You could auth with phone, and then a 2FA text code. You could auth with email. You could do Apple, Google, X, various single sign on options. There's many, many options. The way that I see it is that in absent-lead, I like to lean away personally from complicating the auth unless the user wants to, right? So a great example of this is in my FinTech app bags, our auth, we offer basically every option, right? Apple, Google, X, e-mail phone, everything. But we have 2FA as well. So if you want to go deeper, you can add even authentication app, right? If you want to go deeper, it works for that kind of app because it's a FinTech app, right? An app like NGL had no auth when we first released it. There was no auth at all. It was simply asked on the screen a second, but it had an absolute no auth. Agent Birthday, you know, that's important for certain apps. Definitely in social apps, definitely in various marketplaces, things involving money, you know, all of that, of course, gender. That's also very important, right? Dating, of course, super important. Health and fitness, that's also important. Profile picture, you know, the thing with profile pictures. Profile picture. So the thing with profile pictures is, I think that it depends on the app. I'll say that a lot of the times, unless it makes sense in the right context, users don't really care to upload a profile picture, and they'll either skip it or they'll upload a photo that's not in them. So I would just really think about the context in which they're uploading the profile picture. You know, I like to grab the profile picture from the social account, right? If they log in with X, log in with Instagram, log in with other various methods. I like to just grab their profile picture of their PFP at that point and not have them have to upload it. That's just my preference. You could also use iCloud. You could also use iCloud to pull PFP. But I think it works in certain contexts. You know, use that with discretion. Buy on interest, very much social dating, marketplaces, those types of apps, interactive quizzes. This is something I've seen a lot in apps. You know, apps like Headspace, I've seen them, it's an ask like quitter that we're going to talk about soon. Kaliai had these interactive quizzes. This is a great feature of onboarding as a way to prime the user for paywall. Permissions are super important as well in onboarding. You know, we're just doing the grab and the grab notifications, photos, contacts, camera, mic, etc. We need to think about what we're going to grab because as you're watching us, you should be thinking about how many things do you need to grab and how many screens is that going to be? You know, because you're going to have to have a photo upload screen, a screen to, you know, confirm the photo. You need the contact prompt. You're going to need the contact states when they've been invited. You're going to need to have the open-graph images. You know, invite your friend over iMessage. It has a nice, you know, link image and a nice, you know, piece of text with some good copy. Right? These are all the things you have to think about. So I like to start this right when we do onboarding. We think about what do we need from the user? So this is NGL. When the AppWint viral in June of 2022, this was our onboarding. So as you can see, it is a very, very fast onboarding. In the previous section, we talked about how users that came into NGL came in from their friend's Instagram story. So it came from their friend's Instagram story. They went on the website, sent a message, downloaded the app. Now they're here. So we have an influx of millions of people trying to get into this app and participate in the thing that their friends are doing. And they've gotten the stamp of approval by all their friends that it's socially acceptable to do. So our goal was to get them as quickly as possible into the app and to the core action. With NGL, it was simply a one question onboarding. What is your Instagram handle? That's it. That's all we asked for. No off, nothing. Since then, we've added a few steps. But this was the core flow that made it viral. When you think about the core action on NGL, the only thing that's really required is to just know the person's Instagram and to know in order to access their PSP. So because the NGL core action was sharing something and we wanted to get the user in quickly, and we also knew we needed very little information from the user. This is why we made the decision to have onboarding be this sparse. I said earlier, I'm going to show these at our very unorthodox, but this is what maximized virality. Because remember, we have this screen, but then we have the copying the link, and we have the four step tutorial where the user has to manually add the link. And this was before you could automatically copy links on the stories. This was before anyone knew how to use the Instagram link feature, right? In August of 2021, I co-founded NGL with a couple of friends. This was right when Instagram had released the link feature for all users. You used to have to have 10,000 followers in order to post the link. So the second that happened, we immediately started working on NGL. At the time, it was called something different. I later rebranded it to NGL. But ultimately, this onboarding worked because of the core action that we required the user to do. And we knew that it was a complicated multi-step core action. So we wanted to minimize the time in onboarding. The user was already sold. We didn't have to sell them, right? And that's a stark contrast from the next app we're going to talk about. So now we're going to talk about another app, which is CalliNi, an app with over 10 million downloads and multi-seven-figure monthly revenue. I built by a very talented team, am I also add? And let's dive into this one. It's a very different onboarding flow than what we just did with NGL. So I want to zoom out here and just kind of get like one of a bird's eye view. As we can see, this is a much longer flow, much longer flow than NGL. When it comes to onboarding. So this is a moving gift. I'm going to start the beginning, which I think is awesome, because it demonstrates what the app does. It's showing you what it does. So it shows the skin, the food, and the little pop-up coming up. And I think it's a phenomenal way of explaining what the app does in a visual way. So definitely very impressive with the onboarding video. So then you can get started. We have a few authentication options, Apple, Google, email. Pretty standard. I think with Calais demo, it makes a lot of sense to do Apple, Google, and email versus leading with phone number. It does make sense to me. I think that this really just comes down to one information that you want. So if the phone number is important to you for some reason, it's not going to be app-sure around the phone number. In more social apps, I'd say it makes sense to have phone number. But they've opted for these three authentication options. Then we have, you know, this is the way if you were to choose email with code. Then there's, you know, a gender option. Really simple. Like the little quiz. How many workouts do you do per week? So people can really, you know, feel like they're investing into this app as they're going down this, going down this little quiz. We'll progress far at the top, big back button. Great UI here. And if you really notice what I love about this onboarding is you know exactly where to look. The text is really big at the top. We have a clear progression. You don't feel like you're going to be here forever and you do see progress. And you just know exactly where to look. The buttons are big. There's haptics. It's very clear. It's really a very simple onboarding. I think that's really the key. And we're going to see that with all the onboarding. I'm going to show you. They are quite simple. As long as they are, the UI is very clean and the UX is very simple. And it's a recognizable pattern. Right? So these are, you know, very simple patterns to recognize. So we're showing where does you hear about us? Then we move to asking a question about trying competitors. I'm sure many people have. Right? So this is a very relevant question for for Kali. I because at the end of the onboarding you guys are in C that we have a hard paywall. Right? So this is really about understanding who are these people that are coming into the product? How they try to their apps? Where do they hear about us? And selling them on why the product is superior. So we have, you know, a really nice animation here with great stats. Very clean UI. You know, you just know exactly where it's a look. We have heightened weights. You know, so people can input that. Obviously it's a calorie tracking app. Heighten weight is important. When were you born? This is also important, right? Example of asking for birthday. We talked about above, you know, why do you ask for certain things and not others? Right? So for an app like NGL, you know, we're not going to ask for heightened weight. Right? For an app like Kali, I, yes, knowing when someone's born is important. What is your goal? Right? So this is very interesting here. And this is used, I'm assuming, to create some kind of split path where you show, yeah, losing weight. And I'm sure there's instances for gaining weight. And this whole section. So then we have this question, what is your goal? Right? Another important question. Losing weight, maintaining, or gaining weight. So what I like about this onboarding is we have a good mix of user is giving information. Right? Gender workouts. Asking these questions to the user, the user is answering. The user is on a journey of giving information and sharing, yes and no, kind of answering, you know, A or B type questions, while getting sold and continuing the input information, continuing the input information, then being asked another quiz question, do you see how it's moving? Do you see how you're not stuck in the same format? This is a very, very smart onboarding. So I feel like when it comes to long onboarding that requires lots of information up front, like Kali does. Right? Because this is important. You need to have your height and weight, you need to have where you're born. We need to know the goals. These are all important things. We move from goals to what is your desired weight. Then we have a screen here that is, you know, programmatic, depending on losing or gaining from the step here. I like this one a lot, the slider of how fast you want to reach your goal. I really like that. Because that's a question everybody has, right? Think of you are a user and you want to lose five pounds. You want to gain five pounds. Question you're going to have for this, you know, Kali AI app is AI app that's going to help me lose weight and help me track my calories. It's like how quickly can I do it? That's a valid question. So what I like about this onboarding is that we're really jumping around into different types of, you know, really nice interactions, sliders, buttons, scrolls. It's very dynamic, but at the same time it's very simple onboarding experience. So I would definitely look at this one when you're doing your apps and noticing how there's really only one accent color. It's very mild chromatic, very simple. And we move from, you know, answering a question to being sold again, right? It lose twice as much weight with Kali AI versus on your own. Right? So we got sold a little bit back here. We answered more questions. We had some fun with some cool interactions and some haptics. And then now we're here. Lose twice as much weight with Kali AI versus on your own. So notice the weaving and how we're filling out information, we're answering questions and we're being sold at the same time. You're asking about another question. Following diet, what do you want to accomplish? Right? And then another screen of really just positive enforcement, which some of me is really important. People need positive enforcement. I love this, you know, this hand, this high five. And I love this high five. Now we have another screen that really is a positive reinforcement type screen. So you go from answering questions to positive reinforcement. You know, selling the user that the user can have that weight transition that they want to have. Then we have another screen here for privacy and security, which is just great for trust factor. And really a lot of this is also, you know, it's about gaining trust. It's about filling this information out, educating the user on what the app is doing, and how the app can help. And, you know, really focusing on building trust. We have integrations connecting into your apps, you know, skippable. You know, being able to, you know, add these extra things, answering yes and no's, right? So it's a very interactive, very, very interactive flow. You know, we asked, we have a, we move. It's a very interactive flow, which I think is what makes it really good. Because you're moving pretty quick through it. The questions are very simple. And the UI, you know, actions and animations are very delightful. So it helps push you through this experience. As many screens as it is, it actually feels very fast. And there's not really a moment where you don't know where to look or what to do, which I really like. Then we have four screens here. Asking questions, yes and no. Right, we've switched from the buttons and the swipes and the taps into the yes and no buttons. We have a, give us a rating screen. Getting a rating screen in onboarding. It's not something I've personally done. But I do think that it's very valid if you have a medium to long onboarding to end that in. Yes. I'll be honest, I haven't really done that with my apps. I've really asked for ratings after some kind of magic moment, which we're going to talk about. So this is not something that I've done in my own apps, but I think in an app like Callie I and other apps, it makes a lot of sense. Right. Because the more five star ratings we have. I think for an app like Callie I having a rating prompt makes a lot of sense in onboarding. Really the way I see ratings is at the end of the day on your app store page, it will build trust. So as we've already done onboarding, it makes a lot of sense if you have a medium to long onboarding. That's just my opinion. It's not something that I've tried with my apps too often, but I think it's very valid for a long onboarding, medium onboarding app. Especially like the one you're seeing right here. This is a great, give us a rating screen. We have a ref code screen. And now we have kind of this satisfying, okay, we're done. Let's generate a plan. And now we have the AI, you know, have this really delightful moment of the AI, you know, generating the plan and having the progress bar fill up. Now we have this really nice, delightful screen of, you know, counting up to 100. And we're setting it everything up for you, right? So this is a great screen. This is a great screen if you need some time to do things. I love creating delays. And you know, there's something I've done in other apps as well, but having something where you weigh a few seconds for the user to get excited and to build anticipation. So I love screens like this and it's animated. Then we have that your plan is ready, right? So we have this like delivery of something great. Like this is what the AI thinks you should be doing every day, right? Super simple screen and a very delightful experience from here to here. So now the user is here. The next screen would be a paywall. And I have a couple of them paywalls here. This is the current paywall. So it's very simple and clean. We're going to talk about paywalls in the next section, but I'm just going to pop this up here. This is a trial paywall solitizer. We'll talk about that soon. But this is the Cal AI onboarding and this is the NGL onboarding. Both of them are correct. Like I said, both are correct. It just depends on what the purpose of the app is. What is the core action? What do we need from the user for the core action? Cal AI, you need a lot of information in order to when you scan the food and you provide these insights, then you can share insights of, oh, maybe you should eat more of this or eat less of this. We have to know your height and your weight and we have to know your gender. We have to know all these things about you versus NGL, which requires very little information from the user in order for the core action to be effective. Right? Just sharing a link on your story. So I hope that answers the question of what is the right answer? I get this DM all the time. What is the right answer? Short or long onboarding? And the answer is both.",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 16.0,
+      "text": "What's up everybody? This is Module 2, viral app design. My name is Hunter. A little bit of background on myself. I have been designing viral consumer apps since 2017."
+    },
+    {
+      "start": 16.0,
+      "end": 26.0,
+      "text": "My apps have done over 300 million downloads. Currently have over 150 million monthly active users."
+    },
+    {
+      "start": 26.0,
+      "end": 37.0,
+      "text": "I have generated over 100 million dollars in revenue across social, dating, lifestyle, fintech, many categories of apps."
+    },
+    {
+      "start": 37.0,
+      "end": 52.0,
+      "text": "I've been in the game for eight years. I'm 26 now. I started when I was just high school. So if you're a young guy or a young girl watching this, I was at the beginning not too long ago."
+    },
+    {
+      "start": 52.0,
+      "end": 61.0,
+      "text": "It's definitely an industry that you cut your teeth on and you call through the mud, but it's worth it."
+    },
+    {
+      "start": 61.0,
+      "end": 71.0,
+      "text": "Today I'm really excited because I'm going to get to talk about my favorite part of building an app which is the design."
+    },
+    {
+      "start": 71.0,
+      "end": 85.0,
+      "text": "We're not going to just have a figma how to. We're really going to talk about frameworks, key terms, methodologies, and really general mindset of how to build a viral app."
+    },
+    {
+      "start": 85.0,
+      "end": 99.0,
+      "text": "I'm going to try to get you into that mindset and you can apply these lessons and these frameworks across your apps and your ideas in any niche."
+    },
+    {
+      "start": 99.0,
+      "end": 110.0,
+      "text": "I'm going to talk about really what makes an app go viral and that's the first question. So what makes an app go viral?"
+    },
+    {
+      "start": 110.0,
+      "end": 116.0,
+      "text": "There's a number of things that make an app go viral. The way that I've broken it down is like this."
+    },
+    {
+      "start": 116.0,
+      "end": 125.0,
+      "text": "There are emotional hugs and core human drivers. This is something called the Maslow's hierarchy of needs. This is something you know, concept and psychology."
+    },
+    {
+      "start": 125.0,
+      "end": 138.0,
+      "text": "You have the bottom needs which are more basic and as you go up the pyramid you reach self-actualization and these are the highest level and these highest vibration needs."
+    },
+    {
+      "start": 138.0,
+      "end": 151.0,
+      "text": "Apps that go viral are usually targeted one of these needs. So belongingness and love. That's a great example of there's a lot of apps that target that."
+    },
+    {
+      "start": 151.0,
+      "end": 166.0,
+      "text": "You know, esteem needs, prestige, feeling of accomplishment. I would say an app like Duolingo, you know, where you're hitting streaks or Kaliai and you're logging your meals and you're maintaining your consistency."
+    },
+    {
+      "start": 166.0,
+      "end": 175.0,
+      "text": "Safety needs could be, you know, other kinds of social apps, you know, social apps like gas from 2022."
+    },
+    {
+      "start": 175.0,
+      "end": 187.0,
+      "text": "People wanted to know like, you know, am I, you know, do people think I'm cool? Do people think I'm nice? Do people think I'm funny? Right. NGL would follow that as well. You know, what do my friends think about me?"
+    },
+    {
+      "start": 187.0,
+      "end": 200.0,
+      "text": "You know, these are core human drivers and these are core human needs. I think Maslow's hierarchy of needs is a great thing to look at whenever you're building apps is always just remember that like this is why people do things."
+    },
+    {
+      "start": 200.0,
+      "end": 212.0,
+      "text": "And I think it's really important to remember that. So when you're looking at your apps and you're looking at like, what is my app doing? What is it providing to people in terms of a core human driver and a core need?"
+    },
+    {
+      "start": 212.0,
+      "end": 226.0,
+      "text": "I would take a look at this and try to figure out where you plot on the pyramid, right? Because depending on where you are, it will inform things like you're onboarding, like how much user investment you want in the product prior to coming in."
+    },
+    {
+      "start": 226.0,
+      "end": 237.0,
+      "text": "It will also inform like what, you know, what is the core action of the product? So I think this is an important thing to look at and something I've used for many years."
+    },
+    {
+      "start": 237.0,
+      "end": 246.0,
+      "text": "So some examples of this, right? This is one of my apps that I co-founded and GL this did over 300 million downloads."
+    },
+    {
+      "start": 246.0,
+      "end": 260.0,
+      "text": "The core human driver in this app is what do people think about me? Right? Everybody wants to know what their friends think about them, especially when there's no filter or you know, it's anonymous, right?"
+    },
+    {
+      "start": 260.0,
+      "end": 275.0,
+      "text": "So people want to know. And this is a very effective driver because people will jump through hoops and go down a complicated, somewhat complicated UX route in order to satisfy this drive."
+    },
+    {
+      "start": 275.0,
+      "end": 294.0,
+      "text": "So that's NGL's core driver. Gas, another viral app from 2022, was really about who likes me? Gas was about sending anonymous compliments. So it was about who likes me, who thinks I have nice hair, who thinks I have nice eyes, who thinks that I'm a great person."
+    },
+    {
+      "start": 294.0,
+      "end": 302.0,
+      "text": "And that's a fundamental need, right? Who likes me? So we have what do people think about me and who likes me?"
+    },
+    {
+      "start": 302.0,
+      "end": 314.0,
+      "text": "Then we have tea. This is a newer app. It's blown up. And this is really what are they saying about me? If I'm a guy, right?"
+    },
+    {
+      "start": 314.0,
+      "end": 320.0,
+      "text": "I want to know what they're saying about me because it's a women's only app or if I'm a girl, what are they saying about someone?"
+    },
+    {
+      "start": 320.0,
+      "end": 335.0,
+      "text": "This app is extremely effective at getting a core human need, right? Wanting to know what people are saying about you or somebody else really struck a core and that's why they went number one."
+    },
+    {
+      "start": 336.0,
+      "end": 345.0,
+      "text": "Be real. I don't remember being real. The core human driver and be real. It was like you would open the app because you get a notification. Your friend posted."
+    },
+    {
+      "start": 345.0,
+      "end": 351.0,
+      "text": "You wanted to see what your friend posted. Like that you wanted to see it. So you were willing to take a picture."
+    },
+    {
+      "start": 351.0,
+      "end": 358.0,
+      "text": "So you know, what picture do my friend post? This is another really core human driver. All in all these apps, what number one on the app store?"
+    },
+    {
+      "start": 358.0,
+      "end": 365.0,
+      "text": "And that's why we talk about them. These are apps that went, you know, super viral, number one on the app store, millions and millions of downloads."
+    },
+    {
+      "start": 365.0,
+      "end": 374.0,
+      "text": "So that's really what I look at when it comes to emotional hooks and core human drivers."
+    },
+    {
+      "start": 374.0,
+      "end": 386.0,
+      "text": "The next thing we're going to talk about is K factor. So I wrote it out right here. It's super simple. It's the average number of new users, each user invites."
+    },
+    {
+      "start": 387.0,
+      "end": 396.0,
+      "text": "Pretty simple, right? So I'm a believer that when you build a product, you should have the product really serve as the marketing as well."
+    },
+    {
+      "start": 396.0,
+      "end": 412.0,
+      "text": "I like product led growth. So I love to encourage users to share. I love to get a certain percentage of users as many as possible to do specific actions to share or invite contacts, share an asset on social media."
+    },
+    {
+      "start": 413.0,
+      "end": 440.0,
+      "text": "I really always like to aim for a K factor greater than one. This is a big part of my methodology. So I'm always thinking about how can we get a pile of users, bring them into the product, and then we know that at minimum, they're going to bring back everybody plus 10% or everybody plus 50% or in the case of an app like NGL, everybody, you know, times two, three, five."
+    },
+    {
+      "start": 440.0,
+      "end": 451.0,
+      "text": "So K factor is extremely important and something to think about. And this is a term you're going to hear a lot across viral apps, not just in design across everything."
+    },
+    {
+      "start": 451.0,
+      "end": 465.0,
+      "text": "Great. So this is a little story time. This was when NGL went number one in the app store, which was an awesome experience that was super, super grateful."
+    },
+    {
+      "start": 465.0,
+      "end": 478.0,
+      "text": "This is really when I talk about K factor, you know, this is what I'm really talking about. This is the hourly downloads for NGL. So this was, you know, one of our one of our highest hours."
+    },
+    {
+      "start": 478.0,
+      "end": 488.0,
+      "text": "And you see how just goes straight up. And this is what's called having really a high K factor when you go from a thousand downloads."
+    },
+    {
+      "start": 488.0,
+      "end": 495.0,
+      "text": "And then this was about I think a week or so later, two weeks later, not even. And now we have a million users in the last 30 minutes."
+    },
+    {
+      "start": 495.0,
+      "end": 505.0,
+      "text": "And, you know, I think it's really important. Use unique trackable links. Very, very important because you want to know where the growth is coming from."
+    },
+    {
+      "start": 505.0,
+      "end": 515.0,
+      "text": "And I tell this to founders. So this, these are just some tips, right? You have to implement data, mix panel, amplitude, track every user event."
+    },
+    {
+      "start": 515.0,
+      "end": 525.0,
+      "text": "Because we want to know what's going on in every facet of the app, because this is going to help us maximize K factor. So this is just an important tip."
+    },
+    {
+      "start": 525.0,
+      "end": 538.0,
+      "text": "But when you have extraction, this is a little meme from what we've said to run at one of my companies that makes panel amplitude. These services, they want their money."
+    },
+    {
+      "start": 538.0,
+      "end": 554.0,
+      "text": "So it's a, I guess, a good problem to have when it works. But yes, use unique trackable links. Make sure that, you know, I love using ref links for users of a big fan of that. So I can track everything and know which users coming from which user. I'm a big fan of that."
+    },
+    {
+      "start": 554.0,
+      "end": 559.0,
+      "text": "Okay. So the next thing we're going to talk about is social proof."
+    },
+    {
+      "start": 560.0,
+      "end": 569.0,
+      "text": "So cues showing the app's popularity and acceptance as socially normative. This loses your trust and engagement."
+    },
+    {
+      "start": 569.0,
+      "end": 581.0,
+      "text": "The way that I see social proof is it really establishes comfort. At the end of the day, you want to see that other people are doing the thing that the app is asking you to do."
+    },
+    {
+      "start": 582.0,
+      "end": 597.0,
+      "text": "For apps like NGL, social proof was critical to our success. The reason that the app succeeded is enough people saw their friends doing it. So then they decided to do it because it was socially normal."
+    },
+    {
+      "start": 597.0,
+      "end": 609.0,
+      "text": "This can also be not just people posting links and participating in loops like NGL. This could be just having a lot of views on TikTok videos for your app."
+    },
+    {
+      "start": 609.0,
+      "end": 621.0,
+      "text": "Having lots of people see your app, lots of eyeballs creates a sense of social proof and knowing that people know that this app does this thing. It's known and it's widely accepted and understood."
+    },
+    {
+      "start": 621.0,
+      "end": 638.0,
+      "text": "Social proof really is kind of it's about enough users have comprehended the purpose of your app and expressed it, shared it, amplified it to the point where people don't feel weird for using it or posting it."
+    },
+    {
+      "start": 638.0,
+      "end": 647.0,
+      "text": "And I think social proof is something that you just really always have to be thinking about because certain apps have different ways of implementing social proof."
+    },
+    {
+      "start": 647.0,
+      "end": 668.0,
+      "text": "And we'll obviously talk about that. So I love to talk about the band Aladdin of that. Classic human behavior. We are more willing to like a video with more likes or more willing to engage with something that is perceived as more popular."
+    },
+    {
+      "start": 668.0,
+      "end": 682.0,
+      "text": "Humans have a tendency to really like, as I say, arbitrary big numbers. They put a power into it. And it makes sense. It's the wisdom of the crowd."
+    },
+    {
+      "start": 682.0,
+      "end": 698.0,
+      "text": "If the crowd has deemed this video or this piece of content or this app or whatever it is. If it's perceived as a lot of people using it, then somehow it's perceived as once again socially normative."
+    },
+    {
+      "start": 698.0,
+      "end": 711.0,
+      "text": "Like we talked about up here with social proof. So bandwagon effect is super important. And a lot of apps, especially viral apps that are in consumer social, really thrive on creating bandwagon effect."
+    },
+    {
+      "start": 711.0,
+      "end": 725.0,
+      "text": "And I think that I really work on creating with my apps is really getting everybody to do the same thing at the same time because everybody is doing it and they all hop on the bandwagon because they see everybody doing it."
+    },
+    {
+      "start": 725.0,
+      "end": 739.0,
+      "text": "And it comes down to really knowing how to just activate that pocket of users to initiate the bandwagon effect. But when you're designing the apps, you really have to think about how do you get someone to hop on this bandwagon."
+    },
+    {
+      "start": 739.0,
+      "end": 752.0,
+      "text": "How do you get them to join in with the fun. And that really comes down to social proof as a big thing there. Right. You want them to feel comfortable and confident to do the thing that you're asking them to do."
+    },
+    {
+      "start": 752.0,
+      "end": 757.0,
+      "text": "So yeah, make people feel socially acceptable by sharing or inviting."
+    },
+    {
+      "start": 757.0,
+      "end": 768.0,
+      "text": "Sharing should maintain or boost social capital. Totally agree with it. And I think certain apps cannot be shared like this."
+    },
+    {
+      "start": 768.0,
+      "end": 795.0,
+      "text": "I'm really talking about some apps can be shared. Right. Some apps you can share, you know, your streak on dualingo. Right. You can share, you know, your, your NGL link. Right. You can share and someone sent you a compliment on gas. Right. You could, you know, you could share a tick-tock over iMessage to your friend. Right. Like there's, there's, you know, sharing shouldn't not decrease social capital. Right."
+    },
+    {
+      "start": 795.0,
+      "end": 819.0,
+      "text": "So sharing dating app is pretty difficult. Right. That's a more difficult one getting someone to post that they're on a dating app. That's really difficult. Right. So, you always keep in mind like there is something about boosting social capital that's very important. And it, and it all comes back to, you know, comfort and security, which we talked about earlier with, you know, Maslow's hierarchy of needs."
+    },
+    {
+      "start": 819.0,
+      "end": 830.0,
+      "text": "And then sharing on different platforms, right. There's different motivations. The things you share on Instagram are different than the things that you would share on Snapchat or the things you share on X."
+    },
+    {
+      "start": 830.0,
+      "end": 840.0,
+      "text": "This is especially true when targeting younger users. Right. Most of my apps have been used in the core demo of, you know, 18 to 30."
+    },
+    {
+      "start": 840.0,
+      "end": 856.0,
+      "text": "So really you have to look at what are people posting on their Instagram? What are they willing to post on their Instagram? You know, some things are better posted on Snapchat. You know, I had an app called Wink that I was a designer of, we did 70 million downloads."
+    },
+    {
+      "start": 856.0,
+      "end": 869.0,
+      "text": "I built that with my first mentor who created musically. He was the president of the company. And we learned a lot in that app. That app used to, you know, I'm old, you know, growth loop on Instagram."
+    },
+    {
+      "start": 869.0,
+      "end": 885.0,
+      "text": "And we worked on Snapchat really well because the app was to, you know, about making friends on Snapchat. And GL really worked on Instagram. You know, there had never been anonymous app that had been built on Instagram prior to, and GL, we were the first."
+    },
+    {
+      "start": 885.0,
+      "end": 909.0,
+      "text": "And when we took off on Instagram, it then permeated to other platforms. Right. X, for example, I've launched things exclusively on X. My Fintech platform, DAIS, was exclusively on X. We used X as the primary driver of organic viral growth with sharing links similar to GL, sharing link."
+    },
+    {
+      "start": 909.0,
+      "end": 925.0,
+      "text": "This time on X. The point of what I'm saying is that sharing on IG, sharing on Snap, sharing on X, all have different motivations. And there's a different quality filter."
+    },
+    {
+      "start": 925.0,
+      "end": 946.0,
+      "text": "So I always like to think about what is postable on these platforms. And there's just something to think about, right. You won't post the same thing on X that you will post on Instagram or Snapchat or any other platform. Or you won't send the same things over text that you would post on your story."
+    },
+    {
+      "start": 946.0,
+      "end": 956.0,
+      "text": "Right. So you have to understand the context in which your app can be shared in order to optimize for that virality."
+    },
+    {
+      "start": 957.0,
+      "end": 970.0,
+      "text": "Great. So virality. Now we're going to talk about viral growth loops. This is a word I use a lot. This is a word I tweet a lot. This is where I say a lot."
+    },
+    {
+      "start": 970.0,
+      "end": 985.0,
+      "text": "You're going to hear me say this a lot. The way that I summed it up is, you know, a viral growth loop is a self-sustaining cycle where a user's action triggers new users to join, which creates a hockey stick growth. Right."
+    },
+    {
+      "start": 986.0,
+      "end": 996.0,
+      "text": "I showed earlier in the previous section on K factor examples of hockey stick growth. That growth came from a viral loop."
+    },
+    {
+      "start": 996.0,
+      "end": 1015.0,
+      "text": "So I also like to say if loops are strong enough, they will reengage users who have churned. Right. So if you can get people to share your app or share content from your app and push it out more and more, create UGC videos for your app, then ultimately users that have already encountered your app,"
+    },
+    {
+      "start": 1015.0,
+      "end": 1033.0,
+      "text": "will be brought in again through the net and reactivated. So that's something just to always consider with building these kinds of loops is yes, it's a self-sustaining growth of new users, but also it's bringing users in that have already churned because you're still getting those views."
+    },
+    {
+      "start": 1033.0,
+      "end": 1048.0,
+      "text": "So if you're still having lots of users engage, you're still kind of the fly reel is still including the people that have churned. Keep that in mind. That's really one of the major things about viral loops that I like to think about is how do you make sure you reengage existing users. Right."
+    },
+    {
+      "start": 1048.0,
+      "end": 1062.0,
+      "text": "So we'll talk more about that later of course. Right now I'm going to talk about explicit explicit loops. Right. So this is the NGL flow right here."
+    },
+    {
+      "start": 1062.0,
+      "end": 1071.0,
+      "text": "We're going to walk through the flow and I'm going to explain exactly how it works and why I designed the way I did it. So this is the share asset."
+    },
+    {
+      "start": 1071.0,
+      "end": 1081.0,
+      "text": "You can just post a link by itself, you know, and put any vote you want, but this is the main share asset that we direct people to post. We tried many different share assets."
+    },
+    {
+      "start": 1081.0,
+      "end": 1093.0,
+      "text": "So we tried share assets that were very bright colored. We tried share assets with different size profile pictures. We just tried different, different call to actions with the text."
+    },
+    {
+      "start": 1093.0,
+      "end": 1106.0,
+      "text": "This is ultimately the one that won because it was the most direct. It was directly talking at the user send me and on in this messages. The link was very easily framed there. Your eye goes exactly where it needs to go."
+    },
+    {
+      "start": 1106.0,
+      "end": 1117.0,
+      "text": "So this is the initial touch point for every user and NGL. Every user that comes into NGL discovers it by encountering it in the wild on their friends Instagram story."
+    },
+    {
+      "start": 1117.0,
+      "end": 1133.0,
+      "text": "So your initial touch point essentially is your friend endorsing this product, which is very powerful. Right. So once you tap on the link, you go to a website inside of Instagram where you can send a message."
+    },
+    {
+      "start": 1133.0,
+      "end": 1146.0,
+      "text": "You can tap on the dice to get example messages and these also, you know, change every second or so. So you can send a message when you send it."
+    },
+    {
+      "start": 1146.0,
+      "end": 1156.0,
+      "text": "We tell you to get your own messages or send another message. When you get your own messages, you are sent to the app store where you download the app."
+    },
+    {
+      "start": 1157.0,
+      "end": 1171.0,
+      "text": "Then pretend it's your profile picture, not mine. Then you come to the app, you follow the instructions and it keeps your mind. You came from your friend doing this."
+    },
+    {
+      "start": 1171.0,
+      "end": 1183.0,
+      "text": "So when I talked about earlier the notion of getting people through, you know, getting earlier, you came from your friend, your friend posted this."
+    },
+    {
+      "start": 1183.0,
+      "end": 1193.0,
+      "text": "You sent a message. You did that core action that you now know your friends are going to do."
+    },
+    {
+      "start": 1194.0,
+      "end": 1203.0,
+      "text": "So this is one of the key learnings that I found because the motivation was so strong, we were able to get users through a four step tutorial."
+    },
+    {
+      "start": 1203.0,
+      "end": 1213.0,
+      "text": "So you follow the instructions, copy your link, share your link in your story, and then these four steps right here where you click on sticker button, click on link."
+    },
+    {
+      "start": 1213.0,
+      "end": 1221.0,
+      "text": "We tell you to paste your link, we tell you to frame your link, and then you go and do it pretend obviously this is your PFP not mine."
+    },
+    {
+      "start": 1221.0,
+      "end": 1229.0,
+      "text": "Then you get messages. Remember you sent a message to your friend at the beginning of this loop. Now you get messages."
+    },
+    {
+      "start": 1229.0,
+      "end": 1241.0,
+      "text": "So notifications are super important, super, super important. Then here's your messages in your app. You open the messages."
+    },
+    {
+      "start": 1242.0,
+      "end": 1259.0,
+      "text": "You can reply by putting it on your story and then you can type your response. So really what this is in summed up is clear expectation, minimal actions and a variable reward formula."
+    },
+    {
+      "start": 1260.0,
+      "end": 1271.0,
+      "text": "That's what's happening here. You're starting with seeing what's going to happen to you. You're starting with seeing your friend posted a link and your friend got replies."
+    },
+    {
+      "start": 1271.0,
+      "end": 1286.0,
+      "text": "Because you'll see your friend posted a link and maybe they put in they got a couple replies as well. In many cases actually we found that users wouldn't actually send messages until or the bulk of users wouldn't send messages until their friend had already shared a reply."
+    },
+    {
+      "start": 1287.0,
+      "end": 1299.0,
+      "text": "Because sometimes your friend posted a link and like, oh, but nobody replied to it. So there was a user comfort there too by getting a user to share just the link and share the replies."
+    },
+    {
+      "start": 1299.0,
+      "end": 1309.0,
+      "text": "Then more people sent replies because those people felt comfortable to do it. So it's an interesting kind of comfort level on both sides. And this is something that I think about in viral design."
+    },
+    {
+      "start": 1309.0,
+      "end": 1327.0,
+      "text": "So this is the NGL case study, which was I said, and explicit explicit loop, right, tap on my NGL link sending messages and then maybe you'll, you'll get your own messages."
+    },
+    {
+      "start": 1328.0,
+      "end": 1346.0,
+      "text": "Then there are implicit loops, right? So for example, TikTok, TikTok, whenever you export a video and send it to your friend, there's always a watermark and the watermark bounces around the screen so you can't really crop it out."
+    },
+    {
+      "start": 1346.0,
+      "end": 1353.0,
+      "text": "And there are sites where you literally crop out the TikTok watermark where they take the watermark off because people don't like it."
+    },
+    {
+      "start": 1353.0,
+      "end": 1368.0,
+      "text": "But it was a very effective growth loop because what TikTok did is just have videos from TikTok, posted on Instagram, posted on to various platforms, posted on YouTube, and then people would see, oh, this is funny video, this is an entertaining video, TikTok, I'm going to go down to TikTok."
+    },
+    {
+      "start": 1368.0,
+      "end": 1374.0,
+      "text": "And then once they had TikTok and they see more funny TikToks, they think about, oh, I should probably open up TikTok, right?"
+    },
+    {
+      "start": 1374.0,
+      "end": 1388.0,
+      "text": "So this is an implicit one, implicit growth loop here because you're seeing the TikTok logo, you're registering the content came from there, but it's not asking you to tap a link, it's not asking you to do some kind of core action."
+    },
+    {
+      "start": 1388.0,
+      "end": 1397.0,
+      "text": "It's simply reminding you that this piece of content came from this app so you should maybe open that app at some point, maybe now or maybe later."
+    },
+    {
+      "start": 1397.0,
+      "end": 1405.0,
+      "text": "And this is really a big strategy of how TikTok was able to take over the last five, six years."
+    },
+    {
+      "start": 1405.0,
+      "end": 1425.0,
+      "text": "So to review, we have four major terms that we define, emotional hooks and core human drivers, right? This is what gets people into a viral app."
+    },
+    {
+      "start": 1425.0,
+      "end": 1442.0,
+      "text": "And it's important to think about this with the viral design aspect is how do we carry in the emotional hook from that ad, from that UGC content, or from your friend posting something on their social media or your friend sending you something."
+    },
+    {
+      "start": 1442.0,
+      "end": 1449.0,
+      "text": "How do we carry that emotional hook into the design? How do we target the right core, even driver?"
+    },
+    {
+      "start": 1449.0,
+      "end": 1463.0,
+      "text": "K factor, right? K factor, like we talked about, is super important for maintaining and tracking how viral your app actually is."
+    },
+    {
+      "start": 1463.0,
+      "end": 1470.0,
+      "text": "So I'm also really making sure that you orient your decisions around K factor. It's very important."
+    },
+    {
+      "start": 1470.0,
+      "end": 1475.0,
+      "text": "I guess I'd always track everything and figure out where your users are coming from."
+    },
+    {
+      "start": 1475.0,
+      "end": 1483.0,
+      "text": "We also talked about social proof, right? And how social proof is really important establishing comfort."
+    },
+    {
+      "start": 1483.0,
+      "end": 1489.0,
+      "text": "And comfort is essential to create viral growth loop, right?"
+    },
+    {
+      "start": 1489.0,
+      "end": 1503.0,
+      "text": "For our growth loops, something that have been used to grow massive apps across multiple sectors, right? We talked about TikTok with an implicit growth loop with the watermark, Vine did that."
+    },
+    {
+      "start": 1503.0,
+      "end": 1509.0,
+      "text": "X is now doing that. That's a very common practice than NGL with link sharing."
+    },
+    {
+      "start": 1509.0,
+      "end": 1521.0,
+      "text": "Many other apps use link sharing as well. Yeah, really that's the main bulk of this first modules."
+    },
+    {
+      "start": 1521.0,
+      "end": 1527.0,
+      "text": "These are the important terms that I'm always thinking about when I'm designing."
+    },
+    {
+      "start": 1527.0,
+      "end": 1541.0,
+      "text": "Before we jump into Figma, before we talk about branding and we talk about colors and fonts and that fun stuff, it flows and user journeys and on-boarding and what to ask for."
+    },
+    {
+      "start": 1541.0,
+      "end": 1554.0,
+      "text": "I really think it's important to just remember what makes an app go viral and why we are going to design things the way we're going to design them and how we're going to think about these things."
+    },
+    {
+      "start": 1554.0,
+      "end": 1568.0,
+      "text": "So, yeah, one thing I'm going to talk about now, I'm going to kind of just kick off the next section right now."
+    },
+    {
+      "start": 1568.0,
+      "end": 1575.0,
+      "text": "Okay, so this is going to be like a rough draft of me talking about curating the first session."
+    },
+    {
+      "start": 1575.0,
+      "end": 1587.0,
+      "text": "So, section two of my viral app design module is called curating the first session."
+    },
+    {
+      "start": 1587.0,
+      "end": 1604.0,
+      "text": "A lot of people think about apps in terms of D1, D7, D3, etc. I think of apps more in terms of section one, session two, etc."
+    },
+    {
+      "start": 1604.0,
+      "end": 1615.0,
+      "text": "I think this makes decision making much easier because we're focused on sessions, we're not focused on more of the long tail, attentive type features."
+    },
+    {
+      "start": 1615.0,
+      "end": 1619.0,
+      "text": "I like to focus first on like what are they doing in session one?"
+    },
+    {
+      "start": 1619.0,
+      "end": 1622.0,
+      "text": "Section one is the most important, right?"
+    },
+    {
+      "start": 1622.0,
+      "end": 1627.0,
+      "text": "So, we're going to talk about onboarding, that's going to be part of this section."
+    },
+    {
+      "start": 1627.0,
+      "end": 1630.0,
+      "text": "We're going to talk about core actions, right?"
+    },
+    {
+      "start": 1630.0,
+      "end": 1636.0,
+      "text": "What are the things that you're doing on the app?"
+    },
+    {
+      "start": 1636.0,
+      "end": 1643.0,
+      "text": "We're going to talk about onboarding, the initial experience, what questions are we asking the users?"
+    },
+    {
+      "start": 1643.0,
+      "end": 1651.0,
+      "text": "What do they have to provide and sign up as far as information, building profiles, long onboarding versus short onboarding?"
+    },
+    {
+      "start": 1651.0,
+      "end": 1658.0,
+      "text": "We're going to talk about what the benefits are for long versus short versus long."
+    },
+    {
+      "start": 1658.0,
+      "end": 1661.0,
+      "text": "And we're going to talk about everything in onboarding."
+    },
+    {
+      "start": 1661.0,
+      "end": 1669.0,
+      "text": "I'm going to show examples of onboarding of my own apps, as well as apps of other members of the mafia."
+    },
+    {
+      "start": 1669.0,
+      "end": 1672.0,
+      "text": "We're also talking about core actions."
+    },
+    {
+      "start": 1672.0,
+      "end": 1676.0,
+      "text": "Core actions is the action that people are taking on your app the majority of the time."
+    },
+    {
+      "start": 1676.0,
+      "end": 1681.0,
+      "text": "This is the most important, essential action that users are taking."
+    },
+    {
+      "start": 1681.0,
+      "end": 1685.0,
+      "text": "In the example of Snapchat, it's sending stats, right?"
+    },
+    {
+      "start": 1685.0,
+      "end": 1686.0,
+      "text": "Pretty simple."
+    },
+    {
+      "start": 1686.0,
+      "end": 1689.0,
+      "text": "For TikTok, it's scrolling the for you."
+    },
+    {
+      "start": 1689.0,
+      "end": 1695.0,
+      "text": "For NGL, it's posting a link and getting replies from your followers."
+    },
+    {
+      "start": 1696.0,
+      "end": 1708.0,
+      "text": "Figuring out your core action is essential for also figuring out short versus medium versus long onboarding."
+    },
+    {
+      "start": 1708.0,
+      "end": 1713.0,
+      "text": "And your core action dictates what information you're going to ask people to do."
+    },
+    {
+      "start": 1713.0,
+      "end": 1715.0,
+      "text": "Because you may not need all the permissions, right?"
+    },
+    {
+      "start": 1715.0,
+      "end": 1722.0,
+      "text": "We're going to talk about permission, we're going to talk about notification permissions, camera permissions, contact permissions, how to prompt them correctly."
+    },
+    {
+      "start": 1722.0,
+      "end": 1729.0,
+      "text": "Because you have to figure out what the core action is going to be to know what the onboarding is going to require."
+    },
+    {
+      "start": 1729.0,
+      "end": 1733.0,
+      "text": "And then it all becomes this self-sustaining cycle."
+    },
+    {
+      "start": 1733.0,
+      "end": 1737.0,
+      "text": "So don't think if these are things in direct order."
+    },
+    {
+      "start": 1737.0,
+      "end": 1741.0,
+      "text": "We're going to be figuring this out at the same time."
+    },
+    {
+      "start": 1741.0,
+      "end": 1746.0,
+      "text": "So we're going to talk about single player versus multiplayer experiences."
+    },
+    {
+      "start": 1746.0,
+      "end": 1752.0,
+      "text": "Designing a single player app versus designing a multiplayer app and what that means."
+    },
+    {
+      "start": 1752.0,
+      "end": 1754.0,
+      "text": "We're going to talk about magic moments, right?"
+    },
+    {
+      "start": 1754.0,
+      "end": 1759.0,
+      "text": "How do we deliver a dopamine hit in the app?"
+    },
+    {
+      "start": 1759.0,
+      "end": 1762.0,
+      "text": "How do we get people excited?"
+    },
+    {
+      "start": 1762.0,
+      "end": 1773.0,
+      "text": "What's that moment where they feel the apps value and they lock in that comprehension of the app and its purpose for Tinder."
+    },
+    {
+      "start": 1773.0,
+      "end": 1778.0,
+      "text": "It's getting a match, right? For NGL, it's getting a message on your link."
+    },
+    {
+      "start": 1778.0,
+      "end": 1783.0,
+      "text": "For, you know, Duolingo, it's hitting a streak for Snapchat."
+    },
+    {
+      "start": 1783.0,
+      "end": 1788.0,
+      "text": "It's also maintaining a streak, right?"
+    },
+    {
+      "start": 1788.0,
+      "end": 1793.0,
+      "text": "I like to use notifications, confetti, halftax, excitement, right?"
+    },
+    {
+      "start": 1793.0,
+      "end": 1796.0,
+      "text": "Making magic moments truly magic."
+    },
+    {
+      "start": 1796.0,
+      "end": 1800.0,
+      "text": "And we're going to show a few examples of magic moments."
+    },
+    {
+      "start": 1800.0,
+      "end": 1804.0,
+      "text": "In right, share, and paywalls."
+    },
+    {
+      "start": 1804.0,
+      "end": 1810.0,
+      "text": "We're going to talk about walls and walls versus hurdles."
+    },
+    {
+      "start": 1810.0,
+      "end": 1813.0,
+      "text": "You're going to talk about what a hard date is."
+    },
+    {
+      "start": 1813.0,
+      "end": 1819.0,
+      "text": "Hard date for sharing, hard date for inviting, hard, you know, a hard paywall."
+    },
+    {
+      "start": 1819.0,
+      "end": 1823.0,
+      "text": "We're going to talk about various examples of these and we're going to show them."
+    },
+    {
+      "start": 1823.0,
+      "end": 1826.0,
+      "text": "North Star Metrics."
+    },
+    {
+      "start": 1826.0,
+      "end": 1836.0,
+      "text": "The North Star Metric is the key metric reflecting user value and viral success, which guides design choices."
+    },
+    {
+      "start": 1836.0,
+      "end": 1840.0,
+      "text": "Users funding wallets on bags is a North Star Metric."
+    },
+    {
+      "start": 1840.0,
+      "end": 1845.0,
+      "text": "NGL posting is a North Star Metric."
+    },
+    {
+      "start": 1845.0,
+      "end": 1848.0,
+      "text": "North Star Metrics affects every other metric."
+    },
+    {
+      "start": 1848.0,
+      "end": 1851.0,
+      "text": "It's the main driver of success for the app."
+    },
+    {
+      "start": 1851.0,
+      "end": 1855.0,
+      "text": "It should be very obvious to identify with the North Star."
+    },
+    {
+      "start": 1855.0,
+      "end": 1866.0,
+      "text": "For Zoom University, my viral double dating app, the North Star Metric was number of minutes per average call time."
+    },
+    {
+      "start": 1866.0,
+      "end": 1868.0,
+      "text": "We fell in the call time as higher."
+    },
+    {
+      "start": 1868.0,
+      "end": 1877.0,
+      "text": "People had better conversations with one another, which led to more magic moments of people connecting and getting dropped into group chats."
+    },
+    {
+      "start": 1877.0,
+      "end": 1885.0,
+      "text": "We wanted to maximize quality of call."
+    },
+    {
+      "start": 1885.0,
+      "end": 1887.0,
+      "text": "This is this section."
+    },
+    {
+      "start": 1887.0,
+      "end": 1893.0,
+      "text": "I'm really excited to dive into this section because there's a lot of great things to talk about."
+    },
+    {
+      "start": 1893.0,
+      "end": 1898.0,
+      "text": "Let's start with onboarding."
+    },
+    {
+      "start": 1898.0,
+      "end": 1909.0,
+      "text": "Alright, welcome back."
+    },
+    {
+      "start": 1909.0,
+      "end": 1913.0,
+      "text": "We're going to do the next round."
+    },
+    {
+      "start": 1913.0,
+      "end": 1918.0,
+      "text": "This is titled Curating the First Session."
+    },
+    {
+      "start": 1918.0,
+      "end": 1924.0,
+      "text": "One of the questions I get asked extremely often is always about people ask about retention."
+    },
+    {
+      "start": 1924.0,
+      "end": 1929.0,
+      "text": "People ask about D1, D7 retention, D30."
+    },
+    {
+      "start": 1929.0,
+      "end": 1932.0,
+      "text": "We have these conversations about retention."
+    },
+    {
+      "start": 1932.0,
+      "end": 1942.0,
+      "text": "I like to have those conversations, but really the conversation I enjoy more than I think is more impactful to the successful viral app is talking about sessions."
+    },
+    {
+      "start": 1942.0,
+      "end": 1946.0,
+      "text": "Not talking in terms of days, talking in terms of sessions."
+    },
+    {
+      "start": 1946.0,
+      "end": 1957.0,
+      "text": "Users can turn out very, very quickly if you don't have a great session one, session two, etc, etc."
+    },
+    {
+      "start": 1957.0,
+      "end": 1959.0,
+      "text": "Experience."
+    },
+    {
+      "start": 1959.0,
+      "end": 1962.0,
+      "text": "We're going to talk about curating the first session."
+    },
+    {
+      "start": 1962.0,
+      "end": 1969.0,
+      "text": "We're going to talk about what it is that we're going to be doing to curate the first session."
+    },
+    {
+      "start": 1969.0,
+      "end": 1973.0,
+      "text": "We're going to hop in now with onboarding."
+    },
+    {
+      "start": 1973.0,
+      "end": 1980.0,
+      "text": "The way I define it is the initial experience that conveys value in hooks users."
+    },
+    {
+      "start": 1980.0,
+      "end": 1983.0,
+      "text": "Short onboarding and long onboarding."
+    },
+    {
+      "start": 1983.0,
+      "end": 1986.0,
+      "text": "This is the biggest question I get as well."
+    },
+    {
+      "start": 1986.0,
+      "end": 1990.0,
+      "text": "People ask me, 100, should I have short onboarding or long onboarding?"
+    },
+    {
+      "start": 1990.0,
+      "end": 1992.0,
+      "text": "What is the correct answer?"
+    },
+    {
+      "start": 1992.0,
+      "end": 1995.0,
+      "text": "There is no correct answer."
+    },
+    {
+      "start": 1995.0,
+      "end": 1997.0,
+      "text": "It just depends what you're maximizing for."
+    },
+    {
+      "start": 1997.0,
+      "end": 2000.0,
+      "text": "Short maximizes for speed and virality."
+    },
+    {
+      "start": 2000.0,
+      "end": 2003.0,
+      "text": "You want to get them into the product quickly."
+    },
+    {
+      "start": 2003.0,
+      "end": 2006.0,
+      "text": "You want to get them to hit the end of onboarding."
+    },
+    {
+      "start": 2006.0,
+      "end": 2012.0,
+      "text": "Get in there fast and do whatever core actions the app requires them to do."
+    },
+    {
+      "start": 2012.0,
+      "end": 2016.0,
+      "text": "Long onboarding, it does risk that friction."
+    },
+    {
+      "start": 2016.0,
+      "end": 2018.0,
+      "text": "It creates investment."
+    },
+    {
+      "start": 2018.0,
+      "end": 2020.0,
+      "text": "It creates some cost."
+    },
+    {
+      "start": 2020.0,
+      "end": 2025.0,
+      "text": "If you spend a lot of time onboarding, filling out personal information for a profile like a dating app."
+    },
+    {
+      "start": 2025.0,
+      "end": 2033.0,
+      "text": "Or going through a long offer wall, ending in some kind of hard paywall."
+    },
+    {
+      "start": 2033.0,
+      "end": 2038.0,
+      "text": "Where you're answering questions and quizzing and what have you."
+    },
+    {
+      "start": 2038.0,
+      "end": 2040.0,
+      "text": "That creates investment."
+    },
+    {
+      "start": 2040.0,
+      "end": 2042.0,
+      "text": "Both are correct."
+    },
+    {
+      "start": 2042.0,
+      "end": 2046.0,
+      "text": "It just depends what you want to optimize for."
+    },
+    {
+      "start": 2046.0,
+      "end": 2049.0,
+      "text": "I said the word core action."
+    },
+    {
+      "start": 2049.0,
+      "end": 2056.0,
+      "text": "The core action is the primary user behavior on the app."
+    },
+    {
+      "start": 2056.0,
+      "end": 2060.0,
+      "text": "It's really easy to spot this."
+    },
+    {
+      "start": 2060.0,
+      "end": 2066.0,
+      "text": "If you don't know the core action of your app, you're probably overthinking the question."
+    },
+    {
+      "start": 2066.0,
+      "end": 2073.0,
+      "text": "I have some examples here of apps."
+    },
+    {
+      "start": 2073.0,
+      "end": 2081.0,
+      "text": "The core action of the core action is scrolling and watching content."
+    },
+    {
+      "start": 2081.0,
+      "end": 2084.0,
+      "text": "Getting you on the four new pages."
+    },
+    {
+      "start": 2084.0,
+      "end": 2088.0,
+      "text": "One percent of the people are creating content."
+    },
+    {
+      "start": 2088.0,
+      "end": 2091.0,
+      "text": "The 99 percent are consuming content."
+    },
+    {
+      "start": 2091.0,
+      "end": 2094.0,
+      "text": "The core action of the app is scrolling."
+    },
+    {
+      "start": 2094.0,
+      "end": 2106.0,
+      "text": "TikTok would want to maximize for how fast and at what rate do we drop them into the core action?"
+    },
+    {
+      "start": 2106.0,
+      "end": 2109.0,
+      "text": "With TikTok, you open the app and you can immediately start swiping."
+    },
+    {
+      "start": 2109.0,
+      "end": 2114.0,
+      "text": "Then you have to sign up when you interact with various tab icons."
+    },
+    {
+      "start": 2114.0,
+      "end": 2116.0,
+      "text": "They want you to get right into the action."
+    },
+    {
+      "start": 2116.0,
+      "end": 2118.0,
+      "text": "They want you to be immediately immersed."
+    },
+    {
+      "start": 2118.0,
+      "end": 2120.0,
+      "text": "That's one core action."
+    },
+    {
+      "start": 2120.0,
+      "end": 2123.0,
+      "text": "I'd say similar type of photos."
+    },
+    {
+      "start": 2123.0,
+      "end": 2129.0,
+      "text": "I'm originally taking photos, applying filters, messaging."
+    },
+    {
+      "start": 2129.0,
+      "end": 2131.0,
+      "text": "Obviously, it's expanded a lot."
+    },
+    {
+      "start": 2131.0,
+      "end": 2134.0,
+      "text": "The core of this is feed."
+    },
+    {
+      "start": 2134.0,
+      "end": 2138.0,
+      "text": "Most people are absorbing content in the feed."
+    },
+    {
+      "start": 2138.0,
+      "end": 2141.0,
+      "text": "Whether it's the real feed or the main feed."
+    },
+    {
+      "start": 2141.0,
+      "end": 2144.0,
+      "text": "Or watching their friend's stories."
+    },
+    {
+      "start": 2144.0,
+      "end": 2148.0,
+      "text": "That's where the main core action is on an app like Instagram."
+    },
+    {
+      "start": 2148.0,
+      "end": 2154.0,
+      "text": "You want to maximize getting you into the app to get to that core action."
+    },
+    {
+      "start": 2154.0,
+      "end": 2157.0,
+      "text": "Snapchat."
+    },
+    {
+      "start": 2157.0,
+      "end": 2162.0,
+      "text": "Core action is taking pictures or it's snapping and chatting."
+    },
+    {
+      "start": 2162.0,
+      "end": 2168.0,
+      "text": "The core action of an app like bags, this is my fintech app, is trading and creating meme coins."
+    },
+    {
+      "start": 2168.0,
+      "end": 2170.0,
+      "text": "That's the core action of the app."
+    },
+    {
+      "start": 2170.0,
+      "end": 2172.0,
+      "text": "That's what we get everybody to do."
+    },
+    {
+      "start": 2172.0,
+      "end": 2175.0,
+      "text": "At the end of onboarding, we prompt you to fund your wallet."
+    },
+    {
+      "start": 2175.0,
+      "end": 2179.0,
+      "text": "We have you do that with Apple Pay or we have just crypto."
+    },
+    {
+      "start": 2179.0,
+      "end": 2183.0,
+      "text": "Our goal is to get you into the app so you can start trading."
+    },
+    {
+      "start": 2183.0,
+      "end": 2185.0,
+      "text": "With NGL, one of my other apps."
+    },
+    {
+      "start": 2185.0,
+      "end": 2190.0,
+      "text": "The core action is posting a link, posting replies."
+    },
+    {
+      "start": 2190.0,
+      "end": 2192.0,
+      "text": "Just having fun on your story."
+    },
+    {
+      "start": 2192.0,
+      "end": 2194.0,
+      "text": "That's the core action."
+    },
+    {
+      "start": 2194.0,
+      "end": 2199.0,
+      "text": "We want to get you into the app and want to get you to that core action as quickly as possible."
+    },
+    {
+      "start": 2199.0,
+      "end": 2201.0,
+      "text": "At the right rate."
+    },
+    {
+      "start": 2201.0,
+      "end": 2203.0,
+      "text": "And have the user be in the right mindset."
+    },
+    {
+      "start": 2203.0,
+      "end": 2208.0,
+      "text": "The user needs to be primed and programmed and ready for that core action."
+    },
+    {
+      "start": 2208.0,
+      "end": 2211.0,
+      "text": "There's a chat GBT, another great example."
+    },
+    {
+      "start": 2211.0,
+      "end": 2218.0,
+      "text": "The core action of chat GBT is prompting chat GBT."
+    },
+    {
+      "start": 2218.0,
+      "end": 2221.0,
+      "text": "So typing."
+    },
+    {
+      "start": 2221.0,
+      "end": 2228.0,
+      "text": "Hinge primary action would be sending likes to various profiles."
+    },
+    {
+      "start": 2228.0,
+      "end": 2230.0,
+      "text": "That's what they want you to do."
+    },
+    {
+      "start": 2230.0,
+      "end": 2233.0,
+      "text": "They want you to spend time in the feed."
+    },
+    {
+      "start": 2233.0,
+      "end": 2237.0,
+      "text": "WhatsApp, obviously, is texting and messaging."
+    },
+    {
+      "start": 2237.0,
+      "end": 2239.0,
+      "text": "And the origin is free texting, free messaging."
+    },
+    {
+      "start": 2239.0,
+      "end": 2241.0,
+      "text": "That's the core action."
+    },
+    {
+      "start": 2241.0,
+      "end": 2249.0,
+      "text": "And Kalei, core action Kalei is obviously scanning food, scanning your items,"
+    },
+    {
+      "start": 2249.0,
+      "end": 2254.0,
+      "text": "figuring out what's in it, based on calories and various nutrients."
+    },
+    {
+      "start": 2254.0,
+      "end": 2259.0,
+      "text": "And then logging your food, having a streak, and being healthy."
+    },
+    {
+      "start": 2259.0,
+      "end": 2261.0,
+      "text": "That's the core action of Kalei."
+    },
+    {
+      "start": 2261.0,
+      "end": 2266.0,
+      "text": "So these are the core actions that I always like to think about the core actions of an app"
+    },
+    {
+      "start": 2266.0,
+      "end": 2270.0,
+      "text": "when I go into designing them because we have to think about what is the core action"
+    },
+    {
+      "start": 2270.0,
+      "end": 2273.0,
+      "text": "and when do we want the user to do it?"
+    },
+    {
+      "start": 2273.0,
+      "end": 2277.0,
+      "text": "And what do we want them to see before they do it?"
+    },
+    {
+      "start": 2277.0,
+      "end": 2278.0,
+      "text": "How are they primed?"
+    },
+    {
+      "start": 2278.0,
+      "end": 2280.0,
+      "text": "So we're going to continue talking about this."
+    },
+    {
+      "start": 2280.0,
+      "end": 2282.0,
+      "text": "But some notes here."
+    },
+    {
+      "start": 2282.0,
+      "end": 2286.0,
+      "text": "So figure out what the core action will be at the end of onboarding,"
+    },
+    {
+      "start": 2286.0,
+      "end": 2290.0,
+      "text": "and depending on the action you can optimize for shorter long onboarding."
+    },
+    {
+      "start": 2290.0,
+      "end": 2296.0,
+      "text": "So core actions and onboarding length have a direct relationship."
+    },
+    {
+      "start": 2296.0,
+      "end": 2298.0,
+      "text": "I always keep them in mind, right?"
+    },
+    {
+      "start": 2298.0,
+      "end": 2301.0,
+      "text": "Because this is going to inform also the next thing I'm going to talk about"
+    },
+    {
+      "start": 2301.0,
+      "end": 2305.0,
+      "text": "which is the things that we're going to get into sign up during onboarding"
+    },
+    {
+      "start": 2305.0,
+      "end": 2308.0,
+      "text": "and how that correlates to the core action of the app as well."
+    },
+    {
+      "start": 2308.0,
+      "end": 2312.0,
+      "text": "So with NGL it's a short sign up for the sharing prompt, right?"
+    },
+    {
+      "start": 2312.0,
+      "end": 2315.0,
+      "text": "Maximizes for virality and sharing."
+    },
+    {
+      "start": 2315.0,
+      "end": 2320.0,
+      "text": "It's multiplayer, variable reward, and it's primarily an external motivator, right?"
+    },
+    {
+      "start": 2320.0,
+      "end": 2326.0,
+      "text": "You want to post an NGLing because you want to get other people to send you messages."
+    },
+    {
+      "start": 2326.0,
+      "end": 2328.0,
+      "text": "Maybe you saw your friend do it."
+    },
+    {
+      "start": 2328.0,
+      "end": 2332.0,
+      "text": "You want the external motivation, external validation."
+    },
+    {
+      "start": 2332.0,
+      "end": 2334.0,
+      "text": "You want to feel cool."
+    },
+    {
+      "start": 2334.0,
+      "end": 2336.0,
+      "text": "You want to feel socially accepted."
+    },
+    {
+      "start": 2336.0,
+      "end": 2338.0,
+      "text": "So we have a short sign up, right?"
+    },
+    {
+      "start": 2338.0,
+      "end": 2342.0,
+      "text": "We want to get you in there fast to get you into this quality,"
+    },
+    {
+      "start": 2342.0,
+      "end": 2348.0,
+      "text": "at least we want to get you in there fast and get you into this multiplayer experience."
+    },
+    {
+      "start": 2348.0,
+      "end": 2352.0,
+      "text": "So CaliI as another example, right?"
+    },
+    {
+      "start": 2352.0,
+      "end": 2356.0,
+      "text": "Long sign up flow with a hard paywall."
+    },
+    {
+      "start": 2356.0,
+      "end": 2359.0,
+      "text": "This drives investment, right?"
+    },
+    {
+      "start": 2359.0,
+      "end": 2364.0,
+      "text": "Because you go down this long journey and we're going to show it in a second"
+    },
+    {
+      "start": 2364.0,
+      "end": 2367.0,
+      "text": "and it creates some cost."
+    },
+    {
+      "start": 2367.0,
+      "end": 2373.0,
+      "text": "And it's a single player experience, more of an internal motivator, right?"
+    },
+    {
+      "start": 2373.0,
+      "end": 2377.0,
+      "text": "So different ways of looking at the apps,"
+    },
+    {
+      "start": 2377.0,
+      "end": 2380.0,
+      "text": "and that way you can see, well a short onboarding works for this,"
+    },
+    {
+      "start": 2380.0,
+      "end": 2383.0,
+      "text": "but a long onboarding actually works for this, right?"
+    },
+    {
+      "start": 2383.0,
+      "end": 2387.0,
+      "text": "That's the purpose of bringing these up."
+    },
+    {
+      "start": 2387.0,
+      "end": 2392.0,
+      "text": "Yeah, so multiplayer, variable rewards, NGL messages, Instagram likes,"
+    },
+    {
+      "start": 2392.0,
+      "end": 2397.0,
+      "text": "or single player consistency, dual-lingo streaks, CaliI streaks."
+    },
+    {
+      "start": 2397.0,
+      "end": 2399.0,
+      "text": "You get the purpose."
+    },
+    {
+      "start": 2399.0,
+      "end": 2401.0,
+      "text": "This is kind of the differentiator here,"
+    },
+    {
+      "start": 2401.0,
+      "end": 2403.0,
+      "text": "but both are correct, ultimately."
+    },
+    {
+      "start": 2403.0,
+      "end": 2406.0,
+      "text": "Long or short onboarding is correct."
+    },
+    {
+      "start": 2406.0,
+      "end": 2411.0,
+      "text": "So next we're going to talk about this."
+    },
+    {
+      "start": 2411.0,
+      "end": 2421.0,
+      "text": "So, depending on the type of app,"
+    },
+    {
+      "start": 2421.0,
+      "end": 2428.0,
+      "text": "that you're building, you're going to want to ask for different information in sign up."
+    },
+    {
+      "start": 2428.0,
+      "end": 2434.0,
+      "text": "This I think really comes down to what is required, what do you need,"
+    },
+    {
+      "start": 2434.0,
+      "end": 2437.0,
+      "text": "and what's a nice to have, right?"
+    },
+    {
+      "start": 2437.0,
+      "end": 2439.0,
+      "text": "So a great example of this."
+    },
+    {
+      "start": 2439.0,
+      "end": 2445.0,
+      "text": "In the context of a dating app, having your age, very important, right?"
+    },
+    {
+      "start": 2445.0,
+      "end": 2450.0,
+      "text": "In the context of an app to share recipes,"
+    },
+    {
+      "start": 2450.0,
+      "end": 2454.0,
+      "text": "maybe your age is in this important, right?"
+    },
+    {
+      "start": 2454.0,
+      "end": 2457.0,
+      "text": "So figuring out what is essential, what is the final,"
+    },
+    {
+      "start": 2457.0,
+      "end": 2460.0,
+      "text": "what information do I need as the creator of this app,"
+    },
+    {
+      "start": 2460.0,
+      "end": 2465.0,
+      "text": "as the designer of this app, in order to make sure that I have all the information I need"
+    },
+    {
+      "start": 2465.0,
+      "end": 2468.0,
+      "text": "to deliver the user to that core action, right?"
+    },
+    {
+      "start": 2468.0,
+      "end": 2472.0,
+      "text": "To bring them in, and we have everything we need so they can do their thing, right?"
+    },
+    {
+      "start": 2472.0,
+      "end": 2477.0,
+      "text": "So in the case of dating, how do we get all their information and sign up,"
+    },
+    {
+      "start": 2477.0,
+      "end": 2480.0,
+      "text": "so we can build their profile, and then we can take their profile,"
+    },
+    {
+      "start": 2480.0,
+      "end": 2484.0,
+      "text": "and we can push it out to our users and they can start swiping, right?"
+    },
+    {
+      "start": 2484.0,
+      "end": 2487.0,
+      "text": "So think about what you need to get from the user."
+    },
+    {
+      "start": 2487.0,
+      "end": 2490.0,
+      "text": "So what kind of authentication, right?"
+    },
+    {
+      "start": 2490.0,
+      "end": 2492.0,
+      "text": "What kind of auth?"
+    },
+    {
+      "start": 2492.0,
+      "end": 2497.0,
+      "text": "You could auth with phone, and then a 2FA text code."
+    },
+    {
+      "start": 2497.0,
+      "end": 2499.0,
+      "text": "You could auth with email."
+    },
+    {
+      "start": 2499.0,
+      "end": 2505.0,
+      "text": "You could do Apple, Google, X, various single sign on options."
+    },
+    {
+      "start": 2505.0,
+      "end": 2508.0,
+      "text": "There's many, many options."
+    },
+    {
+      "start": 2508.0,
+      "end": 2512.0,
+      "text": "The way that I see it is that in absent-lead,"
+    },
+    {
+      "start": 2512.0,
+      "end": 2516.0,
+      "text": "I like to lean away personally from complicating the auth"
+    },
+    {
+      "start": 2516.0,
+      "end": 2518.0,
+      "text": "unless the user wants to, right?"
+    },
+    {
+      "start": 2518.0,
+      "end": 2522.0,
+      "text": "So a great example of this is in my FinTech app bags,"
+    },
+    {
+      "start": 2522.0,
+      "end": 2526.0,
+      "text": "our auth, we offer basically every option, right?"
+    },
+    {
+      "start": 2526.0,
+      "end": 2529.0,
+      "text": "Apple, Google, X, e-mail phone, everything."
+    },
+    {
+      "start": 2529.0,
+      "end": 2531.0,
+      "text": "But we have 2FA as well."
+    },
+    {
+      "start": 2531.0,
+      "end": 2537.0,
+      "text": "So if you want to go deeper, you can add even authentication app, right?"
+    },
+    {
+      "start": 2537.0,
+      "end": 2541.0,
+      "text": "If you want to go deeper, it works for that kind of app"
+    },
+    {
+      "start": 2541.0,
+      "end": 2543.0,
+      "text": "because it's a FinTech app, right?"
+    },
+    {
+      "start": 2543.0,
+      "end": 2547.0,
+      "text": "An app like NGL had no auth when we first released it."
+    },
+    {
+      "start": 2547.0,
+      "end": 2548.0,
+      "text": "There was no auth at all."
+    },
+    {
+      "start": 2548.0,
+      "end": 2552.0,
+      "text": "It was simply asked on the screen a second, but it had an absolute no auth."
+    },
+    {
+      "start": 2553.0,
+      "end": 2556.0,
+      "text": "Agent Birthday, you know, that's important for certain apps."
+    },
+    {
+      "start": 2556.0,
+      "end": 2559.0,
+      "text": "Definitely in social apps, definitely in various marketplaces,"
+    },
+    {
+      "start": 2559.0,
+      "end": 2563.0,
+      "text": "things involving money, you know, all of that, of course, gender."
+    },
+    {
+      "start": 2563.0,
+      "end": 2565.0,
+      "text": "That's also very important, right?"
+    },
+    {
+      "start": 2565.0,
+      "end": 2567.0,
+      "text": "Dating, of course, super important."
+    },
+    {
+      "start": 2567.0,
+      "end": 2570.0,
+      "text": "Health and fitness, that's also important."
+    },
+    {
+      "start": 2570.0,
+      "end": 2574.0,
+      "text": "Profile picture, you know, the thing with profile pictures."
+    },
+    {
+      "start": 2574.0,
+      "end": 2575.0,
+      "text": "Profile picture."
+    },
+    {
+      "start": 2575.0,
+      "end": 2579.0,
+      "text": "So the thing with profile pictures is, I think that"
+    },
+    {
+      "start": 2579.0,
+      "end": 2582.0,
+      "text": "it depends on the app."
+    },
+    {
+      "start": 2582.0,
+      "end": 2586.0,
+      "text": "I'll say that a lot of the times, unless it makes sense in the right context,"
+    },
+    {
+      "start": 2586.0,
+      "end": 2589.0,
+      "text": "users don't really care to upload a profile picture,"
+    },
+    {
+      "start": 2589.0,
+      "end": 2593.0,
+      "text": "and they'll either skip it or they'll upload a photo that's not in them."
+    },
+    {
+      "start": 2593.0,
+      "end": 2597.0,
+      "text": "So I would just really think about the context in which they're uploading the profile picture."
+    },
+    {
+      "start": 2597.0,
+      "end": 2603.0,
+      "text": "You know, I like to grab the profile picture from the social account, right?"
+    },
+    {
+      "start": 2603.0,
+      "end": 2606.0,
+      "text": "If they log in with X, log in with Instagram, log in with other various methods."
+    },
+    {
+      "start": 2607.0,
+      "end": 2612.0,
+      "text": "I like to just grab their profile picture of their PFP at that point"
+    },
+    {
+      "start": 2612.0,
+      "end": 2615.0,
+      "text": "and not have them have to upload it."
+    },
+    {
+      "start": 2615.0,
+      "end": 2617.0,
+      "text": "That's just my preference."
+    },
+    {
+      "start": 2617.0,
+      "end": 2620.0,
+      "text": "You could also use iCloud."
+    },
+    {
+      "start": 2623.0,
+      "end": 2627.0,
+      "text": "You could also use iCloud to pull PFP."
+    },
+    {
+      "start": 2627.0,
+      "end": 2631.0,
+      "text": "But I think it works in certain contexts."
+    },
+    {
+      "start": 2631.0,
+      "end": 2634.0,
+      "text": "You know, use that with discretion."
+    },
+    {
+      "start": 2634.0,
+      "end": 2639.0,
+      "text": "Buy on interest, very much social dating, marketplaces,"
+    },
+    {
+      "start": 2639.0,
+      "end": 2642.0,
+      "text": "those types of apps, interactive quizzes."
+    },
+    {
+      "start": 2642.0,
+      "end": 2645.0,
+      "text": "This is something I've seen a lot in apps."
+    },
+    {
+      "start": 2645.0,
+      "end": 2648.0,
+      "text": "You know, apps like Headspace, I've seen them,"
+    },
+    {
+      "start": 2648.0,
+      "end": 2651.0,
+      "text": "it's an ask like quitter that we're going to talk about soon."
+    },
+    {
+      "start": 2651.0,
+      "end": 2653.0,
+      "text": "Kaliai had these interactive quizzes."
+    },
+    {
+      "start": 2653.0,
+      "end": 2657.0,
+      "text": "This is a great feature of onboarding as a way to"
+    },
+    {
+      "start": 2657.0,
+      "end": 2659.0,
+      "text": "prime the user for paywall."
+    },
+    {
+      "start": 2659.0,
+      "end": 2663.0,
+      "text": "Permissions are super important as well in onboarding."
+    },
+    {
+      "start": 2663.0,
+      "end": 2666.0,
+      "text": "You know, we're just doing the grab and the grab notifications,"
+    },
+    {
+      "start": 2666.0,
+      "end": 2668.0,
+      "text": "photos, contacts, camera, mic, etc."
+    },
+    {
+      "start": 2668.0,
+      "end": 2673.0,
+      "text": "We need to think about what we're going to grab because as you're watching us,"
+    },
+    {
+      "start": 2673.0,
+      "end": 2676.0,
+      "text": "you should be thinking about how many things do you need to grab"
+    },
+    {
+      "start": 2676.0,
+      "end": 2678.0,
+      "text": "and how many screens is that going to be?"
+    },
+    {
+      "start": 2678.0,
+      "end": 2680.0,
+      "text": "You know, because you're going to have to have a photo upload screen,"
+    },
+    {
+      "start": 2680.0,
+      "end": 2683.0,
+      "text": "a screen to, you know, confirm the photo."
+    },
+    {
+      "start": 2683.0,
+      "end": 2685.0,
+      "text": "You need the contact prompt."
+    },
+    {
+      "start": 2685.0,
+      "end": 2688.0,
+      "text": "You're going to need the contact states when they've been invited."
+    },
+    {
+      "start": 2688.0,
+      "end": 2691.0,
+      "text": "You're going to need to have the open-graph images."
+    },
+    {
+      "start": 2691.0,
+      "end": 2694.0,
+      "text": "You know, invite your friend over iMessage."
+    },
+    {
+      "start": 2694.0,
+      "end": 2697.0,
+      "text": "It has a nice, you know, link image and a nice, you know,"
+    },
+    {
+      "start": 2697.0,
+      "end": 2699.0,
+      "text": "piece of text with some good copy."
+    },
+    {
+      "start": 2699.0,
+      "end": 2702.0,
+      "text": "Right? These are all the things you have to think about."
+    },
+    {
+      "start": 2702.0,
+      "end": 2705.0,
+      "text": "So I like to start this right when we do onboarding."
+    },
+    {
+      "start": 2705.0,
+      "end": 2708.0,
+      "text": "We think about what do we need from the user?"
+    },
+    {
+      "start": 2715.0,
+      "end": 2717.0,
+      "text": "So this is NGL."
+    },
+    {
+      "start": 2717.0,
+      "end": 2722.0,
+      "text": "When the AppWint viral in June of 2022,"
+    },
+    {
+      "start": 2722.0,
+      "end": 2725.0,
+      "text": "this was our onboarding."
+    },
+    {
+      "start": 2725.0,
+      "end": 2731.0,
+      "text": "So as you can see, it is a very, very fast onboarding."
+    },
+    {
+      "start": 2731.0,
+      "end": 2736.0,
+      "text": "In the previous section, we talked about how users that came into NGL"
+    },
+    {
+      "start": 2736.0,
+      "end": 2741.0,
+      "text": "came in from their friend's Instagram story."
+    },
+    {
+      "start": 2741.0,
+      "end": 2744.0,
+      "text": "So it came from their friend's Instagram story."
+    },
+    {
+      "start": 2744.0,
+      "end": 2748.0,
+      "text": "They went on the website, sent a message, downloaded the app."
+    },
+    {
+      "start": 2748.0,
+      "end": 2749.0,
+      "text": "Now they're here."
+    },
+    {
+      "start": 2749.0,
+      "end": 2753.0,
+      "text": "So we have an influx of millions of people trying to get into this app"
+    },
+    {
+      "start": 2753.0,
+      "end": 2756.0,
+      "text": "and participate in the thing that their friends are doing."
+    },
+    {
+      "start": 2756.0,
+      "end": 2759.0,
+      "text": "And they've gotten the stamp of approval by all their friends"
+    },
+    {
+      "start": 2759.0,
+      "end": 2761.0,
+      "text": "that it's socially acceptable to do."
+    },
+    {
+      "start": 2761.0,
+      "end": 2766.0,
+      "text": "So our goal was to get them as quickly as possible into the app"
+    },
+    {
+      "start": 2766.0,
+      "end": 2768.0,
+      "text": "and to the core action."
+    },
+    {
+      "start": 2768.0,
+      "end": 2773.0,
+      "text": "With NGL, it was simply a one question onboarding."
+    },
+    {
+      "start": 2773.0,
+      "end": 2776.0,
+      "text": "What is your Instagram handle?"
+    },
+    {
+      "start": 2776.0,
+      "end": 2778.0,
+      "text": "That's it."
+    },
+    {
+      "start": 2778.0,
+      "end": 2780.0,
+      "text": "That's all we asked for."
+    },
+    {
+      "start": 2780.0,
+      "end": 2783.0,
+      "text": "No off, nothing."
+    },
+    {
+      "start": 2783.0,
+      "end": 2786.0,
+      "text": "Since then, we've added a few steps."
+    },
+    {
+      "start": 2786.0,
+      "end": 2790.0,
+      "text": "But this was the core flow that made it viral."
+    },
+    {
+      "start": 2790.0,
+      "end": 2792.0,
+      "text": "When you think about the core action on NGL,"
+    },
+    {
+      "start": 2792.0,
+      "end": 2797.0,
+      "text": "the only thing that's really required is to just know the person's Instagram"
+    },
+    {
+      "start": 2797.0,
+      "end": 2802.0,
+      "text": "and to know in order to access their PSP."
+    },
+    {
+      "start": 2817.0,
+      "end": 2823.0,
+      "text": "So because the NGL core action was sharing something"
+    },
+    {
+      "start": 2823.0,
+      "end": 2825.0,
+      "text": "and we wanted to get the user in quickly,"
+    },
+    {
+      "start": 2825.0,
+      "end": 2830.0,
+      "text": "and we also knew we needed very little information from the user."
+    },
+    {
+      "start": 2830.0,
+      "end": 2837.0,
+      "text": "This is why we made the decision to have onboarding be this sparse."
+    },
+    {
+      "start": 2837.0,
+      "end": 2842.0,
+      "text": "I said earlier, I'm going to show these at our very unorthodox,"
+    },
+    {
+      "start": 2842.0,
+      "end": 2845.0,
+      "text": "but this is what maximized virality."
+    },
+    {
+      "start": 2845.0,
+      "end": 2847.0,
+      "text": "Because remember, we have this screen,"
+    },
+    {
+      "start": 2847.0,
+      "end": 2850.0,
+      "text": "but then we have the copying the link,"
+    },
+    {
+      "start": 2850.0,
+      "end": 2854.0,
+      "text": "and we have the four step tutorial where the user has to manually"
+    },
+    {
+      "start": 2854.0,
+      "end": 2857.0,
+      "text": "add the link."
+    },
+    {
+      "start": 2857.0,
+      "end": 2862.0,
+      "text": "And this was before you could automatically copy links on the stories."
+    },
+    {
+      "start": 2862.0,
+      "end": 2867.0,
+      "text": "This was before anyone knew how to use the Instagram link feature, right?"
+    },
+    {
+      "start": 2867.0,
+      "end": 2872.0,
+      "text": "In August of 2021, I co-founded NGL with a couple of friends."
+    },
+    {
+      "start": 2872.0,
+      "end": 2879.0,
+      "text": "This was right when Instagram had released the link feature for all users."
+    },
+    {
+      "start": 2879.0,
+      "end": 2883.0,
+      "text": "You used to have to have 10,000 followers in order to post the link."
+    },
+    {
+      "start": 2883.0,
+      "end": 2889.0,
+      "text": "So the second that happened, we immediately started working on NGL."
+    },
+    {
+      "start": 2889.0,
+      "end": 2891.0,
+      "text": "At the time, it was called something different."
+    },
+    {
+      "start": 2891.0,
+      "end": 2894.0,
+      "text": "I later rebranded it to NGL."
+    },
+    {
+      "start": 2894.0,
+      "end": 2900.0,
+      "text": "But ultimately, this onboarding worked because of the core action"
+    },
+    {
+      "start": 2900.0,
+      "end": 2902.0,
+      "text": "that we required the user to do."
+    },
+    {
+      "start": 2902.0,
+      "end": 2906.0,
+      "text": "And we knew that it was a complicated multi-step core action."
+    },
+    {
+      "start": 2906.0,
+      "end": 2910.0,
+      "text": "So we wanted to minimize the time in onboarding."
+    },
+    {
+      "start": 2910.0,
+      "end": 2914.0,
+      "text": "The user was already sold. We didn't have to sell them, right?"
+    },
+    {
+      "start": 2914.0,
+      "end": 2919.0,
+      "text": "And that's a stark contrast from the next app we're going to talk about."
+    },
+    {
+      "start": 2919.0,
+      "end": 2924.0,
+      "text": "So now we're going to talk about another app, which is CalliNi,"
+    },
+    {
+      "start": 2924.0,
+      "end": 2932.0,
+      "text": "an app with over 10 million downloads and multi-seven-figure monthly revenue."
+    },
+    {
+      "start": 2932.0,
+      "end": 2936.0,
+      "text": "I built by a very talented team, am I also add?"
+    },
+    {
+      "start": 2936.0,
+      "end": 2939.0,
+      "text": "And let's dive into this one."
+    },
+    {
+      "start": 2939.0,
+      "end": 2944.0,
+      "text": "It's a very different onboarding flow than what we just did with NGL."
+    },
+    {
+      "start": 2944.0,
+      "end": 2949.0,
+      "text": "So I want to zoom out here and just kind of get like one of a bird's eye view."
+    },
+    {
+      "start": 2949.0,
+      "end": 2957.0,
+      "text": "As we can see, this is a much longer flow, much longer flow than NGL."
+    },
+    {
+      "start": 2957.0,
+      "end": 2959.0,
+      "text": "When it comes to onboarding."
+    },
+    {
+      "start": 2959.0,
+      "end": 2963.0,
+      "text": "So this is a moving gift."
+    },
+    {
+      "start": 2963.0,
+      "end": 2966.0,
+      "text": "I'm going to start the beginning, which I think is awesome,"
+    },
+    {
+      "start": 2966.0,
+      "end": 2969.0,
+      "text": "because it demonstrates what the app does."
+    },
+    {
+      "start": 2969.0,
+      "end": 2971.0,
+      "text": "It's showing you what it does."
+    },
+    {
+      "start": 2971.0,
+      "end": 2975.0,
+      "text": "So it shows the skin, the food, and the little pop-up coming up."
+    },
+    {
+      "start": 2975.0,
+      "end": 2980.0,
+      "text": "And I think it's a phenomenal way of explaining what the app does in a visual way."
+    },
+    {
+      "start": 2980.0,
+      "end": 2986.0,
+      "text": "So definitely very impressive with the onboarding video."
+    },
+    {
+      "start": 2986.0,
+      "end": 2990.0,
+      "text": "So then you can get started. We have a few authentication options,"
+    },
+    {
+      "start": 2990.0,
+      "end": 2993.0,
+      "text": "Apple, Google, email. Pretty standard."
+    },
+    {
+      "start": 2993.0,
+      "end": 2998.0,
+      "text": "I think with Calais demo, it makes a lot of sense to do Apple, Google, and email"
+    },
+    {
+      "start": 2998.0,
+      "end": 3001.0,
+      "text": "versus leading with phone number."
+    },
+    {
+      "start": 3001.0,
+      "end": 3004.0,
+      "text": "It does make sense to me."
+    },
+    {
+      "start": 3004.0,
+      "end": 3008.0,
+      "text": "I think that this really just comes down to one information that you want."
+    },
+    {
+      "start": 3008.0,
+      "end": 3011.0,
+      "text": "So if the phone number is important to you for some reason,"
+    },
+    {
+      "start": 3011.0,
+      "end": 3013.0,
+      "text": "it's not going to be app-sure around the phone number."
+    },
+    {
+      "start": 3013.0,
+      "end": 3017.0,
+      "text": "In more social apps, I'd say it makes sense to have phone number."
+    },
+    {
+      "start": 3017.0,
+      "end": 3020.0,
+      "text": "But they've opted for these three authentication options."
+    },
+    {
+      "start": 3021.0,
+      "end": 3025.0,
+      "text": "Then we have, you know, this is the way if you were to choose email with code."
+    },
+    {
+      "start": 3025.0,
+      "end": 3029.0,
+      "text": "Then there's, you know, a gender option."
+    },
+    {
+      "start": 3029.0,
+      "end": 3032.0,
+      "text": "Really simple. Like the little quiz."
+    },
+    {
+      "start": 3032.0,
+      "end": 3034.0,
+      "text": "How many workouts do you do per week?"
+    },
+    {
+      "start": 3034.0,
+      "end": 3039.0,
+      "text": "So people can really, you know, feel like they're investing into this app"
+    },
+    {
+      "start": 3039.0,
+      "end": 3043.0,
+      "text": "as they're going down this, going down this little quiz."
+    },
+    {
+      "start": 3043.0,
+      "end": 3046.0,
+      "text": "We'll progress far at the top, big back button."
+    },
+    {
+      "start": 3046.0,
+      "end": 3051.0,
+      "text": "Great UI here. And if you really notice what I love about this onboarding is"
+    },
+    {
+      "start": 3051.0,
+      "end": 3054.0,
+      "text": "you know exactly where to look."
+    },
+    {
+      "start": 3054.0,
+      "end": 3057.0,
+      "text": "The text is really big at the top."
+    },
+    {
+      "start": 3057.0,
+      "end": 3059.0,
+      "text": "We have a clear progression."
+    },
+    {
+      "start": 3059.0,
+      "end": 3064.0,
+      "text": "You don't feel like you're going to be here forever and you do see progress."
+    },
+    {
+      "start": 3064.0,
+      "end": 3066.0,
+      "text": "And you just know exactly where to look."
+    },
+    {
+      "start": 3066.0,
+      "end": 3069.0,
+      "text": "The buttons are big. There's haptics. It's very clear."
+    },
+    {
+      "start": 3069.0,
+      "end": 3072.0,
+      "text": "It's really a very simple onboarding."
+    },
+    {
+      "start": 3072.0,
+      "end": 3076.0,
+      "text": "I think that's really the key. And we're going to see that with all the onboarding."
+    },
+    {
+      "start": 3076.0,
+      "end": 3078.0,
+      "text": "I'm going to show you. They are quite simple."
+    },
+    {
+      "start": 3078.0,
+      "end": 3083.0,
+      "text": "As long as they are, the UI is very clean and the UX is very simple."
+    },
+    {
+      "start": 3083.0,
+      "end": 3085.0,
+      "text": "And it's a recognizable pattern."
+    },
+    {
+      "start": 3085.0,
+      "end": 3089.0,
+      "text": "Right? So these are, you know, very simple patterns to recognize."
+    },
+    {
+      "start": 3092.0,
+      "end": 3094.0,
+      "text": "So we're showing where does you hear about us?"
+    },
+    {
+      "start": 3094.0,
+      "end": 3100.0,
+      "text": "Then we move to asking a question about trying competitors."
+    },
+    {
+      "start": 3100.0,
+      "end": 3105.0,
+      "text": "I'm sure many people have. Right? So this is a very relevant question for"
+    },
+    {
+      "start": 3105.0,
+      "end": 3111.0,
+      "text": "for Kali. I because at the end of the onboarding you guys are in C that we have a hard paywall."
+    },
+    {
+      "start": 3111.0,
+      "end": 3116.0,
+      "text": "Right? So this is really about understanding who are these people that are coming into the product?"
+    },
+    {
+      "start": 3116.0,
+      "end": 3120.0,
+      "text": "How they try to their apps? Where do they hear about us?"
+    },
+    {
+      "start": 3120.0,
+      "end": 3125.0,
+      "text": "And selling them on why the product is superior."
+    },
+    {
+      "start": 3125.0,
+      "end": 3132.0,
+      "text": "So we have, you know, a really nice animation here with great stats."
+    },
+    {
+      "start": 3132.0,
+      "end": 3137.0,
+      "text": "Very clean UI. You know, you just know exactly where it's a look."
+    },
+    {
+      "start": 3137.0,
+      "end": 3141.0,
+      "text": "We have heightened weights. You know, so people can input that."
+    },
+    {
+      "start": 3141.0,
+      "end": 3143.0,
+      "text": "Obviously it's a calorie tracking app."
+    },
+    {
+      "start": 3143.0,
+      "end": 3146.0,
+      "text": "Heighten weight is important."
+    },
+    {
+      "start": 3148.0,
+      "end": 3150.0,
+      "text": "When were you born?"
+    },
+    {
+      "start": 3150.0,
+      "end": 3151.0,
+      "text": "This is also important, right?"
+    },
+    {
+      "start": 3151.0,
+      "end": 3153.0,
+      "text": "Example of asking for birthday."
+    },
+    {
+      "start": 3153.0,
+      "end": 3158.0,
+      "text": "We talked about above, you know, why do you ask for certain things and not others?"
+    },
+    {
+      "start": 3158.0,
+      "end": 3163.0,
+      "text": "Right? So for an app like NGL, you know, we're not going to ask for heightened weight."
+    },
+    {
+      "start": 3163.0,
+      "end": 3170.0,
+      "text": "Right? For an app like Kali, I, yes, knowing when someone's born is important."
+    },
+    {
+      "start": 3172.0,
+      "end": 3176.0,
+      "text": "What is your goal? Right? So this is very interesting here."
+    },
+    {
+      "start": 3177.0,
+      "end": 3188.0,
+      "text": "And this is used, I'm assuming, to create some kind of split path where you show,"
+    },
+    {
+      "start": 3188.0,
+      "end": 3194.0,
+      "text": "yeah, losing weight. And I'm sure there's instances for gaining weight."
+    },
+    {
+      "start": 3194.0,
+      "end": 3197.0,
+      "text": "And this whole section."
+    },
+    {
+      "start": 3207.0,
+      "end": 3210.0,
+      "text": "So then we have this question, what is your goal? Right?"
+    },
+    {
+      "start": 3210.0,
+      "end": 3212.0,
+      "text": "Another important question."
+    },
+    {
+      "start": 3214.0,
+      "end": 3218.0,
+      "text": "Losing weight, maintaining, or gaining weight."
+    },
+    {
+      "start": 3218.0,
+      "end": 3227.0,
+      "text": "So what I like about this onboarding is we have a good mix of user is giving information."
+    },
+    {
+      "start": 3227.0,
+      "end": 3231.0,
+      "text": "Right? Gender workouts."
+    },
+    {
+      "start": 3232.0,
+      "end": 3237.0,
+      "text": "Asking these questions to the user, the user is answering."
+    },
+    {
+      "start": 3237.0,
+      "end": 3245.0,
+      "text": "The user is on a journey of giving information and sharing, yes and no,"
+    },
+    {
+      "start": 3245.0,
+      "end": 3254.0,
+      "text": "kind of answering, you know, A or B type questions, while getting sold and continuing the input information,"
+    },
+    {
+      "start": 3254.0,
+      "end": 3259.0,
+      "text": "continuing the input information, then being asked another quiz question,"
+    },
+    {
+      "start": 3259.0,
+      "end": 3264.0,
+      "text": "do you see how it's moving? Do you see how you're not stuck in the same format?"
+    },
+    {
+      "start": 3264.0,
+      "end": 3266.0,
+      "text": "This is a very, very smart onboarding."
+    },
+    {
+      "start": 3266.0,
+      "end": 3271.0,
+      "text": "So I feel like when it comes to long onboarding that requires lots of information up front,"
+    },
+    {
+      "start": 3271.0,
+      "end": 3274.0,
+      "text": "like Kali does. Right? Because this is important."
+    },
+    {
+      "start": 3274.0,
+      "end": 3276.0,
+      "text": "You need to have your height and weight, you need to have where you're born."
+    },
+    {
+      "start": 3276.0,
+      "end": 3280.0,
+      "text": "We need to know the goals. These are all important things."
+    },
+    {
+      "start": 3283.0,
+      "end": 3287.0,
+      "text": "We move from goals to what is your desired weight."
+    },
+    {
+      "start": 3287.0,
+      "end": 3294.0,
+      "text": "Then we have a screen here that is, you know, programmatic, depending on losing or gaining from the step here."
+    },
+    {
+      "start": 3294.0,
+      "end": 3300.0,
+      "text": "I like this one a lot, the slider of how fast you want to reach your goal."
+    },
+    {
+      "start": 3300.0,
+      "end": 3302.0,
+      "text": "I really like that."
+    },
+    {
+      "start": 3302.0,
+      "end": 3306.0,
+      "text": "Because that's a question everybody has, right?"
+    },
+    {
+      "start": 3306.0,
+      "end": 3310.0,
+      "text": "Think of you are a user and you want to lose five pounds. You want to gain five pounds."
+    },
+    {
+      "start": 3310.0,
+      "end": 3316.0,
+      "text": "Question you're going to have for this, you know, Kali AI app is AI app that's going to help me lose weight"
+    },
+    {
+      "start": 3316.0,
+      "end": 3319.0,
+      "text": "and help me track my calories. It's like how quickly can I do it? That's a valid question."
+    },
+    {
+      "start": 3319.0,
+      "end": 3325.0,
+      "text": "So what I like about this onboarding is that we're really jumping around into different types of, you know,"
+    },
+    {
+      "start": 3325.0,
+      "end": 3331.0,
+      "text": "really nice interactions, sliders, buttons, scrolls."
+    },
+    {
+      "start": 3331.0,
+      "end": 3336.0,
+      "text": "It's very dynamic, but at the same time it's very simple onboarding experience."
+    },
+    {
+      "start": 3336.0,
+      "end": 3342.0,
+      "text": "So I would definitely look at this one when you're doing your apps and noticing how there's really only one accent color."
+    },
+    {
+      "start": 3343.0,
+      "end": 3346.0,
+      "text": "It's very mild chromatic, very simple."
+    },
+    {
+      "start": 3346.0,
+      "end": 3351.0,
+      "text": "And we move from, you know, answering a question to being sold again, right?"
+    },
+    {
+      "start": 3351.0,
+      "end": 3354.0,
+      "text": "It lose twice as much weight with Kali AI versus on your own."
+    },
+    {
+      "start": 3354.0,
+      "end": 3357.0,
+      "text": "Right? So we got sold a little bit back here."
+    },
+    {
+      "start": 3357.0,
+      "end": 3362.0,
+      "text": "We answered more questions. We had some fun with some cool interactions and some haptics."
+    },
+    {
+      "start": 3362.0,
+      "end": 3364.0,
+      "text": "And then now we're here."
+    },
+    {
+      "start": 3364.0,
+      "end": 3366.0,
+      "text": "Lose twice as much weight with Kali AI versus on your own."
+    },
+    {
+      "start": 3367.0,
+      "end": 3375.0,
+      "text": "So notice the weaving and how we're filling out information, we're answering questions and we're being sold at the same time."
+    },
+    {
+      "start": 3375.0,
+      "end": 3381.0,
+      "text": "You're asking about another question. Following diet, what do you want to accomplish?"
+    },
+    {
+      "start": 3381.0,
+      "end": 3388.0,
+      "text": "Right? And then another screen of really just positive enforcement, which some of me is really important."
+    },
+    {
+      "start": 3388.0,
+      "end": 3390.0,
+      "text": "People need positive enforcement."
+    },
+    {
+      "start": 3390.0,
+      "end": 3397.0,
+      "text": "I love this, you know, this hand, this high five."
+    },
+    {
+      "start": 3397.0,
+      "end": 3400.0,
+      "text": "And I love this high five."
+    },
+    {
+      "start": 3400.0,
+      "end": 3406.0,
+      "text": "Now we have another screen that really is a positive reinforcement type screen."
+    },
+    {
+      "start": 3406.0,
+      "end": 3410.0,
+      "text": "So you go from answering questions to positive reinforcement."
+    },
+    {
+      "start": 3410.0,
+      "end": 3417.0,
+      "text": "You know, selling the user that the user can have that weight transition that they want to have."
+    },
+    {
+      "start": 3417.0,
+      "end": 3423.0,
+      "text": "Then we have another screen here for privacy and security, which is just great for trust factor."
+    },
+    {
+      "start": 3423.0,
+      "end": 3428.0,
+      "text": "And really a lot of this is also, you know, it's about gaining trust."
+    },
+    {
+      "start": 3428.0,
+      "end": 3435.0,
+      "text": "It's about filling this information out, educating the user on what the app is doing, and how the app can help."
+    },
+    {
+      "start": 3435.0,
+      "end": 3438.0,
+      "text": "And, you know, really focusing on building trust."
+    },
+    {
+      "start": 3438.0,
+      "end": 3443.0,
+      "text": "We have integrations connecting into your apps, you know, skippable."
+    },
+    {
+      "start": 3443.0,
+      "end": 3449.0,
+      "text": "You know, being able to, you know, add these extra things, answering yes and no's, right?"
+    },
+    {
+      "start": 3449.0,
+      "end": 3453.0,
+      "text": "So it's a very interactive, very, very interactive flow."
+    },
+    {
+      "start": 3453.0,
+      "end": 3458.0,
+      "text": "You know, we asked, we have a, we move."
+    },
+    {
+      "start": 3458.0,
+      "end": 3463.0,
+      "text": "It's a very interactive flow, which I think is what makes it really good."
+    },
+    {
+      "start": 3463.0,
+      "end": 3467.0,
+      "text": "Because you're moving pretty quick through it."
+    },
+    {
+      "start": 3467.0,
+      "end": 3470.0,
+      "text": "The questions are very simple."
+    },
+    {
+      "start": 3470.0,
+      "end": 3476.0,
+      "text": "And the UI, you know, actions and animations are very delightful."
+    },
+    {
+      "start": 3476.0,
+      "end": 3480.0,
+      "text": "So it helps push you through this experience."
+    },
+    {
+      "start": 3480.0,
+      "end": 3485.0,
+      "text": "As many screens as it is, it actually feels very fast."
+    },
+    {
+      "start": 3485.0,
+      "end": 3494.0,
+      "text": "And there's not really a moment where you don't know where to look or what to do, which I really like."
+    },
+    {
+      "start": 3494.0,
+      "end": 3499.0,
+      "text": "Then we have four screens here."
+    },
+    {
+      "start": 3499.0,
+      "end": 3502.0,
+      "text": "Asking questions, yes and no."
+    },
+    {
+      "start": 3502.0,
+      "end": 3508.0,
+      "text": "Right, we've switched from the buttons and the swipes and the taps into the yes and no buttons."
+    },
+    {
+      "start": 3508.0,
+      "end": 3513.0,
+      "text": "We have a, give us a rating screen."
+    },
+    {
+      "start": 3513.0,
+      "end": 3517.0,
+      "text": "Getting a rating screen in onboarding."
+    },
+    {
+      "start": 3517.0,
+      "end": 3521.0,
+      "text": "It's not something I've personally done."
+    },
+    {
+      "start": 3521.0,
+      "end": 3532.0,
+      "text": "But I do think that it's very valid if you have a medium to long onboarding to end that in."
+    },
+    {
+      "start": 3532.0,
+      "end": 3536.0,
+      "text": "Yes."
+    },
+    {
+      "start": 3536.0,
+      "end": 3540.0,
+      "text": "I'll be honest, I haven't really done that with my apps."
+    },
+    {
+      "start": 3540.0,
+      "end": 3550.0,
+      "text": "I've really asked for ratings after some kind of magic moment, which we're going to talk about."
+    },
+    {
+      "start": 3550.0,
+      "end": 3560.0,
+      "text": "So this is not something that I've done in my own apps, but I think in an app like Callie I and other apps, it makes a lot of sense."
+    },
+    {
+      "start": 3560.0,
+      "end": 3561.0,
+      "text": "Right."
+    },
+    {
+      "start": 3561.0,
+      "end": 3570.0,
+      "text": "Because the more five star ratings we have."
+    },
+    {
+      "start": 3570.0,
+      "end": 3588.0,
+      "text": "I think for an app like Callie I having a rating prompt makes a lot of sense in onboarding."
+    },
+    {
+      "start": 3588.0,
+      "end": 3595.0,
+      "text": "Really the way I see ratings is at the end of the day on your app store page, it will build trust."
+    },
+    {
+      "start": 3595.0,
+      "end": 3601.0,
+      "text": "So as we've already done onboarding, it makes a lot of sense if you have a medium to long onboarding."
+    },
+    {
+      "start": 3601.0,
+      "end": 3603.0,
+      "text": "That's just my opinion."
+    },
+    {
+      "start": 3603.0,
+      "end": 3614.0,
+      "text": "It's not something that I've tried with my apps too often, but I think it's very valid for a long onboarding, medium onboarding app."
+    },
+    {
+      "start": 3614.0,
+      "end": 3619.0,
+      "text": "Especially like the one you're seeing right here. This is a great, give us a rating screen."
+    },
+    {
+      "start": 3619.0,
+      "end": 3622.0,
+      "text": "We have a ref code screen."
+    },
+    {
+      "start": 3622.0,
+      "end": 3629.0,
+      "text": "And now we have kind of this satisfying, okay, we're done. Let's generate a plan."
+    },
+    {
+      "start": 3629.0,
+      "end": 3642.0,
+      "text": "And now we have the AI, you know, have this really delightful moment of the AI, you know, generating the plan and having the progress bar fill up."
+    },
+    {
+      "start": 3642.0,
+      "end": 3649.0,
+      "text": "Now we have this really nice, delightful screen of, you know, counting up to 100."
+    },
+    {
+      "start": 3649.0,
+      "end": 3653.0,
+      "text": "And we're setting it everything up for you, right? So this is a great screen."
+    },
+    {
+      "start": 3653.0,
+      "end": 3659.0,
+      "text": "This is a great screen if you need some time to do things. I love creating delays."
+    },
+    {
+      "start": 3659.0,
+      "end": 3670.0,
+      "text": "And you know, there's something I've done in other apps as well, but having something where you weigh a few seconds for the user to get excited and to build anticipation."
+    },
+    {
+      "start": 3670.0,
+      "end": 3675.0,
+      "text": "So I love screens like this and it's animated."
+    },
+    {
+      "start": 3675.0,
+      "end": 3681.0,
+      "text": "Then we have that your plan is ready, right? So we have this like delivery of something great."
+    },
+    {
+      "start": 3681.0,
+      "end": 3694.0,
+      "text": "Like this is what the AI thinks you should be doing every day, right? Super simple screen and a very delightful experience from here to here."
+    },
+    {
+      "start": 3694.0,
+      "end": 3701.0,
+      "text": "So now the user is here. The next screen would be a paywall."
+    },
+    {
+      "start": 3701.0,
+      "end": 3708.0,
+      "text": "And I have a couple of them paywalls here. This is the current paywall."
+    },
+    {
+      "start": 3708.0,
+      "end": 3716.0,
+      "text": "So it's very simple and clean. We're going to talk about paywalls in the next section, but I'm just going to pop this up here."
+    },
+    {
+      "start": 3716.0,
+      "end": 3722.0,
+      "text": "This is a trial paywall solitizer. We'll talk about that soon."
+    },
+    {
+      "start": 3722.0,
+      "end": 3729.0,
+      "text": "But this is the Cal AI onboarding and this is the NGL onboarding. Both of them are correct."
+    },
+    {
+      "start": 3729.0,
+      "end": 3736.0,
+      "text": "Like I said, both are correct. It just depends on what the purpose of the app is. What is the core action?"
+    },
+    {
+      "start": 3736.0,
+      "end": 3750.0,
+      "text": "What do we need from the user for the core action? Cal AI, you need a lot of information in order to when you scan the food and you provide these insights, then you can share insights of, oh, maybe you should eat more of this or eat less of this."
+    },
+    {
+      "start": 3750.0,
+      "end": 3762.0,
+      "text": "We have to know your height and your weight and we have to know your gender. We have to know all these things about you versus NGL, which requires very little information from the user in order for the core action to be effective."
+    },
+    {
+      "start": 3762.0,
+      "end": 3765.0,
+      "text": "Right? Just sharing a link on your story."
+    },
+    {
+      "start": 3765.0,
+      "end": 3778.0,
+      "text": "So I hope that answers the question of what is the right answer? I get this DM all the time. What is the right answer? Short or long onboarding? And the answer is both."
+    }
+  ]
+}

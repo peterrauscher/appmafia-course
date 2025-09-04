@@ -1,0 +1,292 @@
+{
+  "file_name": "001_Lesson_01.faudio-hi-0-Default.mp4",
+  "text": " Welcome to the first lesson introduction video of App Mafia. I'm going to go over a brief background on who we are and what we intend to teach here. So this is the App Mafia Playbook. With zero investors and minimum coding experience, we each built multi-million dollar app businesses. NGL was built, I think, a bit over four years ago by Hunter. It makes $30 million a year. Riz, GPT, UMax, and CaliI were built by myself. And then Zach on CaliI as well, which made $3.5, $3.5, and $40 million a year respectively. And Quitter was built, I think, almost exactly one year ago now by Conor and Alex, and they make $6 million a year. So this is all total to over $80 million a year, just with the power of code and small teams. So as you see here, Zach's 18, Alex's 19 Conors 23, I'm 24, and Hunter is 26, I think. We all started bootstrapped, small teams like one to three people. We were built recently, and we all make millions of dollars a year in profit. So why build apps? Today, you do not need to have a CS degree or to raise venture capital to do it. You just need direction and execution. I cannot emphasize this enough. AI makes it easier than ever before to build apps. AI apps can solve more problems for users from the advent of the app store until the release of chat GPT. The change in existing technology was pretty minor. There weren't that many new products that could be built. AI completely changes that, turns it upside down. And finally, social media algorithms amplify reach. It's easier than ever before to be one individual with a creative idea and to reach millions, tens of millions, hundreds of millions, even over a billion people. Each of my apps has reached well over a billion people on social media. The structure of this course will be going through the four Ds of software. First D is I Dation. The second is Design. The third is Development. And the fourth is Distribution. Now, throughout this course, we are going to give very clear examples, experiences that we have had within each of these domains, the tools that we use, and our processes that we believe apply to almost everybody that is looking to build and scale a consumer app. In the next lesson, I'll dive into the tech stack that we use. And then after that, we will get into the first module, ideation, and coming up with your idea. Feel free to skip around. I would probably watch on two X speed personally. And yeah, bounce to whatever is interesting. Follow your gut. Follow your curiosities. Some other information on the internet, but do know that most people that make content within this domain have not achieved nearly the level of success that just any individual involved in that mafia has. This is the gold standard. And yeah, I think as of the release of this video, it will be 100% free. The launch, you know, to hit the elephant in the room, the launch on Twitter was obviously very, very viral and very controversial. But that was all intended. It's all an act. The play here is mind share. If we can be known by the masses, and yet provide something that is extremely helpful. I think that it positions us well to build the best tools for the present and future of all app builders. At the end of the day, I believe app builders are simply bringing AI and new human experiences into the hands of billions of people. I hope that that starts here. We hope that it starts with high value information to help you and everybody alongside yourself. Achieve your goals in your journey of building apps. So that is my spiel for this first lesson. I'll see you guys in the next lesson where I explain the tech stack. And then we'll jump right on in to ideation.",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "Welcome to the first lesson introduction video of App Mafia."
+    },
+    {
+      "start": 8.0,
+      "end": 15.0,
+      "text": "I'm going to go over a brief background on who we are and what we intend to teach here."
+    },
+    {
+      "start": 15.0,
+      "end": 18.0,
+      "text": "So this is the App Mafia Playbook."
+    },
+    {
+      "start": 18.0,
+      "end": 26.0,
+      "text": "With zero investors and minimum coding experience, we each built multi-million dollar app businesses."
+    },
+    {
+      "start": 27.0,
+      "end": 31.0,
+      "text": "NGL was built, I think, a bit over four years ago by Hunter."
+    },
+    {
+      "start": 31.0,
+      "end": 34.0,
+      "text": "It makes $30 million a year."
+    },
+    {
+      "start": 34.0,
+      "end": 39.0,
+      "text": "Riz, GPT, UMax, and CaliI were built by myself."
+    },
+    {
+      "start": 39.0,
+      "end": 47.0,
+      "text": "And then Zach on CaliI as well, which made $3.5, $3.5, and $40 million a year respectively."
+    },
+    {
+      "start": 47.0,
+      "end": 53.0,
+      "text": "And Quitter was built, I think, almost exactly one year ago now by Conor and Alex,"
+    },
+    {
+      "start": 53.0,
+      "end": 55.0,
+      "text": "and they make $6 million a year."
+    },
+    {
+      "start": 55.0,
+      "end": 65.0,
+      "text": "So this is all total to over $80 million a year, just with the power of code and small teams."
+    },
+    {
+      "start": 65.0,
+      "end": 75.0,
+      "text": "So as you see here, Zach's 18, Alex's 19 Conors 23, I'm 24, and Hunter is 26, I think."
+    },
+    {
+      "start": 75.0,
+      "end": 86.0,
+      "text": "We all started bootstrapped, small teams like one to three people."
+    },
+    {
+      "start": 86.0,
+      "end": 92.0,
+      "text": "We were built recently, and we all make millions of dollars a year in profit."
+    },
+    {
+      "start": 92.0,
+      "end": 94.0,
+      "text": "So why build apps?"
+    },
+    {
+      "start": 94.0,
+      "end": 100.0,
+      "text": "Today, you do not need to have a CS degree or to raise venture capital to do it."
+    },
+    {
+      "start": 100.0,
+      "end": 103.0,
+      "text": "You just need direction and execution."
+    },
+    {
+      "start": 103.0,
+      "end": 106.0,
+      "text": "I cannot emphasize this enough."
+    },
+    {
+      "start": 106.0,
+      "end": 111.0,
+      "text": "AI makes it easier than ever before to build apps."
+    },
+    {
+      "start": 111.0,
+      "end": 120.0,
+      "text": "AI apps can solve more problems for users from the advent of the app store until the release of chat GPT."
+    },
+    {
+      "start": 120.0,
+      "end": 125.0,
+      "text": "The change in existing technology was pretty minor."
+    },
+    {
+      "start": 125.0,
+      "end": 129.0,
+      "text": "There weren't that many new products that could be built."
+    },
+    {
+      "start": 129.0,
+      "end": 135.0,
+      "text": "AI completely changes that, turns it upside down."
+    },
+    {
+      "start": 135.0,
+      "end": 139.0,
+      "text": "And finally, social media algorithms amplify reach."
+    },
+    {
+      "start": 139.0,
+      "end": 147.0,
+      "text": "It's easier than ever before to be one individual with a creative idea and to reach millions,"
+    },
+    {
+      "start": 147.0,
+      "end": 152.0,
+      "text": "tens of millions, hundreds of millions, even over a billion people."
+    },
+    {
+      "start": 153.0,
+      "end": 161.0,
+      "text": "Each of my apps has reached well over a billion people on social media."
+    },
+    {
+      "start": 161.0,
+      "end": 165.0,
+      "text": "The structure of this course will be going through the four Ds of software."
+    },
+    {
+      "start": 165.0,
+      "end": 169.0,
+      "text": "First D is I Dation."
+    },
+    {
+      "start": 169.0,
+      "end": 171.0,
+      "text": "The second is Design."
+    },
+    {
+      "start": 171.0,
+      "end": 174.0,
+      "text": "The third is Development."
+    },
+    {
+      "start": 174.0,
+      "end": 178.0,
+      "text": "And the fourth is Distribution."
+    },
+    {
+      "start": 178.0,
+      "end": 186.0,
+      "text": "Now, throughout this course, we are going to give very clear examples, experiences that we have had within each of these domains,"
+    },
+    {
+      "start": 186.0,
+      "end": 198.0,
+      "text": "the tools that we use, and our processes that we believe apply to almost everybody that is looking to build and scale a consumer app."
+    },
+    {
+      "start": 198.0,
+      "end": 201.0,
+      "text": "In the next lesson, I'll dive into the tech stack that we use."
+    },
+    {
+      "start": 202.0,
+      "end": 210.0,
+      "text": "And then after that, we will get into the first module, ideation, and coming up with your idea."
+    },
+    {
+      "start": 210.0,
+      "end": 213.0,
+      "text": "Feel free to skip around."
+    },
+    {
+      "start": 213.0,
+      "end": 218.0,
+      "text": "I would probably watch on two X speed personally."
+    },
+    {
+      "start": 218.0,
+      "end": 222.0,
+      "text": "And yeah, bounce to whatever is interesting."
+    },
+    {
+      "start": 222.0,
+      "end": 224.0,
+      "text": "Follow your gut."
+    },
+    {
+      "start": 224.0,
+      "end": 226.0,
+      "text": "Follow your curiosities."
+    },
+    {
+      "start": 226.0,
+      "end": 240.0,
+      "text": "Some other information on the internet, but do know that most people that make content within this domain have not achieved nearly the level of success that just any individual involved in that mafia has."
+    },
+    {
+      "start": 240.0,
+      "end": 244.0,
+      "text": "This is the gold standard."
+    },
+    {
+      "start": 244.0,
+      "end": 253.0,
+      "text": "And yeah, I think as of the release of this video, it will be 100% free."
+    },
+    {
+      "start": 253.0,
+      "end": 263.0,
+      "text": "The launch, you know, to hit the elephant in the room, the launch on Twitter was obviously very, very viral and very controversial."
+    },
+    {
+      "start": 263.0,
+      "end": 266.0,
+      "text": "But that was all intended."
+    },
+    {
+      "start": 266.0,
+      "end": 269.0,
+      "text": "It's all an act."
+    },
+    {
+      "start": 269.0,
+      "end": 271.0,
+      "text": "The play here is mind share."
+    },
+    {
+      "start": 271.0,
+      "end": 280.0,
+      "text": "If we can be known by the masses, and yet provide something that is extremely helpful."
+    },
+    {
+      "start": 280.0,
+      "end": 290.0,
+      "text": "I think that it positions us well to build the best tools for the present and future of all app builders."
+    },
+    {
+      "start": 290.0,
+      "end": 306.0,
+      "text": "At the end of the day, I believe app builders are simply bringing AI and new human experiences into the hands of billions of people."
+    },
+    {
+      "start": 306.0,
+      "end": 309.0,
+      "text": "I hope that that starts here."
+    },
+    {
+      "start": 309.0,
+      "end": 317.0,
+      "text": "We hope that it starts with high value information to help you and everybody alongside yourself."
+    },
+    {
+      "start": 317.0,
+      "end": 322.0,
+      "text": "Achieve your goals in your journey of building apps."
+    },
+    {
+      "start": 322.0,
+      "end": 327.0,
+      "text": "So that is my spiel for this first lesson."
+    },
+    {
+      "start": 327.0,
+      "end": 330.0,
+      "text": "I'll see you guys in the next lesson where I explain the tech stack."
+    },
+    {
+      "start": 330.0,
+      "end": 333.0,
+      "text": "And then we'll jump right on in to ideation."
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+[
+  {
+    "title": "Lesson 01",
+    "url": "https://stream.mux.com/OABpWBZb02bRRHONNxYM3xPM6802zggikEIMPtsJFLc1s.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJPQUJwV0JaYjAyYlJSSE9OTnhZTTN4UE02ODAyemdnaWtFSU1QdHNKRkxjMXMiLCJleHAiOjE3NTk0NDk2MDAsImtpZCI6IjJIeEtWQlZSWGRDMDFpNDZ4MDBNR09KMngxaXM4QjAyUlpDRFlCd2taOGp4TUEiLCJhdWQiOiJ2In0.KZJKvT-d726shT9BXvgSQgWXEZKzxiWiYMXtbGnkaxB3yOTa9sdX-ZEeblMEyiLnFKLUfRT-P52Fk-AJcVChsWYiIeW6VOd7dwVqQFgLOOFl0KjEveRhH-__j5P1mdV7ELDy4EAtOwWpum1b9Nm7MQFURbu1epUn8aY2lFhv3rPjhLnpSsefGBxkgUnSp2wEXcWJktoAHeoofD8AUOnWZmeIaPl20VMnL_nLDJB1W2Okd7_VEnhK5QCF2Z-yevzjg6hevbCswVtz_X3OjwzsXlAvxjoCi3ndL9MlziiKsBfEWTFwgkmyxzkTR0c_zDWw56hqUJvgjUNXIu-rx6nMMA",
+    "video_id": "OABpWBZb02bRRHONNxYM3xPM6802zggikEIMPtsJFLc1s",
+    "index": 1
+  },
+  {
+    "title": "Lesson 02",
+    "url": "https://stream.mux.com/YxC9aA64tUzP6eoR4z9bEz6XRHoIPRx6oqd6EZXYuZU.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJZeEM5YUE2NHRVelA2ZW9SNHo5YkV6NlhSSG9JUFJ4Nm9xZDZFWlhZdVpVIiwiZXhwIjoxNzU5NDQ5NjAwLCJraWQiOiIySHhLVkJWUlhkQzAxaTQ2eDAwTUdPSjJ4MWlzOEIwMlJaQ0RZQndrWjhqeE1BIiwiYXVkIjoidiJ9.SU6ek1pvmNFoG5gNKq_k4k4UniLAQgnvQgee7yjFTvKLsT5FCOG3b5x1ZDlHZpeAGJyOMT9TRYcX7L08GAmf9w_OY1K1mIKNPjl9yyUHdDmSUOk7um9JtAZCKkso7ydyfPGNNOXT6wyvR8AnF7rDJSe4A6E-nVqORig-rsdUX2zr-9nIOhFpqWizjaoEB-C7AO6q12UbvHre6hErIEL9wFgf5ThfeqMHxZAiERMdnlvdZ4qk8KtEUUY5uzuVMTjg4wJvXsouYdn61VuL5UyUxhwiN3IAtAoXp3LtSxd8gpZPwCdPZ3R3wF44rK82bv_YbCyARO1Zx06-30MhHJxyXw",
+    "video_id": "YxC9aA64tUzP6eoR4z9bEz6XRHoIPRx6oqd6EZXYuZU",
+    "index": 2
+  },
+  {
+    "title": "Lesson 03",
+    "url": "https://stream.mux.com/c013i2uUAV00PdsFoPdd8XJeVcGiYD00Camo2fC65sK00ew.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJjMDEzaTJ1VUFWMDBQZHNGb1BkZDhYSmVWY0dpWUQwMENhbW8yZkM2NXNLMDBldyIsImV4cCI6MTc1OTQ0OTYwMCwia2lkIjoiMkh4S1ZCVlJYZEMwMWk0NngwME1HT0oyeDFpczhCMDJSWkNEWUJ3a1o4anhNQSIsImF1ZCI6InYifQ.ui83qsDBp__V1EVNs0M7g0vDBxVYvq2bt-JSQXW39BurcldwpJoAzYH1UOd3CHtp63543OibHuFRkFi5rwso1QVV6wiOas_5mxbrR_DHNli7wYM_5a6dGT9vYK5UXW3le_CsBUlgMKN7xrRrdJnreKVEuDu5xfS7T4MvvYvy_q6cK0_2NLogQ-tHCNIwLc0B8LvkIwMdJOI_OrY_lL9ys16whYAWloEdysMPFsHI9GlfwcnSmrLviB1SswqbYn3VkplFIxwMXVn0Cu9zODNOC6uDOPxzZMDJ4cJ6i9q5nkSYjPWC-OgeiQPhK8POQ8imGCgFu9m7U7Kv_EXLRrst_Q",
+    "video_id": "c013i2uUAV00PdsFoPdd8XJeVcGiYD00Camo2fC65sK00ew",
+    "index": 3
+  },
+  {
+    "title": "Lesson 04",
+    "url": "https://stream.mux.com/MumnCgcB5DVje601f4NTkDi7l6N00u01LaIr4x41SWKZOE.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJNdW1uQ2djQjVEVmplNjAxZjROVGtEaTdsNk4wMHUwMUxhSXI0eDQxU1dLWk9FIiwiZXhwIjoxNzU5NDQ5NjAwLCJraWQiOiIySHhLVkJWUlhkQzAxaTQ2eDAwTUdPSjJ4MWlzOEIwMlJaQ0RZQndrWjhqeE1BIiwiYXVkIjoidiJ9.UdOWnxh0WWbfKbxaDKf3JK_VEYs74xj1q59oPuf8xD96eIavbGFn0rTko3h1x3bwm39Dfw8hiXy2I9l05S1OgHb012DbWZ5_C31waODaoYVVKfoSl8ftP5orL-h_KENgf66rSWcskDGyoNjJPTPLN3J25RqzNOLtUKGw5dVnikPbquRd4x169QCoOELoa2kD2Ly1R-MrHPnStG5zpyNRIHWDtXYLCDCvcv7ah8mslu64RbVQtvSahZnEJdGhiBrRXFqGP-OC1kmAsqTxAYlON3R-o7ZrKUmuDTIrQa-vD5dV_6XyPCDXTKjPKlbbzq07vOPXNrE4s_xwfP4NgRXQxg",
+    "video_id": "MumnCgcB5DVje601f4NTkDi7l6N00u01LaIr4x41SWKZOE",
+    "index": 4
+  },
+  {
+    "title": "Lesson 05",
+    "url": "https://stream.mux.com/jQm4HhXWjqIPt4EAZye5xovS00TEIPVnBlBaXtfrEV400.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJqUW00SGhYV2pxSVB0NEVBWnllNXhvdlMwMFRFSVBWbkJsQmFYdGZyRVY0MDAiLCJleHAiOjE3NTk0NDk2MDAsImtpZCI6IjJIeEtWQlZSWGRDMDFpNDZ4MDBNR09KMngxaXM4QjAyUlpDRFlCd2taOGp4TUEiLCJhdWQiOiJ2In0.yyCCbaqUtju1Q6WjfZT3JB3FQQDjLTlE5gakz7xQx5fXj5Pz6AL8sZyKjKRAyAjzTUb47K-fKAZknQ4r76XmGOvxVs8q--D6x1esPxLV3acMPcBcSe3kxTXE4X4zkupzIbh3WYyYDs_AOF7s5e7HBSDjTXMGWivwX4SYU_KtSHarSG6p0Tq3Yl4e-UxoUa5uJohxUI7P2q0XQORQkuXuv_6vCWEvXzue4CNCkJ4AGCK_ul4mrWChOUzVXlGwLRwecdU42r48h5YAkYQLZkaPSoOkbnF-vcwENDhlu2W_oZfu724kQTVEg65kpkyWZC5ipTo5RHHDNKNVXqXzwJZ2xg",
+    "video_id": "jQm4HhXWjqIPt4EAZye5xovS00TEIPVnBlBaXtfrEV400",
+    "index": 5
+  },
+  {
+    "title": "Lesson 06",
+    "url": "https://stream.mux.com/5ydLmBfXwpPavuIrgkq6CGrwePCFkfj00REdQWSDOg02k.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiI1eWRMbUJmWHdwUGF2dUlyZ2txNkNHcndlUENGa2ZqMDBSRWRRV1NET2cwMmsiLCJleHAiOjE3NTk0NDk2MDAsImtpZCI6IjJIeEtWQlZSWGRDMDFpNDZ4MDBNR09KMngxaXM4QjAyUlpDRFlCd2taOGp4TUEiLCJhdWQiOiJ2In0.w6lhdSv5R5_CWm3RgjEK4iWbLMV4LhsDLXNgpB0lthi-gdl7umlX8RGN3MmRIhKH5oHoo-dX9BCXHE-zqM3o0oBdLKJg9RlP0kGntytdjBRa8eOVIlx_bXe-Kn6gGij9f8Uw0P27JpMUZJLxf2f1iAXgHTMAigVLoeHbPfwUMhTvTT6QruQ0XxQAqm73Rdvup5rp0kqobdI_Am4ACRpT2Uejsj4hSvlTDLgCqeqiDKe0OJYvsu9LG1ND62tYMj7DVHRVTxsutfUacxvQi82-ebpU_LxyIMzmeGnK2xzhX98QzH3GC9J67oLHHeotwpVVX1SEPfxVMB4jSu0vs6PX1w",
+    "video_id": "5ydLmBfXwpPavuIrgkq6CGrwePCFkfj00REdQWSDOg02k",
+    "index": 6
+  },
+  {
+    "title": "Lesson 07",
+    "url": "https://stream.mux.com/1pSg4yUjCyK5VN01IgTHzOH1Qacu01D00EKe1ROf7vF2300.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIxcFNnNHlVakN5SzVWTjAxSWdUSHpPSDFRYWN1MDFEMDBFS2UxUk9mN3ZGMjMwMCIsImV4cCI6MTc1OTQ0OTYwMCwia2lkIjoiMkh4S1ZCVlJYZEMwMWk0NngwME1HT0oyeDFpczhCMDJSWkNEWUJ3a1o4anhNQSIsImF1ZCI6InYifQ.I95h97naYCMOoifiB3QO2G6lIH8QntpbkJ9YKYrkjoZhzxOu2HvKy_OHs-Zm2eCuAANcSnUe5lIGLefwvy3UTrExLmZf9Gt_Alu6v6jcnnVwTHSSpzKhbBITG__7AyDSS8RZtndWmhnsMTJwkDiKjyoJZVhFdWEBtX8Uh5XjE2uWosNlTe3-Y-lHhT8jcZjwZs8xB5mH3pkGMRwSijug1FoJvj96-8SMOMegI96KFB3BMP9jbrwnT0UTupLVAnkq7yk_2jYS0CBoKl2vFxxsUsWKzClFVxkr9imRgA_Z_UCBah-p0yfvyledVAAqJojQUAwRNuR5W2i2XSUZCUDxeA",
+    "video_id": "1pSg4yUjCyK5VN01IgTHzOH1Qacu01D00EKe1ROf7vF2300",
+    "index": 7
+  },
+  {
+    "title": "Lesson 08",
+    "url": "https://stream.mux.com/8V7RTUeFk4Ks2QUaaVyKjH02NEitbmT8lRewJKvEtiis.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiI4VjdSVFVlRms0S3MyUVVhYVZ5S2pIMDJORWl0Ym1UOGxSZXdKS3ZFdGlpcyIsImV4cCI6MTc1OTQ0OTYwMCwia2lkIjoiMkh4S1ZCVlJYZEMwMWk0NngwME1HT0oyeDFpczhCMDJSWkNEWUJ3a1o4anhNQSIsImF1ZCI6InYifQ.Mx0KEQqh-C4kdhJOlSzm9rltno97CkrswkOfEWc2t3R3CnPnJCqIlBekbPtNQ9Id-_iaHM6m2p6N4qnVNXvb7BCyhpPtSolmO2__jC537NJfce-r-GieiNA6NI667nIoRf-dgkpTfEbR0fbWwCZO4_pDaU_CzC4M2Hva9Q2OCYHCthAcRq-n6kdurWVkKKL9WyU0pWD6UFfTpbFBb9jaBu8Jzr6lOId2flH_bVHEj4SxqjwZAYcAeEDz9Rv6XDGDmXucchGSuOD9nCIYWR4K4gi2bSvy1JXrkA8zLn0Jj-E9AfFPA1NVr3wpbvutqR2Lcts0LAVD7Bg-_XZCKGdkxg",
+    "video_id": "8V7RTUeFk4Ks2QUaaVyKjH02NEitbmT8lRewJKvEtiis",
+    "index": 8
+  },
+  {
+    "title": "Lesson 09",
+    "url": "https://stream.mux.com/E6DZd02djQlSE01PU9a8tAwYwRkbmMUSEusAkexrBqIoU.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJFNkRaZDAyZGpRbFNFMDFQVTlhOHRBd1l3UmtibU1VU0V1c0FrZXhyQnFJb1UiLCJleHAiOjE3NTk0NDk2MDAsImtpZCI6IjJIeEtWQlZSWGRDMDFpNDZ4MDBNR09KMngxaXM4QjAyUlpDRFlCd2taOGp4TUEiLCJhdWQiOiJ2In0.Iopx4TB52tLxH3VY0PVW-Vz1eg1icDhOPAU_Z_WXevSiCAiT1wZQZLwYdAFLrX6m8cOEkGoWwSxOW4VlJ2uup4rVvAgbD3tuUwjVqRF5ac_4rf1PlgPx0X0l3Moh81L41J8ZHpAVxoUbBYVNNtgsnvMusyxM_wzbgtCuiBpE3pY7Jq69ZPDXlqtSgt8xQtpWKRdltDwtRT-SGtWjciheHjlPBOOog2EfCd4yHZ1R5suha0EYWD4kp0UDSeNSzQX0U7ckG_e2QUK-smtisQJww_DyDNjKS5e7pckfS8-0gVGYTdiYNz6HCtJN3tBEfBzfyZ9aVeHvtX4xu0T-CwZm2A",
+    "video_id": "E6DZd02djQlSE01PU9a8tAwYwRkbmMUSEusAkexrBqIoU",
+    "index": 9
+  },
+  {
+    "title": "Lesson 10",
+    "url": "https://stream.mux.com/nLh102MxJJIlWKVxo1gwfd5rJHxZ3jTCT02XRXn7OjdVQ.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJuTGgxMDJNeEpKSWxXS1Z4bzFnd2ZkNXJKSHhaM2pUQ1QwMlhSWG43T2pkVlEiLCJleHAiOjE3NTk0NDk2MDAsImtpZCI6IjJIeEtWQlZSWGRDMDFpNDZ4MDBNR09KMngxaXM4QjAyUlpDRFlCd2taOGp4TUEiLCJhdWQiOiJ2In0.W6XDWQGC3d6qTZTJk7ZvEksu5O0378iUe0Y4qSAqDcf0ZpLzwtqWk4EQIXymVb9JZExa90qM0YDAMoV70gShO2OLbNvqYe-9FkoC6Vtgv9U74YyaLj4jRSLJtOoWFQTfrgQ0-ixY97jsgXOuxVueHOIzlRoaBhnZ1u5s0MTV9iGjcAVwxBEdtbYERgzSpo-381rirelFy8y2b2r05avxzwGOceS3P6VgI-ZvO4ZuSdIZLRL1C2HjYJrob-VPCjgtBVKUUmIgtDJPKMa_uR_O3ATZhESDmHuEoxxcVPfrVTousgUciZqAhG1wLGhgiyVFZ-84zViMRJjI5P7KEWXjeg",
+    "video_id": "nLh102MxJJIlWKVxo1gwfd5rJHxZ3jTCT02XRXn7OjdVQ",
+    "index": 10
+  },
+  {
+    "title": "Lesson 11",
+    "url": "https://stream.mux.com/jIe5asY400TBJyXSHEaTq00bwQ3WtaW1Aw27JR8295QcU.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJqSWU1YXNZNDAwVEJKeVhTSEVhVHEwMGJ3UTNXdGFXMUF3MjdKUjgyOTVRY1UiLCJleHAiOjE3NTk0NDk2MDAsImtpZCI6IjJIeEtWQlZSWGRDMDFpNDZ4MDBNR09KMngxaXM4QjAyUlpDRFlCd2taOGp4TUEiLCJhdWQiOiJ2In0.iT1kB6pWSjDFv9jhaRlqv0XKflpsQIPKDSrkWGF9N1u2JUa__XGWEp_0g9ipawwp5M-OIOTG0eORaPFe1tlnqluaHeR0gadWvxrkOdmd5qUDVKCGXlFkvgljMljBAYduwuS7xmv_xqqi2CZyhkCnwUb-l3aYm4NnIyRrMnSpQOJ965rEjgdqPXP7jkbgvA53jZyvvpc_5rlWcs0CfbgVCoo2m-FgwWQXu94xP2IISRX67vq2z40Y_0hzyR-dHmfTzN0paJvdK4vetz4YrKYTdDv3CipFSQ498_b2Zjcm91uQ6921Skz2IhMK13Llm9Sez6KWEu-mdN6Kzn4ubRcd8Q",
+    "video_id": "jIe5asY400TBJyXSHEaTq00bwQ3WtaW1Aw27JR8295QcU",
+    "index": 11
+  },
+  {
+    "title": "Lesson 12",
+    "url": "https://stream.mux.com/qDBj01WcFzO401hy0002z6H202aGNvgFEl5mAvZghVdQG8sQ.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJxREJqMDFXY0Z6TzQwMWh5MDAwMno2SDIwMmFHTnZnRkVsNW1BdlpnaFZkUUc4c1EiLCJleHAiOjE3NTk0NDk2MDAsImtpZCI6IjJIeEtWQlZSWGRDMDFpNDZ4MDBNR09KMngxaXM4QjAyUlpDRFlCd2taOGp4TUEiLCJhdWQiOiJ2In0.TLVMXufxL8x38jGH7c97NCQBThahJAuzHQMsQbB7rwOEEtMOjn1iDQkCf-xPlLQZhQotLkv--9kgIQ5K0NanPlojYbHv_HyzSBoFzBVE-4ZkTtWSwhSn4cjCM-JxQ_gZNVsSMnKt8bCh_WYTyfcXWqjZRhTKD06KpGWNd7-xne0HTQMDEzBHuklCYVxCM-vXCag4qdb_1ymw3KFkYHNLopkIOTsk7TQU0SrOssQcx-i1i0R7I2V2uHwiuq8PgrXd286m0PPUsZJB0YlBqx3tu84LL6xXLc1wxeltuvoIVjwSeGSo8aFhj39sM-BvPkHp-cvDa9kusy9U-MaSHhB0Tw",
+    "video_id": "qDBj01WcFzO401hy0002z6H202aGNvgFEl5mAvZghVdQG8sQ",
+    "index": 12
+  },
+  {
+    "title": "Lesson 13",
+    "url": "https://stream.mux.com/8IF1Gr1bTO6CNCJxghf3ZvNiL5ZDuVlC01cI8h0202rk3Q.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiI4SUYxR3IxYlRPNkNOQ0p4Z2hmM1p2TmlMNVpEdVZsQzAxY0k4aDAyMDJyazNRIiwiZXhwIjoxNzU5NDQ5NjAwLCJraWQiOiIySHhLVkJWUlhkQzAxaTQ2eDAwTUdPSjJ4MWlzOEIwMlJaQ0RZQndrWjhqeE1BIiwiYXVkIjoidiJ9.l2fJHMkgEE45ZAB9YKiwdE2AhIG6K99KCECSluHO5fQw99NEhSCDE8NLrgMirBXXqg21KB6gNqJD4eYNBzUIak_MC2WxpEUbUkv3pDEKIZ5UU6U864GWqvyZWDLAVEPxc7tIu0WQ_Z2zH1ku6tnO0lPMetUoEnUprX69hCcXWxrd63r4km5ZhEfLi7wfvZbe5FqMO3iU57D0kWGcJYDCq1ucLuC_YSmUzOpMpeogSormlEF6XKPsKxapGzPmsgaSC_EuoD5YNjZoC0EZymyjhIMAmO2MEmlkMbeYe3PyfWEnPFRb4OTWB0xNVg57ZUoHGwbnMwsK6JrPX3PXXo4Beg",
+    "video_id": "8IF1Gr1bTO6CNCJxghf3ZvNiL5ZDuVlC01cI8h0202rk3Q",
+    "index": 13
+  },
+  {
+    "title": "Lesson 14",
+    "url": "https://stream.mux.com/aKsJILStwuwZNvVG83cb91N3GMXgp026E4pDCX8AHRgs.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJhS3NKSUxTdHd1d1pOdlZHODNjYjkxTjNHTVhncDAyNkU0cERDWDhBSFJncyIsImV4cCI6MTc1OTQ0OTYwMCwia2lkIjoiMkh4S1ZCVlJYZEMwMWk0NngwME1HT0oyeDFpczhCMDJSWkNEWUJ3a1o4anhNQSIsImF1ZCI6InYifQ.sJ9dezLWnvFzvvaGnjzN9G6KctwAqPRGu0OWnJMRTTCdsS8DcAySZOAFACNehEcnmOuCRXBfVh-scqlzUR89E-pwmEguL8M1sEP3jmKhlYP-P1RicIgMtByVPf1z0BS2avjTh6IhGAiZy_Ynk0_9zHRwMwQMOIi5pb_3i5RCHaeToysaTthIxBdz3CVRg7TS2oQn45GQmHkav-71zxfYjgHOl_EqIYI4PUO2lT2Klkdza46Sfgd5JN1OZutetTxe8Jukwhrlnj_KIH8Ry5VQLYvqVnylc1Z43RUYcW5n2AtZfX8OEYFnoo3Jc6nen0FQs2dZd_dOKr3uh9XrHTXPBg",
+    "video_id": "aKsJILStwuwZNvVG83cb91N3GMXgp026E4pDCX8AHRgs",
+    "index": 14
+  },
+  {
+    "title": "Lesson 15",
+    "url": "https://stream.mux.com/FpSErd9xKdhAk9QB7tTCQOZXn6oMUsy02KaBko2G2jF8.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJGcFNFcmQ5eEtkaEFrOVFCN3RUQ1FPWlhuNm9NVXN5MDJLYUJrbzJHMmpGOCIsImV4cCI6MTc1OTQ0OTYwMCwia2lkIjoiMkh4S1ZCVlJYZEMwMWk0NngwME1HT0oyeDFpczhCMDJSWkNEWUJ3a1o4anhNQSIsImF1ZCI6InYifQ.WgnVwXzQ7Lbf3Qmyckxse5rPq8ypS9_E44UdOAXHzek9Gc72JrxSTVAcJMaf075P4UU-iWAwa94suQ0gbkiaH6nfXkCt7cGC8KhlEm-hU-hqHWMvYOhdLePT5ArEiNHXg218aIkDiX-bz142yyMJbti61CefunalbJVHBXk2vh84Hl3GlkNsWu2pJJe9QU6_bsRegdwznxJmIII93NozI7bf9zGt9rBeDMnlC4vyUNTGMeitfT2P25Ul0YjUjx06OrNFUczmz1is2GZuUgaD7obDdQDC_4kzZGKAKfkWpS2ut5aUbLtZV2wT6hjSPCbyCyYCXqPUd9QVZhhqMmcFpA",
+    "video_id": "FpSErd9xKdhAk9QB7tTCQOZXn6oMUsy02KaBko2G2jF8",
+    "index": 15
+  },
+  {
+    "title": "Lesson 16",
+    "url": "https://stream.mux.com/PU2um3GdkKCQvupfptk8Pqbu4RWxFYFR01oq7vSGqiOc.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJQVTJ1bTNHZGtLQ1F2dXBmcHRrOFBxYnU0Uld4RllGUjAxb3E3dlNHcWlPYyIsImV4cCI6MTc1OTQ0OTYwMCwia2lkIjoiMkh4S1ZCVlJYZEMwMWk0NngwME1HT0oyeDFpczhCMDJSWkNEWUJ3a1o4anhNQSIsImF1ZCI6InYifQ.vNbRUw_lElJR1m9CrJ30tsWBezlkoKrFGWRb2-c78ZiMbHigQVJfHBDYvddI5qNmA5a2Y642YX5e3sQCwxLiA4IxMYVwZeh0kdD7xLatDNBLj_b86VQvYM1VhtAeZ8O_7dejNDlh1tQZyCoJNP_kzoSeLR9PEOl5ZUrnKtqBNDdy1UsVYR2dhy1B2l29kHgdeTjD3VC3TQrlMXVKTnXG_VIuWwSXIlgEjuk_wSfVjJTUqvsa3DnXrguM1pgGN9gJIi0GGJtikNJ81RyYKef0v6ZDqvaS0zOwVuuIkGTmcdI3g02lQoOGkYKELsbyyPA3BIkwpa9nGP19ChaipYy3HA",
+    "video_id": "PU2um3GdkKCQvupfptk8Pqbu4RWxFYFR01oq7vSGqiOc",
+    "index": 16
+  },
+  {
+    "title": "Lesson 17",
+    "url": "https://stream.mux.com/k9apcnyZC8VnHgU00LhMvgHt2ljKnWOfLvlgBTnugPqY.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJrOWFwY255WkM4Vm5IZ1UwMExoTXZnSHQybGpLbldPZkx2bGdCVG51Z1BxWSIsImV4cCI6MTc1OTQ0OTYwMCwia2lkIjoiMkh4S1ZCVlJYZEMwMWk0NngwME1HT0oyeDFpczhCMDJSWkNEWUJ3a1o4anhNQSIsImF1ZCI6InYifQ.o1BCcHcgiUEUsSZowGvnq3YHdC0mJmIAzKbnJluRE15AUdN-AY33N8tcD7qJOtOx8mzDootCDJ9yHk3euFtx2TJakqLu3tmEJzlC8SNORhtDa9gC37Dg9Z0KPemIXEZHIm17eyR56DZoJpeFs0APdSC1w6MP-eurz-4TYQ9t4iGzq4L11GrZ95AuiShMu4OsDaMEYO-mqjffrPWflIHQZdTIEMH2U6KVhfkcQRro4M35iGGo3WB0wA-Jy2ZFss70piSZn8YkgjodCYkTKVcILKNehGB-yoZ_wTis34t4gXsfz_eSvS_cG80Jcu1c6Gbjn-VsQcmG-MAd_Js2YMjFbA",
+    "video_id": "k9apcnyZC8VnHgU00LhMvgHt2ljKnWOfLvlgBTnugPqY",
+    "index": 17
+  },
+  {
+    "title": "Lesson 18",
+    "url": "https://stream.mux.com/6btCEI2sfZVze3e3TMBlLQ4ZcI01xR5OwV4n2pR9p3lo.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiI2YnRDRUkyc2ZaVnplM2UzVE1CbExRNFpjSTAxeFI1T3dWNG4ycFI5cDNsbyIsImV4cCI6MTc1OTQ0OTYwMCwia2lkIjoiMkh4S1ZCVlJYZEMwMWk0NngwME1HT0oyeDFpczhCMDJSWkNEWUJ3a1o4anhNQSIsImF1ZCI6InYifQ.WXj-QEXjWHIf5nQM-rAxg4QVkNIezEyJkaKygwjU5mq-fels6FAImUMjuAgDaOQia5uiB8gqFhwgG6wTnnnnP2Z-8D-Bl9BAfbRZPV2w8gHpsew8fnOyVb75bms-msR5Rv3s2zENnsRPxaElt6gNdFvdWJaBmVSHhGUHH7eaeMn28ShSqw_wpUjXWk-RQZ9HUXex4vKRCq02j2g4qQaTYQC8a5dlK0oJUfwdPhMqk9nm9f4MqUpU_SinXixGFWPYHr3yaOUSgBfgh-SPt0nEjJcCQqtEFKGKT-94AKbUfB-czRsVmYkeOOxUuIUOeDO9G--rMbyesawMlVDH15ATog",
+    "video_id": "6btCEI2sfZVze3e3TMBlLQ4ZcI01xR5OwV4n2pR9p3lo",
+    "index": 18
+  },
+  {
+    "title": "Lesson 19",
+    "url": "https://stream.mux.com/sQXlOvQT14mebPvyxd02BrhzLYyN01h3is012HdWYwoJDY.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJzUVhsT3ZRVDE0bWViUHZ5eGQwMkJyaHpMWXlOMDFoM2lzMDEySGRXWXdvSkRZIiwiZXhwIjoxNzU5NDQ5NjAwLCJraWQiOiIySHhLVkJWUlhkQzAxaTQ2eDAwTUdPSjJ4MWlzOEIwMlJaQ0RZQndrWjhqeE1BIiwiYXVkIjoidiJ9.j9GbhyD-qgkyaVGliySInD5eip6g8dg0RjbRyifzu-5kRUjIKHaUMIyR_VMEW3M3u_n6OaD2djzeG17xhgA6DccVBvGFpZgVCJHPfdy7FNGdFaULS6D0zdd4qJtb4ekmZr5oXbo6RLRRoWeC9j0Yf11TvUnUYUAQZgAkf6jD8XNWUtTGJSmQpfoQgLBKtLMF_DiVsJHUbqIkd9HrOzWK30ePuZgDBbzFcTeJUYrBjQX7sHT0ilPJCMax3rhuhvBvjz1IN9yrWAKbJaTJEWhzEF_mlx2G8kn5Ywjx4a4dRxQJ7Vs_kKHj_v0U37b8GIpr1T2UOR9WOQa9rSZNLotq4A",
+    "video_id": "sQXlOvQT14mebPvyxd02BrhzLYyN01h3is012HdWYwoJDY",
+    "index": 19
+  },
+  {
+    "title": "Lesson 20",
+    "url": "https://stream.mux.com/Rt5ZTcxX3dPESkjCNxT8zCBQ9Kr01XMQRkhoCSUJIbR8.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJSdDVaVGN4WDNkUEVTa2pDTnhUOHpDQlE5S3IwMVhNUVJraG9DU1VKSWJSOCIsImV4cCI6MTc1OTQ0OTYwMCwia2lkIjoiMkh4S1ZCVlJYZEMwMWk0NngwME1HT0oyeDFpczhCMDJSWkNEWUJ3a1o4anhNQSIsImF1ZCI6InYifQ.ZlMpda_9BkggOa9lAKRG8uWm9sso-J2j45biBxwIbNjPq1FJV_m1hzJhmdiaaONMHMncpgur-GDzClRmtnYAFdULmbgZ3ZCTlqvDwGBANWAuH0yzmSaHhPtqAx9QVe45hwsGWAG6Z9iSb96YaVdnr_0vCpkYiu8qVGh2EIFUk-ky8W3il1QQ54YN4XN2x0qeYLcmRddJfaxL4gV1ZZYSZo9OQmKJRVrzywX0m9t1GRQRoNvdBW4VklvTQ8k6PqNhAlWMmIotw28PqMGDTMWRjurgPqZzhEQ-qklWfOm9TNvKr1qsCcWzldCAhNoxB6KbPTWgsexQ0O_1eZox2C5CwQ",
+    "video_id": "Rt5ZTcxX3dPESkjCNxT8zCBQ9Kr01XMQRkhoCSUJIbR8",
+    "index": 20
+  },
+  {
+    "title": "Lesson 21",
+    "url": "https://stream.mux.com/YXT4uz6u9Tk7WG4fzm02kjdEs00ecihlJV402D2mMoN5r8.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJZWFQ0dXo2dTlUazdXRzRmem0wMmtqZEVzMDBlY2lobEpWNDAyRDJtTW9ONXI4IiwiZXhwIjoxNzU5NDQ5NjAwLCJraWQiOiIySHhLVkJWUlhkQzAxaTQ2eDAwTUdPSjJ4MWlzOEIwMlJaQ0RZQndrWjhqeE1BIiwiYXVkIjoidiJ9.rxa2ZV1rdKDez_bx3Cyf383s2jVCd1VsYxQvrlcwUHtlTrmjFewQ-dHwK1GZShLv_Wb0wyzisZvjGHL3CZWpu4azVDWelBAlTbO-d-Q6GyYTkt0eNK85pBFVKbI8Fpmh5MX4hvDVoFGY4mElneFNMMRFwUP2c7YhVoyVjmtGT-pqlGVL9Bi-GjVTqZswcq-ZUoImobk03y5ccqiXz4y7UnicFJekzd72KUvgR3RxtaP0jn4kTV45MAHmU8htQzUZIW-Cri2PUePUs7BPW0UC_pe61bNmZQBAmSa1CucSGzMJpPImnTqweEuyeRRKOh5_kdtCYy7JeHwqO0PfXl4l9g",
+    "video_id": "YXT4uz6u9Tk7WG4fzm02kjdEs00ecihlJV402D2mMoN5r8",
+    "index": 21
+  },
+  {
+    "title": "Lesson 22",
+    "url": "https://stream.mux.com/6W9XUUhHEQKNPt7gSoUMkhpFrd2MJavPJBfamNmfOM8.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiI2VzlYVVVoSEVRS05QdDdnU29VTWtocEZyZDJNSmF2UEpCZmFtTm1mT004IiwiZXhwIjoxNzU5NDQ5NjAwLCJraWQiOiIySHhLVkJWUlhkQzAxaTQ2eDAwTUdPSjJ4MWlzOEIwMlJaQ0RZQndrWjhqeE1BIiwiYXVkIjoidiJ9.sJbHN55cBeQoeskXczNkf0mGapW3ZxXr73n46gU9sRVqUZUb7eV3OM4z0mUvVThavVpgu8oDMlltuG9Dfy-iizY1GPdDemjyQmw99LiUES3zcW8LYvMiHiT1Z4a9qEjtFb0eBPBlaZWK-5MkMv0qn8-Rp7BitcesbtR5_2IqfQGF91t3V79FnKb5qBAAQjNj7uhb1QpraUhXt0c1kYPEM9Ng-i9fRBXWk8gBF88zeQe1yrs5rMixNUAy94zacNtvW9jNrlIVFioQyqmUdVa8cr3fzgnHli77O6SI8lg8uiP098g_D3CVk0Oh1-7Hqxm90_Gfko2xmgZl1szQI5QVeQ",
+    "video_id": "6W9XUUhHEQKNPt7gSoUMkhpFrd2MJavPJBfamNmfOM8",
+    "index": 22
+  },
+  {
+    "title": "Lesson 23",
+    "url": "https://stream.mux.com/IrNniLmAKkjn1JYttJ3nc9028DzyIgQl00zhWtr1v2leU.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJJck5uaUxtQUtram4xSll0dEozbmM5MDI4RHp5SWdRbDAwemhXdHIxdjJsZVUiLCJleHAiOjE3NTk0NDk2MDAsImtpZCI6IjJIeEtWQlZSWGRDMDFpNDZ4MDBNR09KMngxaXM4QjAyUlpDRFlCd2taOGp4TUEiLCJhdWQiOiJ2In0.YE8IojtsbSu4UbCpEnQQrFiqF8uLm0_dkMgQg9_if-MYvtd_sTq8FlgKXTF99VEG0mucbG7fUjJe2Cd0WbB45nqNSD84AgWt0mxyyK8HqylddYRhw8UEdIdv16g-D3nqFslzD19hNLKEapWhdF_tCMOA77L7niC8KivuNwKb6qlnKKsBCEy4tXs24AVhU1Fra_EPBnFyALKM40v4RBEPEmAkNNYCcgVIqyYZPugGlOS63ELXUUPkg0jlbasRe_OgJ8orKqVAZmqPeqGeGbSe9gEcmja0IkcYYHfYyGvbMnLUBwrFu2W_bN-FThVe_hfQhP2IKd0pybF3WZeraNW_Pw",
+    "video_id": "IrNniLmAKkjn1JYttJ3nc9028DzyIgQl00zhWtr1v2leU",
+    "index": 23
+  },
+  {
+    "title": "Lesson 24",
+    "url": "https://stream.mux.com/v1ilwJVuUhVS02AK1LU123DWtTUBhHOqqZSI7pLI02lMw.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJ2MWlsd0pWdVVoVlMwMkFLMUxVMTIzRFd0VFVCaEhPcXFaU0k3cExJMDJsTXciLCJleHAiOjE3NTk0NDk2MDAsImtpZCI6IjJIeEtWQlZSWGRDMDFpNDZ4MDBNR09KMngxaXM4QjAyUlpDRFlCd2taOGp4TUEiLCJhdWQiOiJ2In0.xQEnrveLsEpo_l0zcZelL-1m-rtXGNNN-IMV1mJLxjFJ18aRpA0eK_cJ-QMphUJP2G9OlD-gvW9_14FfcTSslJ8WvKHwM6zCbLwo5wf5OWuBzwaWeVo_Op2qMSJFYwSfH3VMsSA_EFdoo1btz1U8dL-cFdaIiCNTfUqWnc8X0Bz5PjeREwf7ZTimJTYLAdq46YkbgmC3fnN3iDf_6udESfCwZAtJIQPPv3wZ70ZipjKTKG-fvdj9ImqUiNlr-qBjpseTXTrXjUY8EiHKQv2144TKZTa55Uzfmsawf7MDbf64v2Lzj0r3b1hPlD2e-BN7zA0qfatHfItCMGcDI4bYiQ",
+    "video_id": "v1ilwJVuUhVS02AK1LU123DWtTUBhHOqqZSI7pLI02lMw",
+    "index": 24
+  },
+  {
+    "title": "Lesson 25",
+    "url": "https://stream.mux.com/kCkvM0013u00O028RvpYri1CFVOu2ff2y2EWbxwFoceDw4.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJrQ2t2TTAwMTN1MDBPMDI4UnZwWXJpMUNGVk91MmZmMnkyRVdieHdGb2NlRHc0IiwiZXhwIjoxNzU5NDQ5NjAwLCJraWQiOiIySHhLVkJWUlhkQzAxaTQ2eDAwTUdPSjJ4MWlzOEIwMlJaQ0RZQndrWjhqeE1BIiwiYXVkIjoidiJ9.DcwZdOgEDvrDLKG5SIwrOfB4DRz4faih91S9yfD5mw5Jy9H5paFF0Aan1f23I96MEq_1g7u7f_JAi2aOkkcqTmxHYFRxZSeoguHvxfE9FdAyY2oNsGY-JpGXoOqTfX4C5Gyk7kwNRFwAPhIZqri0uKi2wKP5zXRszOsjWJuv_WqlPwAFFFvQfcqwufmV50_uZJBqUuBuDt7D3waqQ6ml9-7o6VJ0kBQa6flrGADkRmKiekgiEqQlWNnyRHKDFclpLAaToNdxIkxX7CU6Id39MLSU8NzakoOOaALMe_cX4UKXS-CrCe1KtxCf6g8sPUmmWdtrSWOgvNwhgU2zlxyjkQ",
+    "video_id": "kCkvM0013u00O028RvpYri1CFVOu2ff2y2EWbxwFoceDw4",
+    "index": 25
+  },
+  {
+    "title": "Lesson 26",
+    "url": "https://stream.mux.com/As6hxIpGfbCvxfbeLf01yRdcrYag5BGsY5rEII6vIpc4.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJBczZoeElwR2ZiQ3Z4ZmJlTGYwMXlSZGNyWWFnNUJHc1k1ckVJSTZ2SXBjNCIsImV4cCI6MTc1OTQ0OTYwMCwia2lkIjoiMkh4S1ZCVlJYZEMwMWk0NngwME1HT0oyeDFpczhCMDJSWkNEWUJ3a1o4anhNQSIsImF1ZCI6InYifQ.d4-f2c16rCoL5zFbG2GlADdKOzdVfaHSpLWFwJqx-KetBPBlTkFs9Mzt3imTLYkEDhqSKz1vsxqy5QVHKoV8hNlTcsRJiQ-rb7yAOKiL6SdhyVgDA1mFU1_ubY6QS0Zi2fxMbQ7iI5mdcUt3SgbMQBGIDa_nXNh1giZKDh_PDdhrdr4N99YdNYelaL901LbNEWd_g8mRdzTPYC4XnJPv7_1xmSE-21F1PubDz_CEXLE2XbzfUXW9kSyvXE_Whci-DOkpCDEr6izvjWuIJPGtooAzw_o5hRh3ZzBPqprDQrJy8T48_zgqQZ9eyxFiQ2fpGrDN5lsl7VkqAvskR3ok_A",
+    "video_id": "As6hxIpGfbCvxfbeLf01yRdcrYag5BGsY5rEII6vIpc4",
+    "index": 26
+  },
+  {
+    "title": "Lesson 27",
+    "url": "https://stream.mux.com/573G6iHd1mpi00102ezlAAM6Pq00mXaCjfosjdDnExZuf8.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiI1NzNHNmlIZDFtcGkwMDEwMmV6bEFBTTZQcTAwbVhhQ2pmb3NqZERuRXhadWY4IiwiZXhwIjoxNzU5NDQ5NjAwLCJraWQiOiIySHhLVkJWUlhkQzAxaTQ2eDAwTUdPSjJ4MWlzOEIwMlJaQ0RZQndrWjhqeE1BIiwiYXVkIjoidiJ9.jzBvfQZncGekKkuIvWEDzPnGJDLQVUiH5TheGEbxlCaYI6gtzxzw6A-krgXTNwZ3gQF7ig2pX7LXUHGozYt-YYwFjW4WF7_sapRlBrmqsXZZkicFLc1ScK2XfZjeSR1_1WfoihpE6vNeh0tmxhk3e-mjVUjmBolfVa_mm6fRzKuqt-pTuWIb9HpEtdffb0a8g87Mc1QTiHUEdXO7WuCcoihnUO5Y3eRodR4rzc09clPOm5BwettbWWg5_ZNxVh7C0ZdKmbsxQ-ffxMQMNCbzW7EGpsO9EoAWwjXLT_Qee3ZnMQ_JLjtp3pkt9Lxnh1QEFQd6MXJxL6hgcB-4gjBtQQ",
+    "video_id": "573G6iHd1mpi00102ezlAAM6Pq00mXaCjfosjdDnExZuf8",
+    "index": 27
+  },
+  {
+    "title": "Lesson 28",
+    "url": "https://stream.mux.com/bnhQzbI00GgbAXQJKrQpBjquxxbKsFniLab5rjc4LsU8.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJibmhRemJJMDBHZ2JBWFFKS3JRcEJqcXV4eGJLc0ZuaUxhYjVyamM0THNVOCIsImV4cCI6MTc1OTQ0OTYwMCwia2lkIjoiMkh4S1ZCVlJYZEMwMWk0NngwME1HT0oyeDFpczhCMDJSWkNEWUJ3a1o4anhNQSIsImF1ZCI6InYifQ.pM21saIpTbhGlfhXQtt7uzTYTjAOi6xxXf8Kcm5mQJv9TKT8sPmsEyIxEuGg1vqaY98QKKvNcfcWATdqm0S46bUQkxwVXdylHl0gYfWyKnqJiICWam04NCfzp7CpfReFKDc6i_6zW9GEcXI1g3SOPKFrmc_Ulv1VPcuhMUB42uHcA3vNdKwzsnq5zNm4m2YuniL9jzYMIFXJ5zcbX00REhcU8p5xNTdjRne9NIbGfHuCmzEFkBgjWKGzYYOB8PNwGWTW0StUe_0Co6QhD14ZNAWrkno2L0RxO-P9g399OFh6-RP6ezycwWMevJeQwU92_RzpWhLBOI9JgJuvDJ5_MQ",
+    "video_id": "bnhQzbI00GgbAXQJKrQpBjquxxbKsFniLab5rjc4LsU8",
+    "index": 28
+  },
+  {
+    "title": "Lesson 29",
+    "url": "https://stream.mux.com/qjd01DSoHu9FAbY1BgGOFMwG02pUQreY9I6PoRN7cJW78.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJxamQwMURTb0h1OUZBYlkxQmdHT0ZNd0cwMnBVUXJlWTlJNlBvUk43Y0pXNzgiLCJleHAiOjE3NTk0NDk2MDAsImtpZCI6IjJIeEtWQlZSWGRDMDFpNDZ4MDBNR09KMngxaXM4QjAyUlpDRFlCd2taOGp4TUEiLCJhdWQiOiJ2In0.FLk_uaYKiqibJAbwnP0OW9-EoTQKDPyKlJbin_HyWyz_orib0lq0f5r33lo1SuajSmEOkf_zD-Wf_2q2W-cqfXqkXzOHbN2BvoSsS5CUnXX78RAK5WU3rfP0z8DyJ3UPesIOwkqY2-R0canry04HRzGKOhPdAk5Gw3TDkHNf2DaVuWjiiGClugS_fOxF14GILkJE2xqZsB2AIggK_ovytKhQx2vOKW08b_denTrPcZ17f5flsGvpxTmLOcQeVqW2ohUnaCvDES7GxwdGY2xGKJkqlvzCS55qs-vr4-EosVdYbqogDy2uMpbKZG8JkxqshLmUH64wG91sXRu4M6qKYg",
+    "video_id": "qjd01DSoHu9FAbY1BgGOFMwG02pUQreY9I6PoRN7cJW78",
+    "index": 29
+  },
+  {
+    "title": "Lesson 30",
+    "url": "https://stream.mux.com/MnCctrjiPqCpb00o01ITDqhIO6AA5d00Ppap9it7tPVUr8.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJNbkNjdHJqaVBxQ3BiMDBvMDFJVERxaElPNkFBNWQwMFBwYXA5aXQ3dFBWVXI4IiwiZXhwIjoxNzU5NDQ5NjAwLCJraWQiOiIySHhLVkJWUlhkQzAxaTQ2eDAwTUdPSjJ4MWlzOEIwMlJaQ0RZQndrWjhqeE1BIiwiYXVkIjoidiJ9.UyOgkuWrbFsCRJm5hgE1ZFZ0UxJQ1LBeX0Cy9yhTXvt3zbyz3RroQPW3oS_x6LDikNwRWgyCbM3HyqTwrVL0BxfJnUe3UrxVBvsVZvH7kHHMrspdmYeNVL1SreCOZsI_IG7Wzx6vrOIrMqicuoqXSqWRCIYaumOM-68PHFrMj3kv2qLbzy8vs55dVvdlW0_fAgfmQ1UOFcotf-3BDFtiuqzggQOfkwvWydtwAODdl3loauro7sgy_FZ6QA8FeNFNsziy8_3z4kajk8JIiG-W1ii2t1jWl_v-A3hW_30nutHHa6QXULWVAl12t_-xWgPRfOynJ3hOgvcHEGlmBcoItQ",
+    "video_id": "MnCctrjiPqCpb00o01ITDqhIO6AA5d00Ppap9it7tPVUr8",
+    "index": 30
+  },
+  {
+    "title": "Lesson 31",
+    "url": "https://stream.mux.com/ko1WwqFL01GwHNA5VCwptzmoF7QZRs54JZTVr01CWEGOA.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJrbzFXd3FGTDAxR3dITkE1VkN3cHR6bW9GN1FaUnM1NEpaVFZyMDFDV0VHT0EiLCJleHAiOjE3NTk0NDk2MDAsImtpZCI6IjJIeEtWQlZSWGRDMDFpNDZ4MDBNR09KMngxaXM4QjAyUlpDRFlCd2taOGp4TUEiLCJhdWQiOiJ2In0.yQZ2YccZVrBy20m6jB1y3zoTEHFYl_Frg6GNBM3m3iZUOL4_coVPVHXcUE74BqtdNf8LjTzkEdU0wboovftyLeeTCo7Asc-RaUgipJluik_r7RJwJZaFn_aNRPCHhHvQKJfnpT7dE1zkvp8Wq_DOqoi07SZb-joX3n7NHKyqFRVXo4Y7Q1xJuVo137H564jgEGNemrj_ZsAESk4BISkDSspQPDq-R7LhOYqEkVjS2VkfMkSK5dYYUueOOEqKs7zagemNErfkUAjoN78hMoXegD2cwy0XY64ykUtckHVzs76JV7vH4HpCaeDmkavXlBlDwNJZFHaen9Akk5y7jG2zWQ",
+    "video_id": "ko1WwqFL01GwHNA5VCwptzmoF7QZRs54JZTVr01CWEGOA",
+    "index": 31
+  },
+  {
+    "title": "Lesson 32",
+    "url": "https://stream.mux.com/OpYGj0055JARW1unNw7yyEsn6a1XMHoVIkgEqyp4vwSw.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJPcFlHajAwNTVKQVJXMXVuTnc3eXlFc242YTFYTUhvVklrZ0VxeXA0dndTdyIsImV4cCI6MTc1OTQ0OTYwMCwia2lkIjoiMkh4S1ZCVlJYZEMwMWk0NngwME1HT0oyeDFpczhCMDJSWkNEWUJ3a1o4anhNQSIsImF1ZCI6InYifQ.Fp79U4PNdgYtGwFR53Ijg-0QunpCUn4QRttP_dGiN0DblCihSrfvEj0SzVFXh8CYcRHWyKXYB1jUZAV0WV6NPfkBc02DBenvwlVNc566tWYzF-TIkF5k4IFYwfwxmGOf15h3IjFOdo_WRlOGCppIYUsIARopBojvxdBA1Th87aYdACvR5j8vGdBrlLaI2D0i4sVFlPlRWTkXe-fmsOhtFv_uFlFmO-ix42vFDYPwD57lTjuYifQcpvR620UjBkrzk_SZn8HVWwa5F_RQDQRg9ZgeNaU9zsajYAuJVIxc0JuE-lnoAVFR5Xt6wth22uUfFH1TKkvfc6U2V4haCK4kGQ",
+    "video_id": "OpYGj0055JARW1unNw7yyEsn6a1XMHoVIkgEqyp4vwSw",
+    "index": 32
+  },
+  {
+    "title": "Lesson 33",
+    "url": "https://stream.mux.com/r2ucSqnkNivlbj02zf99CFZ8022vHTuAaVFbNXeXS019KI.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJyMnVjU3Fua05pdmxiajAyemY5OUNGWjgwMjJ2SFR1QWFWRmJOWGVYUzAxOUtJIiwiZXhwIjoxNzU5NDQ5NjAwLCJraWQiOiIySHhLVkJWUlhkQzAxaTQ2eDAwTUdPSjJ4MWlzOEIwMlJaQ0RZQndrWjhqeE1BIiwiYXVkIjoidiJ9.Pcf8635D5bUYqxcmz_8KY08fFRbQJ8S49TfCUsNW2IFrIfOB3EYfXcWfnCGB0X-NYGsk5oiZW-po9lZYTRdCPDNjTJUGcg1YPqGjZGjzve9e0jao-NVB5KUrM85w148gOqVeTdZFnGmxt4-6FRkLNzNinGT0pnrvw10VapeqUznoU5KhoSLlcWQ7Cl77uDjxqHPmTIyGRqsfpXC79EpbmAJn2HGkxu8xvLkEY3MtD2XbyJM8IYsjUCK_jE65Vt_MBmIbj2y0UTwF6xPjJqjw3FjE5AE8NC-41f77KRgZzX1FX8V_ZpAR4b6ZeFO6IMStJGQyHKE-QHho2pNHLC57iQ",
+    "video_id": "r2ucSqnkNivlbj02zf99CFZ8022vHTuAaVFbNXeXS019KI",
+    "index": 33
+  },
+  {
+    "title": "Lesson 34",
+    "url": "https://stream.mux.com/sZmBhdvBhzXKGwwOxAtJ1RNVzx5hjZlrxp102BZ01Y7n00.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJzWm1CaGR2Qmh6WEtHd3dPeEF0SjFSTlZ6eDVoalpscnhwMTAyQlowMVk3bjAwIiwiZXhwIjoxNzU5NDQ5NjAwLCJraWQiOiIySHhLVkJWUlhkQzAxaTQ2eDAwTUdPSjJ4MWlzOEIwMlJaQ0RZQndrWjhqeE1BIiwiYXVkIjoidiJ9.PDSg8dCAbBsK6LYsGUE_W1-zOz7DGue3kMXBooF88qMdP5gHnj8MK68SN5FCFDMx6tdbPeHCurcYFwxqagKC1sEJ6zbANFg1CbuZzQAc-ncF308qqFKn0KwTK0LEeMqDunUNyQY76wWEW0Za7yump1xntuCYn7n6veZ4GGFSrBk4oTrF1j2vIv6iRO7ru1hTIr49kLCaW13zV11jarAZ73uVFpscti8Z4pNwu1PFi8x3zdHPfhkoecLnFfGyfDeokLAVoRwzmnufVaDUYtESsCh3C3TGcf3PwYY2CRenUbZRqpNIMd9v1hbyJEwmqWKuvENu76NKwW4ejLCabmx2NQ",
+    "video_id": "sZmBhdvBhzXKGwwOxAtJ1RNVzx5hjZlrxp102BZ01Y7n00",
+    "index": 34
+  },
+  {
+    "title": "Lesson 35",
+    "url": "https://stream.mux.com/015xqD1ru02p013qJkXAZ1g59C1LVAINvrig7LfvSjL01J8.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIwMTV4cUQxcnUwMnAwMTNxSmtYQVoxZzU5QzFMVkFJTnZyaWc3TGZ2U2pMMDFKOCIsImV4cCI6MTc1OTQ0OTYwMCwia2lkIjoiMkh4S1ZCVlJYZEMwMWk0NngwME1HT0oyeDFpczhCMDJSWkNEWUJ3a1o4anhNQSIsImF1ZCI6InYifQ.nalLYJFu0Pq5zFgc12nYxu_IULDcUKUIj2UjAO2_b6fCUBCBdcd4D6Ufe3zcnWzhxVLlTPpfErrIFESxBTbb_xfcB_jg5ElIGLS_XGoouKRQd2ZZ57jqhGNql9BDD6gkaektN539-lqybd5dRgZUdb0nozYaG8Mj4_4BpnzJha_SHzHw77-aN8oRvPU_Oh-FlEYqo2yXa6urzWD8xzMsHslFn7ba47JwYYFgniHSGJji-xsX1C7QWUg2fUDK5AywhZ5R40Gv3Z6dy-Jygr-IVoOnXqtBCsuqdaVPod0Hmlx8j2qrJUjKRSiKpc3Ul7GY46XZbP3QZVAjZpJqg4QxSA",
+    "video_id": "015xqD1ru02p013qJkXAZ1g59C1LVAINvrig7LfvSjL01J8",
+    "index": 35
+  },
+  {
+    "title": "Lesson 36",
+    "url": "https://stream.mux.com/3kUTe3fgzbAM69ctOdBOkrcEhbMOFneylZTQMOnBClA.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIza1VUZTNmZ3piQU02OWN0T2RCT2tyY0VoYk1PRm5leWxaVFFNT25CQ2xBIiwiZXhwIjoxNzU5NDQ5NjAwLCJraWQiOiIySHhLVkJWUlhkQzAxaTQ2eDAwTUdPSjJ4MWlzOEIwMlJaQ0RZQndrWjhqeE1BIiwiYXVkIjoidiJ9.e7r7oUQM7EYXYZJpqAFq-WmLgMRHZ1iD6LFL0XL5BKfojxW2mdcVkbAv3a8-_KrDpgWhyGmPOIDHjF9Aynm8MKuYs8RnRI-fiLx3_AFvriB3bSOjJIPvQTWpQvxjlflqE6S3Wo2LsfrSTJnMO6jGvmyjY1i6CGqHxrKPUjvIWB52VdfUI8hgTAzxZQ4zcQUs55R6Bhh4NAzeag4R_SZ4MkeJSAAzS2hUzUDPaEQSB7NYmw8-prBa6XOUczgj16qJ8ftFj4ECfI9G5gsjFtIrAc9ZgkQ1sDTincstvKOLq2yAkdkqbOKgA-T2rC7EOFIjVa00wlIOZO3aPcCJcddIbA",
+    "video_id": "3kUTe3fgzbAM69ctOdBOkrcEhbMOFneylZTQMOnBClA",
+    "index": 36
+  },
+  {
+    "title": "Lesson 37",
+    "url": "https://stream.mux.com/DGA6HolbapwkK1RLeNc3lPrzkfosCCfsiNw5PTBHYGc.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJER0E2SG9sYmFwd2tLMVJMZU5jM2xQcnprZm9zQ0Nmc2lOdzVQVEJIWUdjIiwiZXhwIjoxNzU5NDQ5NjAwLCJraWQiOiIySHhLVkJWUlhkQzAxaTQ2eDAwTUdPSjJ4MWlzOEIwMlJaQ0RZQndrWjhqeE1BIiwiYXVkIjoidiJ9.JhIau5vyB3Ek2vNqzOYY4VeCwdmruahXs55n7HaZLiAjSQw_oXlC-V4JXOu5kn15JJiOeFkJ_LxDEM-Cei9nQ2Fs1iwqdjyvjhydzBo3Hs5ToCzGPTw30ugLfS32dt86ij2yN32-xGhcFm3q2E5HCVdr_1jMyoWCXIGoS2QGYg9IkVdgkIF1jaPTruz78XoKkxmdjgUmdOdYXi65F9nh2yhOZGr55C0VVXaAd915f0JjvDrGNOxYzHM05UFVAj6cEBZk48LDfe4cQApqNeHYInjctJtn9js5wcsv9v4tU0gSpqObipPuYA6Fbt3fYjuAmfvod9hysZ_eTE1cwRGgxg",
+    "video_id": "DGA6HolbapwkK1RLeNc3lPrzkfosCCfsiNw5PTBHYGc",
+    "index": 37
+  },
+  {
+    "title": "Lesson 38",
+    "url": "https://stream.mux.com/m1tpVOXYgGZWbAXxsJj4wMyFYIfoKvRBYaEpvmZmy6w.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJtMXRwVk9YWWdHWldiQVh4c0pqNHdNeUZZSWZvS3ZSQllhRXB2bVpteTZ3IiwiZXhwIjoxNzU5NDQ5NjAwLCJraWQiOiIySHhLVkJWUlhkQzAxaTQ2eDAwTUdPSjJ4MWlzOEIwMlJaQ0RZQndrWjhqeE1BIiwiYXVkIjoidiJ9.AyACI3K72_WW_ZsG7lT0XzHuQy-WyLXRkJbbq8lHUiO8XosOG9URDGlUw-O1C2Ht-RJDPRnae6Yistk7fRTiqA-ARyGnIbwjIwHKENwdvJANOxMEElcduWGZS1Q_BG3CWQfOn3JCBF1_EEoVS-lOVozGyuU1XKkovvYxHKMnkymS9e84278iN7dIQEk1Dbf5D0KSkKQguiCqSTvvnRAiqxCQIDUG7O4L4ILULr7ICF3JAUy9sU3ycQlFjzXkmgfXCAoc2DYJUWz40ScwyE7cUishJPEbXZ7sQKXzohrJAeQwWYPEbxzP4XLMqu1-dRRpbah1v6e_EqgAaSFYGkpbHQ",
+    "video_id": "m1tpVOXYgGZWbAXxsJj4wMyFYIfoKvRBYaEpvmZmy6w",
+    "index": 38
+  },
+  {
+    "title": "Lesson 39",
+    "url": "https://stream.mux.com/YycsR1bto01Kemnk4ZVIT8kVDayCXJoBdwv4tn027xdYs.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJZeWNzUjFidG8wMUtlbW5rNFpWSVQ4a1ZEYXlDWEpvQmR3djR0bjAyN3hkWXMiLCJleHAiOjE3NTk0NDk2MDAsImtpZCI6IjJIeEtWQlZSWGRDMDFpNDZ4MDBNR09KMngxaXM4QjAyUlpDRFlCd2taOGp4TUEiLCJhdWQiOiJ2In0.gUs1BGi3WQrAN3lJYAtpSjRinZMVe_KKIuM6_4d1AnUwXHz5C6rq8lbCnNxkGXQKosX1PGSFhi5ju6vihs_06WvIsZP0OjiMiEqm_6CaOn4R-jP-QKCyVq5QnWTbXv_VMnTB4gPLAzPv0CJ1z9ARbI4zRdmqARy6oi9XaOiHt2y3V7_DVu-hoLBQvp8gaRkV9IW0eaADtJ53E9KWSU4w6S-YDq3NSMmLeTwiKFxhn06G03-IkTf-NhGnb2ctfyBEifK-rnR2O2sBrSyGEUwun9WiEe1EAtZCqXVb9kK6UF2d2dmM_lae8f0PLIgXAMLAPzZhU1ugmv_ACkVoqn3UgQ",
+    "video_id": "YycsR1bto01Kemnk4ZVIT8kVDayCXJoBdwv4tn027xdYs",
+    "index": 39
+  },
+  {
+    "title": "Lesson 40",
+    "url": "https://stream.mux.com/V2sB4SwERjH02UoE5hD8U1DgEvlUhfwKnfQlvaCjfjWY.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJWMnNCNFN3RVJqSDAyVW9FNWhEOFUxRGdFdmxVaGZ3S25mUWx2YUNqZmpXWSIsImV4cCI6MTc1OTQ0OTYwMCwia2lkIjoiMkh4S1ZCVlJYZEMwMWk0NngwME1HT0oyeDFpczhCMDJSWkNEWUJ3a1o4anhNQSIsImF1ZCI6InYifQ.jgphC051Niq5o59rXZRgC05RolhmdAh8vFE_8pK03mfOqw_Ojf-SNWKhhwwLvutoptr0fq5t6tmke5h7XOhWc_Xb0vlb8SFeXgnKZ5u-oqR2GE5K35IIZWlVqw8yJr-2DIpNWVwF03_uV43v4NNKbAOFQL2t8yXr53sEXljNvntEIbl7-eNDoKkya-jcWy-19cuxbHoj_XXLA5FT0P6lTiA1mwLcObTidjqxuy-QAiFotrjg-6yJcwHGwpiTyTvLpbz5xnae-bQb3x-CTmoZXD4OQ2m-4kZyJRkJ6JKY4He2aJWsazoRKFvM-WoLvkD3GJton5sJq91hQHBEkf5QLA",
+    "video_id": "V2sB4SwERjH02UoE5hD8U1DgEvlUhfwKnfQlvaCjfjWY",
+    "index": 40
+  },
+  {
+    "title": "Lesson 41",
+    "url": "https://stream.mux.com/f6NDJVgzD0000nX7bOjNCuPKYzsmwc301xoTppWElv7hQM.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJmNk5ESlZnekQwMDAwblg3Yk9qTkN1UEtZenNtd2MzMDF4b1RwcFdFbHY3aFFNIiwiZXhwIjoxNzU5NDQ5NjAwLCJraWQiOiIySHhLVkJWUlhkQzAxaTQ2eDAwTUdPSjJ4MWlzOEIwMlJaQ0RZQndrWjhqeE1BIiwiYXVkIjoidiJ9.h5bcQ1FgcXozwcKk1DHHZy9rdZpOgAgQyoHMJB2xN3M0HXymo1UdfXRlQCRtbQNpBzrMVb-U-3o1Bn1FpD4wdgkuhB8NgybcAFtqFfbBf96ZFipEVx7Bz_qVu1tS78DJJZNJ0r7UqP2ilPtVDp1AE2AiLmLQLMCqbm15J8SEcEZVapIUILfEwrb0QC4tQSzNaQOgajAQsiQs4PPoSmrvEoOI8knsW4IUUsU8XL8oLFD84n2-8Tp-vBQPqgN47uyJdgMDeGZrUOJFCBjyPS4Y08EXrktJnI68jzD2Qfy-cpZHFvJZbLUN0xRxfxvZiLSat1iMVMQZc-AjJe1jgLUoYA",
+    "video_id": "f6NDJVgzD0000nX7bOjNCuPKYzsmwc301xoTppWElv7hQM",
+    "index": 41
+  },
+  {
+    "title": "Lesson 42",
+    "url": "https://stream.mux.com/it00TFeBEeONOLN02WvT5wH2RnbKCqOI5tTpHnaM7Kz0000.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJpdDAwVEZlQkVlT05PTE4wMld2VDV3SDJSbmJLQ3FPSTV0VHBIbmFNN0t6MDAwMCIsImV4cCI6MTc1OTQ0OTYwMCwia2lkIjoiMkh4S1ZCVlJYZEMwMWk0NngwME1HT0oyeDFpczhCMDJSWkNEWUJ3a1o4anhNQSIsImF1ZCI6InYifQ.L1aVhzpRI1QS0goMQpSlKauWso1uLUm1QiREN3GLGjchI8rus4RNMiEeUTZKLLB4P8TpxmPYwLuAz3PeR9l98wgfc3CVjra3BanAjEu6votuWfbA8dqOavcvQkgzUUc0hCNc8IRiJxqTPIz8LOhayYirfXdPOQHr5bo3XN04bPsovgIwu1Fbp4oblFbK2kE2_mWr_BmmmTsGa22jCzdQ-R821svsO_8YHjV7QzEeUXIv_GbtH0FbL0RkauixDGZy_OKw81JnZXxIYna62NXzlTfUlVD2PtDllFpS9x4VJHeRZk8vhG6e8nCvYjzQY6_If3U-YdCZB_GVWKSB7jTJXw",
+    "video_id": "it00TFeBEeONOLN02WvT5wH2RnbKCqOI5tTpHnaM7Kz0000",
+    "index": 42
+  },
+  {
+    "title": "Lesson 43",
+    "url": "https://stream.mux.com/kBxP5ZzEsi02SM5oeM01mSpECI5hgq02AqrPmo9xMFlfoU.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJrQnhQNVp6RXNpMDJTTTVvZU0wMW1TcEVDSTVoZ3EwMkFxclBtbzl4TUZsZm9VIiwiZXhwIjoxNzU5NDQ5NjAwLCJraWQiOiIySHhLVkJWUlhkQzAxaTQ2eDAwTUdPSjJ4MWlzOEIwMlJaQ0RZQndrWjhqeE1BIiwiYXVkIjoidiJ9.Nr00oZ5JANCLwGe9vr-KTVZOzebdxCJqhTDhI5zRNmdmAIuVZLHRk1XsZLjPfIHmk-TwZUH2nMGyq-i8so9vajbhb5TpLprrB8XWHwFdaeMbCxMiNYY0h1SYESQPTahNfoLpfmTC76Bbft81InKmLWVX5nDcXQw1RZ5cpP4UxoUCMxyk56fLtN4J1vFPcFMClmXFLdKVWwsmmzdpxXq9ZJMbeXdldEIaShWSfR5ypT3nFZX3t73j6UlriYRr_dn-l7hfXSMR80rCW3fnsXNt0k921HMuscl7COvE7UcEhC63UkmH6E6k30G0ebjWwZeWD-nqZvXCK4HE7hxlhyzL0A",
+    "video_id": "kBxP5ZzEsi02SM5oeM01mSpECI5hgq02AqrPmo9xMFlfoU",
+    "index": 43
+  },
+  {
+    "title": "Lesson 44",
+    "url": "https://stream.mux.com/h6wwQQTXEVGMoRa202s4H01sbn01fa00Z602mI26NRUHCVkY.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJoNnd3UVFUWEVWR01vUmEyMDJzNEgwMXNibjAxZmEwMFo2MDJtSTI2TlJVSENWa1kiLCJleHAiOjE3NTk0NDk2MDAsImtpZCI6IjJIeEtWQlZSWGRDMDFpNDZ4MDBNR09KMngxaXM4QjAyUlpDRFlCd2taOGp4TUEiLCJhdWQiOiJ2In0.TSrp5Dwdg9urBzq5FvRUgX6WxBnBsp9jz_aSA5ZPStqisCp586qibbXVZ3zSHscH4W7H_NmP4hxodhk9bEcVqTtOOJPqLpGsWMRVbYjObyRI5F0taXX0_THDIwZLOsE9CXhgS2xDxh2vR4ExZ3iLNagOBm8ioAAxHQyTft4-2otTg7eZypPDxZ-OTjItPrGXhqJYY4ooLL-Iwh8In9KCwTmaGWBGD9gCNZe3WEcSTxCDiRlLDgbBe8Wk7uWyF1K3rbYFKDRph3JZdAAV2UridA-xzZtlkjTaRDPU6Ft3mhqkXnqLYC7q1NIkhL_QehjOt9BOCfmT10ACfaqt0kuQZg",
+    "video_id": "h6wwQQTXEVGMoRa202s4H01sbn01fa00Z602mI26NRUHCVkY",
+    "index": 44
+  },
+  {
+    "title": "Lesson 45",
+    "url": "https://stream.mux.com/01UOueUttFsmAy6AnsODcZrsH5gPZv01nXf7IR8p7Ay018.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIwMVVPdWVVdHRGc21BeTZBbnNPRGNacnNINWdQWnYwMW5YZjdJUjhwN0F5MDE4IiwiZXhwIjoxNzU5NDQ5NjAwLCJraWQiOiIySHhLVkJWUlhkQzAxaTQ2eDAwTUdPSjJ4MWlzOEIwMlJaQ0RZQndrWjhqeE1BIiwiYXVkIjoidiJ9.IennFA990svke8gkWDZt-y2BaFtJwCLj8w9jOuI3dJQbf3UqUbZ7PixlCUQLRl1vKFEAqEqdiao_u1bHSXgL-G8j_bZceF1PEr29IQXvyn3gNQP27M6pTngxImxeD5ZiM3BiK1u-7t66S9Hzh0QyQnTgqfcWEH3UXe-ZJ_G6Fn5kxDlz8_QjMdzRZEAUGael2Lf87k1OwQhd6yjY6J5IKIsYv9KT1qm7JPFD5CKkg_gOgkqtbWR9-igj7ohcXnM0WrgJWldDXIft5oLytgasACHmVmkQjOb2ZliMn5gajdwBzdUfCJJIGfb6kQZ8pbfHOYR1oSF_o4BwfMV8SaP56w",
+    "video_id": "01UOueUttFsmAy6AnsODcZrsH5gPZv01nXf7IR8p7Ay018",
+    "index": 45
+  },
+  {
+    "title": "Lesson 46",
+    "url": "https://stream.mux.com/9PMKidCGOMufQxy2lAQvdd00IZxmvsSsdZATPHxc01xuI.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiI5UE1LaWRDR09NdWZReHkybEFRdmRkMDBJWnhtdnNTc2RaQVRQSHhjMDF4dUkiLCJleHAiOjE3NTk0NDk2MDAsImtpZCI6IjJIeEtWQlZSWGRDMDFpNDZ4MDBNR09KMngxaXM4QjAyUlpDRFlCd2taOGp4TUEiLCJhdWQiOiJ2In0.Cnbl4paPBcK3XvUXbNY5riafNIP6GaROOHpAnoVqU4TMfPDurG5_KsqCEC422Di6fojw9_XI5TZWSKYEgDPpVUrIahgpjP4gu7ZR8zUJrEQshC_7g6qvCtBwlhs_3SkyBMzO1hceg6bgE-UVOYkIl5zVtwXR18sUobp1ZKj_6CvQB6McctDAeT3wCMORHOYZV3OT8ZOXQpNCrB8AVmg4fMwdCW5IQbbeuD6ICL_wrLtlAInzMY8jJ3uokRwrDUBHhF4DEtQIAPm3J4PkpgQvEZjf4IqL5EG1Q3zF2dV3n-3mz2kcHTWaFs9Vi-wQIGNhGOTsWnOIFiK_v7KGywkOiQ",
+    "video_id": "9PMKidCGOMufQxy2lAQvdd00IZxmvsSsdZATPHxc01xuI",
+    "index": 46
+  },
+  {
+    "title": "Lesson 47",
+    "url": "https://stream.mux.com/Tr7Pemgveg00KdP02eHyUXnS7DIUlCw6qgmMve6tXaML4.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJUcjdQZW1ndmVnMDBLZFAwMmVIeVVYblM3RElVbEN3NnFnbU12ZTZ0WGFNTDQiLCJleHAiOjE3NTk0NDk2MDAsImtpZCI6IjJIeEtWQlZSWGRDMDFpNDZ4MDBNR09KMngxaXM4QjAyUlpDRFlCd2taOGp4TUEiLCJhdWQiOiJ2In0.A8mLFFzyLMaYaXPZeDub9osy3K59CRItxsBZFWd0Nv8a2pK_7rbKzPVtjgc0ov_rBzmUP178rQAR6hPR3uYQIG8BMhYz92s26UrFJ1-RVjsBevZBjCixxkXMCfq5D0YX_k6kREzyxRSS-aRdr7XJV2XSMvKpZIBKjOyGGSofGamY8ZETXBTSVgX6fn9lOvpaF707PVNsx_uD8PQvOOlxBnNZ6OW-G7DERyDlkWb83MzWIQcf7cXVr4K4OLA5Y4N5OIaRTws2gE5jtWlhKzBTcLSKjyMSRl4qcJ-5xufYsdvXuv5VFbDIPMJiNjLol8VRKEZ7S2n28FgJQP0iSdz8ew",
+    "video_id": "Tr7Pemgveg00KdP02eHyUXnS7DIUlCw6qgmMve6tXaML4",
+    "index": 47
+  },
+  {
+    "title": "Lesson 48",
+    "url": "https://stream.mux.com/01aexFmhpTfBVpnde8WYWlvyFCP3eayeuJkiyMVwTHxg.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIwMWFleEZtaHBUZkJWcG5kZThXWVdsdnlGQ1AzZWF5ZXVKa2l5TVZ3VEh4ZyIsImV4cCI6MTc1OTQ0OTYwMCwia2lkIjoiMkh4S1ZCVlJYZEMwMWk0NngwME1HT0oyeDFpczhCMDJSWkNEWUJ3a1o4anhNQSIsImF1ZCI6InYifQ.IZp-G54nSvtoNXgg5bRI4oXBBEWAdUi48osMOAMGpHy5ZoT28wKMipocziCIhxezl479zkMQ8mn2VtpIkqKviJ44bP035jy6IqiR_7TgpzCSerHhN_GAnKuQ8tcwHy6W0o_DtNnP7Uj0Cb3An6OoHe_78lz_B3orR43f0f4oKWpHAB_3rgtWi6wKArZ_ncvoP8UTALp3fJMcZ23BwwFtp6GBGiPQ4Evo--TlKNez6Tl5x6E8HTGHyY4pEHUw0EIQLaFl4RMqnVd0Dw5bzcHQ2OQIgJowvSMzJrDOFZesQHGN-WJtXrvLyMuaQuxur1Z3LM59Vv2WifQmI-ETkZAGEA",
+    "video_id": "01aexFmhpTfBVpnde8WYWlvyFCP3eayeuJkiyMVwTHxg",
+    "index": 48
+  },
+  {
+    "title": "Lesson 49",
+    "url": "https://stream.mux.com/ZbqOldNDJxBysqc02t0200gUZX202DRsGtplTE02TmrRfQE8.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJaYnFPbGROREp4QnlzcWMwMnQwMjAwZ1VaWDIwMkRSc0d0cGxURTAyVG1yUmZRRTgiLCJleHAiOjE3NTk0NDk2MDAsImtpZCI6IjJIeEtWQlZSWGRDMDFpNDZ4MDBNR09KMngxaXM4QjAyUlpDRFlCd2taOGp4TUEiLCJhdWQiOiJ2In0.Z48Q_9mPULVm17II6nOhYc7a1_kVk89T2h-n9sApr8LaKm94HTGgtYcDLqiElA-eD6HTBwneYhzpW-xZ8kRN5uab4LeEXQj7AIymiRPCkV9L0xO7GnWt4jEMrtaeysM-hGyOzxZ0Hu623VgSsij4z5va6IHszcG3uKPtHclytAIz7vqgu9MaERGSsrsyof-i3hrOHhhf8BkpYOrECLsr-xcKeImnrbQOjYwexD1nqVnY2oq-aMIeUrHaA1v25sN0jyEDW4Z5v5IOSkc9SZg225yO3hPF_NtWgFXNzxJC-OhqatCQYkF7OJj799RJoCsq1z0CXCqS7pCZPLY_-CV6lQ",
+    "video_id": "ZbqOldNDJxBysqc02t0200gUZX202DRsGtplTE02TmrRfQE8",
+    "index": 49
+  },
+  {
+    "title": "Lesson 50",
+    "url": "https://stream.mux.com/ZT357kRLEdU4jrvDHol00zIhUxortv02yjabIYmzBMk1s.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJaVDM1N2tSTEVkVTRqcnZESG9sMDB6SWhVeG9ydHYwMnlqYWJJWW16Qk1rMXMiLCJleHAiOjE3NTk0NDk2MDAsImtpZCI6IjJIeEtWQlZSWGRDMDFpNDZ4MDBNR09KMngxaXM4QjAyUlpDRFlCd2taOGp4TUEiLCJhdWQiOiJ2In0.A0zrwmHMMzMqQ1wQZ_4geKshMbo_kGNAB28nKBBiUnqfWQ1cBkunzMUnTyzr71uXNwcMKAKnCDE-avyYFt7sFP-cgMtuxcDlB1MGHtTzQX5vxLxrYsrJK9iToeESzV3K4PD4ZBvwOStevgJY469wiyNnJwzkU4pmfkBotLaJhqZZFVHuS_3Y9gKYpTPQ0VxeH5lHo57iIgjXC7-iTzu3RtjcuiGWe7N6AXT0CvTCy92vsK0rVGp07Bx0c9B8TFas4XYVmyCL-yEC33byCXmg8WQneibwoZ3WurB9KEMrqnkWuH_osShXvS07u1OgW-DHunqhfMj_I-RtVWRt1MTAeg",
+    "video_id": "ZT357kRLEdU4jrvDHol00zIhUxortv02yjabIYmzBMk1s",
+    "index": 50
+  },
+  {
+    "title": "Lesson 51",
+    "url": "https://stream.mux.com/A01vQMCFJmn3O8r3Z2pXrReryshuIMsxd02qk4FIFLdfQ.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJBMDF2UU1DRkptbjNPOHIzWjJwWHJSZXJ5c2h1SU1zeGQwMnFrNEZJRkxkZlEiLCJleHAiOjE3NTk0NDk2MDAsImtpZCI6IjJIeEtWQlZSWGRDMDFpNDZ4MDBNR09KMngxaXM4QjAyUlpDRFlCd2taOGp4TUEiLCJhdWQiOiJ2In0.QNYFBnbAVZVWV3sEIGoN163aZfTB5gQui9hU85W8u3nQuzM28FlMCMQRqRN4FkaLUhrBLbZlphASB-i1paZ-53ksGMKpLihOiZIhYjwBtB1KUaspyFIJWHQ82PGZ3-G1YwyybkLxa2WAloBkaYA9HVoTHmJ8B4m8JZticO2KEXzFyBeR8TQArY7-k3-a5KDbdvlqawbdG1683Gr3lVsWbR3-hi7Nt3VGkkQpMjBHZOk2prgHTiJWb2sktqgo3rD3m68XJdqZC33DjvEG4THRr5VtprTc3sLxL2Ow58wScy1nPMYluJK6dHlzDYrRddrdrED8cVTjavecE7_xLVxXRQ",
+    "video_id": "A01vQMCFJmn3O8r3Z2pXrReryshuIMsxd02qk4FIFLdfQ",
+    "index": 51
+  },
+  {
+    "title": "Lesson 52",
+    "url": "https://stream.mux.com/ej00B027aNqJ01NDcS4ZTC4f01jvVOXpmtzA02oJlVrQoeHY.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJlajAwQjAyN2FOcUowMU5EY1M0WlRDNGYwMWp2Vk9YcG10ekEwMm9KbFZyUW9lSFkiLCJleHAiOjE3NTk0NDk2MDAsImtpZCI6IjJIeEtWQlZSWGRDMDFpNDZ4MDBNR09KMngxaXM4QjAyUlpDRFlCd2taOGp4TUEiLCJhdWQiOiJ2In0.PzGLHWO9SfIpzZo2nhqgHFxwGIn0loFLHUzadVCUyjYCIc8Kj8Es-1rHYYNmBn4efw825YWDANiTKVTBOLjFQyD4vjMGlQ__f9c8xy9T8aJlI4vtmg4MHFztjvt1y-zy_b6ry0ZFIZvmSE6Lvys8bTUUyZO8c7wzxipamimi26N5xX_gZANf48w-EmIzDG1K6BsTsaQBvwA1I_7Io5ZXmz5CWs1b8e5kxyJyvzbucI_f_ITD_jwU5DvSjyt2a22zuIV30iajC6exIHZWlK1OknfKF_o8Bwve_25XNNMX0cxKOqr0xr6IvGRaVTMzlER_qBwKSxZP5z0Lh7wFgcGm8w",
+    "video_id": "ej00B027aNqJ01NDcS4ZTC4f01jvVOXpmtzA02oJlVrQoeHY",
+    "index": 52
+  },
+  {
+    "title": "Lesson 53",
+    "url": "https://stream.mux.com/tfdB028RmeClS02iLcRbRT7S8Zm6tysHyl02E4WLGxYAHI.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJ0ZmRCMDI4Um1lQ2xTMDJpTGNSYlJUN1M4Wm02dHlzSHlsMDJFNFdMR3hZQUhJIiwiZXhwIjoxNzU5NDQ5NjAwLCJraWQiOiIySHhLVkJWUlhkQzAxaTQ2eDAwTUdPSjJ4MWlzOEIwMlJaQ0RZQndrWjhqeE1BIiwiYXVkIjoidiJ9.jrMQizFsO2UgWOhu5fMw2ZAxNEOnrlOsTMT2wwAoxkRkNPGsjczrEqTDLppHg2q-eoAZAEoluG6H8SYEfrMNISV7bV9XZTiI6_2iEuQn8vjvz_U-MaR0YVaD-Tq08uGW5SMjBVASI8ymjvu-hTfYZRAdySlWWhDjYf-xWQOpY-DUT9NLjyIVp_xRN5dgSYVWfsQeyA_LUAVCdGHoCI9IeIhxp1qpRZZ7GQEVU-zvCEinnybANO71UKwR6RBUGi7QXSqUqhTlCoWkBKskd3tTMous43rLJABublNQS5edeaxqKF2rZLkpDTs6J708zVOqa2X9efkzMAEnVz0JOUywVg",
+    "video_id": "tfdB028RmeClS02iLcRbRT7S8Zm6tysHyl02E4WLGxYAHI",
+    "index": 53
+  },
+  {
+    "title": "Lesson 54",
+    "url": "https://stream.mux.com/CpEdqoNIxiviFzawkQvAFPr00ylGKegMpIlBu6GntkW4.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJDcEVkcW9OSXhpdmlGemF3a1F2QUZQcjAweWxHS2VnTXBJbEJ1NkdudGtXNCIsImV4cCI6MTc1OTQ0OTYwMCwia2lkIjoiMkh4S1ZCVlJYZEMwMWk0NngwME1HT0oyeDFpczhCMDJSWkNEWUJ3a1o4anhNQSIsImF1ZCI6InYifQ.jH1eizaOeJ-M1Vzdju7BWCJAelKlK1PERt2Tsq43InyxPefdTnBDVXl4xTWbfKIW99hltjH3f-voPs6T-N67ga8DeKiI2nbbn0T3MjMaWDe0YFr4SyRChK7Spe2NSDScVEghg1uQjYYKCIQEeex7kVSo7egRPZr2-wXy93O8RoAZLqaKoZq9S2GI_kezmlXCor15foKyswDQQQCHICVBbt1ybDr3oGfrWDjbI-tcIsEBAl2n1GSeTHuEH7x8mltpn7hHG5iY5N9jum7AUWZQxXYDEuLIgJeG8w5VQUA9BSSt3LdREfF75MXdt9l0-ejWYAsOVN1Fa_N5vz00cV9EnA",
+    "video_id": "CpEdqoNIxiviFzawkQvAFPr00ylGKegMpIlBu6GntkW4",
+    "index": 54
+  },
+  {
+    "title": "Lesson 55",
+    "url": "https://stream.mux.com/4rv5p02uIw4tzHDTkH5UkuDpATN6RkyJUzWzXbHqhxvc.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiI0cnY1cDAydUl3NHR6SERUa0g1VWt1RHBBVE42Umt5SlV6V3pYYkhxaHh2YyIsImV4cCI6MTc1OTQ0OTYwMCwia2lkIjoiMkh4S1ZCVlJYZEMwMWk0NngwME1HT0oyeDFpczhCMDJSWkNEWUJ3a1o4anhNQSIsImF1ZCI6InYifQ.e3pH5sOeovKoHzk7_WxykKo-sQZuVztXR8VMIUXx1BiFBff-V9i3oqh4DwVXRGbYswGh-UKkenEwYhcsFDN28TxnB9M9I_od6pFtF1275-QGkWi-95Esturz0al97vrwWJB0rrSNErjepxP0nlM8vBLzLd2M181Cs88jfUm4tcDVWc2PowTtvTvUqxeqU9340BQxixbbezzKTiszhjXq5S00E5dn2DLzuhHgGJAXIr6i3S3TzSB7F8Z3qecns8C3c0UXu_T2cxBqYkw5LPvEGINNZOo8XXM9yXbn38As7wOOoLU9na2yM5XFoHWQPtkbYIvslBs05RHL1MTpWU_Oyg",
+    "video_id": "4rv5p02uIw4tzHDTkH5UkuDpATN6RkyJUzWzXbHqhxvc",
+    "index": 55
+  },
+  {
+    "title": "Lesson 56",
+    "url": "https://stream.mux.com/dCLpiz3tjnCkmC00BlE61M71pLRjyueVakdsZ01q8WjAY.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJkQ0xwaXozdGpuQ2ttQzAwQmxFNjFNNzFwTFJqeXVlVmFrZHNaMDFxOFdqQVkiLCJleHAiOjE3NTk0NDk2MDAsImtpZCI6IjJIeEtWQlZSWGRDMDFpNDZ4MDBNR09KMngxaXM4QjAyUlpDRFlCd2taOGp4TUEiLCJhdWQiOiJ2In0.Dw7GH09sPaXb53K1lW5Ym6ftKVYa32KdDU9II2NARID-miJxS0RA0woD4n2p6v2P1Yu-5e8Ah5kiFLvBn3fpenaH-9qI05a3S7GGo8BGbSmhE3zPG1dbxOT-JHXWgW5-Oo8YoK7lCFLonc65KDiXW1WQIq8oPksU-2ekx8vsouuWERUkIhXW_1U1p5_BVq9vJgiz1j2AHIgc6MPP8PPCjw1qOhCkDi3SR_7ABXkycoCDI9ax2cRC-JTufwCkT_pvEDfyI8pdPkqcF6rLby5c99gg1Fiu4zrnEoIbCF5DaXvCWl3tbUMZTXNRI2hJTXN0lKanRsliWEfCMFqrMKenAA",
+    "video_id": "dCLpiz3tjnCkmC00BlE61M71pLRjyueVakdsZ01q8WjAY",
+    "index": 56
+  },
+  {
+    "title": "Lesson 57",
+    "url": "https://stream.mux.com/SKz00KRKERN7vCROk62DwI02NEgxMvawAhr6J01rT00q6bI.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJTS3owMEtSS0VSTjd2Q1JPazYyRHdJMDJORWd4TXZhd0FocjZKMDFyVDAwcTZiSSIsImV4cCI6MTc1OTQ0OTYwMCwia2lkIjoiMkh4S1ZCVlJYZEMwMWk0NngwME1HT0oyeDFpczhCMDJSWkNEWUJ3a1o4anhNQSIsImF1ZCI6InYifQ.CuBu9S4zVKkVqdcy57bX73HWnBwqKwsaKW9MFxyhFv-7Ix0fDKP_WWvLzLkwqhHazJTCF88eO6dJGaalz9RlSNgYYDx9Mjh4-2MXlw3bokZQAQydfcokabYS9PPqDZm2L64l-ADvB6V_rCVUASMBKDeR124pcjnN4vVNuEil8WDYDRZg8N0pmUI08Ra6kxpcPA9mCDUQjkDwiIIIUuSffLAnb9iFQJNpMYfSRGZkEiJ-63iO6oqKzMOyiSdtU4uAne-gBJ6To7UBcvVjs5G5Kucp82YuYKOgQwO_bRKinyc4ude_AHaKKDed9TQ1WlvbHH65ZaEyq7iEEJ0I8KUXig",
+    "video_id": "SKz00KRKERN7vCROk62DwI02NEgxMvawAhr6J01rT00q6bI",
+    "index": 57
+  },
+  {
+    "title": "Lesson 58",
+    "url": "https://stream.mux.com/leb01joqSOX02JCbuat1hN01zCiANyyflKL42ILPitrhUg.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJsZWIwMWpvcVNPWDAySkNidWF0MWhOMDF6Q2lBTnl5ZmxLTDQySUxQaXRyaFVnIiwiZXhwIjoxNzU5NDQ5NjAwLCJraWQiOiIySHhLVkJWUlhkQzAxaTQ2eDAwTUdPSjJ4MWlzOEIwMlJaQ0RZQndrWjhqeE1BIiwiYXVkIjoidiJ9.dAf0F2YgIWhKzQT1BaweF8-yOO9GHuwBeP95vE-St1NxcRZPgERImvZL_WJTLj1CnuvcIHtHLCYCOenMu_yDLapow0O_M6yIdssYjd1ycxK4FbwsyacWkUB0Oyu0DUCY3r0pjTi-1qEAOJmG3MmkJchHhDhoOYlDAC5JmdLnYbunVuae65CovY7lNnzJPm0bm7wgnPCoEFVsJ995MDS_CWros-sezhPBrRrCLzADcNZmZ8m9C4FER0IUvLN1f3u4jXU_v-g99cX83VxCu1-VSRJoJG9E8XuzN8JBm4CGRUrMmOeujrshZt_o-SBUPyEVEmyDJrke9WBrwV3RvmvzRw",
+    "video_id": "leb01joqSOX02JCbuat1hN01zCiANyyflKL42ILPitrhUg",
+    "index": 58
+  },
+  {
+    "title": "Lesson 59",
+    "url": "https://stream.mux.com/01qNuxlm01ZIQerAPzWE4WuZbyTO5JYfENW3ryBHdb00nk.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIwMXFOdXhsbTAxWklRZXJBUHpXRTRXdVpieVRPNUpZZkVOVzNyeUJIZGIwMG5rIiwiZXhwIjoxNzU5NDQ5NjAwLCJraWQiOiIySHhLVkJWUlhkQzAxaTQ2eDAwTUdPSjJ4MWlzOEIwMlJaQ0RZQndrWjhqeE1BIiwiYXVkIjoidiJ9.fpqCjNcj5Jeoyl94sUk9GUg5qS6j-wBVqfr0M0Ry9-2GFV-Qxs7HnFn4kuM0ozFMrfcycpB2B0YxWUtElKYlRRbqd2bAeu-Mo64Ip71sNn2Rn1jImMMbarkm3VoV3c1dbY9aVFVd9Pa37e2LldA007yQg2Utfjm_Qkoi9QF0VgyJ51n7wnK8R6py2G32nz5_CqUe6uhqQB3kWhDv5I11mG7Ut_dUPeUjiOd5zwrWvAcKG770C5i3h7ihNuIP0UkkRpfS3LO-hn3TJp4PGTGBIv3W5hgWpBGhbiREpFql8lYOpJFxW9VxAxeKGD3fFKnn9yGUGEzQvABxuBJiP3jpvg",
+    "video_id": "01qNuxlm01ZIQerAPzWE4WuZbyTO5JYfENW3ryBHdb00nk",
+    "index": 59
+  }
+]

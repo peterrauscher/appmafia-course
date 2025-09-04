@@ -1,0 +1,1137 @@
+{
+  "file_name": "035_Lesson_35.faudio-hi-0-Default.mp4",
+  "text": " Hey everyone, welcome back to the development module. Today we'll be going over how to master Superwall. Superwall is the paywall provider and this is how you'll be tracking your revenue per user, your lifetime value, your your AV testing, how many people actually reaching the paywall, testing pricing, etc etc. And it's very essential in order to be really profitable and to improve everything else in the business side of things. So this is less about the product tomorrow about the business side of things. So we'll go straight for it. This is the Superwall dashboard at Superwall.com. I'm already logged in but if you if you're not logged in yet just like create an account, very simple stuff. So I'll run you through the main dashboard. Top left is the proceeds today. So it's the amount of revenue minus Apple's cart whether that be 15 or 30%. They take 30% from me. So my gross today is about maybe 11 or 12k and after their taxes we're sitting at like 8.2k for the day which isn't great but hey like is what it is. That's not fucking important right now. Okay so new users. This is how many people in the last 24 hours have downloaded your app. So about 3.2k. This is how many people have converted in the last 24 hours including free trials. So it can be a bit misleading at times. I have a hard paywall but for under 18s as you can see we have a free trial. So that's why only 200 like 200 conversions which is quite a lot. Only a mass to $700 which is like $3 per user. It doesn't make sense because there's a free trial and yeah very simple stuff. The next one is initial conversions. So how many people down and up within the last 24 hours that ended up paying within the 24 hours. This number here is like like how many people today have converted. They could have downloaded it last week or the week before whatever. So the paywall rate is also very important metric. The paywall rate displays what percent of users that have downloaded your app ended up reaching the paywall. And usually with a long onboarding you can expect a high drop off. You want to be around the 85 to 90% range just like the sweet spot. At the same time I'm not too bothered with 80% because all the people that have low intent and weren't going to buy from anyway would have dropped off. All of these people came to the end and they were super prep to pay and that's why our conversion rate is about 20% which is on the far right side. Get a sip of water real quick. Okay so let's get started. This is Quiddler's breakdown and what we do is we present paywalls by age. So on the back end and I'll show you how to do this as well. We pretty much ask for your age during the onboarding and whatever age you're in will display a custom paywall. Now we don't necessarily change the prices because that might be against their terms of service but what we do do tell what we do do but what we do is we see the conversion rates of different age groups and we didn't do this for a long time but ever since we started doing it I've been learning a hell of a lot more about our demographic and like how much intent there is based on different age ranges. So for example age 23 to 28 seemingly has one of the highest conversion rates at 17.6% paying. So under 18 to have 17.2% but they're free trial. So getting like almost 18% paying is insane and shows that this is the age demographic that we should be focusing on and this really helps it on marketing because let's say we know this is the most profitable niche, most profitable age range. I'm just going to find creators that serve viewers in that age range or I'm going to target Facebook and meta-rads in that age range and eventually be more profitable. Very very simple stuff. What's also interesting to note is under 18s at least for my app so this is very like subjective but for my app most of the traffic comes from under 18s whereas like even though 23 to 28 year olds bring in the most revenue under 18 serve as a massive volume for downloads. All right so now how do you start testing and what are the key metrics to look for when it comes to testing different paywalls of pricing. So the first thing I do when I'm beginning is start out on the template category. So on the left side of Superwall over here there is a botting called templates. Click on to that and look for something that interests you. So what you're looking for is something that appeals to your company. So if it's consumer utility for example I'd copy this one from Homework AI. It's very clear very simple or if it's like a chat based app maybe I choose the step saga this one right here or you know you can make it whatever you want depending on the design of your app, depending on the demographic of targeting, choose anything that interests you. It's not really a big deal. We'll be testing these paywalls anyway so if one doesn't convert we can always test another. We can test a bunch of conjunction and you can find out what's the most optimal for you. So what Super does with these templates by the way is all the successful apps found in paywallscreens.com so they have compiled a bunch of different paywalls. They've also listed the revenue these apps are making. You probably find quitter here I'm sure as well. Yep well it says I'm making 30K a month which isn't true but this is one of our old paywalls and it's like it'll maybe Callie I. We'll use Callie I for this example so it says they're making 200K a month but this is the paywall they were using and you know it's very simple and you can copy it in the template category. So for example the quitter one is right here it's called Capture AI for some reason but it's fine. All you need to do is just click on it and then click use template but because we're doing a Callie I clone I want to make I want to pick a paywall that's kind of better for that so I'm going to choose I think I'm going to do the homework AI one. So scroll back up to the top where homework AI is and click on it click use template super simple. Next it'll show you like a figure I kind of break down of like what all the elements are all you need to do is change the text so I'm going to call this Callie I at the top. Callie I is not pro but we'll keep it and then the bullet points so I'm going to write track calories in one snap. Lose, weight, easy and fast and of course Hunter or Blake would have covered this in the design section but you want to kind of show language where it's like okay I'm reading this paywall screen this app is going to change my life I'm going to track calories I'm going to lose weight easily I'm going to become the best version of myself all I've got to do is pay 20 dollars a year and if you can convince that across then you're going to be super successful but again like we're going to show you how to test these different paywalls so you're not working in the dark I always recommend striving for data so that's exactly what we're going to be doing. So look I picked a paywall I'm going to pick a product product so product also contains a price so they kind of make the same thing so I'm going to choose like let's say 499 a week or secondary maybe 1499 a month and I'm curious like which one's going to convert the most like what what product is going to sell the most very simple just save this go to campaigns create new campaign and let's call it paywall test next thing I want to do is click on to no paywalls add paywall and then just add the most recent one so it's the homework AI template so now that's showing to 100% of users and the results breakdown will be on this category so what I want to do now is make a more informed decision so how do I do that I go back to templates oh sorry I go back to paywalls I click this duplicate button right here duplicate and then I just duplicate it I'm going to call this 2999 a year test of course by the way you need all of these products already built out in App Store Connect which I'm sure you had to do in a previous step so all you need to do is go back to App Store Connect go back to subscriptions and then create a new subscription and then and like just write whatever price you want to test let that get approved by Apple takes probably less than a day then you can use it in Super Wall and start testing pretty simple stuff so okay now we completely duplicated the paywall so this minimizes other factors so for example if I were to test a different paywall design with a different price than I'm playing with two factors maybe the original homework AI template would have been better because of the pricing but because I change the design on this one this performs better makes sense so even though the pricing is cheaper and that everyone is looking at the ARPU and they're like oh the average revenue per user is actually increased because you've had an additional factor you're not going to have a clear answer on what is going to what is the most optimal paywall setup for you but anyways back to the products I'm going to change the product to 2999 a year and then I'm going to keep the monthly price and oh actually I'm going to do the weekly price because it's more manageable now it's like okay you can pay 499 a week which adds up to like $20 a month or you can pay 2999 and get the entire year so this is the great test and because you're kind of covering all areas and you'll find that very fast like what your demographic is and what they were pay for what they were afford so bomb we say that and go back into campaigns go to the new one called paywall test and then just click add paywall and select the brand new 2999 a year test or whatever you call it now usually I would do an 8020 split if I have a pre-existing successful paywall because I don't want to mess up revenue too much but because these are fresh brand new I'm willing to do 5050 and see which out of the 50% of traffic generates the most revenue so I just click save save again and bomb now anytime you run this campaign so by the way so you've got to do placements and this is where you call a campaign name so I'm going to call it paywall test for example create paywall test and whenever you call that in the Call AI code so suple.prison and shared up register so you have to make sure this now says make it bigger paywall test and you'll see when we get back to coding later that this will now display this campaign with the split testing and now anyone that downloads the app will see the either these two paywalls okay great that's the setup now what you want to do is wait for the data to start rolling in so you can make a better informed decision about which one you want to keep and then you can drive more traffic to a different one and then you can do additional additional more tests very simple again I would suggest maybe different design this time rather than different pricing so if you've tested the pricing now it's time to test design and I'd pick something completely different maybe something that has a graphic on it maybe something that feels more engaging like this for example and then we change the text to track calories did it did it and then we changed the pricing maybe we offer free trial whatever whatever whatever pretty simple I've explained the steps you can just choose which product you prefer and then do the same thing go back into campaigns go back into paywall test go into paywalls and just add this brand new paywall and then click the click the pen change the amount of people you want to see the new paywall and boom let the data start rolling in what I would recommend is wait for like a thousand users you okay usually at my scale I'd wait for like a thousand to maybe three thousand users to make a decision wherever paywall is good what's not good is if you make a decision based on limited data so for example if I have extremely high quality traffic like I've nurtured I've like paid an influence a lot of people trust this influencer and now they have a bunch of traffic coming in that is really high intent and then this paywall is of course doing super super well like how much of that can you attribute to the traffic rather than the actual paywall so this is why you should wait an extended period of time before coming to conclusions about what is the most optimal setup for you and I would never get stagnant I would always be testing I'd always be trying new things because like at my scale now so I make half a million dollars a month like a small 10% increase is 50 thousand dollars of additional bottom line revenue every single month so that's just some perspective and 10% on a 20 dollar plan is an extra two dollars like it seems very marginal or nominal but it adds up big time and an extra 10% at Calais level is like half a million to 350 thousand dollars a month so just an example so yeah I'm going to show you now how to study the data and how to make the informed decisions and of course I can't load a bunch of data to this because I'm not going to launch this paywall but I can show you some tests I've ran and how I justify what is doing well what isn't doing well so we'll go to the 50 off that discount button and we have three different tests well we have two tests so we'll look at both of these so one of the tests is you open a special gift it's very like engaging super super engaging and then you click claim your limits it off and out the other one is getting hit straight with a one-time offer very clean you have a countdown on the screen counting down from five minutes clean your off and out and yeah let's see if there's a pricing difference as well no the same price but these are the tests so just a design test and we'll go to the results tab and you can see very clearly the different results so if we ignore this one let's just let's just do these two so focus on the ones that are checked the one with the the present is making like 10% to 15% less than the instant one-time offer with five-minute countdown you see that and that's because I'm judging the ARPU which I believe is the most important metric because this means how much revenue are you generating per viewer so like let's say 10 people viewed a screen and you know one paid $20 you're making $2 per view which is about exactly what this is making so on that note if your goal is revenue getting the ARPU up as much as possible even if it if that means the conversion rate suffers is an issue so you can see there's like a free percent difference between this conversion rate and the other conversion rate between this discount so this seems better and it actually is better sorry that it actually is better has a higher conversion rate and it makes more money per user which kind of makes sense because if you have a higher conversion rate usually more people are paying which means it's more revenue per user so actually yeah no this is right but in some instances like this top one and I know we have limited data but this is an 8.7% conversion rate so very low compared to the others but it has 2.24 estimated dollars revenue per user very interesting stuff so even though this is almost half it's still making more than the previous one so again to cut for if you're optimizing for revenue if you're trying to make as much money as possible focus on ARPU even if that means are the expense of the conversion rate even if that means like you sell $100 a year and only 5% of people pay for it but you make way more money per user because if you had if you were selling like $5 a week plan you would have maybe a super high conversion rate because your average revenue per user wouldn't be that high which means it it maps out that the $100 a year would be way more beneficial for you if you're focusing on revenue actually just forgot massive massive massive thing I'm going to tell you guys one sec all right looking we're not done I'm about to make you thousands of dollars more a day at scale or at least boost your revenue by 20 to 25 to 40 percent is that drastic boys it's that drastic ready you see this top campaign transaction abandoned right here yeah so this has a 25 or 23.1 percent conversion rate that means one in four people pay when they see this screen that's how overpowered it is so I'm going to tell you what it does how to set it up and a really good pay all for it okay let's go so what you do is you go to campaigns you campaign and you search you just call this what transaction abandoned I'm going to call it transaction abandoned two because I already have one and then for placements you do transaction abandoned okay so this is a default super wall event name and you don't need to make it yourself and you can already see the amount of people that triggered this event the last 24 hours which is approximately 2000 people now what this means is anyone that's clicked on the paywall and has clicks continue and like Apple have prompted them to pay and then and then they change their mind and tap out of it yeah they get hit with a second paywall which has a massive discount and it's usually around 50 percent now these people are extremely high intent because they were about to pay maybe you don't know why they didn't pay but maybe pricing was an issue so the whole strategy I've made this campaign which I'll show this one is to hit them with like a phoma offer so this is my phoma offer one time offer 80 percent off forever and very intentional language this offer won't be there once you close it you see this right here very very intentional now what this does is you know imagine imagine the flow someone's about to pay for the Kali AI clone we just created and they really want to check their colors they really want to change their life they really want to lose weight but then they get hit the paywall and they're like okay 30 dollars a year let's do it let's do it click continue and then the the dollar sign comes up on the screen it says 2999 Kali AI and this is double tap to pay and then the users like hmm actually it seems like a lot of money and I don't really spend money on apps I only spend money on food and other stuff so I'm gonna tap out of this as soon as they tap out of it they get hit the one time offer 80 percent off forever all right and it's it just hits some of the fact discount so yeah I mean as the numbers don't lie I've spoke to Zach who owns Kali AI it's boosted their revenue by almost 40 percent it's been my main revenue driver every single day and it's probably the most essential part of Superwall if you want to be successful long term one of the best decisions I've ever ever ever made so I'm real quick I'll just show you with a template you can use for that so if you go to templates um scroll down this should be one okay here's one for example uh this is a bunch of code but it does actually count down and you can kind of go to ideas on one time offer just use this template and then add it to the campaign like I've showed you previously or this is another one one time offer you'll never see this again with a massive discount and I would always discount by at least like 50 percent so the main paywall is like the main paywall presents you with a product that costs 2999 a year the discount gives you an offer for 1999 a year which is you know about 50 percent so yeah anyways that is a high level overview I think I've covered all bases when it comes to Superwall this is like this I guess the most important and essential stuff I wouldn't overcomplicate it it's just you know products paywall pricing testing data and then you make a decision and I would recommend you just keep testing keep testing keep testing um there's always ways to optimize the revenue I think I said it's previously but like a 10 percent increase like taking an LTV over user from 20 $20 to $22 is a 10 percent increase which seems nominal which seems marginal but I'm making half a million a month so a 10 percent increase is $50,000 a month and it goes like the same way for like Cali are like if they boost like conversions or boost like revenue by 10 percent by just playing around with the paywall and the language and how they are framing things that 10 percent increase is hundreds of thousands that's a fucking Lamborghini Hurrah could even a month just in like small really easy um changes so yeah as I said cover all my bases here it is a pretty high level overview but this is all the important stuff and you know I've come this far I mean I'll show the revenue just just because I don't really care this is proceeds by the way all that fucking sucks right 90 days give me something to do see all right almost a million in the last 90 days it was better than this we're having a slow month point is you know I've come this far with all the knowledge I just showed of you and as you can see transaction to pendant has made miles more than any other campaign I've ever run just for perspective so yeah keep killing your boys much love peace",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.2,
+      "text": "Hey everyone, welcome back to the development module. Today we'll be going over"
+    },
+    {
+      "start": 4.2,
+      "end": 9.28,
+      "text": "how to master Superwall. Superwall is the paywall provider and this is how you'll"
+    },
+    {
+      "start": 9.28,
+      "end": 14.56,
+      "text": "be tracking your revenue per user, your lifetime value, your your AV testing,"
+    },
+    {
+      "start": 14.56,
+      "end": 18.88,
+      "text": "how many people actually reaching the paywall, testing pricing, etc etc. And"
+    },
+    {
+      "start": 18.88,
+      "end": 24.48,
+      "text": "it's very essential in order to be really profitable and to improve everything"
+    },
+    {
+      "start": 24.48,
+      "end": 28.0,
+      "text": "else in the business side of things. So this is less about the product tomorrow"
+    },
+    {
+      "start": 28.0,
+      "end": 32.16,
+      "text": "about the business side of things. So we'll go straight for it. This is the Superwall"
+    },
+    {
+      "start": 32.16,
+      "end": 36.32,
+      "text": "dashboard at Superwall.com. I'm already logged in but if you if you're not logged"
+    },
+    {
+      "start": 36.32,
+      "end": 41.72,
+      "text": "in yet just like create an account, very simple stuff. So I'll run you through the"
+    },
+    {
+      "start": 41.72,
+      "end": 46.400000000000006,
+      "text": "main dashboard. Top left is the proceeds today. So it's the amount of revenue minus"
+    },
+    {
+      "start": 46.400000000000006,
+      "end": 51.8,
+      "text": "Apple's cart whether that be 15 or 30%. They take 30% from me. So my gross today is"
+    },
+    {
+      "start": 51.8,
+      "end": 57.400000000000006,
+      "text": "about maybe 11 or 12k and after their taxes we're sitting at like 8.2k for"
+    },
+    {
+      "start": 57.44,
+      "end": 61.56,
+      "text": "the day which isn't great but hey like is what it is. That's not fucking important"
+    },
+    {
+      "start": 61.56,
+      "end": 65.96,
+      "text": "right now. Okay so new users. This is how many people in the last 24 hours have"
+    },
+    {
+      "start": 65.96,
+      "end": 71.48,
+      "text": "downloaded your app. So about 3.2k. This is how many people have converted in the"
+    },
+    {
+      "start": 71.48,
+      "end": 76.52,
+      "text": "last 24 hours including free trials. So it can be a bit misleading at times. I have a"
+    },
+    {
+      "start": 76.52,
+      "end": 80.6,
+      "text": "hard paywall but for under 18s as you can see we have a free trial. So that's why"
+    },
+    {
+      "start": 80.6,
+      "end": 85.88,
+      "text": "only 200 like 200 conversions which is quite a lot. Only a mass to $700 which is"
+    },
+    {
+      "start": 85.88,
+      "end": 90.83999999999999,
+      "text": "like $3 per user. It doesn't make sense because there's a free trial and yeah very"
+    },
+    {
+      "start": 90.83999999999999,
+      "end": 94.67999999999999,
+      "text": "simple stuff. The next one is initial conversions. So how many people down and"
+    },
+    {
+      "start": 94.67999999999999,
+      "end": 99.64,
+      "text": "up within the last 24 hours that ended up paying within the 24 hours. This number here is"
+    },
+    {
+      "start": 99.64,
+      "end": 104.28,
+      "text": "like like how many people today have converted. They could have downloaded it last week or"
+    },
+    {
+      "start": 104.28,
+      "end": 108.52,
+      "text": "the week before whatever. So the paywall rate is also very important metric. The paywall"
+    },
+    {
+      "start": 108.52,
+      "end": 113.32,
+      "text": "rate displays what percent of users that have downloaded your app ended up reaching"
+    },
+    {
+      "start": 113.32,
+      "end": 119.32,
+      "text": "the paywall. And usually with a long onboarding you can expect a high drop off. You want"
+    },
+    {
+      "start": 119.32,
+      "end": 124.44,
+      "text": "to be around the 85 to 90% range just like the sweet spot. At the same time I'm not too"
+    },
+    {
+      "start": 124.44,
+      "end": 128.92,
+      "text": "bothered with 80% because all the people that have low intent and weren't going to buy from"
+    },
+    {
+      "start": 128.92,
+      "end": 134.28,
+      "text": "anyway would have dropped off. All of these people came to the end and they were super"
+    },
+    {
+      "start": 134.28,
+      "end": 139.88,
+      "text": "prep to pay and that's why our conversion rate is about 20% which is on the far right side."
+    },
+    {
+      "start": 140.84,
+      "end": 142.12,
+      "text": "Get a sip of water real quick."
+    },
+    {
+      "start": 146.84,
+      "end": 154.35999999999999,
+      "text": "Okay so let's get started. This is Quiddler's breakdown and what we do is we present paywalls"
+    },
+    {
+      "start": 154.35999999999999,
+      "end": 161.07999999999998,
+      "text": "by age. So on the back end and I'll show you how to do this as well. We pretty much ask for your"
+    },
+    {
+      "start": 161.07999999999998,
+      "end": 167.0,
+      "text": "age during the onboarding and whatever age you're in will display a custom paywall. Now we don't"
+    },
+    {
+      "start": 167.0,
+      "end": 173.16,
+      "text": "necessarily change the prices because that might be against their terms of service but what we do do"
+    },
+    {
+      "start": 174.04,
+      "end": 179.4,
+      "text": "tell what we do do but what we do is we see the conversion rates of different age groups"
+    },
+    {
+      "start": 179.4,
+      "end": 184.12,
+      "text": "and we didn't do this for a long time but ever since we started doing it I've been learning a"
+    },
+    {
+      "start": 184.12,
+      "end": 188.2,
+      "text": "hell of a lot more about our demographic and like how much intent there is based on different age"
+    },
+    {
+      "start": 188.2,
+      "end": 196.04,
+      "text": "ranges. So for example age 23 to 28 seemingly has one of the highest conversion rates at 17.6%"
+    },
+    {
+      "start": 196.04,
+      "end": 204.35999999999999,
+      "text": "paying. So under 18 to have 17.2% but they're free trial. So getting like almost 18% paying is"
+    },
+    {
+      "start": 204.35999999999999,
+      "end": 209.48,
+      "text": "insane and shows that this is the age demographic that we should be focusing on and this really helps"
+    },
+    {
+      "start": 209.48,
+      "end": 215.16,
+      "text": "it on marketing because let's say we know this is the most profitable niche, most profitable age"
+    },
+    {
+      "start": 215.16,
+      "end": 222.04,
+      "text": "range. I'm just going to find creators that serve viewers in that age range or I'm going to target"
+    },
+    {
+      "start": 222.04,
+      "end": 226.76,
+      "text": "Facebook and meta-rads in that age range and eventually be more profitable. Very very simple"
+    },
+    {
+      "start": 226.76,
+      "end": 234.04,
+      "text": "stuff. What's also interesting to note is under 18s at least for my app so this is very like"
+    },
+    {
+      "start": 234.04,
+      "end": 240.35999999999999,
+      "text": "subjective but for my app most of the traffic comes from under 18s whereas like even though"
+    },
+    {
+      "start": 241.39999999999998,
+      "end": 251.0,
+      "text": "23 to 28 year olds bring in the most revenue under 18 serve as a massive volume for downloads."
+    },
+    {
+      "start": 252.04,
+      "end": 257.0,
+      "text": "All right so now how do you start testing and what are the key metrics to look for when it comes to"
+    },
+    {
+      "start": 257.0,
+      "end": 261.64,
+      "text": "testing different paywalls of pricing. So the first thing I do when I'm beginning is start out"
+    },
+    {
+      "start": 261.64,
+      "end": 266.44,
+      "text": "on the template category. So on the left side of Superwall over here there is a botting called"
+    },
+    {
+      "start": 266.44,
+      "end": 271.96,
+      "text": "templates. Click on to that and look for something that interests you. So what you're looking for"
+    },
+    {
+      "start": 271.96,
+      "end": 276.76,
+      "text": "is something that appeals to your company. So if it's consumer utility for example I'd copy this"
+    },
+    {
+      "start": 277.0,
+      "end": 282.2,
+      "text": "one from Homework AI. It's very clear very simple or if it's like a chat based app maybe I choose"
+    },
+    {
+      "start": 282.2,
+      "end": 288.68,
+      "text": "the step saga this one right here or you know you can make it whatever you want depending on the"
+    },
+    {
+      "start": 288.68,
+      "end": 293.64,
+      "text": "design of your app, depending on the demographic of targeting, choose anything that interests you."
+    },
+    {
+      "start": 293.64,
+      "end": 298.03999999999996,
+      "text": "It's not really a big deal. We'll be testing these paywalls anyway so if one doesn't convert we"
+    },
+    {
+      "start": 298.03999999999996,
+      "end": 303.08,
+      "text": "can always test another. We can test a bunch of conjunction and you can find out what's the most"
+    },
+    {
+      "start": 303.08,
+      "end": 308.52,
+      "text": "optimal for you. So what Super does with these templates by the way is all the successful apps"
+    },
+    {
+      "start": 308.52,
+      "end": 315.0,
+      "text": "found in paywallscreens.com so they have compiled a bunch of different paywalls. They've also listed"
+    },
+    {
+      "start": 315.0,
+      "end": 321.15999999999997,
+      "text": "the revenue these apps are making. You probably find quitter here I'm sure as well. Yep well it says"
+    },
+    {
+      "start": 321.15999999999997,
+      "end": 325.71999999999997,
+      "text": "I'm making 30K a month which isn't true but this is one of our old paywalls and it's like"
+    },
+    {
+      "start": 327.15999999999997,
+      "end": 332.2,
+      "text": "it'll maybe Callie I. We'll use Callie I for this example so it says they're making 200K a month"
+    },
+    {
+      "start": 332.2,
+      "end": 336.59999999999997,
+      "text": "but this is the paywall they were using and you know it's very simple and you can copy it"
+    },
+    {
+      "start": 337.64,
+      "end": 341.64,
+      "text": "in the template category. So for example the quitter one is right here it's called"
+    },
+    {
+      "start": 341.64,
+      "end": 346.36,
+      "text": "Capture AI for some reason but it's fine. All you need to do is just click on it and then click"
+    },
+    {
+      "start": 346.36,
+      "end": 351.4,
+      "text": "use template but because we're doing a Callie I clone I want to make I want to pick a paywall"
+    },
+    {
+      "start": 351.4,
+      "end": 355.0,
+      "text": "that's kind of better for that so I'm going to choose"
+    },
+    {
+      "start": 355.72,
+      "end": 366.52,
+      "text": "I think I'm going to do the homework AI one. So scroll back up to the top where homework AI is"
+    },
+    {
+      "start": 367.4,
+      "end": 373.72,
+      "text": "and click on it click use template super simple. Next it'll show you like a figure I kind of"
+    },
+    {
+      "start": 373.72,
+      "end": 379.32,
+      "text": "break down of like what all the elements are all you need to do is change the text so I'm going"
+    },
+    {
+      "start": 379.32,
+      "end": 387.24,
+      "text": "to call this Callie I at the top. Callie I is not pro but we'll keep it and then the bullet"
+    },
+    {
+      "start": 387.24,
+      "end": 392.04,
+      "text": "points so I'm going to write track calories in one snap."
+    },
+    {
+      "start": 396.03999999999996,
+      "end": 403.24,
+      "text": "Lose, weight, easy and fast and of course Hunter or Blake would have covered this in the design"
+    },
+    {
+      "start": 403.24,
+      "end": 408.68,
+      "text": "section but you want to kind of show language where it's like okay I'm reading this paywall screen"
+    },
+    {
+      "start": 408.68,
+      "end": 412.76,
+      "text": "this app is going to change my life I'm going to track calories I'm going to lose weight easily"
+    },
+    {
+      "start": 412.76,
+      "end": 417.96,
+      "text": "I'm going to become the best version of myself all I've got to do is pay 20 dollars a year and if"
+    },
+    {
+      "start": 417.96,
+      "end": 423.32,
+      "text": "you can convince that across then you're going to be super successful but again like we're going"
+    },
+    {
+      "start": 423.32,
+      "end": 427.72,
+      "text": "to show you how to test these different paywalls so you're not working in the dark I always recommend"
+    },
+    {
+      "start": 427.72,
+      "end": 432.44,
+      "text": "striving for data so that's exactly what we're going to be doing. So look I picked a paywall I'm"
+    },
+    {
+      "start": 432.44,
+      "end": 437.24,
+      "text": "going to pick a product product so product also contains a price so they kind of make the same thing"
+    },
+    {
+      "start": 437.24,
+      "end": 445.24,
+      "text": "so I'm going to choose like let's say 499 a week or secondary maybe 1499 a month and I'm curious"
+    },
+    {
+      "start": 445.24,
+      "end": 449.24,
+      "text": "like which one's going to convert the most like what what product is going to sell the most very"
+    },
+    {
+      "start": 449.24,
+      "end": 452.44,
+      "text": "simple just save this"
+    },
+    {
+      "start": 459.08,
+      "end": 463.64,
+      "text": "go to campaigns create new campaign and let's call it paywall test"
+    },
+    {
+      "start": 464.36,
+      "end": 470.68,
+      "text": "next thing I want to do is click on to no paywalls add paywall and then just add the most recent one"
+    },
+    {
+      "start": 470.68,
+      "end": 476.91999999999996,
+      "text": "so it's the homework AI template so now that's showing to 100% of users and the results breakdown"
+    },
+    {
+      "start": 476.91999999999996,
+      "end": 482.76,
+      "text": "will be on this category so what I want to do now is make a more informed decision so how do I"
+    },
+    {
+      "start": 482.76,
+      "end": 488.28,
+      "text": "do that I go back to templates oh sorry I go back to paywalls I click this duplicate button right here"
+    },
+    {
+      "start": 489.23999999999995,
+      "end": 497.64,
+      "text": "duplicate and then I just duplicate it I'm going to call this 2999 a year test"
+    },
+    {
+      "start": 500.67999999999995,
+      "end": 504.59999999999997,
+      "text": "of course by the way you need all of these products already built out in App Store Connect"
+    },
+    {
+      "start": 504.59999999999997,
+      "end": 508.59999999999997,
+      "text": "which I'm sure you had to do in a previous step so all you need to do is go back to App Store"
+    },
+    {
+      "start": 508.59999999999997,
+      "end": 513.56,
+      "text": "Connect go back to subscriptions and then create a new subscription and then and like just write"
+    },
+    {
+      "start": 513.56,
+      "end": 518.92,
+      "text": "whatever price you want to test let that get approved by Apple takes probably less than a day"
+    },
+    {
+      "start": 518.92,
+      "end": 524.5999999999999,
+      "text": "then you can use it in Super Wall and start testing pretty simple stuff so okay now we completely"
+    },
+    {
+      "start": 524.5999999999999,
+      "end": 533.8,
+      "text": "duplicated the paywall so this minimizes other factors so for example if I were to test a"
+    },
+    {
+      "start": 533.8,
+      "end": 539.8,
+      "text": "different paywall design with a different price than I'm playing with two factors maybe the original"
+    },
+    {
+      "start": 539.8,
+      "end": 544.92,
+      "text": "homework AI template would have been better because of the pricing but because I change the"
+    },
+    {
+      "start": 544.92,
+      "end": 551.3199999999999,
+      "text": "design on this one this performs better makes sense so even though the pricing is cheaper and"
+    },
+    {
+      "start": 551.3199999999999,
+      "end": 555.0799999999999,
+      "text": "that everyone is looking at the ARPU and they're like oh the average revenue per user is actually"
+    },
+    {
+      "start": 555.0799999999999,
+      "end": 559.88,
+      "text": "increased because you've had an additional factor you're not going to have a clear answer on what"
+    },
+    {
+      "start": 559.88,
+      "end": 565.64,
+      "text": "is going to what is the most optimal paywall setup for you but anyways back to the products I'm"
+    },
+    {
+      "start": 565.64,
+      "end": 570.84,
+      "text": "going to change the product to 2999 a year and then I'm going to keep the monthly price and"
+    },
+    {
+      "start": 570.84,
+      "end": 575.3199999999999,
+      "text": "oh actually I'm going to do the weekly price because it's more manageable now it's like okay you"
+    },
+    {
+      "start": 575.3199999999999,
+      "end": 585.16,
+      "text": "can pay 499 a week which adds up to like $20 a month or you can pay 2999 and get the entire year"
+    },
+    {
+      "start": 585.16,
+      "end": 591.08,
+      "text": "so this is the great test and because you're kind of covering all areas and you'll find that very"
+    },
+    {
+      "start": 591.08,
+      "end": 595.56,
+      "text": "fast like what your demographic is and what they were pay for what they were afford so bomb we say"
+    },
+    {
+      "start": 595.7199999999999,
+      "end": 606.5999999999999,
+      "text": "that and go back into campaigns go to the new one called paywall test and then just click add paywall"
+    },
+    {
+      "start": 607.7199999999999,
+      "end": 614.52,
+      "text": "and select the brand new 2999 a year test or whatever you call it now usually I would do an 8020"
+    },
+    {
+      "start": 614.52,
+      "end": 620.8399999999999,
+      "text": "split if I have a pre-existing successful paywall because I don't want to mess up revenue too much"
+    },
+    {
+      "start": 620.84,
+      "end": 629.24,
+      "text": "but because these are fresh brand new I'm willing to do 5050 and see which out of the 50%"
+    },
+    {
+      "start": 629.24,
+      "end": 637.88,
+      "text": "of traffic generates the most revenue so I just click save save again and bomb now anytime you run"
+    },
+    {
+      "start": 637.88,
+      "end": 642.44,
+      "text": "this campaign so by the way so you've got to do placements and this is where you call a campaign"
+    },
+    {
+      "start": 642.44,
+      "end": 647.88,
+      "text": "name so I'm going to call it paywall test for example create paywall test and whenever you call"
+    },
+    {
+      "start": 647.96,
+      "end": 656.6,
+      "text": "that in the Call AI code so suple.prison and shared up register so you have to make sure this now says"
+    },
+    {
+      "start": 657.4,
+      "end": 664.6,
+      "text": "make it bigger paywall test and you'll see when we get back to coding later that this will now"
+    },
+    {
+      "start": 664.6,
+      "end": 670.68,
+      "text": "display this campaign with the split testing and now anyone that downloads the app will see the either"
+    },
+    {
+      "start": 670.76,
+      "end": 678.04,
+      "text": "these two paywalls okay great that's the setup now what you want to do is wait for the data to"
+    },
+    {
+      "start": 678.04,
+      "end": 682.12,
+      "text": "start rolling in so you can make a better informed decision about which one you want to keep and then"
+    },
+    {
+      "start": 682.12,
+      "end": 687.7199999999999,
+      "text": "you can drive more traffic to a different one and then you can do additional additional more tests"
+    },
+    {
+      "start": 688.28,
+      "end": 696.1999999999999,
+      "text": "very simple again I would suggest maybe different design this time rather than different pricing"
+    },
+    {
+      "start": 696.2800000000001,
+      "end": 701.48,
+      "text": "so if you've tested the pricing now it's time to test design and I'd pick something completely"
+    },
+    {
+      "start": 701.48,
+      "end": 706.44,
+      "text": "different maybe something that has a graphic on it maybe something that feels more engaging"
+    },
+    {
+      "start": 707.8000000000001,
+      "end": 713.48,
+      "text": "like this for example and then we change the text to track calories did it did it and then we"
+    },
+    {
+      "start": 713.48,
+      "end": 717.5600000000001,
+      "text": "changed the pricing maybe we offer free trial whatever whatever whatever pretty simple I've"
+    },
+    {
+      "start": 717.5600000000001,
+      "end": 722.5200000000001,
+      "text": "explained the steps you can just choose which product you prefer and then do the same thing go"
+    },
+    {
+      "start": 722.52,
+      "end": 730.4399999999999,
+      "text": "back into campaigns go back into paywall test go into paywalls and just add this brand new paywall"
+    },
+    {
+      "start": 731.0,
+      "end": 736.4399999999999,
+      "text": "and then click the click the pen change the amount of people you want to see the new paywall"
+    },
+    {
+      "start": 736.4399999999999,
+      "end": 745.0,
+      "text": "and boom let the data start rolling in what I would recommend is wait for like a thousand users"
+    },
+    {
+      "start": 745.72,
+      "end": 751.64,
+      "text": "you okay usually at my scale I'd wait for like a thousand to maybe three thousand users"
+    },
+    {
+      "start": 751.64,
+      "end": 756.68,
+      "text": "to make a decision wherever paywall is good what's not good is if you make a decision based on"
+    },
+    {
+      "start": 757.56,
+      "end": 767.3199999999999,
+      "text": "limited data so for example if I have extremely high quality traffic like I've nurtured I've like paid"
+    },
+    {
+      "start": 767.3199999999999,
+      "end": 773.0,
+      "text": "an influence a lot of people trust this influencer and now they have a bunch of traffic coming in"
+    },
+    {
+      "start": 773.0,
+      "end": 777.88,
+      "text": "that is really high intent and then this paywall is of course doing super super well"
+    },
+    {
+      "start": 778.84,
+      "end": 783.64,
+      "text": "like how much of that can you attribute to the traffic rather than the actual paywall so this is"
+    },
+    {
+      "start": 783.64,
+      "end": 788.76,
+      "text": "why you should wait an extended period of time before coming to conclusions about what is the"
+    },
+    {
+      "start": 788.76,
+      "end": 793.96,
+      "text": "most optimal setup for you and I would never get stagnant I would always be testing I'd always"
+    },
+    {
+      "start": 793.96,
+      "end": 801.8,
+      "text": "be trying new things because like at my scale now so I make half a million dollars a month like"
+    },
+    {
+      "start": 801.8,
+      "end": 807.48,
+      "text": "a small 10% increase is 50 thousand dollars of additional bottom line revenue every single month"
+    },
+    {
+      "start": 807.96,
+      "end": 815.8,
+      "text": "so that's just some perspective and 10% on a 20 dollar plan is an extra two dollars like it seems"
+    },
+    {
+      "start": 815.8,
+      "end": 823.0,
+      "text": "very marginal or nominal but it adds up big time and an extra 10% at Calais level is like half a"
+    },
+    {
+      "start": 823.0,
+      "end": 831.32,
+      "text": "million to 350 thousand dollars a month so just an example so yeah I'm going to show you now"
+    },
+    {
+      "start": 831.32,
+      "end": 837.08,
+      "text": "how to study the data and how to make the informed decisions and of course I can't load a bunch"
+    },
+    {
+      "start": 837.08,
+      "end": 842.0400000000001,
+      "text": "of data to this because I'm not going to launch this paywall but I can show you some tests I've"
+    },
+    {
+      "start": 842.0400000000001,
+      "end": 849.64,
+      "text": "ran and how I justify what is doing well what isn't doing well so we'll go to the 50 off"
+    },
+    {
+      "start": 850.6800000000001,
+      "end": 858.6,
+      "text": "that discount button and we have three different tests well we have two tests so we'll look at both"
+    },
+    {
+      "start": 858.6,
+      "end": 864.6,
+      "text": "of these so one of the tests is you open a special gift it's very like engaging super super engaging"
+    },
+    {
+      "start": 864.6,
+      "end": 869.5600000000001,
+      "text": "and then you click claim your limits it off and out the other one is getting hit straight"
+    },
+    {
+      "start": 869.5600000000001,
+      "end": 874.76,
+      "text": "with a one-time offer very clean you have a countdown on the screen counting down from five minutes"
+    },
+    {
+      "start": 874.76,
+      "end": 880.36,
+      "text": "clean your off and out and yeah let's see if there's a pricing difference as well no the same price"
+    },
+    {
+      "start": 881.32,
+      "end": 886.2,
+      "text": "but these are the tests so just a design test and we'll go to the results tab and you can see very"
+    },
+    {
+      "start": 886.2,
+      "end": 891.48,
+      "text": "clearly the different results so if we ignore this one let's just let's just do these two so"
+    },
+    {
+      "start": 891.48,
+      "end": 904.12,
+      "text": "focus on the ones that are checked the one with the the present is making like 10% to 15% less"
+    },
+    {
+      "start": 904.12,
+      "end": 911.5600000000001,
+      "text": "than the instant one-time offer with five-minute countdown you see that and that's because I'm"
+    },
+    {
+      "start": 911.5600000000001,
+      "end": 917.8000000000001,
+      "text": "judging the ARPU which I believe is the most important metric because this means how much revenue"
+    },
+    {
+      "start": 917.8,
+      "end": 926.12,
+      "text": "are you generating per viewer so like let's say 10 people viewed a screen and you know one paid"
+    },
+    {
+      "start": 926.12,
+      "end": 933.64,
+      "text": "$20 you're making $2 per view which is about exactly what this is making so on that note"
+    },
+    {
+      "start": 934.68,
+      "end": 940.68,
+      "text": "if your goal is revenue getting the ARPU up as much as possible even if it if that means the"
+    },
+    {
+      "start": 940.68,
+      "end": 945.64,
+      "text": "conversion rate suffers is an issue so you can see there's like a free percent difference between"
+    },
+    {
+      "start": 945.72,
+      "end": 950.1999999999999,
+      "text": "this conversion rate and the other conversion rate between this discount so this seems better"
+    },
+    {
+      "start": 952.4399999999999,
+      "end": 957.3199999999999,
+      "text": "and it actually is better sorry that it actually is better has a higher conversion rate and it makes"
+    },
+    {
+      "start": 957.3199999999999,
+      "end": 961.48,
+      "text": "more money per user which kind of makes sense because if you have a higher conversion rate usually"
+    },
+    {
+      "start": 961.48,
+      "end": 965.88,
+      "text": "more people are paying which means it's more revenue per user so actually yeah no this is right"
+    },
+    {
+      "start": 965.88,
+      "end": 972.52,
+      "text": "but in some instances like this top one and I know we have limited data but this is an 8.7%"
+    },
+    {
+      "start": 972.52,
+      "end": 979.4,
+      "text": "conversion rate so very low compared to the others but it has 2.24 estimated dollars revenue per user"
+    },
+    {
+      "start": 980.68,
+      "end": 985.96,
+      "text": "very interesting stuff so even though this is almost half it's still making more than the previous one"
+    },
+    {
+      "start": 986.84,
+      "end": 991.88,
+      "text": "so again to cut for if you're optimizing for revenue if you're trying to make as much money as"
+    },
+    {
+      "start": 991.88,
+      "end": 996.36,
+      "text": "possible focus on ARPU even if that means are the expense of the conversion rate"
+    },
+    {
+      "start": 996.6800000000001,
+      "end": 1006.52,
+      "text": "even if that means like you sell $100 a year and only 5% of people pay for it but you make"
+    },
+    {
+      "start": 1006.52,
+      "end": 1013.48,
+      "text": "way more money per user because if you had if you were selling like $5 a week plan you would have"
+    },
+    {
+      "start": 1013.48,
+      "end": 1017.8000000000001,
+      "text": "maybe a super high conversion rate because your average revenue per user wouldn't be that high"
+    },
+    {
+      "start": 1017.8000000000001,
+      "end": 1024.3600000000001,
+      "text": "which means it it maps out that the $100 a year would be way more beneficial for you if you're"
+    },
+    {
+      "start": 1024.36,
+      "end": 1031.0,
+      "text": "focusing on revenue actually just forgot massive massive massive thing I'm going to tell you guys"
+    },
+    {
+      "start": 1031.0,
+      "end": 1033.7199999999998,
+      "text": "one sec"
+    },
+    {
+      "start": 1037.6399999999999,
+      "end": 1047.24,
+      "text": "all right looking we're not done I'm about to make you thousands of dollars more a day at scale"
+    },
+    {
+      "start": 1047.88,
+      "end": 1056.04,
+      "text": "or at least boost your revenue by 20 to 25 to 40 percent is that drastic boys it's that drastic"
+    },
+    {
+      "start": 1056.68,
+      "end": 1069.88,
+      "text": "ready you see this top campaign transaction abandoned right here yeah so this has a 25 or 23.1"
+    },
+    {
+      "start": 1070.5200000000002,
+      "end": 1079.64,
+      "text": "percent conversion rate that means one in four people pay when they see this screen that's"
+    },
+    {
+      "start": 1079.64,
+      "end": 1087.24,
+      "text": "how overpowered it is so I'm going to tell you what it does how to set it up and a really good pay"
+    },
+    {
+      "start": 1087.24,
+      "end": 1096.3600000000001,
+      "text": "all for it okay let's go so what you do is you go to campaigns you campaign and you search you"
+    },
+    {
+      "start": 1096.36,
+      "end": 1100.6799999999998,
+      "text": "just call this what transaction abandoned I'm going to call it transaction abandoned two because"
+    },
+    {
+      "start": 1100.6799999999998,
+      "end": 1109.6399999999999,
+      "text": "I already have one and then for placements you do transaction abandoned okay so this is a default"
+    },
+    {
+      "start": 1109.6399999999999,
+      "end": 1114.1999999999998,
+      "text": "super wall event name and you don't need to make it yourself and you can already see the amount of"
+    },
+    {
+      "start": 1114.1999999999998,
+      "end": 1118.76,
+      "text": "people that triggered this event the last 24 hours which is approximately 2000 people now what"
+    },
+    {
+      "start": 1118.76,
+      "end": 1124.52,
+      "text": "this means is anyone that's clicked on the paywall and has clicks continue and like Apple have"
+    },
+    {
+      "start": 1124.52,
+      "end": 1132.76,
+      "text": "prompted them to pay and then and then they change their mind and tap out of it yeah they get hit"
+    },
+    {
+      "start": 1132.76,
+      "end": 1139.48,
+      "text": "with a second paywall which has a massive discount and it's usually around 50 percent now these"
+    },
+    {
+      "start": 1139.48,
+      "end": 1144.2,
+      "text": "people are extremely high intent because they were about to pay maybe you don't know why they didn't"
+    },
+    {
+      "start": 1144.2,
+      "end": 1150.84,
+      "text": "pay but maybe pricing was an issue so the whole strategy I've made this campaign which I'll show"
+    },
+    {
+      "start": 1150.9199999999998,
+      "end": 1158.52,
+      "text": "this one is to hit them with like a phoma offer so this is my phoma offer one time offer 80 percent"
+    },
+    {
+      "start": 1158.52,
+      "end": 1166.04,
+      "text": "off forever and very intentional language this offer won't be there once you close it you see this"
+    },
+    {
+      "start": 1166.04,
+      "end": 1174.9199999999998,
+      "text": "right here very very intentional now what this does is you know imagine imagine the flow someone's"
+    },
+    {
+      "start": 1174.9199999999998,
+      "end": 1179.72,
+      "text": "about to pay for the Kali AI clone we just created and they really want to check their colors they"
+    },
+    {
+      "start": 1179.72,
+      "end": 1184.68,
+      "text": "really want to change their life they really want to lose weight but then they get hit the paywall"
+    },
+    {
+      "start": 1184.68,
+      "end": 1191.24,
+      "text": "and they're like okay 30 dollars a year let's do it let's do it click continue and then the"
+    },
+    {
+      "start": 1191.24,
+      "end": 1197.96,
+      "text": "the dollar sign comes up on the screen it says 2999 Kali AI and this is double tap to pay and then"
+    },
+    {
+      "start": 1197.96,
+      "end": 1204.76,
+      "text": "the users like hmm actually it seems like a lot of money and I don't really spend money on apps"
+    },
+    {
+      "start": 1204.76,
+      "end": 1210.36,
+      "text": "I only spend money on food and other stuff so I'm gonna tap out of this as soon as they tap out of"
+    },
+    {
+      "start": 1210.36,
+      "end": 1218.28,
+      "text": "it they get hit the one time offer 80 percent off forever all right and it's it just hits some of"
+    },
+    {
+      "start": 1218.28,
+      "end": 1226.84,
+      "text": "the fact discount so yeah I mean as the numbers don't lie I've spoke to Zach who owns Kali AI"
+    },
+    {
+      "start": 1226.84,
+      "end": 1231.72,
+      "text": "it's boosted their revenue by almost 40 percent it's been my main revenue driver every single day"
+    },
+    {
+      "start": 1231.72,
+      "end": 1236.92,
+      "text": "and it's probably the most essential part of Superwall if you want to be successful long term"
+    },
+    {
+      "start": 1238.1200000000001,
+      "end": 1245.48,
+      "text": "one of the best decisions I've ever ever ever made so I'm real quick I'll just show you with"
+    },
+    {
+      "start": 1245.48,
+      "end": 1250.68,
+      "text": "a template you can use for that so if you go to templates um scroll down this should be one"
+    },
+    {
+      "start": 1251.24,
+      "end": 1256.92,
+      "text": "okay here's one for example uh this is a bunch of code but it does actually count down"
+    },
+    {
+      "start": 1257.8000000000002,
+      "end": 1261.96,
+      "text": "and you can kind of go to ideas on one time offer just use this template and then add it to the"
+    },
+    {
+      "start": 1261.96,
+      "end": 1266.44,
+      "text": "campaign like I've showed you previously or this is another one one time offer you'll never see this"
+    },
+    {
+      "start": 1266.44,
+      "end": 1272.68,
+      "text": "again with a massive discount and I would always discount by at least like 50 percent so the main"
+    },
+    {
+      "start": 1272.68,
+      "end": 1279.5600000000002,
+      "text": "paywall is like the main paywall presents you with a product that costs 2999 a year the discount"
+    },
+    {
+      "start": 1279.56,
+      "end": 1289.6399999999999,
+      "text": "gives you an offer for 1999 a year which is you know about 50 percent so yeah anyways that is a"
+    },
+    {
+      "start": 1289.6399999999999,
+      "end": 1294.12,
+      "text": "high level overview I think I've covered all bases when it comes to Superwall this is like this"
+    },
+    {
+      "start": 1294.12,
+      "end": 1299.24,
+      "text": "I guess the most important and essential stuff I wouldn't overcomplicate it it's just you know"
+    },
+    {
+      "start": 1300.28,
+      "end": 1307.6399999999999,
+      "text": "products paywall pricing testing data and then you make a decision and I would recommend"
+    },
+    {
+      "start": 1307.64,
+      "end": 1312.68,
+      "text": "you just keep testing keep testing keep testing um there's always ways to optimize the revenue"
+    },
+    {
+      "start": 1312.68,
+      "end": 1319.72,
+      "text": "I think I said it's previously but like a 10 percent increase like taking an LTV over user from 20"
+    },
+    {
+      "start": 1319.72,
+      "end": 1325.5600000000002,
+      "text": "$20 to $22 is a 10 percent increase which seems nominal which seems marginal but I'm making half"
+    },
+    {
+      "start": 1325.5600000000002,
+      "end": 1332.44,
+      "text": "a million a month so a 10 percent increase is $50,000 a month and it goes like the same way for like"
+    },
+    {
+      "start": 1332.52,
+      "end": 1339.16,
+      "text": "Cali are like if they boost like conversions or boost like revenue by 10 percent by just playing"
+    },
+    {
+      "start": 1339.16,
+      "end": 1344.3600000000001,
+      "text": "around with the paywall and the language and how they are framing things that 10 percent increase"
+    },
+    {
+      "start": 1344.3600000000001,
+      "end": 1350.3600000000001,
+      "text": "is hundreds of thousands that's a fucking Lamborghini Hurrah could even a month just in like small"
+    },
+    {
+      "start": 1351.0,
+      "end": 1359.0,
+      "text": "really easy um changes so yeah as I said cover all my bases here it is a pretty high level overview"
+    },
+    {
+      "start": 1359.64,
+      "end": 1365.24,
+      "text": "but this is all the important stuff and you know I've come this far I mean I'll show the revenue"
+    },
+    {
+      "start": 1365.24,
+      "end": 1369.72,
+      "text": "just just because I don't really care this is proceeds by the way all that fucking sucks"
+    },
+    {
+      "start": 1369.72,
+      "end": 1373.88,
+      "text": "right 90 days give me something to do see all right almost a million in the last 90 days"
+    },
+    {
+      "start": 1375.32,
+      "end": 1379.72,
+      "text": "it was better than this we're having a slow month point is you know I've come this far"
+    },
+    {
+      "start": 1381.56,
+      "end": 1385.96,
+      "text": "with all the knowledge I just showed of you and as you can see transaction to pendant has made"
+    },
+    {
+      "start": 1385.96,
+      "end": 1393.08,
+      "text": "miles more than any other campaign I've ever run just for perspective so yeah keep killing your"
+    },
+    {
+      "start": 1393.08,
+      "end": 1402.1999999999998,
+      "text": "boys much love peace"
+    }
+  ]
+}

@@ -1,0 +1,832 @@
+{
+  "file_name": "012_Lesson_12.faudio-hi-0-Default.mp4",
+  "text": " Okay, welcome to the first unit of or first lesson of design. Design is where we actually bring our idea to life. So in the previous module, we will have come up with the idea that we intend to work on. In this module, we're going to actually make it into reality. Put it into pixels. So I'll go through the core walkthrough of what all the design module will look like to start off. And then we'll dive into setting up Figma and incorporating some inspiration. Okay. Figma is a design software. Do not try to use Canva if you are going to be designing a mobile or web application. It's a terrible idea. You might use it for some social media stuff. I don't know your background, but you definitely should not use it for consumer apps. Then we're going to go into wire framing. This is actually coming up with the sort of general layout of your product. You know, like box here and button here and that sort of thing. We have four tabs, settings in the top right corner. Then we're going to go over hiring a designer. The reason that we're doing this here and not at the end is once you listen to the first two lessons, you'll kind of be ready to hire a designer. But you should almost certainly listen to the rest of the lessons. Now that said, some people want to move as quickly as possible. The first two lessons will give the core information necessary. At that point, if you're trying to move as quickly as possible, you might want a hire designer while you complete the rest of the module. Personally, though, I would recommend doing it all at once. I also know that a lot of people here aren't going to watch everything all the way through. This is one of the major takeaways. There are right ways to do it and wrong ways to do it. I want to make sure that you guys do it the right way. Testing out this camera. Yeah, we're good. Cool. Then we'll have a brief assignment. We'll move into Unit 1. So we go to Unit 0, then Unit 1. Unit 1 contains the actual information you're getting your MVP complete. So we step a little bit beyond wire framing and into getting or building a fully fleshed out MVP. We have our primary and secondary actions, some basic principles. We move into onboarding and paywalls. This is very, very important. Then we have an assignment designing a bunch of screens. Next, we have brand aesthetics and design to distribution. We don't have the assignment built out yet for this. I'm going to actually do that right after I record this. I realize I think I'd just accidentally left out or left something in. I also think that Alex is going to be doing that part. So important notes. You should watch additional tutorials on design. This is not meant to make you an amazing designer for the sake of time and and you know prioritizing the most important higher order components of app design. I'm going to be teaching you everything that I and we at op app mafia know. But at the end of the day, the vast majority of people are not trying to become 10x designers, right? You need to know how to design well enough to create a great product and specifically how to create great UX. It will take years to get great UI. And so that's why we usually outsource that. All right. On to the lesson itself. So. The the amount of theory that we're going to have in design will be significantly less than ideation. We're going to be a lot more hands on it. I'm going to show you guys how I work in in Figma. Step one, download Figma dot com. So you go to the website you download super easy. You can work out of the browser version, but I definitely recommend working out of the desktop version. Then you should play around, watch some tutorials online. And I'll kind of show you guys the very basics and tutorials can take you next step further. And then you're going to want to screenshot other apps or use mobbing. The idea that we are going to be designing throughout my my lecturing during this module will be test max super non creative very descriptive name. And then you'll be a product to help guys improve in their testosterone and track their progress by uploading personal information. We'll get into the more specific details, but essentially think like take a picture of your face, your body, answer questions about your habits and get a custom routine from proving your testosterone. And then you'll be able to do a very, very common problem that young men nowadays are facing, which is low testosterone, which is extremely, extremely bad for your quality of life and overall feeling of well being. And a lot of a lot of guys on social media are turning to influencers to tell them what to do. But through an application, we can develop more, more custom protocols with even higher quality, more structured information. So I'm sure you can tell it even just based on the namesake. It will resemble you max to some extent. I didn't want to just do a product that I've already done before I easily could have taken a design, you know, you know, just redesign you max or Kelly, I or quitter or raise or whatever app ground up. But I want to come up with something on the spot. And so you guys will be able to see how I actually think through these problems in real time. Okay, enough of that. Let's get into Figma. So here we've got Figma. Once again, if you want to learn the very basics, you can you should go watch a tutorial. But when we're starting off with app design, you're going to want to click this little hashtag looking thing in the bottom corner. And then in the top right, let me actually bring myself down here. You know what for Figma, I should be in the bottom left. Yeah, that'll be good. Okay, yeah. Okay, so up here, you can press on phone. I'll do iPhone 13, 14. I took some screenshots of apps earlier will downsize. And let's bring it over. So as I mentioned, one of the first things that I do when I'm working on a new app is I go and I take screenshots of comparables. So for the time being, I only have a few screenshots in here, but I will flesh it out more so over the course of this module as we begin to actually design. But this is like the very, very basic step number one of designing an app. You have an idea, you find apps that are similar in either functionality, demographic, and or aesthetic, or apps that you just like their components, like you just kind of like how it looks, right. You don't have to over complicate this. Just grab apps, bring them in here. The reason for this is we will be able to use them as inspiration for the different components. So for example, Cal AI, we have this sort of primary action, which is taking a picture of your food. Now, similar to Twitter, we want to make this accessible at all times. The reason I mentioned Twitter is Twitter wants you to always be able to post, right. So Twitter has this nice little circular plus button in the bottom right. That is how I actually came up with the design of this plus button. When we first launched, all that we had was this plus button in the bottom right. That was it. We literally had the plus button, camera, picture of the food, and then your calories or the food analysis would show up here. Now, for Twitter, Twitter is the primary action is all about keeping track of your streak. So Twitter has this sort of, you know, a streak length listed here, as well as the number of days that you've been active. UMX is all about beginning your scan, getting your face ratings. Now, we're going to dive much deeper into core and for primary and secondary actions within apps in the future. But the primary purpose of this lesson is to kind of just show you guys, show you guys how we incorporate screenshots from these other apps, and then use them to inform our process of wire framing or setting up our Figma file for now, I should say. So I'm not going to get too deep into wire framing. We're going to be doing that in the next video. But you want to show you guys some very basic how to's in Figma. But once again, you should watch more tutorials online and we can probably provide links of those, you know, in the description of this video. Okay, so I pressed so so down here in the bottom left, I think you can just barely see it. We have the little cursor, right? This is just our main sort of our mouse, right, our pointer. Then when we press this button, we get the frame, this enables us to add more frames. Then we have this sort of shape button. So we're starting off rectangle. If we get the drop down, we can do different sort of shapes. Let's show you how this works. Say that we want to put something right here. I'll create this rectangle. And now in the wire framing lesson next, we're going to talk about how this sort of size and color and quarter radius are less important when you first begin designing your app. But what's most important is just kind of putting it in the different places that you want. But for now, let's just kind of like redesign UMACS a little bit. And then we're going to reshape it for this app in the next lesson. So create this rectangle. Let's say I want to add the quarter radius right now. I'll press this button here, corner radius, maybe add 20, right? So we get this sort of looking image. Then we want to button within it, right? So this is the background image and we want another button in it. So now I'll change this maybe to be black and I'll add a little quarter radius as well. Great. And you can see we get some some amount of auto layout by the editor. So we have the shapes here. If we jump to one over, we've got text. I'll add some text facial analysis. I'll maybe increase the size of this. Maybe this is a little bit bigger. Bold it. Now we've got facial analysis right here. It's very common to have a tab bar at the bottom. So we can put this little tab bar in. And add some new little squares to represent icons or buttons. So I'm just copying and pasting this over. So I'm just going to select these and center them. And there you have it that quickly. I've got the sort of like the main layout designed from UMax. Once again in the next lesson, we're going to dive deeper into this. But let's say I want to add comments. I'll say for my designer, add an image of a generic person right here. And then you can add more. You can say add a scrollable set here. Okay. If you already know how to use Figma, I'm sure you skipped the video at this point. If you didn't, thanks for staying to watch this a little refresher. If you don't know how to use Figma, you're new to it. I would really recommend once again watching tutorials online. And honestly, just spending like 20 minutes, 30 minutes, even like two hours getting familiar with the software. It's extremely powerful. I spend so much time in Figma. So you're going to want to get good at it. Cool. That's that's this first lesson of the basic Figma setup. Importing these screenshots of comparable apps. And in the next lesson, we were going to dive into wire framing itself. How to properly do it. Adding more detailed instructions for your designer. And how to think through the sort of UX side of things. Figuring out when to copy and paste components over. And when to come up with stuff on your own. Cool. I'll see you guys in the next lesson.",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Okay, welcome to the first unit of or first lesson of design."
+    },
+    {
+      "start": 9.0,
+      "end": 12.0,
+      "text": "Design is where we actually bring our idea to life."
+    },
+    {
+      "start": 12.0,
+      "end": 18.0,
+      "text": "So in the previous module, we will have come up with the idea that we intend to work on."
+    },
+    {
+      "start": 18.0,
+      "end": 25.0,
+      "text": "In this module, we're going to actually make it into reality."
+    },
+    {
+      "start": 25.0,
+      "end": 28.0,
+      "text": "Put it into pixels."
+    },
+    {
+      "start": 28.0,
+      "end": 35.0,
+      "text": "So I'll go through the core walkthrough of what all the design module will look like to start off."
+    },
+    {
+      "start": 35.0,
+      "end": 41.0,
+      "text": "And then we'll dive into setting up Figma and incorporating some inspiration."
+    },
+    {
+      "start": 41.0,
+      "end": 44.0,
+      "text": "Okay."
+    },
+    {
+      "start": 44.0,
+      "end": 48.0,
+      "text": "Figma is a design software."
+    },
+    {
+      "start": 48.0,
+      "end": 55.0,
+      "text": "Do not try to use Canva if you are going to be designing a mobile or web application."
+    },
+    {
+      "start": 55.0,
+      "end": 57.0,
+      "text": "It's a terrible idea."
+    },
+    {
+      "start": 57.0,
+      "end": 59.0,
+      "text": "You might use it for some social media stuff."
+    },
+    {
+      "start": 59.0,
+      "end": 66.0,
+      "text": "I don't know your background, but you definitely should not use it for consumer apps."
+    },
+    {
+      "start": 66.0,
+      "end": 68.0,
+      "text": "Then we're going to go into wire framing."
+    },
+    {
+      "start": 68.0,
+      "end": 73.0,
+      "text": "This is actually coming up with the sort of general layout of your product."
+    },
+    {
+      "start": 73.0,
+      "end": 78.0,
+      "text": "You know, like box here and button here and that sort of thing."
+    },
+    {
+      "start": 78.0,
+      "end": 82.0,
+      "text": "We have four tabs, settings in the top right corner."
+    },
+    {
+      "start": 82.0,
+      "end": 84.0,
+      "text": "Then we're going to go over hiring a designer."
+    },
+    {
+      "start": 84.0,
+      "end": 90.0,
+      "text": "The reason that we're doing this here and not at the end is once you listen to the first two lessons,"
+    },
+    {
+      "start": 90.0,
+      "end": 94.0,
+      "text": "you'll kind of be ready to hire a designer."
+    },
+    {
+      "start": 94.0,
+      "end": 100.0,
+      "text": "But you should almost certainly listen to the rest of the lessons."
+    },
+    {
+      "start": 100.0,
+      "end": 103.0,
+      "text": "Now that said, some people want to move as quickly as possible."
+    },
+    {
+      "start": 103.0,
+      "end": 106.0,
+      "text": "The first two lessons will give the core information necessary."
+    },
+    {
+      "start": 106.0,
+      "end": 109.0,
+      "text": "At that point, if you're trying to move as quickly as possible,"
+    },
+    {
+      "start": 109.0,
+      "end": 113.0,
+      "text": "you might want a hire designer while you complete the rest of the module."
+    },
+    {
+      "start": 113.0,
+      "end": 117.0,
+      "text": "Personally, though, I would recommend doing it all at once."
+    },
+    {
+      "start": 117.0,
+      "end": 123.0,
+      "text": "I also know that a lot of people here aren't going to watch everything all the way through."
+    },
+    {
+      "start": 123.0,
+      "end": 127.0,
+      "text": "This is one of the major takeaways."
+    },
+    {
+      "start": 127.0,
+      "end": 130.0,
+      "text": "There are right ways to do it and wrong ways to do it."
+    },
+    {
+      "start": 130.0,
+      "end": 133.0,
+      "text": "I want to make sure that you guys do it the right way."
+    },
+    {
+      "start": 133.0,
+      "end": 135.0,
+      "text": "Testing out this camera. Yeah, we're good."
+    },
+    {
+      "start": 135.0,
+      "end": 136.0,
+      "text": "Cool."
+    },
+    {
+      "start": 136.0,
+      "end": 142.0,
+      "text": "Then we'll have a brief assignment."
+    },
+    {
+      "start": 142.0,
+      "end": 145.0,
+      "text": "We'll move into Unit 1."
+    },
+    {
+      "start": 145.0,
+      "end": 148.0,
+      "text": "So we go to Unit 0, then Unit 1."
+    },
+    {
+      "start": 148.0,
+      "end": 153.0,
+      "text": "Unit 1 contains the actual information you're getting your MVP complete."
+    },
+    {
+      "start": 153.0,
+      "end": 161.0,
+      "text": "So we step a little bit beyond wire framing and into getting or building a fully fleshed out MVP."
+    },
+    {
+      "start": 161.0,
+      "end": 165.0,
+      "text": "We have our primary and secondary actions, some basic principles."
+    },
+    {
+      "start": 165.0,
+      "end": 168.0,
+      "text": "We move into onboarding and paywalls."
+    },
+    {
+      "start": 168.0,
+      "end": 171.0,
+      "text": "This is very, very important."
+    },
+    {
+      "start": 171.0,
+      "end": 175.0,
+      "text": "Then we have an assignment designing a bunch of screens."
+    },
+    {
+      "start": 175.0,
+      "end": 179.0,
+      "text": "Next, we have brand aesthetics and design to distribution."
+    },
+    {
+      "start": 179.0,
+      "end": 182.0,
+      "text": "We don't have the assignment built out yet for this."
+    },
+    {
+      "start": 182.0,
+      "end": 184.0,
+      "text": "I'm going to actually do that right after I record this."
+    },
+    {
+      "start": 184.0,
+      "end": 190.0,
+      "text": "I realize I think I'd just accidentally left out or left something in."
+    },
+    {
+      "start": 190.0,
+      "end": 195.0,
+      "text": "I also think that Alex is going to be doing that part."
+    },
+    {
+      "start": 195.0,
+      "end": 197.0,
+      "text": "So important notes."
+    },
+    {
+      "start": 197.0,
+      "end": 201.0,
+      "text": "You should watch additional tutorials on design."
+    },
+    {
+      "start": 201.0,
+      "end": 212.0,
+      "text": "This is not meant to make you an amazing designer for the sake of time and and you know prioritizing the most important higher order components of app design."
+    },
+    {
+      "start": 212.0,
+      "end": 218.0,
+      "text": "I'm going to be teaching you everything that I and we at op app mafia know."
+    },
+    {
+      "start": 218.0,
+      "end": 223.0,
+      "text": "But at the end of the day, the vast majority of people are not trying to become 10x designers, right?"
+    },
+    {
+      "start": 223.0,
+      "end": 233.0,
+      "text": "You need to know how to design well enough to create a great product and specifically how to create great UX."
+    },
+    {
+      "start": 233.0,
+      "end": 236.0,
+      "text": "It will take years to get great UI."
+    },
+    {
+      "start": 236.0,
+      "end": 239.0,
+      "text": "And so that's why we usually outsource that."
+    },
+    {
+      "start": 239.0,
+      "end": 240.0,
+      "text": "All right."
+    },
+    {
+      "start": 240.0,
+      "end": 242.0,
+      "text": "On to the lesson itself."
+    },
+    {
+      "start": 242.0,
+      "end": 244.0,
+      "text": "So."
+    },
+    {
+      "start": 244.0,
+      "end": 249.0,
+      "text": "The the amount of theory that we're going to have in design will be significantly less than ideation."
+    },
+    {
+      "start": 249.0,
+      "end": 252.0,
+      "text": "We're going to be a lot more hands on it."
+    },
+    {
+      "start": 252.0,
+      "end": 255.0,
+      "text": "I'm going to show you guys how I work in in Figma."
+    },
+    {
+      "start": 255.0,
+      "end": 258.0,
+      "text": "Step one, download Figma dot com."
+    },
+    {
+      "start": 258.0,
+      "end": 261.0,
+      "text": "So you go to the website you download super easy."
+    },
+    {
+      "start": 261.0,
+      "end": 269.0,
+      "text": "You can work out of the browser version, but I definitely recommend working out of the desktop version."
+    },
+    {
+      "start": 269.0,
+      "end": 274.0,
+      "text": "Then you should play around, watch some tutorials online."
+    },
+    {
+      "start": 274.0,
+      "end": 279.0,
+      "text": "And I'll kind of show you guys the very basics and tutorials can take you next step further."
+    },
+    {
+      "start": 279.0,
+      "end": 284.0,
+      "text": "And then you're going to want to screenshot other apps or use mobbing."
+    },
+    {
+      "start": 284.0,
+      "end": 296.0,
+      "text": "The idea that we are going to be designing throughout my my lecturing during this module will be test max super non creative very descriptive name."
+    },
+    {
+      "start": 296.0,
+      "end": 306.0,
+      "text": "And then you'll be a product to help guys improve in their testosterone and track their progress by uploading personal information."
+    },
+    {
+      "start": 306.0,
+      "end": 318.0,
+      "text": "We'll get into the more specific details, but essentially think like take a picture of your face, your body, answer questions about your habits and get a custom routine from proving your testosterone."
+    },
+    {
+      "start": 318.0,
+      "end": 334.0,
+      "text": "And then you'll be able to do a very, very common problem that young men nowadays are facing, which is low testosterone, which is extremely, extremely bad for your quality of life and overall feeling of well being."
+    },
+    {
+      "start": 334.0,
+      "end": 339.0,
+      "text": "And a lot of a lot of guys on social media are turning to influencers to tell them what to do."
+    },
+    {
+      "start": 339.0,
+      "end": 348.0,
+      "text": "But through an application, we can develop more, more custom protocols with even higher quality, more structured information."
+    },
+    {
+      "start": 348.0,
+      "end": 352.0,
+      "text": "So I'm sure you can tell it even just based on the namesake."
+    },
+    {
+      "start": 352.0,
+      "end": 357.0,
+      "text": "It will resemble you max to some extent."
+    },
+    {
+      "start": 357.0,
+      "end": 373.0,
+      "text": "I didn't want to just do a product that I've already done before I easily could have taken a design, you know, you know, just redesign you max or Kelly, I or quitter or raise or whatever app ground up."
+    },
+    {
+      "start": 373.0,
+      "end": 376.0,
+      "text": "But I want to come up with something on the spot."
+    },
+    {
+      "start": 376.0,
+      "end": 379.0,
+      "text": "And so you guys will be able to see how I actually think through these problems in real time."
+    },
+    {
+      "start": 379.0,
+      "end": 381.0,
+      "text": "Okay, enough of that."
+    },
+    {
+      "start": 381.0,
+      "end": 385.0,
+      "text": "Let's get into Figma."
+    },
+    {
+      "start": 385.0,
+      "end": 387.0,
+      "text": "So here we've got Figma."
+    },
+    {
+      "start": 387.0,
+      "end": 391.0,
+      "text": "Once again, if you want to learn the very basics, you can you should go watch a tutorial."
+    },
+    {
+      "start": 391.0,
+      "end": 397.0,
+      "text": "But when we're starting off with app design, you're going to want to click this little hashtag looking thing in the bottom corner."
+    },
+    {
+      "start": 397.0,
+      "end": 402.0,
+      "text": "And then in the top right, let me actually bring myself down here."
+    },
+    {
+      "start": 402.0,
+      "end": 406.0,
+      "text": "You know what for Figma, I should be in the bottom left. Yeah, that'll be good."
+    },
+    {
+      "start": 406.0,
+      "end": 408.0,
+      "text": "Okay, yeah."
+    },
+    {
+      "start": 408.0,
+      "end": 412.0,
+      "text": "Okay, so up here, you can press on phone."
+    },
+    {
+      "start": 412.0,
+      "end": 415.0,
+      "text": "I'll do iPhone 13, 14."
+    },
+    {
+      "start": 415.0,
+      "end": 420.0,
+      "text": "I took some screenshots of apps earlier will downsize."
+    },
+    {
+      "start": 420.0,
+      "end": 422.0,
+      "text": "And let's bring it over."
+    },
+    {
+      "start": 422.0,
+      "end": 431.0,
+      "text": "So as I mentioned, one of the first things that I do when I'm working on a new app is I go and I take screenshots of comparables."
+    },
+    {
+      "start": 431.0,
+      "end": 441.0,
+      "text": "So for the time being, I only have a few screenshots in here, but I will flesh it out more so over the course of this module as we begin to actually design."
+    },
+    {
+      "start": 441.0,
+      "end": 447.0,
+      "text": "But this is like the very, very basic step number one of designing an app."
+    },
+    {
+      "start": 447.0,
+      "end": 462.0,
+      "text": "You have an idea, you find apps that are similar in either functionality, demographic, and or aesthetic, or apps that you just like their components, like you just kind of like how it looks, right."
+    },
+    {
+      "start": 462.0,
+      "end": 464.0,
+      "text": "You don't have to over complicate this."
+    },
+    {
+      "start": 464.0,
+      "end": 467.0,
+      "text": "Just grab apps, bring them in here."
+    },
+    {
+      "start": 467.0,
+      "end": 474.0,
+      "text": "The reason for this is we will be able to use them as inspiration for the different components."
+    },
+    {
+      "start": 474.0,
+      "end": 482.0,
+      "text": "So for example, Cal AI, we have this sort of primary action, which is taking a picture of your food."
+    },
+    {
+      "start": 482.0,
+      "end": 487.0,
+      "text": "Now, similar to Twitter, we want to make this accessible at all times."
+    },
+    {
+      "start": 487.0,
+      "end": 492.0,
+      "text": "The reason I mentioned Twitter is Twitter wants you to always be able to post, right."
+    },
+    {
+      "start": 492.0,
+      "end": 497.0,
+      "text": "So Twitter has this nice little circular plus button in the bottom right."
+    },
+    {
+      "start": 497.0,
+      "end": 501.0,
+      "text": "That is how I actually came up with the design of this plus button."
+    },
+    {
+      "start": 501.0,
+      "end": 507.0,
+      "text": "When we first launched, all that we had was this plus button in the bottom right. That was it."
+    },
+    {
+      "start": 507.0,
+      "end": 516.0,
+      "text": "We literally had the plus button, camera, picture of the food, and then your calories or the food analysis would show up here."
+    },
+    {
+      "start": 516.0,
+      "end": 523.0,
+      "text": "Now, for Twitter, Twitter is the primary action is all about keeping track of your streak."
+    },
+    {
+      "start": 523.0,
+      "end": 536.0,
+      "text": "So Twitter has this sort of, you know, a streak length listed here, as well as the number of days that you've been active."
+    },
+    {
+      "start": 537.0,
+      "end": 541.0,
+      "text": "UMX is all about beginning your scan, getting your face ratings."
+    },
+    {
+      "start": 541.0,
+      "end": 551.0,
+      "text": "Now, we're going to dive much deeper into core and for primary and secondary actions within apps in the future."
+    },
+    {
+      "start": 551.0,
+      "end": 562.0,
+      "text": "But the primary purpose of this lesson is to kind of just show you guys, show you guys how we incorporate screenshots from these other apps,"
+    },
+    {
+      "start": 562.0,
+      "end": 570.0,
+      "text": "and then use them to inform our process of wire framing or setting up our Figma file for now, I should say."
+    },
+    {
+      "start": 570.0,
+      "end": 574.0,
+      "text": "So I'm not going to get too deep into wire framing. We're going to be doing that in the next video."
+    },
+    {
+      "start": 574.0,
+      "end": 578.0,
+      "text": "But you want to show you guys some very basic how to's in Figma."
+    },
+    {
+      "start": 578.0,
+      "end": 587.0,
+      "text": "But once again, you should watch more tutorials online and we can probably provide links of those, you know, in the description of this video."
+    },
+    {
+      "start": 588.0,
+      "end": 593.0,
+      "text": "Okay, so I pressed so so down here in the bottom left, I think you can just barely see it."
+    },
+    {
+      "start": 593.0,
+      "end": 600.0,
+      "text": "We have the little cursor, right? This is just our main sort of our mouse, right, our pointer."
+    },
+    {
+      "start": 600.0,
+      "end": 605.0,
+      "text": "Then when we press this button, we get the frame, this enables us to add more frames."
+    },
+    {
+      "start": 605.0,
+      "end": 610.0,
+      "text": "Then we have this sort of shape button."
+    },
+    {
+      "start": 610.0,
+      "end": 615.0,
+      "text": "So we're starting off rectangle. If we get the drop down, we can do different sort of shapes."
+    },
+    {
+      "start": 615.0,
+      "end": 621.0,
+      "text": "Let's show you how this works. Say that we want to put something right here. I'll create this rectangle."
+    },
+    {
+      "start": 621.0,
+      "end": 634.0,
+      "text": "And now in the wire framing lesson next, we're going to talk about how this sort of size and color and quarter radius are less important when you first begin designing your app."
+    },
+    {
+      "start": 634.0,
+      "end": 638.0,
+      "text": "But what's most important is just kind of putting it in the different places that you want."
+    },
+    {
+      "start": 638.0,
+      "end": 643.0,
+      "text": "But for now, let's just kind of like redesign UMACS a little bit."
+    },
+    {
+      "start": 643.0,
+      "end": 648.0,
+      "text": "And then we're going to reshape it for this app in the next lesson."
+    },
+    {
+      "start": 648.0,
+      "end": 651.0,
+      "text": "So create this rectangle."
+    },
+    {
+      "start": 651.0,
+      "end": 653.0,
+      "text": "Let's say I want to add the quarter radius right now."
+    },
+    {
+      "start": 653.0,
+      "end": 657.0,
+      "text": "I'll press this button here, corner radius, maybe add 20, right?"
+    },
+    {
+      "start": 657.0,
+      "end": 660.0,
+      "text": "So we get this sort of looking image."
+    },
+    {
+      "start": 660.0,
+      "end": 662.0,
+      "text": "Then we want to button within it, right?"
+    },
+    {
+      "start": 662.0,
+      "end": 666.0,
+      "text": "So this is the background image and we want another button in it."
+    },
+    {
+      "start": 666.0,
+      "end": 672.0,
+      "text": "So now I'll change this maybe to be black and I'll add a little quarter radius as well."
+    },
+    {
+      "start": 672.0,
+      "end": 681.0,
+      "text": "Great. And you can see we get some some amount of auto layout by the editor."
+    },
+    {
+      "start": 681.0,
+      "end": 686.0,
+      "text": "So we have the shapes here. If we jump to one over, we've got text."
+    },
+    {
+      "start": 686.0,
+      "end": 695.0,
+      "text": "I'll add some text facial analysis."
+    },
+    {
+      "start": 695.0,
+      "end": 697.0,
+      "text": "I'll maybe increase the size of this."
+    },
+    {
+      "start": 697.0,
+      "end": 700.0,
+      "text": "Maybe this is a little bit bigger."
+    },
+    {
+      "start": 700.0,
+      "end": 705.0,
+      "text": "Bold it. Now we've got facial analysis right here."
+    },
+    {
+      "start": 705.0,
+      "end": 707.0,
+      "text": "It's very common to have a tab bar at the bottom."
+    },
+    {
+      "start": 707.0,
+      "end": 712.0,
+      "text": "So we can put this little tab bar in."
+    },
+    {
+      "start": 712.0,
+      "end": 720.0,
+      "text": "And add some new little squares to represent icons or buttons."
+    },
+    {
+      "start": 720.0,
+      "end": 724.0,
+      "text": "So I'm just copying and pasting this over."
+    },
+    {
+      "start": 724.0,
+      "end": 727.0,
+      "text": "So I'm just going to select these and center them."
+    },
+    {
+      "start": 727.0,
+      "end": 729.0,
+      "text": "And there you have it that quickly."
+    },
+    {
+      "start": 729.0,
+      "end": 737.0,
+      "text": "I've got the sort of like the main layout designed from UMax."
+    },
+    {
+      "start": 737.0,
+      "end": 740.0,
+      "text": "Once again in the next lesson, we're going to dive deeper into this."
+    },
+    {
+      "start": 740.0,
+      "end": 742.0,
+      "text": "But let's say I want to add comments."
+    },
+    {
+      "start": 742.0,
+      "end": 751.0,
+      "text": "I'll say for my designer, add an image of a generic person right here."
+    },
+    {
+      "start": 751.0,
+      "end": 758.0,
+      "text": "And then you can add more. You can say add a scrollable set here."
+    },
+    {
+      "start": 758.0,
+      "end": 761.0,
+      "text": "Okay."
+    },
+    {
+      "start": 761.0,
+      "end": 765.0,
+      "text": "If you already know how to use Figma, I'm sure you skipped the video at this point."
+    },
+    {
+      "start": 765.0,
+      "end": 770.0,
+      "text": "If you didn't, thanks for staying to watch this a little refresher."
+    },
+    {
+      "start": 770.0,
+      "end": 772.0,
+      "text": "If you don't know how to use Figma, you're new to it."
+    },
+    {
+      "start": 772.0,
+      "end": 776.0,
+      "text": "I would really recommend once again watching tutorials online."
+    },
+    {
+      "start": 776.0,
+      "end": 780.0,
+      "text": "And honestly, just spending like 20 minutes, 30 minutes,"
+    },
+    {
+      "start": 780.0,
+      "end": 784.0,
+      "text": "even like two hours getting familiar with the software."
+    },
+    {
+      "start": 784.0,
+      "end": 786.0,
+      "text": "It's extremely powerful."
+    },
+    {
+      "start": 786.0,
+      "end": 790.0,
+      "text": "I spend so much time in Figma."
+    },
+    {
+      "start": 790.0,
+      "end": 793.0,
+      "text": "So you're going to want to get good at it."
+    },
+    {
+      "start": 793.0,
+      "end": 798.0,
+      "text": "Cool. That's that's this first lesson of the basic Figma setup."
+    },
+    {
+      "start": 798.0,
+      "end": 802.0,
+      "text": "Importing these screenshots of comparable apps."
+    },
+    {
+      "start": 802.0,
+      "end": 808.0,
+      "text": "And in the next lesson, we were going to dive into wire framing itself."
+    },
+    {
+      "start": 808.0,
+      "end": 810.0,
+      "text": "How to properly do it."
+    },
+    {
+      "start": 810.0,
+      "end": 813.0,
+      "text": "Adding more detailed instructions for your designer."
+    },
+    {
+      "start": 813.0,
+      "end": 816.0,
+      "text": "And how to think through the sort of UX side of things."
+    },
+    {
+      "start": 816.0,
+      "end": 819.0,
+      "text": "Figuring out when to copy and paste components over."
+    },
+    {
+      "start": 819.0,
+      "end": 822.0,
+      "text": "And when to come up with stuff on your own."
+    },
+    {
+      "start": 822.0,
+      "end": 826.0,
+      "text": "Cool. I'll see you guys in the next lesson."
+    }
+  ]
+}

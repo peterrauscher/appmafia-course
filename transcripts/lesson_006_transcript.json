@@ -1,0 +1,1242 @@
+{
+  "file_name": "006_Lesson_06.faudio-hi-0-Default.mp4",
+  "text": " Lesson 4 or lesson 1.1.0, this is module 1 unit 1 lesson 0. Solve your own problems. Okay, this unit will be about solving problems. This is actual tangible problem identification, not to be confused with the previous unit which was an introduction. Going over case studies, the trade-offs of idea versus execution and the underpinnings of human psychology, right? This is all to line up for this being the sort of main unit of this module 1 that is ideation. After this we'll go over sort of deeper analysis. Once you've got to have an idea, going into seeing how much other apps in the category make, scrolling the app store. But for now, let's talk about solving problems. Okay, so previously I stated that the closer you are or your product is to the biological imperative, the more likely you are to succeed. Now the closer your product is to your own problems, so the problems that you experience, the more likely you are to succeed. Now this should be intuitive, this should be obvious. When you build for other people, you do not fully understand the pain points. You have been experienced them yourself. The more empathetic and emotionally intelligent you are, the more you can make up for this. But there is no better observer than the individual that experiences the problem. You rely on second hand feedback, which is incomplete or misleading. So if you try to practice empathy or speak to people that experience the problem, you are just one level of abstraction away from experiencing the problem itself. Now this is very key for founders to understand. Most people are very, very poor at articulating their problems. And in fact, have actually no idea what the serious or biggest problems that they experience in their life are. Now, sometimes they subconsciously or almost always subconsciously know, but make consciously articulate as being something else. This is also an issue with user feedback, which I'll get into later. So speaking to others is helpful, but it's best to solve your own problems. Finally, you'll lack the emotional urgency necessary to push through the hard moments. In the journey of building any product, there will be difficult moments where it's easier to take the path of least resistance and give up and move on to something else. Now when you care about the problem, it will make it easier to push through and continue working on it. I mentioned earlier that it's okay to build for money. Do you want to build a product because it's going to make cash and at the end of the day you want cash? That can simultaneously be true while it also being the case that it's better to build around things that you care about. So if you do care about money, figure out how to build something that makes money and solves something that you care about. Now a very, very, very important caveat is that an individual only experiences so many problems. So the next best option is to solve the problems that are experienced by your close friends or family. Okay, let's get tangible. When I was building a Holly, the College of Marketplace app, the problem that I identified was that girls specifically were buying and selling clothing in groupmeas on college campuses. Now I had some friends that experienced this as well. And so the first thing that I did was I spoke to my friends, both guys and girls and just other girls that I knew were very active in these groupmeas to hear about the problems that they experienced. I thought that I was doing the right thing. I was like, okay, this is how you solve problems. Now there were a lot of other factors that made it difficult. But one thing that we kept running into was I was constantly trying to put myself in the shoes of a girl who wants to figure out what's going to look best for her date nights and sorority parties and whatnot. But that's not who I am. And I've actually never really cared about clothing to begin with. Now as we're working on it, senior year is coming to an end. This is the spring. I'm like, man, I kind of see right, it was on the wall. It's not going to work. So I started thinking about other things that I want to solve. And at this time, I actually began working on a few different projects. One that I started working on was a sort of science-based hypertrophy maximization software. I actually know the founders of many of the most popular ones like Fitness AI and whatnot on the market. And the algorithms that the ML, they're essentially solver algorithms that they use are pretty rudimentary as well as they don't account for some of the more complex variables with regards to maximizing hypertrophy. Not to get too granular, but just to give an example. The way that a lot of these software's work is we have some threshold that we look to hit on weekly volume for the number of sets targeting chest. OK. So exercise like bench, they might call that one set for chest stimulus. The issue with that is a compound exercise like bench also works your triceps and your shoulders or front delts. But it also occurs significantly more fatigue. So when you say that a set of benches, one set for chest and a set of tricep extensions is one set for triceps, that is an over-massive oversimplification with regards to comprehensive total fatigue accumulated as well as relative hypertrophic stimulus across different muscle groups. So that was one thing that I was working on. So that was a problem that I intimately experienced myself wanting to know what I can do in the gym to make sure that I'm maximizing my gains. Now a problem that people very close to me experienced was what to say on daily apps. I experienced it myself too, right? The point here isn't that I don't know how to talk to girls, but that sometimes you receive a message and you're like, hmm, what's the proper amount of flirtyness versus straight forwardness to respond to maximize my probability of developing a connection with this girl? That's some people's objective. Other people's objective is how to have sex with her, right? We can call this spade a spade. Different people have different objectives. So given that chat GPT had just come out, we were like, this can easily be solved. So we built an app where you can upload the screenshot, slide the spiciness, essentially according to whether or not you want to be a little bit more tame or more straightforward with your response. Now given our deep knowledge, so I want to say our, I mean me, my co-founders, given our deep knowledge of this topic, we were able to figure out the proper user experience. So what features actually matter to guys that are trying to figure out what to say to girls on dating apps, as well as what the correct distribution channels are going to be because we had seen that content ourselves. So once again, the closer that you are to the problem, the easier that it will be to solve. Now if you're not solving for yourself, try to solve your friends, your family, or people very close to your demographic. Okay, as I mentioned earlier, speaking to users. So this is touching a little bit on the future, but this is very important note. As you scale, user feedback will be able to inform your product direction, but early on, it's more likely to cloud your judgment. The world is a deeply inefficient place. I think that humans are deeply inefficient and unintelligent relative to the intelligence of the collective. But when you venture off to try to solve a problem on your own, most advice is going to be noise. If we think about this from a machine learning perspective, signal versus noise, the reason that the vast majority of entrepreneurs are not successful, or one of the key reasons in my opinion, is the inability to distinguish signal from noise. The act of coming up with a good idea, especially one that's novel and presents significant upside, is very, very, very difficult. And you can't outsource that. So you can speak to people and get their opinions, and you can use that as overall data. But don't expect others to do the work for you. Just because someone tells you that they want something in your product doesn't mean that that's the right move. Those are the reason that Steve Jobs and Elon Musk do not go to daily focus groups. They're artists. They're more than artists, they're businessmen. But being an artist is a component of building an amazing product. So do not over index on others' opinions, think freely, and from first principles. So we have these overarching ideas about the fact that you should solve your own problem. How do you actually identify them? Short answer is there is no magic trick, but there are general frameworks that I and others apply that tend to work. The creative act, a way of being, is an amazing book. It's by Rick Rubin, who works with music artists. He provides a lot of great frameworks here, so I would recommend that. But personally, even before Rick Rubin or before I had read his book, I've spoken deeply or extensively about this, which is that I'm a massive believer in disconnection. Go for a walk, run, hike, meditate, do whatever you want. Do it for extended periods for over an hour. I find that if I go on a ten minute walk, my mind's still super cluttered from everything that we experience in day to day life. If you really want to come up with good new ideas, you need to give your mind room to breathe. The same way that if you go and you start, you haven't played basketball in a while. You go start to shoot the first few minutes, you're rusty. You've got to work those muscles and build back the sort of mind muscle connection and your body's muscle memory into remembering how to properly shoot with finesse in a smooth manner. I think that the same applies to disconnection giving your mind space to breathe. Within the book, he has a great concept, which is that if you want to come up with truly novel ideas, they don't come from within, but they come from the out, from external. They come from the universe. You need to make yourself into somewhat of an antenna, an individual that will receive the ideas that permeate our universe. Different people are going to be operating on different sort of wavelengths, different frequencies. So, given your demographic and what sort of group you belong to and who you are, you will be more receptive and have a higher probability of receiving some different subset of ideas. There's a reason that my apps are all kind of in the same domain. RizGPT, Talk to Girls, UMACS, Scan Your Face, Find out how attractive you are. Kaliai, Achieve your fitness goals, become more attractive, right? This is something that I think I have pretty deep knowledge on, personal development, self improvement, right? Even Tenex, which I didn't actually mention during this, it was recently failed project of mine, but Tenex was designed to teach people how to learn different AI tools. Once again, within the domain of self improvement, this is something that I very, very deeply understand. If you're a very religious individual, you might be more inclined to build something like Bible chat, right? I consider myself religious, Christian, Presbyterian specifically. But I don't think that I have domain expertise significantly beyond that of the average Christian. If you are a very studious individual, right, I didn't list this company here, but it's similar to Minnet AI, Turbo, TurboLearn, company that I am an advisor of actually. I pretty much never advised. They're like one of the only ones specifically because Sarthic, one of the co-founders, was my CTO for UMACS. Now Sarthic and Rudy were very, very diligent studiers and test takers. Sarthic got a 36 on his ACT and had a 40, I think he was valedictorian of high school. So, note taking specifically for education, high school college is a domain that they very, very deeply understand. Hunter had been interested in social products for years before building NGL. You know, the quitter guys, right? Conor and Alex were deeply, deeply addicted to pornography. I'm sorry, that's a joke. That's a joke. They're more so in the like your friends, right? People of our demographic, they're young guys. You guys are taking the point. Oh, I don't even think I mentioned raised during the case study. I can't believe I missed that. Anyways, raised, built by Anastasia and Tamera Tran. Raze is actually no longer on the App Store. So here I have a copycat from them. They got banned. But raised, this was, you know, not coincidentally built by girls who understand how important tanning is to other girls. That's an idea that guys would never come up with. Me building UMACs, like most other software engineers are not going to see looks maxing at its absolute peak and also understand the vision API coming out and being in the correct position to solve that problem. So you should ask yourself, what are the problems that you intimately understand? What are the problems that you understand that other people don't understand? What are the problems that you care about? You care about self improvement. Do you care about career? Do you care about religion and spirituality? Do you care about meditation? If you have listened to what I've said throughout this unit thus far, you go, well, I still don't, you know, I still don't have any ideas. My suggestion would be to become a more interesting person. If you don't have things that you care about, if you look through life in a very monotonous, black and white lens, you're not going to be the person that ideas come to. So study the fundamentals of human psychology. What your expectations are for the projects that you build, figure out what your problems are and the things that you care about and then use that in conjunction with disconnection, right? Remove all of the other noise that exists within your life. Take what I just repeated. These principles that I've taught up to this point go for a long walk. Connect, remove everything, keep that and let it ruminate. I have no doubt that so long as you are an interesting person that experiences anything of any relative importance in life that you will begin to come up with new ideas. And beyond the disconnection, I want you to hold this in the back of your mind and it should begin to impact everything that you do, like every place that you go, every interaction that you have, you should be thinking in any entrepreneur to be honest, beyond just building up should be thinking about this. But I want you to look at it through the lens of like, what are the problems that these people experience in life and is there an app that can help them solve that and help them inch forward? Okay. In the next lesson, I will dive into social media and forums. So here I talk about kind of diving inside, receiving from the universe, disconnecting. But now we're going to go through social media and the idea of actually stimulation and new data. So as opposed to removing everything else out, we're going to talk about what's the stuff that we should bring in. And how do we go through Instagram, TikTok, Reddit, X.com and other forums to identify problems that people experience and have actually made obvious for us on the internet. So I'll see you in the next lesson.",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 14.52,
+      "text": "Lesson 4 or lesson 1.1.0, this is module 1 unit 1 lesson 0."
+    },
+    {
+      "start": 14.52,
+      "end": 16.6,
+      "text": "Solve your own problems."
+    },
+    {
+      "start": 16.6,
+      "end": 21.68,
+      "text": "Okay, this unit will be about solving problems."
+    },
+    {
+      "start": 21.68,
+      "end": 27.560000000000002,
+      "text": "This is actual tangible problem identification, not to be confused with the previous unit"
+    },
+    {
+      "start": 27.560000000000002,
+      "end": 29.92,
+      "text": "which was an introduction."
+    },
+    {
+      "start": 29.92,
+      "end": 35.84,
+      "text": "Going over case studies, the trade-offs of idea versus execution and the underpinnings"
+    },
+    {
+      "start": 35.84,
+      "end": 37.24,
+      "text": "of human psychology, right?"
+    },
+    {
+      "start": 37.24,
+      "end": 47.46,
+      "text": "This is all to line up for this being the sort of main unit of this module 1 that is"
+    },
+    {
+      "start": 47.46,
+      "end": 49.88,
+      "text": "ideation."
+    },
+    {
+      "start": 49.88,
+      "end": 53.44,
+      "text": "After this we'll go over sort of deeper analysis."
+    },
+    {
+      "start": 53.44,
+      "end": 58.2,
+      "text": "Once you've got to have an idea, going into seeing how much other apps in the category"
+    },
+    {
+      "start": 58.2,
+      "end": 62.160000000000004,
+      "text": "make, scrolling the app store."
+    },
+    {
+      "start": 62.160000000000004,
+      "end": 65.68,
+      "text": "But for now, let's talk about solving problems."
+    },
+    {
+      "start": 65.68,
+      "end": 72.08,
+      "text": "Okay, so previously I stated that the closer you are or your product is to the biological"
+    },
+    {
+      "start": 72.08,
+      "end": 77.16,
+      "text": "imperative, the more likely you are to succeed."
+    },
+    {
+      "start": 77.16,
+      "end": 85.96000000000001,
+      "text": "Now the closer your product is to your own problems, so the problems that you experience,"
+    },
+    {
+      "start": 85.96,
+      "end": 89.08,
+      "text": "the more likely you are to succeed."
+    },
+    {
+      "start": 89.08,
+      "end": 91.83999999999999,
+      "text": "Now this should be intuitive, this should be obvious."
+    },
+    {
+      "start": 91.83999999999999,
+      "end": 97.1,
+      "text": "When you build for other people, you do not fully understand the pain points."
+    },
+    {
+      "start": 97.1,
+      "end": 100.28,
+      "text": "You have been experienced them yourself."
+    },
+    {
+      "start": 100.28,
+      "end": 106.03999999999999,
+      "text": "The more empathetic and emotionally intelligent you are, the more you can make up for this."
+    },
+    {
+      "start": 106.03999999999999,
+      "end": 114.96,
+      "text": "But there is no better observer than the individual that experiences the problem."
+    },
+    {
+      "start": 114.96,
+      "end": 118.75999999999999,
+      "text": "You rely on second hand feedback, which is incomplete or misleading."
+    },
+    {
+      "start": 118.75999999999999,
+      "end": 127.55999999999999,
+      "text": "So if you try to practice empathy or speak to people that experience the problem, you"
+    },
+    {
+      "start": 127.55999999999999,
+      "end": 135.16,
+      "text": "are just one level of abstraction away from experiencing the problem itself."
+    },
+    {
+      "start": 135.16,
+      "end": 138.35999999999999,
+      "text": "Now this is very key for founders to understand."
+    },
+    {
+      "start": 138.35999999999999,
+      "end": 143.12,
+      "text": "Most people are very, very poor at articulating their problems."
+    },
+    {
+      "start": 143.12,
+      "end": 149.44,
+      "text": "And in fact, have actually no idea what the serious or biggest problems that they experience"
+    },
+    {
+      "start": 149.44,
+      "end": 150.44,
+      "text": "in their life are."
+    },
+    {
+      "start": 150.44,
+      "end": 155.64000000000001,
+      "text": "Now, sometimes they subconsciously or almost always subconsciously know, but make consciously"
+    },
+    {
+      "start": 155.64000000000001,
+      "end": 158.84,
+      "text": "articulate as being something else."
+    },
+    {
+      "start": 158.84,
+      "end": 164.88,
+      "text": "This is also an issue with user feedback, which I'll get into later."
+    },
+    {
+      "start": 164.88,
+      "end": 173.0,
+      "text": "So speaking to others is helpful, but it's best to solve your own problems."
+    },
+    {
+      "start": 173.0,
+      "end": 178.96,
+      "text": "Finally, you'll lack the emotional urgency necessary to push through the hard moments."
+    },
+    {
+      "start": 178.96,
+      "end": 184.07999999999998,
+      "text": "In the journey of building any product, there will be difficult moments where it's easier"
+    },
+    {
+      "start": 184.07999999999998,
+      "end": 188.56,
+      "text": "to take the path of least resistance and give up and move on to something else."
+    },
+    {
+      "start": 188.56,
+      "end": 193.35999999999999,
+      "text": "Now when you care about the problem, it will make it easier to push through and continue"
+    },
+    {
+      "start": 193.36,
+      "end": 195.72000000000003,
+      "text": "working on it."
+    },
+    {
+      "start": 195.72000000000003,
+      "end": 198.56,
+      "text": "I mentioned earlier that it's okay to build for money."
+    },
+    {
+      "start": 198.56,
+      "end": 201.52,
+      "text": "Do you want to build a product because it's going to make cash and at the end of the day"
+    },
+    {
+      "start": 201.52,
+      "end": 203.20000000000002,
+      "text": "you want cash?"
+    },
+    {
+      "start": 203.20000000000002,
+      "end": 208.20000000000002,
+      "text": "That can simultaneously be true while it also being the case that it's better to build"
+    },
+    {
+      "start": 208.20000000000002,
+      "end": 210.44000000000003,
+      "text": "around things that you care about."
+    },
+    {
+      "start": 210.44000000000003,
+      "end": 215.64000000000001,
+      "text": "So if you do care about money, figure out how to build something that makes money and"
+    },
+    {
+      "start": 215.64000000000001,
+      "end": 218.52,
+      "text": "solves something that you care about."
+    },
+    {
+      "start": 218.52,
+      "end": 223.32000000000002,
+      "text": "Now a very, very, very important caveat is that an individual only experiences so many"
+    },
+    {
+      "start": 223.32000000000002,
+      "end": 224.32000000000002,
+      "text": "problems."
+    },
+    {
+      "start": 224.32000000000002,
+      "end": 229.48000000000002,
+      "text": "So the next best option is to solve the problems that are experienced by your close friends"
+    },
+    {
+      "start": 229.48000000000002,
+      "end": 230.48000000000002,
+      "text": "or family."
+    },
+    {
+      "start": 230.48000000000002,
+      "end": 234.12,
+      "text": "Okay, let's get tangible."
+    },
+    {
+      "start": 234.12,
+      "end": 239.88,
+      "text": "When I was building a Holly, the College of Marketplace app, the problem that I identified"
+    },
+    {
+      "start": 239.88,
+      "end": 246.24,
+      "text": "was that girls specifically were buying and selling clothing in groupmeas on college"
+    },
+    {
+      "start": 246.24,
+      "end": 247.24,
+      "text": "campuses."
+    },
+    {
+      "start": 248.20000000000002,
+      "end": 250.56,
+      "text": "Now I had some friends that experienced this as well."
+    },
+    {
+      "start": 250.56,
+      "end": 255.8,
+      "text": "And so the first thing that I did was I spoke to my friends, both guys and girls and"
+    },
+    {
+      "start": 255.8,
+      "end": 259.56,
+      "text": "just other girls that I knew were very active in these groupmeas to hear about the problems"
+    },
+    {
+      "start": 259.56,
+      "end": 261.44,
+      "text": "that they experienced."
+    },
+    {
+      "start": 261.44,
+      "end": 262.56,
+      "text": "I thought that I was doing the right thing."
+    },
+    {
+      "start": 262.56,
+      "end": 264.96000000000004,
+      "text": "I was like, okay, this is how you solve problems."
+    },
+    {
+      "start": 264.96000000000004,
+      "end": 269.88,
+      "text": "Now there were a lot of other factors that made it difficult."
+    },
+    {
+      "start": 269.88,
+      "end": 273.8,
+      "text": "But one thing that we kept running into was I was constantly trying to put myself in"
+    },
+    {
+      "start": 273.84000000000003,
+      "end": 279.28000000000003,
+      "text": "the shoes of a girl who wants to figure out what's going to look best for her date nights"
+    },
+    {
+      "start": 279.28000000000003,
+      "end": 282.72,
+      "text": "and sorority parties and whatnot."
+    },
+    {
+      "start": 282.72,
+      "end": 284.2,
+      "text": "But that's not who I am."
+    },
+    {
+      "start": 284.2,
+      "end": 289.28000000000003,
+      "text": "And I've actually never really cared about clothing to begin with."
+    },
+    {
+      "start": 289.28000000000003,
+      "end": 293.40000000000003,
+      "text": "Now as we're working on it, senior year is coming to an end."
+    },
+    {
+      "start": 293.40000000000003,
+      "end": 294.40000000000003,
+      "text": "This is the spring."
+    },
+    {
+      "start": 294.40000000000003,
+      "end": 297.72,
+      "text": "I'm like, man, I kind of see right, it was on the wall."
+    },
+    {
+      "start": 297.72,
+      "end": 299.48,
+      "text": "It's not going to work."
+    },
+    {
+      "start": 299.48,
+      "end": 301.52,
+      "text": "So I started thinking about other things that I want to solve."
+    },
+    {
+      "start": 301.52,
+      "end": 304.88,
+      "text": "And at this time, I actually began working on a few different projects."
+    },
+    {
+      "start": 304.88,
+      "end": 311.96,
+      "text": "One that I started working on was a sort of science-based hypertrophy maximization software."
+    },
+    {
+      "start": 311.96,
+      "end": 316.0,
+      "text": "I actually know the founders of many of the most popular ones like Fitness AI and whatnot"
+    },
+    {
+      "start": 316.0,
+      "end": 317.35999999999996,
+      "text": "on the market."
+    },
+    {
+      "start": 317.35999999999996,
+      "end": 323.2,
+      "text": "And the algorithms that the ML, they're essentially solver algorithms that they use are pretty"
+    },
+    {
+      "start": 323.2,
+      "end": 329.47999999999996,
+      "text": "rudimentary as well as they don't account for some of the more complex variables with"
+    },
+    {
+      "start": 329.48,
+      "end": 332.20000000000005,
+      "text": "regards to maximizing hypertrophy."
+    },
+    {
+      "start": 332.20000000000005,
+      "end": 335.32,
+      "text": "Not to get too granular, but just to give an example."
+    },
+    {
+      "start": 335.32,
+      "end": 340.40000000000003,
+      "text": "The way that a lot of these software's work is we have some threshold that we look to"
+    },
+    {
+      "start": 340.40000000000003,
+      "end": 344.32,
+      "text": "hit on weekly volume for the number of sets targeting chest."
+    },
+    {
+      "start": 344.32,
+      "end": 345.32,
+      "text": "OK."
+    },
+    {
+      "start": 345.32,
+      "end": 350.16,
+      "text": "So exercise like bench, they might call that one set for chest stimulus."
+    },
+    {
+      "start": 350.16,
+      "end": 355.40000000000003,
+      "text": "The issue with that is a compound exercise like bench also works your triceps and your"
+    },
+    {
+      "start": 355.40000000000003,
+      "end": 359.28000000000003,
+      "text": "shoulders or front delts."
+    },
+    {
+      "start": 359.28,
+      "end": 361.67999999999995,
+      "text": "But it also occurs significantly more fatigue."
+    },
+    {
+      "start": 361.67999999999995,
+      "end": 367.03999999999996,
+      "text": "So when you say that a set of benches, one set for chest and a set of tricep extensions"
+    },
+    {
+      "start": 367.03999999999996,
+      "end": 376.0,
+      "text": "is one set for triceps, that is an over-massive oversimplification with regards to comprehensive"
+    },
+    {
+      "start": 376.0,
+      "end": 381.15999999999997,
+      "text": "total fatigue accumulated as well as relative hypertrophic stimulus across different muscle"
+    },
+    {
+      "start": 381.15999999999997,
+      "end": 383.76,
+      "text": "groups."
+    },
+    {
+      "start": 383.76,
+      "end": 388.55999999999995,
+      "text": "So that was one thing that I was working on."
+    },
+    {
+      "start": 388.56,
+      "end": 393.16,
+      "text": "So that was a problem that I intimately experienced myself wanting to know what I can do in"
+    },
+    {
+      "start": 393.16,
+      "end": 396.52,
+      "text": "the gym to make sure that I'm maximizing my gains."
+    },
+    {
+      "start": 396.52,
+      "end": 403.4,
+      "text": "Now a problem that people very close to me experienced was what to say on daily apps."
+    },
+    {
+      "start": 403.4,
+      "end": 405.88,
+      "text": "I experienced it myself too, right?"
+    },
+    {
+      "start": 405.88,
+      "end": 410.36,
+      "text": "The point here isn't that I don't know how to talk to girls, but that sometimes you receive"
+    },
+    {
+      "start": 410.36,
+      "end": 415.32,
+      "text": "a message and you're like, hmm, what's the proper amount of flirtyness versus straight"
+    },
+    {
+      "start": 415.32,
+      "end": 422.84,
+      "text": "forwardness to respond to maximize my probability of developing a connection with this girl?"
+    },
+    {
+      "start": 422.84,
+      "end": 424.56,
+      "text": "That's some people's objective."
+    },
+    {
+      "start": 424.56,
+      "end": 427.2,
+      "text": "Other people's objective is how to have sex with her, right?"
+    },
+    {
+      "start": 427.2,
+      "end": 428.96,
+      "text": "We can call this spade a spade."
+    },
+    {
+      "start": 428.96,
+      "end": 432.44,
+      "text": "Different people have different objectives."
+    },
+    {
+      "start": 432.44,
+      "end": 439.12,
+      "text": "So given that chat GPT had just come out, we were like, this can easily be solved."
+    },
+    {
+      "start": 439.12,
+      "end": 443.12,
+      "text": "So we built an app where you can upload the screenshot, slide the spiciness, essentially"
+    },
+    {
+      "start": 443.12,
+      "end": 448.52,
+      "text": "according to whether or not you want to be a little bit more tame or more straightforward"
+    },
+    {
+      "start": 448.52,
+      "end": 451.88,
+      "text": "with your response."
+    },
+    {
+      "start": 451.88,
+      "end": 457.16,
+      "text": "Now given our deep knowledge, so I want to say our, I mean me, my co-founders, given our"
+    },
+    {
+      "start": 457.16,
+      "end": 463.28000000000003,
+      "text": "deep knowledge of this topic, we were able to figure out the proper user experience."
+    },
+    {
+      "start": 463.28000000000003,
+      "end": 468.68,
+      "text": "So what features actually matter to guys that are trying to figure out what to say to girls"
+    },
+    {
+      "start": 468.68,
+      "end": 473.76,
+      "text": "on dating apps, as well as what the correct distribution channels are going to be because"
+    },
+    {
+      "start": 473.76,
+      "end": 478.2,
+      "text": "we had seen that content ourselves."
+    },
+    {
+      "start": 478.2,
+      "end": 483.44,
+      "text": "So once again, the closer that you are to the problem, the easier that it will be to solve."
+    },
+    {
+      "start": 483.44,
+      "end": 488.52,
+      "text": "Now if you're not solving for yourself, try to solve your friends, your family, or people"
+    },
+    {
+      "start": 488.52,
+      "end": 492.2,
+      "text": "very close to your demographic."
+    },
+    {
+      "start": 493.2,
+      "end": 499.28,
+      "text": "Okay, as I mentioned earlier, speaking to users."
+    },
+    {
+      "start": 499.28,
+      "end": 503.56,
+      "text": "So this is touching a little bit on the future, but this is very important note."
+    },
+    {
+      "start": 503.56,
+      "end": 507.56,
+      "text": "As you scale, user feedback will be able to inform your product direction, but early"
+    },
+    {
+      "start": 507.56,
+      "end": 511.44,
+      "text": "on, it's more likely to cloud your judgment."
+    },
+    {
+      "start": 511.44,
+      "end": 514.4,
+      "text": "The world is a deeply inefficient place."
+    },
+    {
+      "start": 514.4,
+      "end": 520.16,
+      "text": "I think that humans are deeply inefficient and unintelligent relative to the intelligence"
+    },
+    {
+      "start": 520.16,
+      "end": 522.8399999999999,
+      "text": "of the collective."
+    },
+    {
+      "start": 522.8399999999999,
+      "end": 530.9599999999999,
+      "text": "But when you venture off to try to solve a problem on your own, most advice is going to"
+    },
+    {
+      "start": 530.9599999999999,
+      "end": 531.9599999999999,
+      "text": "be noise."
+    },
+    {
+      "start": 531.9599999999999,
+      "end": 537.7199999999999,
+      "text": "If we think about this from a machine learning perspective, signal versus noise, the reason"
+    },
+    {
+      "start": 537.7199999999999,
+      "end": 542.64,
+      "text": "that the vast majority of entrepreneurs are not successful, or one of the key reasons"
+    },
+    {
+      "start": 542.64,
+      "end": 548.24,
+      "text": "in my opinion, is the inability to distinguish signal from noise."
+    },
+    {
+      "start": 548.24,
+      "end": 554.36,
+      "text": "The act of coming up with a good idea, especially one that's novel and presents significant"
+    },
+    {
+      "start": 554.36,
+      "end": 558.52,
+      "text": "upside, is very, very, very difficult."
+    },
+    {
+      "start": 558.52,
+      "end": 560.2,
+      "text": "And you can't outsource that."
+    },
+    {
+      "start": 560.2,
+      "end": 567.2,
+      "text": "So you can speak to people and get their opinions, and you can use that as overall data."
+    },
+    {
+      "start": 567.2,
+      "end": 570.44,
+      "text": "But don't expect others to do the work for you."
+    },
+    {
+      "start": 570.44,
+      "end": 572.92,
+      "text": "Just because someone tells you that they want something in your product doesn't mean"
+    },
+    {
+      "start": 572.92,
+      "end": 574.5600000000001,
+      "text": "that that's the right move."
+    },
+    {
+      "start": 574.56,
+      "end": 581.3199999999999,
+      "text": "Those are the reason that Steve Jobs and Elon Musk do not go to daily focus groups."
+    },
+    {
+      "start": 581.3199999999999,
+      "end": 584.16,
+      "text": "They're artists."
+    },
+    {
+      "start": 584.16,
+      "end": 586.3199999999999,
+      "text": "They're more than artists, they're businessmen."
+    },
+    {
+      "start": 586.3199999999999,
+      "end": 589.8399999999999,
+      "text": "But being an artist is a component of building an amazing product."
+    },
+    {
+      "start": 589.8399999999999,
+      "end": 598.16,
+      "text": "So do not over index on others' opinions, think freely, and from first principles."
+    },
+    {
+      "start": 598.16,
+      "end": 603.4399999999999,
+      "text": "So we have these overarching ideas about the fact that you should solve your own problem."
+    },
+    {
+      "start": 603.44,
+      "end": 607.84,
+      "text": "How do you actually identify them?"
+    },
+    {
+      "start": 607.84,
+      "end": 612.9200000000001,
+      "text": "Short answer is there is no magic trick, but there are general frameworks that I and others"
+    },
+    {
+      "start": 612.9200000000001,
+      "end": 615.6800000000001,
+      "text": "apply that tend to work."
+    },
+    {
+      "start": 615.6800000000001,
+      "end": 620.6400000000001,
+      "text": "The creative act, a way of being, is an amazing book."
+    },
+    {
+      "start": 620.6400000000001,
+      "end": 626.6400000000001,
+      "text": "It's by Rick Rubin, who works with music artists."
+    },
+    {
+      "start": 626.6400000000001,
+      "end": 630.2,
+      "text": "He provides a lot of great frameworks here, so I would recommend that."
+    },
+    {
+      "start": 630.2,
+      "end": 635.08,
+      "text": "But personally, even before Rick Rubin or before I had read his book, I've spoken deeply"
+    },
+    {
+      "start": 635.08,
+      "end": 640.5600000000001,
+      "text": "or extensively about this, which is that I'm a massive believer in disconnection."
+    },
+    {
+      "start": 640.5600000000001,
+      "end": 646.5200000000001,
+      "text": "Go for a walk, run, hike, meditate, do whatever you want."
+    },
+    {
+      "start": 646.5200000000001,
+      "end": 649.5200000000001,
+      "text": "Do it for extended periods for over an hour."
+    },
+    {
+      "start": 649.5200000000001,
+      "end": 654.9200000000001,
+      "text": "I find that if I go on a ten minute walk, my mind's still super cluttered from everything"
+    },
+    {
+      "start": 654.9200000000001,
+      "end": 657.36,
+      "text": "that we experience in day to day life."
+    },
+    {
+      "start": 658.24,
+      "end": 664.52,
+      "text": "If you really want to come up with good new ideas, you need to give your mind room to breathe."
+    },
+    {
+      "start": 664.52,
+      "end": 671.2,
+      "text": "The same way that if you go and you start, you haven't played basketball in a while."
+    },
+    {
+      "start": 671.2,
+      "end": 675.4,
+      "text": "You go start to shoot the first few minutes, you're rusty."
+    },
+    {
+      "start": 675.4,
+      "end": 684.48,
+      "text": "You've got to work those muscles and build back the sort of mind muscle connection and"
+    },
+    {
+      "start": 684.48,
+      "end": 692.44,
+      "text": "your body's muscle memory into remembering how to properly shoot with finesse in a smooth"
+    },
+    {
+      "start": 692.44,
+      "end": 693.44,
+      "text": "manner."
+    },
+    {
+      "start": 693.44,
+      "end": 698.32,
+      "text": "I think that the same applies to disconnection giving your mind space to breathe."
+    },
+    {
+      "start": 698.32,
+      "end": 702.28,
+      "text": "Within the book, he has a great concept, which is that if you want to come up with truly"
+    },
+    {
+      "start": 702.28,
+      "end": 710.04,
+      "text": "novel ideas, they don't come from within, but they come from the out, from external."
+    },
+    {
+      "start": 710.04,
+      "end": 711.48,
+      "text": "They come from the universe."
+    },
+    {
+      "start": 711.48,
+      "end": 716.96,
+      "text": "You need to make yourself into somewhat of an antenna, an individual that will receive"
+    },
+    {
+      "start": 716.96,
+      "end": 721.08,
+      "text": "the ideas that permeate our universe."
+    },
+    {
+      "start": 721.08,
+      "end": 724.48,
+      "text": "Different people are going to be operating on different sort of wavelengths, different"
+    },
+    {
+      "start": 724.48,
+      "end": 726.48,
+      "text": "frequencies."
+    },
+    {
+      "start": 726.48,
+      "end": 732.0,
+      "text": "So, given your demographic and what sort of group you belong to and who you are, you"
+    },
+    {
+      "start": 732.0,
+      "end": 740.64,
+      "text": "will be more receptive and have a higher probability of receiving some different subset of ideas."
+    },
+    {
+      "start": 740.64,
+      "end": 745.8,
+      "text": "There's a reason that my apps are all kind of in the same domain."
+    },
+    {
+      "start": 745.8,
+      "end": 753.0,
+      "text": "RizGPT, Talk to Girls, UMACS, Scan Your Face, Find out how attractive you are."
+    },
+    {
+      "start": 753.0,
+      "end": 757.72,
+      "text": "Kaliai, Achieve your fitness goals, become more attractive, right?"
+    },
+    {
+      "start": 757.72,
+      "end": 763.08,
+      "text": "This is something that I think I have pretty deep knowledge on, personal development, self"
+    },
+    {
+      "start": 763.08,
+      "end": 764.4,
+      "text": "improvement, right?"
+    },
+    {
+      "start": 764.4,
+      "end": 770.84,
+      "text": "Even Tenex, which I didn't actually mention during this, it was recently failed project"
+    },
+    {
+      "start": 770.84,
+      "end": 777.04,
+      "text": "of mine, but Tenex was designed to teach people how to learn different AI tools."
+    },
+    {
+      "start": 777.04,
+      "end": 781.0799999999999,
+      "text": "Once again, within the domain of self improvement, this is something that I very, very deeply"
+    },
+    {
+      "start": 781.0799999999999,
+      "end": 782.56,
+      "text": "understand."
+    },
+    {
+      "start": 782.56,
+      "end": 787.0799999999999,
+      "text": "If you're a very religious individual, you might be more inclined to build something like"
+    },
+    {
+      "start": 787.0799999999999,
+      "end": 788.36,
+      "text": "Bible chat, right?"
+    },
+    {
+      "start": 788.36,
+      "end": 794.0,
+      "text": "I consider myself religious, Christian, Presbyterian specifically."
+    },
+    {
+      "start": 794.0,
+      "end": 801.12,
+      "text": "But I don't think that I have domain expertise significantly beyond that of the average Christian."
+    },
+    {
+      "start": 801.12,
+      "end": 805.72,
+      "text": "If you are a very studious individual, right, I didn't list this company here, but it's"
+    },
+    {
+      "start": 805.72,
+      "end": 812.08,
+      "text": "similar to Minnet AI, Turbo, TurboLearn, company that I am an advisor of actually."
+    },
+    {
+      "start": 812.08,
+      "end": 813.08,
+      "text": "I pretty much never advised."
+    },
+    {
+      "start": 813.08,
+      "end": 817.68,
+      "text": "They're like one of the only ones specifically because Sarthic, one of the co-founders, was"
+    },
+    {
+      "start": 817.68,
+      "end": 819.92,
+      "text": "my CTO for UMACS."
+    },
+    {
+      "start": 819.92,
+      "end": 826.36,
+      "text": "Now Sarthic and Rudy were very, very diligent studiers and test takers."
+    },
+    {
+      "start": 826.36,
+      "end": 832.24,
+      "text": "Sarthic got a 36 on his ACT and had a 40, I think he was valedictorian of high school."
+    },
+    {
+      "start": 832.24,
+      "end": 839.8399999999999,
+      "text": "So, note taking specifically for education, high school college is a domain that they very,"
+    },
+    {
+      "start": 839.8399999999999,
+      "end": 842.0,
+      "text": "very deeply understand."
+    },
+    {
+      "start": 842.0,
+      "end": 849.7199999999999,
+      "text": "Hunter had been interested in social products for years before building NGL."
+    },
+    {
+      "start": 849.72,
+      "end": 852.36,
+      "text": "You know, the quitter guys, right?"
+    },
+    {
+      "start": 852.36,
+      "end": 856.72,
+      "text": "Conor and Alex were deeply, deeply addicted to pornography."
+    },
+    {
+      "start": 856.72,
+      "end": 860.96,
+      "text": "I'm sorry, that's a joke."
+    },
+    {
+      "start": 860.96,
+      "end": 863.0,
+      "text": "That's a joke."
+    },
+    {
+      "start": 863.0,
+      "end": 867.88,
+      "text": "They're more so in the like your friends, right?"
+    },
+    {
+      "start": 867.88,
+      "end": 869.5600000000001,
+      "text": "People of our demographic, they're young guys."
+    },
+    {
+      "start": 869.5600000000001,
+      "end": 874.08,
+      "text": "You guys are taking the point."
+    },
+    {
+      "start": 874.08,
+      "end": 879.4000000000001,
+      "text": "Oh, I don't even think I mentioned raised during the case study."
+    },
+    {
+      "start": 879.4000000000001,
+      "end": 881.24,
+      "text": "I can't believe I missed that."
+    },
+    {
+      "start": 881.24,
+      "end": 885.0,
+      "text": "Anyways, raised, built by Anastasia and Tamera Tran."
+    },
+    {
+      "start": 885.0,
+      "end": 887.0,
+      "text": "Raze is actually no longer on the App Store."
+    },
+    {
+      "start": 887.0,
+      "end": 891.5600000000001,
+      "text": "So here I have a copycat from them."
+    },
+    {
+      "start": 891.5600000000001,
+      "end": 892.5600000000001,
+      "text": "They got banned."
+    },
+    {
+      "start": 892.5600000000001,
+      "end": 898.1600000000001,
+      "text": "But raised, this was, you know, not coincidentally built by girls who understand how important"
+    },
+    {
+      "start": 898.1600000000001,
+      "end": 901.08,
+      "text": "tanning is to other girls."
+    },
+    {
+      "start": 901.08,
+      "end": 904.72,
+      "text": "That's an idea that guys would never come up with."
+    },
+    {
+      "start": 904.72,
+      "end": 910.5600000000001,
+      "text": "Me building UMACs, like most other software engineers are not going to see looks maxing"
+    },
+    {
+      "start": 910.5600000000001,
+      "end": 916.2800000000001,
+      "text": "at its absolute peak and also understand the vision API coming out and being in the"
+    },
+    {
+      "start": 916.2800000000001,
+      "end": 921.0400000000001,
+      "text": "correct position to solve that problem."
+    },
+    {
+      "start": 921.0400000000001,
+      "end": 929.9200000000001,
+      "text": "So you should ask yourself, what are the problems that you intimately understand?"
+    },
+    {
+      "start": 929.92,
+      "end": 933.8,
+      "text": "What are the problems that you understand that other people don't understand?"
+    },
+    {
+      "start": 933.8,
+      "end": 936.8,
+      "text": "What are the problems that you care about?"
+    },
+    {
+      "start": 936.8,
+      "end": 939.4,
+      "text": "You care about self improvement."
+    },
+    {
+      "start": 939.4,
+      "end": 941.64,
+      "text": "Do you care about career?"
+    },
+    {
+      "start": 941.64,
+      "end": 945.4,
+      "text": "Do you care about religion and spirituality?"
+    },
+    {
+      "start": 945.4,
+      "end": 951.16,
+      "text": "Do you care about meditation?"
+    },
+    {
+      "start": 951.16,
+      "end": 956.88,
+      "text": "If you have listened to what I've said throughout this unit thus far, you go, well, I still don't,"
+    },
+    {
+      "start": 956.88,
+      "end": 959.88,
+      "text": "you know, I still don't have any ideas."
+    },
+    {
+      "start": 959.88,
+      "end": 967.52,
+      "text": "My suggestion would be to become a more interesting person."
+    },
+    {
+      "start": 967.52,
+      "end": 974.92,
+      "text": "If you don't have things that you care about, if you look through life in a very monotonous,"
+    },
+    {
+      "start": 974.92,
+      "end": 984.08,
+      "text": "black and white lens, you're not going to be the person that ideas come to."
+    },
+    {
+      "start": 984.08,
+      "end": 986.72,
+      "text": "So study the fundamentals of human psychology."
+    },
+    {
+      "start": 986.72,
+      "end": 992.64,
+      "text": "What your expectations are for the projects that you build, figure out what your problems"
+    },
+    {
+      "start": 992.64,
+      "end": 1001.0400000000001,
+      "text": "are and the things that you care about and then use that in conjunction with disconnection,"
+    },
+    {
+      "start": 1001.0400000000001,
+      "end": 1002.0400000000001,
+      "text": "right?"
+    },
+    {
+      "start": 1002.0400000000001,
+      "end": 1005.64,
+      "text": "Remove all of the other noise that exists within your life."
+    },
+    {
+      "start": 1005.64,
+      "end": 1007.32,
+      "text": "Take what I just repeated."
+    },
+    {
+      "start": 1007.32,
+      "end": 1013.0400000000001,
+      "text": "These principles that I've taught up to this point go for a long walk."
+    },
+    {
+      "start": 1013.04,
+      "end": 1017.64,
+      "text": "Connect, remove everything, keep that and let it ruminate."
+    },
+    {
+      "start": 1017.64,
+      "end": 1029.84,
+      "text": "I have no doubt that so long as you are an interesting person that experiences anything"
+    },
+    {
+      "start": 1029.84,
+      "end": 1039.8799999999999,
+      "text": "of any relative importance in life that you will begin to come up with new ideas."
+    },
+    {
+      "start": 1039.88,
+      "end": 1043.96,
+      "text": "And beyond the disconnection, I want you to hold this in the back of your mind and"
+    },
+    {
+      "start": 1043.96,
+      "end": 1048.3600000000001,
+      "text": "it should begin to impact everything that you do, like every place that you go, every"
+    },
+    {
+      "start": 1048.3600000000001,
+      "end": 1054.2800000000002,
+      "text": "interaction that you have, you should be thinking in any entrepreneur to be honest, beyond"
+    },
+    {
+      "start": 1054.2800000000002,
+      "end": 1056.0800000000002,
+      "text": "just building up should be thinking about this."
+    },
+    {
+      "start": 1056.0800000000002,
+      "end": 1059.64,
+      "text": "But I want you to look at it through the lens of like, what are the problems that these"
+    },
+    {
+      "start": 1059.64,
+      "end": 1064.0,
+      "text": "people experience in life and is there an app that can help them solve that and help"
+    },
+    {
+      "start": 1064.0,
+      "end": 1065.88,
+      "text": "them inch forward?"
+    },
+    {
+      "start": 1066.88,
+      "end": 1067.88,
+      "text": "Okay."
+    },
+    {
+      "start": 1067.88,
+      "end": 1072.2,
+      "text": "In the next lesson, I will dive into social media and forums."
+    },
+    {
+      "start": 1072.2,
+      "end": 1080.1200000000001,
+      "text": "So here I talk about kind of diving inside, receiving from the universe, disconnecting."
+    },
+    {
+      "start": 1080.1200000000001,
+      "end": 1084.68,
+      "text": "But now we're going to go through social media and the idea of actually stimulation and"
+    },
+    {
+      "start": 1084.68,
+      "end": 1085.68,
+      "text": "new data."
+    },
+    {
+      "start": 1085.68,
+      "end": 1089.8000000000002,
+      "text": "So as opposed to removing everything else out, we're going to talk about what's the stuff"
+    },
+    {
+      "start": 1089.8000000000002,
+      "end": 1091.64,
+      "text": "that we should bring in."
+    },
+    {
+      "start": 1091.64,
+      "end": 1097.4,
+      "text": "And how do we go through Instagram, TikTok, Reddit, X.com and other forums to identify"
+    },
+    {
+      "start": 1097.4,
+      "end": 1104.3600000000001,
+      "text": "problems that people experience and have actually made obvious for us on the internet."
+    },
+    {
+      "start": 1104.3600000000001,
+      "end": 1106.6000000000001,
+      "text": "So I'll see you in the next lesson."
+    }
+  ]
+}

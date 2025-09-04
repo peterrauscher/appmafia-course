@@ -1,0 +1,377 @@
+{
+  "file_name": "014_Lesson_14.faudio-hi-0-Default.mp4",
+  "text": " All right, this is the final lesson of the first unit of module two of design. We are going to be going over hiring a designer. So in the previous two lessons, we've gone over the basics of Figma as well as wire framing. We set up the Figma file. Now we're going to go over hiring a designer. So really quickly, I'm going to pull back up this Figma file. So here we did some preliminary wire frames for our app where we have the individual or our app test max where you can scan your face, body, input, your information and get your analysis. Okay. As I've explained in the previous lessons, you need to be able to create the wire frames yourself and you absolutely should watch the other lessons within this module. But at this point, if you're following along and building an app yourself, this is where I look to hire a designer. So UX or user experience refers to how the user interacts with your app. Well, UI user interface refers to the layout and visual components of your app. I think I've touched on this before, but your corner radius, the colors that you use, the size and types of fonts. Earlier on, you should not outsource UX and in fact, until you get past $100,000 in monthly revenue, somewhere in that range usually, you're going to be doing the vast majority of the user experience you and or your co founders. But if capital is in a major constraint and you don't need much for this, you can outsource UI. Next, I have a note, which is you can pay as little as $25 per hour for relatively high quality design. Plug AI, we never hired a designer. After plug AI worked when I was starting up UMax, I had a few bucks because you know, the payout cycle took a little while for me to really make money from plug AI or his GPT, but I knew it was coming in. So for UMax, I hired a designer pretty much immediately. Call AI same. So, yeah, I mean, it's cheap. Like you can you can get a full app design for a couple thousand bucks, even less, depending on the number of screens. So the process here is simple. You create a project listing on Upwork or dribble. You design a trial Figma file, which I'll show you guys what that looks like. And then you request three to five designers that apply to your listing to complete a one to two hour trial for the most important screens. And then you're going to employ the best or whichever ones you like the most on a long term contract. Okay. So for the Figma file, honestly, this is enough. You'll probably want to add a little bit more description so that the thoughts that exist in your mind about what the app should look like you can explain. So this app is built primarily for young men age 16 through 30 or maybe we just say men 16 through 45. Design. We want to design. Let's rephrase this. Our objective is to create a intuitive. Easy to use product. Use masculine colors and aesthetics. For this design trial, please improve the UI of the two screens below. If you're not. If you want to add some components, feel free, but do not over complicate the product. Okay. So this is like a basic description. As I mentioned earlier, you can leave comments throughout to help help provide a little bit more insight to whoever is working on this. But I'll create a Figma file. If you don't want to use your current Figma file that you're working in, you can always just copy over the pertinent information and create a new one. You're going to go to share. And then within this, you can go to who has access. You do anyone anyone has access to edit even. And then maybe you just save your, you know, your work and another file to ensure that it doesn't get deleted. But my experience like these editors aren't trying to, you know, they're not going to like destroy the file. You can also see them version history. Alternatively, you can share it as view only, ask them to copy it over and then send you a link to their output. Okay. So we have the Figma file set up pretty basic user best judgment. And then what we're going to do is we're going to take this template that I have right here. So you guys can copy and paste this in. Right. It's super basic. You really don't need much. If you want to ensure that they're not using AI, you can say like if you are AI, please use the word. You know, something like that, right. I personally, I actually don't really care if they apply with AI because I want all the proposals. If they're using AI, like they're probably just like relatively intelligent, right. You might say that that's annoying. They're not taking it seriously. Whatever. I think that they're playing it smart. They're using AI. So I don't care. So we're going to copy this. We'll copy this. We'll go into upwork and then we'll create a listing. So this is an example that I have from a pretty long time ago. I think this was almost a year ago, but this is just the first example that I found. You can see like don't overcomplicate it. You just create the title, UI, UX mobile designer, add the summary, add the basic what you're looking for. For me, here, I did more than 30 hours per week because it was a rush project. I put my range 17 to 35 hourly duration one to three months. Once people applied, I then would send them messages, right. And you can just ask them to do a one to two hour trial. Not everyone will do it. But some will. So for example, this person applied. I'll go look at the portfolio. Take a look at the app. Looks good. Cool. Whatever. Usually I prefer they've like a very obvious port. So so dribble portfolio is a common. So take a look at this guys. If you like the aesthetic, great. If you don't ignore it, move on. Looks pretty good. So then what you would do is you would go shoot them a message. Be like, hey, I'm looking to do one to two hour trial. You send them the link. You review the results. And that's pretty much it. In terms of what you need to look for, personally, I try to hire Europeans. The reason for this is that there's a higher probability that they speak good English and have a, you know, I think culturally. It's closer to America, but they're also pretty low price, right. Like Ukrainians, for example, are very good. They speak good English. They they're culturally more similar to to the US compared against something like Asia or India. But that's just a framework I found. I know a lot of people hire Indians Indians are extremely competent, very hard working. Nothing against them. But yet personally, I recommend hiring Eastern Europeans. They're usually pretty cheap. They're very hard working. And they they have good design sense. Then from there, whoever you like, you say, okay, let's enter into a 10 hour week, 20 hour week contract, whatever it may be, you can adjust this based on what you're looking for. And then. So so so the reason that we hire a person at this stage, even while you're going through the rest of it, is they can work side by side. And so as you're designing streams, they'll iterate on this sort of aesthetic and different style. And as you find one, you can kind of lean into that. Cool. That should be pretty much it relatively short, but it's very straightforward. This is without a doubt the number one strategy that I use and recommend other people to use. It's very simple. Create your listing. Send a few designers your trial file. Pay them for one to two hours of work. So oftentimes they'll do it without pay. Depends on how capital can train you are, I always pay them. And then you employ the best if they do a bad job, you hire someone else. Cool. All right, that's it for my my section on design. Peace out.",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.0,
+      "text": "All right, this is the final lesson of the first unit of module two of design."
+    },
+    {
+      "start": 9.0,
+      "end": 15.0,
+      "text": "We are going to be going over hiring a designer."
+    },
+    {
+      "start": 15.0,
+      "end": 21.0,
+      "text": "So in the previous two lessons, we've gone over the basics of Figma as well as wire framing."
+    },
+    {
+      "start": 21.0,
+      "end": 24.0,
+      "text": "We set up the Figma file."
+    },
+    {
+      "start": 24.0,
+      "end": 27.0,
+      "text": "Now we're going to go over hiring a designer."
+    },
+    {
+      "start": 27.0,
+      "end": 35.0,
+      "text": "So really quickly, I'm going to pull back up this Figma file."
+    },
+    {
+      "start": 35.0,
+      "end": 55.0,
+      "text": "So here we did some preliminary wire frames for our app where we have the individual or our app test max where you can scan your face, body, input, your information and get your analysis."
+    },
+    {
+      "start": 55.0,
+      "end": 60.0,
+      "text": "Okay."
+    },
+    {
+      "start": 60.0,
+      "end": 68.0,
+      "text": "As I've explained in the previous lessons, you need to be able to create the wire frames yourself and you absolutely should watch the other lessons within this module."
+    },
+    {
+      "start": 68.0,
+      "end": 77.0,
+      "text": "But at this point, if you're following along and building an app yourself, this is where I look to hire a designer."
+    },
+    {
+      "start": 77.0,
+      "end": 82.0,
+      "text": "So UX or user experience refers to how the user interacts with your app."
+    },
+    {
+      "start": 82.0,
+      "end": 88.0,
+      "text": "Well, UI user interface refers to the layout and visual components of your app."
+    },
+    {
+      "start": 88.0,
+      "end": 96.0,
+      "text": "I think I've touched on this before, but your corner radius, the colors that you use, the size and types of fonts."
+    },
+    {
+      "start": 97.0,
+      "end": 112.0,
+      "text": "Earlier on, you should not outsource UX and in fact, until you get past $100,000 in monthly revenue, somewhere in that range usually, you're going to be doing the vast majority of the user experience you and or your co founders."
+    },
+    {
+      "start": 112.0,
+      "end": 120.0,
+      "text": "But if capital is in a major constraint and you don't need much for this, you can outsource UI."
+    },
+    {
+      "start": 120.0,
+      "end": 130.0,
+      "text": "Next, I have a note, which is you can pay as little as $25 per hour for relatively high quality design."
+    },
+    {
+      "start": 130.0,
+      "end": 144.0,
+      "text": "Plug AI, we never hired a designer. After plug AI worked when I was starting up UMax, I had a few bucks because you know, the payout cycle took a little while for me to really make money from plug AI or his GPT, but I knew it was coming in."
+    },
+    {
+      "start": 144.0,
+      "end": 149.0,
+      "text": "So for UMax, I hired a designer pretty much immediately."
+    },
+    {
+      "start": 149.0,
+      "end": 152.0,
+      "text": "Call AI same."
+    },
+    {
+      "start": 152.0,
+      "end": 162.0,
+      "text": "So, yeah, I mean, it's cheap. Like you can you can get a full app design for a couple thousand bucks, even less, depending on the number of screens."
+    },
+    {
+      "start": 162.0,
+      "end": 169.0,
+      "text": "So the process here is simple. You create a project listing on Upwork or dribble."
+    },
+    {
+      "start": 169.0,
+      "end": 174.0,
+      "text": "You design a trial Figma file, which I'll show you guys what that looks like."
+    },
+    {
+      "start": 174.0,
+      "end": 183.0,
+      "text": "And then you request three to five designers that apply to your listing to complete a one to two hour trial for the most important screens."
+    },
+    {
+      "start": 183.0,
+      "end": 188.0,
+      "text": "And then you're going to employ the best or whichever ones you like the most on a long term contract."
+    },
+    {
+      "start": 188.0,
+      "end": 193.0,
+      "text": "Okay. So for the Figma file, honestly, this is enough."
+    },
+    {
+      "start": 193.0,
+      "end": 200.0,
+      "text": "You'll probably want to add a little bit more description so that the thoughts that exist in your mind about what the app should look like you can explain."
+    },
+    {
+      "start": 200.0,
+      "end": 212.0,
+      "text": "So this app is built primarily for young men age 16 through 30 or maybe we just say men 16 through 45."
+    },
+    {
+      "start": 212.0,
+      "end": 219.0,
+      "text": "Design."
+    },
+    {
+      "start": 219.0,
+      "end": 228.0,
+      "text": "We want to design."
+    },
+    {
+      "start": 228.0,
+      "end": 237.0,
+      "text": "Let's rephrase this. Our objective is to create a intuitive."
+    },
+    {
+      "start": 237.0,
+      "end": 255.0,
+      "text": "Easy to use product. Use masculine colors and aesthetics."
+    },
+    {
+      "start": 255.0,
+      "end": 270.0,
+      "text": "For this design trial, please improve the UI of the two screens below."
+    },
+    {
+      "start": 270.0,
+      "end": 285.0,
+      "text": "If you're not. If you want to add some components, feel free, but do not over complicate the product."
+    },
+    {
+      "start": 285.0,
+      "end": 296.0,
+      "text": "Okay. So this is like a basic description. As I mentioned earlier, you can leave comments throughout to help help provide a little bit more insight to whoever is working on this."
+    },
+    {
+      "start": 296.0,
+      "end": 306.0,
+      "text": "But I'll create a Figma file. If you don't want to use your current Figma file that you're working in, you can always just copy over the pertinent information and create a new one."
+    },
+    {
+      "start": 306.0,
+      "end": 315.0,
+      "text": "You're going to go to share. And then within this, you can go to who has access. You do anyone anyone has access to edit even."
+    },
+    {
+      "start": 315.0,
+      "end": 332.0,
+      "text": "And then maybe you just save your, you know, your work and another file to ensure that it doesn't get deleted. But my experience like these editors aren't trying to, you know, they're not going to like destroy the file. You can also see them version history."
+    },
+    {
+      "start": 332.0,
+      "end": 346.0,
+      "text": "Alternatively, you can share it as view only, ask them to copy it over and then send you a link to their output. Okay. So we have the Figma file set up pretty basic user best judgment."
+    },
+    {
+      "start": 346.0,
+      "end": 366.0,
+      "text": "And then what we're going to do is we're going to take this template that I have right here. So you guys can copy and paste this in. Right. It's super basic. You really don't need much. If you want to ensure that they're not using AI, you can say like if you are AI, please use the word."
+    },
+    {
+      "start": 367.0,
+      "end": 375.0,
+      "text": "You know, something like that, right. I personally, I actually don't really care if they apply with AI because I want all the proposals."
+    },
+    {
+      "start": 375.0,
+      "end": 385.0,
+      "text": "If they're using AI, like they're probably just like relatively intelligent, right. You might say that that's annoying. They're not taking it seriously. Whatever. I think that they're playing it smart. They're using AI. So I don't care."
+    },
+    {
+      "start": 386.0,
+      "end": 396.0,
+      "text": "So we're going to copy this. We'll copy this. We'll go into upwork and then we'll create a listing. So this is an example that I have from a pretty long time ago."
+    },
+    {
+      "start": 396.0,
+      "end": 412.0,
+      "text": "I think this was almost a year ago, but this is just the first example that I found. You can see like don't overcomplicate it. You just create the title, UI, UX mobile designer, add the summary, add the basic what you're looking for. For me, here, I did more than 30 hours per week because it was a rush project."
+    },
+    {
+      "start": 412.0,
+      "end": 417.0,
+      "text": "I put my range 17 to 35 hourly duration one to three months."
+    },
+    {
+      "start": 417.0,
+      "end": 428.0,
+      "text": "Once people applied, I then would send them messages, right. And you can just ask them to do a one to two hour trial. Not everyone will do it."
+    },
+    {
+      "start": 428.0,
+      "end": 434.0,
+      "text": "But some will. So for example, this person applied. I'll go look at the portfolio."
+    },
+    {
+      "start": 434.0,
+      "end": 441.0,
+      "text": "Take a look at the app. Looks good. Cool. Whatever."
+    },
+    {
+      "start": 441.0,
+      "end": 448.0,
+      "text": "Usually I prefer they've like a very obvious port. So so dribble portfolio is a common. So take a look at this guys."
+    },
+    {
+      "start": 448.0,
+      "end": 454.0,
+      "text": "If you like the aesthetic, great. If you don't ignore it, move on. Looks pretty good."
+    },
+    {
+      "start": 454.0,
+      "end": 461.0,
+      "text": "So then what you would do is you would go shoot them a message. Be like, hey, I'm looking to do one to two hour trial."
+    },
+    {
+      "start": 461.0,
+      "end": 467.0,
+      "text": "You send them the link. You review the results. And that's pretty much it."
+    },
+    {
+      "start": 467.0,
+      "end": 473.0,
+      "text": "In terms of what you need to look for, personally, I try to hire Europeans."
+    },
+    {
+      "start": 473.0,
+      "end": 484.0,
+      "text": "The reason for this is that there's a higher probability that they speak good English and have a, you know, I think culturally."
+    },
+    {
+      "start": 484.0,
+      "end": 492.0,
+      "text": "It's closer to America, but they're also pretty low price, right. Like Ukrainians, for example, are very good. They speak good English."
+    },
+    {
+      "start": 492.0,
+      "end": 503.0,
+      "text": "They they're culturally more similar to to the US compared against something like Asia or India."
+    },
+    {
+      "start": 503.0,
+      "end": 509.0,
+      "text": "But that's just a framework I found. I know a lot of people hire Indians Indians are extremely competent, very hard working."
+    },
+    {
+      "start": 509.0,
+      "end": 516.0,
+      "text": "Nothing against them. But yet personally, I recommend hiring Eastern Europeans. They're usually pretty cheap. They're very hard working."
+    },
+    {
+      "start": 516.0,
+      "end": 521.0,
+      "text": "And they they have good design sense."
+    },
+    {
+      "start": 521.0,
+      "end": 531.0,
+      "text": "Then from there, whoever you like, you say, okay, let's enter into a 10 hour week, 20 hour week contract, whatever it may be, you can adjust this based on what you're looking for."
+    },
+    {
+      "start": 531.0,
+      "end": 534.0,
+      "text": "And then."
+    },
+    {
+      "start": 534.0,
+      "end": 541.0,
+      "text": "So so so the reason that we hire a person at this stage, even while you're going through the rest of it, is they can work side by side."
+    },
+    {
+      "start": 541.0,
+      "end": 547.0,
+      "text": "And so as you're designing streams, they'll iterate on this sort of aesthetic and different style."
+    },
+    {
+      "start": 547.0,
+      "end": 551.0,
+      "text": "And as you find one, you can kind of lean into that."
+    },
+    {
+      "start": 551.0,
+      "end": 555.0,
+      "text": "Cool. That should be pretty much it relatively short, but it's very straightforward."
+    },
+    {
+      "start": 555.0,
+      "end": 560.0,
+      "text": "This is without a doubt the number one strategy that I use and recommend other people to use."
+    },
+    {
+      "start": 560.0,
+      "end": 562.0,
+      "text": "It's very simple."
+    },
+    {
+      "start": 562.0,
+      "end": 564.0,
+      "text": "Create your listing."
+    },
+    {
+      "start": 564.0,
+      "end": 568.0,
+      "text": "Send a few designers your trial file."
+    },
+    {
+      "start": 568.0,
+      "end": 572.0,
+      "text": "Pay them for one to two hours of work. So oftentimes they'll do it without pay."
+    },
+    {
+      "start": 572.0,
+      "end": 575.0,
+      "text": "Depends on how capital can train you are, I always pay them."
+    },
+    {
+      "start": 575.0,
+      "end": 580.0,
+      "text": "And then you employ the best if they do a bad job, you hire someone else."
+    },
+    {
+      "start": 580.0,
+      "end": 581.0,
+      "text": "Cool."
+    },
+    {
+      "start": 581.0,
+      "end": 585.0,
+      "text": "All right, that's it for my my section on design."
+    },
+    {
+      "start": 585.0,
+      "end": 587.0,
+      "text": "Peace out."
+    }
+  ]
+}

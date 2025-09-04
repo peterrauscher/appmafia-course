@@ -1,0 +1,1107 @@
+{
+  "file_name": "056_Lesson_56.faudio-hi-0-Default.mp4",
+  "text": " The most important part of running paper click ads is attribution. The most important part in 2025 and and onwards. This is because the algorithm is so good at this point, at finding people that will pay for your product. So the only two variables that you're really tweaking, aside from your app you're pricing, because that's all important, are the creatives and the attribution. Now attribution, if done wrong, will fuck up everything. If done right, then the algorithm will work amazingly, do what it's good at and find new customers. Adjust has a really good blog on what all these Apple privacy rules are, so I suggest reading this adjust.com slash glossary slash scan networks dash scan, and this will teach you a bunch of stuff, basically how it works. But let me go through this graph here. So first I would say pause this video, go read that. Once you've read that, come back here. Go. Okay, I'm assuming you've read that. So these are the this diagram right here shows us how Apple's scan SKAN, I don't know what a scan stands for. Scan network, store kit and network. LAM. So how works is very, very strange, very, very strange. I'm going to explain this to you and you're going to be puzzled why Apple would design their system in such a weird way that's so unintuitive and so confusing. So there are a few different post backs, one, two, and three. And these are the three opportunities you have to get data back from one of these ad platforms. When someone downloads your app from an ad, you have three different times where you can send an event back and train the algorithm on that. So the first post back is any event sent back from the user's device in the first two days. So for us, since we're going to train on trial started or purchased directly when they download, assuming it's a hard pay world app, like I explained earlier, we want an event being sent within 24 hours. It's really within 48 hours, honestly, if we're training with scan, we will. It will be part of the first post back if it's between the first 48 hours. And then it will, the event will be measured within the first 48 hours, but it will actually be sent to Facebook 24 to 40 hours later sporadically during that time. Why? Who the fuck knows? Ask Apple. The second post back window is between days three and seven. And after day seven, then randomly it between the next 24 and 144 hours. Oh, oh, I just lost the course. Okay. Between the next 24 and 144 hours, which is, which is six days, you will get the second post back events. And then there is the last post back window, which is post back three, third post back. This is any event collected within the first eight to 35 days. And it will also be sent one to six days later after the 35th day, which is very, very strange. I honestly don't know why they're doing this. A lot of people have said they've added all of these privacy rules because they were sued by the EU and they now have to do this for device privacy. But it doesn't make sense to me that they would need to do this weird, weird fucking shit, dude. I don't know why they have to, but whatever we have to deal with it makes it more difficult for the competition. So the first post back and second and third for each of them, there is something called a conversion value, a low medium high pay no attention to low medium or high. It's really just like one, two or three. And for each one, you map a value to it. So we map install free trial and conversion. These are the only three events you can really track. And then there's a second post back and a third post back. In some cases, I don't know if it just does this actually it might. If you get multiple events, it may only send, it may go by magnitude. So if low and medium is sent, only medium will be sent. If low medium high is sent, then only high will be sent. That I know is how some of these attribution platforms work. So look into it for the platform you're using, adjust or actually confirming this right now. Honestly, they're we are. I wouldn't necessarily worry about this right now. This is more of the nuances to be honest. But the first post back is something interesting about it that the rest don't. The first post back has these fine conversion values. And these are bits. Why are they bits? I don't know. But they're essentially just an extension of these other values. And so you can have extra events in the first post back, six extra events that you can't have in the second or third post back. The difference is with bits and the conversion values is that you have to hit a certain threshold of down. In order for you to even get the value from the bit. What is the threshold? I'm actually not sure. Let's let's see if chat you to knows. I'm not sure. I'm not sure. I'm not sure. I'm not sure. Okay, so there is a threshold that Apple apparently does not send it, which is ridiculous, which is ridiculous. So if the bits don't get sent over, then it will fall back and only send the low medium or high. If you get bits does it not send the low medium high? Let's see. Wow. So you don't get both at the same time. So Apple has this fucking privacy threshold that no one really knows what it means. And if it's hit, then you will only get the bits. If it's not hit, you only get the conversion, the rough conversion values. So yeah, that is pretty bad. It's pretty bad. Honestly, it's pretty stupid. Scan. So everything with measuring scan. In the ad library, the cost per result, you'd actually see that it goes down over time because the first two days it will look completely unprofitable. For the first two days, it will look completely unprofitable until the event starts sending in and then it will start filling in the cost per result will actually start dropping. And that's that's a known. It's very annoying. So the workaround that we do at Cali scan is very good for measurement because Apple won't overestimate the amount of people that go through. It will underestimate the number of events that this sends. It actually can be up to 50% off. So if your cost per result is $8, it might actually only be $4. Which is actually an insane difference. It could be the difference between profitable or not. So what a lot of people do is they use something called AEM to train on. And AEM is met as aggregated event management system. That basically it uses some IP tracking. It also connects to scan or something and lets you it lets you measure. It's an estimation. So it's not necessarily as accurate as scan. But it's for us we it's it's very very close to being correct. It's it's not like the 50% off usually. So it's closer to the actual number. Still usually an underestimate from my experience. And so and it's instantaneous. You don't have to wait three days to get data back. And therefore you can just start. You can the algorithm will learn much faster. So. You have some homework to do. I'm not going to show you how to set this up. So it's a lot to do. And honestly I don't think I was the one that set it up for Cali. But I would read those two articles look into these. I would set up both scan and AEM. There are tutorials online to set these up. Apps flyer honestly may have more tutorials online than adjust. So I would recommend looking at those apps as used by more people. We just haven't used adjust. And then in terms of AEM. That's also something. If you're paying for this course, you clearly have some money to invest. So. I would potentially look into consulting someone on fiber. There are attribution specialists on fiber. Fiber. Attribution. Specialist. Facebook ads. Let's see. Most of these look like scams and not going to lie. So these guys might be good. Facebook ads. Just. I'd say look he apps flyer. Damn, these are actually flyers. Yeah, like this guy apps flyer. Might have some adjust experience. So you can find people online trying to call Henry. I know we found someone online. I think it was on Upwork that we found our guy too. Hey, what's up? You know what's up? We saw the phone with Hussein. Just really quick. Really, really quick. The attribution specialist that we worked with. How did we find him? Was it Upwork? Yeah. Okay, say thanks. Peace. Yeah, see ya. So yeah, it's definitely worth paying for these guys because dude, attribution is a headache and you need it to be done right. You really do. If attribution is not set up, your campaign will not work. You'll be super unprofitable. There is a strategy to pretty much ensure profitability. So I think I kind of hinted at this before but. I get tutorial campaign. That's what we're working in. When you. When you upload an ad. There is something called a custom product page. And. This is actually something that. You can abuse a little bit. Apple. Let you create custom product pages for your app. This is fine show. And basically you can see exactly how much revenue was generated from the custom product page. So you click app, you click your app, you go to custom product pages. You can create a new one. So create one. And then once you have them, I mean, it should literally just be the same exact thing is you should name it something different. It's something unique. You have the link you copy it. And then you put the link right in where it says custom product page. But then once you have it, you could actually go to your analytics. And you could go to acquisition. You could go to product pages. And you could find your custom product page. So we have a deep link for our paid ads. And we could see in the last 30 days, we generated $92,000. And so this is like verifiable no bullshit. I get attribution as confusing as it can be. And as much of a headache custom product pages are the savior. We're at the end of the day. You can sleep. Knowing that your ads are profitable, even with all the noise. You're running influencer campaigns and paid ads at the same time. You might not know how profitable one or the other is. So custom product pages can really cure this cure the anxiety. Because you know, okay, you're not losing money at least. So that's great. That is what you should do. And you can make up to like 35 custom product pages. So you can just have a bunch of custom product pages for different ads. Like one for every single head if you wanted to. We just use one for winners and one for test ads, I believe. But yes, this is the attribution section completed. Attributions, one of the hardest things of paper click advertising. And so definitely recommend either reading up a lot yourself and just grinding it out. Because you know, it's doable or finding a specialist on upwork, save yourself some time. Cool. Let's get in the next section.",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "The most important part of running paper click ads is attribution."
+    },
+    {
+      "start": 7.0,
+      "end": 12.0,
+      "text": "The most important part in 2025 and and onwards."
+    },
+    {
+      "start": 12.0,
+      "end": 18.0,
+      "text": "This is because the algorithm is so good at this point,"
+    },
+    {
+      "start": 18.0,
+      "end": 22.0,
+      "text": "at finding people that will pay for your product."
+    },
+    {
+      "start": 22.0,
+      "end": 27.0,
+      "text": "So the only two variables that you're really tweaking,"
+    },
+    {
+      "start": 27.0,
+      "end": 31.0,
+      "text": "aside from your app you're pricing, because that's all important,"
+    },
+    {
+      "start": 31.0,
+      "end": 35.0,
+      "text": "are the creatives and the attribution."
+    },
+    {
+      "start": 35.0,
+      "end": 41.0,
+      "text": "Now attribution, if done wrong, will fuck up everything."
+    },
+    {
+      "start": 41.0,
+      "end": 46.0,
+      "text": "If done right, then the algorithm will work amazingly,"
+    },
+    {
+      "start": 46.0,
+      "end": 49.0,
+      "text": "do what it's good at and find new customers."
+    },
+    {
+      "start": 49.0,
+      "end": 55.0,
+      "text": "Adjust has a really good blog on what all these Apple privacy rules are,"
+    },
+    {
+      "start": 55.0,
+      "end": 59.0,
+      "text": "so I suggest reading this adjust.com slash glossary slash"
+    },
+    {
+      "start": 59.0,
+      "end": 63.0,
+      "text": "scan networks dash scan, and this will teach you a bunch of stuff,"
+    },
+    {
+      "start": 63.0,
+      "end": 66.0,
+      "text": "basically how it works."
+    },
+    {
+      "start": 66.0,
+      "end": 70.0,
+      "text": "But let me go through this graph here."
+    },
+    {
+      "start": 70.0,
+      "end": 73.0,
+      "text": "So first I would say pause this video, go read that."
+    },
+    {
+      "start": 73.0,
+      "end": 77.0,
+      "text": "Once you've read that, come back here."
+    },
+    {
+      "start": 77.0,
+      "end": 80.0,
+      "text": "Go."
+    },
+    {
+      "start": 86.0,
+      "end": 88.0,
+      "text": "Okay, I'm assuming you've read that."
+    },
+    {
+      "start": 88.0,
+      "end": 99.0,
+      "text": "So these are the this diagram right here shows us how Apple's"
+    },
+    {
+      "start": 99.0,
+      "end": 111.0,
+      "text": "scan SKAN, I don't know what a scan stands for."
+    },
+    {
+      "start": 111.0,
+      "end": 116.0,
+      "text": "Scan network, store kit and network."
+    },
+    {
+      "start": 116.0,
+      "end": 119.0,
+      "text": "LAM."
+    },
+    {
+      "start": 119.0,
+      "end": 124.0,
+      "text": "So how works is very, very strange, very, very strange."
+    },
+    {
+      "start": 124.0,
+      "end": 127.0,
+      "text": "I'm going to explain this to you and you're going to be puzzled why Apple"
+    },
+    {
+      "start": 127.0,
+      "end": 134.0,
+      "text": "would design their system in such a weird way that's so unintuitive and so confusing."
+    },
+    {
+      "start": 134.0,
+      "end": 139.0,
+      "text": "So there are a few different post backs, one, two, and three."
+    },
+    {
+      "start": 139.0,
+      "end": 144.0,
+      "text": "And these are the three opportunities you have to get data back from one of these"
+    },
+    {
+      "start": 144.0,
+      "end": 146.0,
+      "text": "ad platforms."
+    },
+    {
+      "start": 146.0,
+      "end": 152.0,
+      "text": "When someone downloads your app from an ad, you have three different times where you can"
+    },
+    {
+      "start": 152.0,
+      "end": 158.0,
+      "text": "send an event back and train the algorithm on that."
+    },
+    {
+      "start": 158.0,
+      "end": 167.0,
+      "text": "So the first post back is any event sent back from the user's device in the first two days."
+    },
+    {
+      "start": 167.0,
+      "end": 172.0,
+      "text": "So for us, since we're going to train on trial started or purchased directly when they download,"
+    },
+    {
+      "start": 172.0,
+      "end": 181.0,
+      "text": "assuming it's a hard pay world app, like I explained earlier, we want an event being sent within 24 hours."
+    },
+    {
+      "start": 181.0,
+      "end": 189.0,
+      "text": "It's really within 48 hours, honestly, if we're training with scan, we will."
+    },
+    {
+      "start": 189.0,
+      "end": 193.0,
+      "text": "It will be part of the first post back if it's between the first 48 hours."
+    },
+    {
+      "start": 193.0,
+      "end": 198.0,
+      "text": "And then it will, the event will be measured within the first 48 hours,"
+    },
+    {
+      "start": 198.0,
+      "end": 205.0,
+      "text": "but it will actually be sent to Facebook 24 to 40 hours later sporadically during that time."
+    },
+    {
+      "start": 205.0,
+      "end": 209.0,
+      "text": "Why? Who the fuck knows? Ask Apple."
+    },
+    {
+      "start": 209.0,
+      "end": 215.0,
+      "text": "The second post back window is between days three and seven."
+    },
+    {
+      "start": 215.0,
+      "end": 221.0,
+      "text": "And after day seven, then randomly it between the next 24 and 144 hours."
+    },
+    {
+      "start": 221.0,
+      "end": 225.0,
+      "text": "Oh, oh, I just lost the course."
+    },
+    {
+      "start": 225.0,
+      "end": 227.0,
+      "text": "Okay."
+    },
+    {
+      "start": 227.0,
+      "end": 235.0,
+      "text": "Between the next 24 and 144 hours, which is, which is six days,"
+    },
+    {
+      "start": 235.0,
+      "end": 239.0,
+      "text": "you will get the second post back events."
+    },
+    {
+      "start": 239.0,
+      "end": 247.0,
+      "text": "And then there is the last post back window, which is post back three, third post back."
+    },
+    {
+      "start": 247.0,
+      "end": 253.0,
+      "text": "This is any event collected within the first eight to 35 days."
+    },
+    {
+      "start": 253.0,
+      "end": 260.0,
+      "text": "And it will also be sent one to six days later after the 35th day, which is very, very strange."
+    },
+    {
+      "start": 260.0,
+      "end": 263.0,
+      "text": "I honestly don't know why they're doing this."
+    },
+    {
+      "start": 263.0,
+      "end": 268.0,
+      "text": "A lot of people have said they've added all of these privacy rules because they were sued by the EU"
+    },
+    {
+      "start": 268.0,
+      "end": 272.0,
+      "text": "and they now have to do this for device privacy."
+    },
+    {
+      "start": 272.0,
+      "end": 280.0,
+      "text": "But it doesn't make sense to me that they would need to do this weird, weird fucking shit, dude."
+    },
+    {
+      "start": 280.0,
+      "end": 285.0,
+      "text": "I don't know why they have to, but whatever we have to deal with it makes it more difficult for the competition."
+    },
+    {
+      "start": 285.0,
+      "end": 291.0,
+      "text": "So the first post back and second and third for each of them, there is something called a conversion value,"
+    },
+    {
+      "start": 291.0,
+      "end": 295.0,
+      "text": "a low medium high pay no attention to low medium or high."
+    },
+    {
+      "start": 295.0,
+      "end": 297.0,
+      "text": "It's really just like one, two or three."
+    },
+    {
+      "start": 297.0,
+      "end": 301.0,
+      "text": "And for each one, you map a value to it."
+    },
+    {
+      "start": 301.0,
+      "end": 305.0,
+      "text": "So we map install free trial and conversion."
+    },
+    {
+      "start": 305.0,
+      "end": 309.0,
+      "text": "These are the only three events you can really track."
+    },
+    {
+      "start": 309.0,
+      "end": 314.0,
+      "text": "And then there's a second post back and a third post back."
+    },
+    {
+      "start": 314.0,
+      "end": 319.0,
+      "text": "In some cases, I don't know if it just does this actually it might."
+    },
+    {
+      "start": 319.0,
+      "end": 326.0,
+      "text": "If you get multiple events, it may only send, it may go by magnitude."
+    },
+    {
+      "start": 326.0,
+      "end": 328.0,
+      "text": "So if low and medium is sent, only medium will be sent."
+    },
+    {
+      "start": 328.0,
+      "end": 330.0,
+      "text": "If low medium high is sent, then only high will be sent."
+    },
+    {
+      "start": 330.0,
+      "end": 334.0,
+      "text": "That I know is how some of these attribution platforms work."
+    },
+    {
+      "start": 334.0,
+      "end": 341.0,
+      "text": "So look into it for the platform you're using, adjust or actually confirming this right now."
+    },
+    {
+      "start": 341.0,
+      "end": 344.0,
+      "text": "Honestly, they're we are."
+    },
+    {
+      "start": 344.0,
+      "end": 346.0,
+      "text": "I wouldn't necessarily worry about this right now."
+    },
+    {
+      "start": 346.0,
+      "end": 348.0,
+      "text": "This is more of the nuances to be honest."
+    },
+    {
+      "start": 348.0,
+      "end": 353.0,
+      "text": "But the first post back is something interesting about it that the rest don't."
+    },
+    {
+      "start": 353.0,
+      "end": 356.0,
+      "text": "The first post back has these fine conversion values."
+    },
+    {
+      "start": 356.0,
+      "end": 358.0,
+      "text": "And these are bits."
+    },
+    {
+      "start": 358.0,
+      "end": 359.0,
+      "text": "Why are they bits?"
+    },
+    {
+      "start": 359.0,
+      "end": 360.0,
+      "text": "I don't know."
+    },
+    {
+      "start": 360.0,
+      "end": 363.0,
+      "text": "But they're essentially just an extension of these other values."
+    },
+    {
+      "start": 363.0,
+      "end": 371.0,
+      "text": "And so you can have extra events in the first post back, six extra events that you can't have in the second or third post back."
+    },
+    {
+      "start": 371.0,
+      "end": 377.0,
+      "text": "The difference is with bits and the conversion values is that you have to hit a certain threshold of down."
+    },
+    {
+      "start": 377.0,
+      "end": 382.0,
+      "text": "In order for you to even get the value from the bit."
+    },
+    {
+      "start": 382.0,
+      "end": 384.0,
+      "text": "What is the threshold?"
+    },
+    {
+      "start": 384.0,
+      "end": 385.0,
+      "text": "I'm actually not sure."
+    },
+    {
+      "start": 385.0,
+      "end": 389.0,
+      "text": "Let's let's see if chat you to knows."
+    },
+    {
+      "start": 407.0,
+      "end": 412.0,
+      "text": "I'm not sure."
+    },
+    {
+      "start": 412.0,
+      "end": 417.0,
+      "text": "I'm not sure."
+    },
+    {
+      "start": 417.0,
+      "end": 422.0,
+      "text": "I'm not sure."
+    },
+    {
+      "start": 422.0,
+      "end": 427.0,
+      "text": "I'm not sure."
+    },
+    {
+      "start": 427.0,
+      "end": 456.0,
+      "text": "Okay, so there is a threshold that Apple apparently does not send it, which is ridiculous, which is ridiculous."
+    },
+    {
+      "start": 456.0,
+      "end": 464.0,
+      "text": "So if the bits don't get sent over, then it will fall back and only send the low medium or high."
+    },
+    {
+      "start": 464.0,
+      "end": 472.0,
+      "text": "If you get bits does it not send the low medium high?"
+    },
+    {
+      "start": 472.0,
+      "end": 474.0,
+      "text": "Let's see."
+    },
+    {
+      "start": 474.0,
+      "end": 475.0,
+      "text": "Wow."
+    },
+    {
+      "start": 475.0,
+      "end": 477.0,
+      "text": "So you don't get both at the same time."
+    },
+    {
+      "start": 477.0,
+      "end": 481.0,
+      "text": "So Apple has this fucking privacy threshold that no one really knows what it means."
+    },
+    {
+      "start": 481.0,
+      "end": 486.0,
+      "text": "And if it's hit, then you will only get the bits."
+    },
+    {
+      "start": 486.0,
+      "end": 491.0,
+      "text": "If it's not hit, you only get the conversion, the rough conversion values."
+    },
+    {
+      "start": 491.0,
+      "end": 495.0,
+      "text": "So yeah, that is pretty bad."
+    },
+    {
+      "start": 495.0,
+      "end": 496.0,
+      "text": "It's pretty bad."
+    },
+    {
+      "start": 496.0,
+      "end": 501.0,
+      "text": "Honestly, it's pretty stupid."
+    },
+    {
+      "start": 501.0,
+      "end": 502.0,
+      "text": "Scan."
+    },
+    {
+      "start": 502.0,
+      "end": 504.0,
+      "text": "So everything with measuring scan."
+    },
+    {
+      "start": 504.0,
+      "end": 514.0,
+      "text": "In the ad library, the cost per result, you'd actually see that it goes down over time because the first two days it will look completely unprofitable."
+    },
+    {
+      "start": 514.0,
+      "end": 523.0,
+      "text": "For the first two days, it will look completely unprofitable until the event starts sending in and then it will start filling in the cost per result will actually start dropping."
+    },
+    {
+      "start": 523.0,
+      "end": 524.0,
+      "text": "And that's that's a known."
+    },
+    {
+      "start": 524.0,
+      "end": 525.0,
+      "text": "It's very annoying."
+    },
+    {
+      "start": 525.0,
+      "end": 535.0,
+      "text": "So the workaround that we do at Cali scan is very good for measurement because Apple won't overestimate the amount of people that go through."
+    },
+    {
+      "start": 535.0,
+      "end": 539.0,
+      "text": "It will underestimate the number of events that this sends."
+    },
+    {
+      "start": 539.0,
+      "end": 542.0,
+      "text": "It actually can be up to 50% off."
+    },
+    {
+      "start": 542.0,
+      "end": 547.0,
+      "text": "So if your cost per result is $8, it might actually only be $4."
+    },
+    {
+      "start": 547.0,
+      "end": 550.0,
+      "text": "Which is actually an insane difference."
+    },
+    {
+      "start": 550.0,
+      "end": 554.0,
+      "text": "It could be the difference between profitable or not."
+    },
+    {
+      "start": 554.0,
+      "end": 561.0,
+      "text": "So what a lot of people do is they use something called AEM to train on."
+    },
+    {
+      "start": 561.0,
+      "end": 569.0,
+      "text": "And AEM is met as aggregated event management system."
+    },
+    {
+      "start": 569.0,
+      "end": 573.0,
+      "text": "That basically it uses some IP tracking."
+    },
+    {
+      "start": 573.0,
+      "end": 580.0,
+      "text": "It also connects to scan or something and lets you it lets you measure."
+    },
+    {
+      "start": 580.0,
+      "end": 584.0,
+      "text": "It's an estimation. So it's not necessarily as accurate as scan."
+    },
+    {
+      "start": 584.0,
+      "end": 589.0,
+      "text": "But it's for us we it's it's very very close to being correct."
+    },
+    {
+      "start": 589.0,
+      "end": 591.0,
+      "text": "It's it's not like the 50% off usually."
+    },
+    {
+      "start": 591.0,
+      "end": 593.0,
+      "text": "So it's closer to the actual number."
+    },
+    {
+      "start": 593.0,
+      "end": 596.0,
+      "text": "Still usually an underestimate from my experience."
+    },
+    {
+      "start": 596.0,
+      "end": 598.0,
+      "text": "And so and it's instantaneous."
+    },
+    {
+      "start": 598.0,
+      "end": 601.0,
+      "text": "You don't have to wait three days to get data back."
+    },
+    {
+      "start": 601.0,
+      "end": 605.0,
+      "text": "And therefore you can just start."
+    },
+    {
+      "start": 605.0,
+      "end": 609.0,
+      "text": "You can the algorithm will learn much faster."
+    },
+    {
+      "start": 610.0,
+      "end": 612.0,
+      "text": "So."
+    },
+    {
+      "start": 612.0,
+      "end": 614.0,
+      "text": "You have some homework to do."
+    },
+    {
+      "start": 614.0,
+      "end": 616.0,
+      "text": "I'm not going to show you how to set this up."
+    },
+    {
+      "start": 616.0,
+      "end": 618.0,
+      "text": "So it's a lot to do."
+    },
+    {
+      "start": 618.0,
+      "end": 623.0,
+      "text": "And honestly I don't think I was the one that set it up for Cali."
+    },
+    {
+      "start": 623.0,
+      "end": 626.0,
+      "text": "But I would read those two articles look into these."
+    },
+    {
+      "start": 626.0,
+      "end": 629.0,
+      "text": "I would set up both scan and AEM."
+    },
+    {
+      "start": 629.0,
+      "end": 632.0,
+      "text": "There are tutorials online to set these up."
+    },
+    {
+      "start": 632.0,
+      "end": 635.0,
+      "text": "Apps flyer honestly may have more tutorials online than adjust."
+    },
+    {
+      "start": 635.0,
+      "end": 639.0,
+      "text": "So I would recommend looking at those apps as used by more people."
+    },
+    {
+      "start": 639.0,
+      "end": 641.0,
+      "text": "We just haven't used adjust."
+    },
+    {
+      "start": 641.0,
+      "end": 643.0,
+      "text": "And then in terms of AEM."
+    },
+    {
+      "start": 643.0,
+      "end": 645.0,
+      "text": "That's also something."
+    },
+    {
+      "start": 645.0,
+      "end": 649.0,
+      "text": "If you're paying for this course, you clearly have some money to invest."
+    },
+    {
+      "start": 649.0,
+      "end": 651.0,
+      "text": "So."
+    },
+    {
+      "start": 651.0,
+      "end": 654.0,
+      "text": "I would potentially look into consulting someone on fiber."
+    },
+    {
+      "start": 654.0,
+      "end": 658.0,
+      "text": "There are attribution specialists on fiber."
+    },
+    {
+      "start": 658.0,
+      "end": 661.0,
+      "text": "Fiber."
+    },
+    {
+      "start": 662.0,
+      "end": 665.0,
+      "text": "Attribution."
+    },
+    {
+      "start": 665.0,
+      "end": 668.0,
+      "text": "Specialist."
+    },
+    {
+      "start": 668.0,
+      "end": 671.0,
+      "text": "Facebook ads."
+    },
+    {
+      "start": 671.0,
+      "end": 679.0,
+      "text": "Let's see."
+    },
+    {
+      "start": 679.0,
+      "end": 690.0,
+      "text": "Most of these look like scams and not going to lie."
+    },
+    {
+      "start": 690.0,
+      "end": 695.0,
+      "text": "So these guys might be good."
+    },
+    {
+      "start": 695.0,
+      "end": 700.0,
+      "text": "Facebook ads."
+    },
+    {
+      "start": 700.0,
+      "end": 702.0,
+      "text": "Just."
+    },
+    {
+      "start": 702.0,
+      "end": 711.0,
+      "text": "I'd say look he apps flyer."
+    },
+    {
+      "start": 711.0,
+      "end": 716.0,
+      "text": "Damn, these are actually flyers."
+    },
+    {
+      "start": 716.0,
+      "end": 738.0,
+      "text": "Yeah, like this guy apps flyer."
+    },
+    {
+      "start": 738.0,
+      "end": 740.0,
+      "text": "Might have some adjust experience."
+    },
+    {
+      "start": 740.0,
+      "end": 742.0,
+      "text": "So you can find people online trying to call Henry."
+    },
+    {
+      "start": 742.0,
+      "end": 744.0,
+      "text": "I know we found someone online."
+    },
+    {
+      "start": 744.0,
+      "end": 747.0,
+      "text": "I think it was on Upwork that we found our guy too."
+    },
+    {
+      "start": 747.0,
+      "end": 748.0,
+      "text": "Hey, what's up?"
+    },
+    {
+      "start": 748.0,
+      "end": 749.0,
+      "text": "You know what's up?"
+    },
+    {
+      "start": 749.0,
+      "end": 751.0,
+      "text": "We saw the phone with Hussein."
+    },
+    {
+      "start": 751.0,
+      "end": 752.0,
+      "text": "Just really quick."
+    },
+    {
+      "start": 752.0,
+      "end": 753.0,
+      "text": "Really, really quick."
+    },
+    {
+      "start": 753.0,
+      "end": 756.0,
+      "text": "The attribution specialist that we worked with."
+    },
+    {
+      "start": 756.0,
+      "end": 757.0,
+      "text": "How did we find him?"
+    },
+    {
+      "start": 757.0,
+      "end": 758.0,
+      "text": "Was it Upwork?"
+    },
+    {
+      "start": 758.0,
+      "end": 759.0,
+      "text": "Yeah."
+    },
+    {
+      "start": 759.0,
+      "end": 760.0,
+      "text": "Okay, say thanks."
+    },
+    {
+      "start": 760.0,
+      "end": 761.0,
+      "text": "Peace."
+    },
+    {
+      "start": 761.0,
+      "end": 762.0,
+      "text": "Yeah, see ya."
+    },
+    {
+      "start": 762.0,
+      "end": 765.0,
+      "text": "So yeah, it's definitely worth paying for these guys because dude,"
+    },
+    {
+      "start": 765.0,
+      "end": 768.0,
+      "text": "attribution is a headache and you need it to be done right."
+    },
+    {
+      "start": 768.0,
+      "end": 769.0,
+      "text": "You really do."
+    },
+    {
+      "start": 769.0,
+      "end": 772.0,
+      "text": "If attribution is not set up, your campaign will not work."
+    },
+    {
+      "start": 772.0,
+      "end": 775.0,
+      "text": "You'll be super unprofitable."
+    },
+    {
+      "start": 775.0,
+      "end": 779.0,
+      "text": "There is a strategy to pretty much ensure profitability."
+    },
+    {
+      "start": 779.0,
+      "end": 783.0,
+      "text": "So I think I kind of hinted at this before but."
+    },
+    {
+      "start": 783.0,
+      "end": 785.0,
+      "text": "I get tutorial campaign."
+    },
+    {
+      "start": 785.0,
+      "end": 787.0,
+      "text": "That's what we're working in."
+    },
+    {
+      "start": 787.0,
+      "end": 791.0,
+      "text": "When you."
+    },
+    {
+      "start": 791.0,
+      "end": 793.0,
+      "text": "When you upload an ad."
+    },
+    {
+      "start": 793.0,
+      "end": 796.0,
+      "text": "There is something called a custom product page."
+    },
+    {
+      "start": 797.0,
+      "end": 799.0,
+      "text": "And."
+    },
+    {
+      "start": 799.0,
+      "end": 802.0,
+      "text": "This is actually something that."
+    },
+    {
+      "start": 802.0,
+      "end": 805.0,
+      "text": "You can abuse a little bit."
+    },
+    {
+      "start": 805.0,
+      "end": 806.0,
+      "text": "Apple."
+    },
+    {
+      "start": 806.0,
+      "end": 810.0,
+      "text": "Let you create custom product pages for your app."
+    },
+    {
+      "start": 810.0,
+      "end": 814.0,
+      "text": "This is fine show."
+    },
+    {
+      "start": 814.0,
+      "end": 820.0,
+      "text": "And basically you can see exactly how much revenue was generated from the custom product page."
+    },
+    {
+      "start": 820.0,
+      "end": 824.0,
+      "text": "So you click app, you click your app, you go to custom product pages."
+    },
+    {
+      "start": 824.0,
+      "end": 826.0,
+      "text": "You can create a new one."
+    },
+    {
+      "start": 826.0,
+      "end": 827.0,
+      "text": "So create one."
+    },
+    {
+      "start": 827.0,
+      "end": 834.0,
+      "text": "And then once you have them, I mean, it should literally just be the same exact thing is you should name it something different."
+    },
+    {
+      "start": 834.0,
+      "end": 835.0,
+      "text": "It's something unique."
+    },
+    {
+      "start": 835.0,
+      "end": 836.0,
+      "text": "You have the link you copy it."
+    },
+    {
+      "start": 836.0,
+      "end": 839.0,
+      "text": "And then you put the link right in where it says custom product page."
+    },
+    {
+      "start": 839.0,
+      "end": 847.0,
+      "text": "But then once you have it, you could actually go to your analytics."
+    },
+    {
+      "start": 847.0,
+      "end": 849.0,
+      "text": "And you could go to acquisition."
+    },
+    {
+      "start": 849.0,
+      "end": 851.0,
+      "text": "You could go to product pages."
+    },
+    {
+      "start": 851.0,
+      "end": 853.0,
+      "text": "And you could find your custom product page."
+    },
+    {
+      "start": 853.0,
+      "end": 855.0,
+      "text": "So we have a deep link for our paid ads."
+    },
+    {
+      "start": 855.0,
+      "end": 859.0,
+      "text": "And we could see in the last 30 days, we generated $92,000."
+    },
+    {
+      "start": 859.0,
+      "end": 863.0,
+      "text": "And so this is like verifiable no bullshit."
+    },
+    {
+      "start": 863.0,
+      "end": 866.0,
+      "text": "I get attribution as confusing as it can be."
+    },
+    {
+      "start": 866.0,
+      "end": 869.0,
+      "text": "And as much of a headache custom product pages are the savior."
+    },
+    {
+      "start": 869.0,
+      "end": 871.0,
+      "text": "We're at the end of the day."
+    },
+    {
+      "start": 871.0,
+      "end": 873.0,
+      "text": "You can sleep."
+    },
+    {
+      "start": 873.0,
+      "end": 877.0,
+      "text": "Knowing that your ads are profitable, even with all the noise."
+    },
+    {
+      "start": 877.0,
+      "end": 880.0,
+      "text": "You're running influencer campaigns and paid ads at the same time."
+    },
+    {
+      "start": 880.0,
+      "end": 883.0,
+      "text": "You might not know how profitable one or the other is."
+    },
+    {
+      "start": 883.0,
+      "end": 888.0,
+      "text": "So custom product pages can really cure this cure the anxiety."
+    },
+    {
+      "start": 888.0,
+      "end": 892.0,
+      "text": "Because you know, okay, you're not losing money at least."
+    },
+    {
+      "start": 892.0,
+      "end": 893.0,
+      "text": "So that's great."
+    },
+    {
+      "start": 893.0,
+      "end": 895.0,
+      "text": "That is what you should do."
+    },
+    {
+      "start": 895.0,
+      "end": 897.0,
+      "text": "And you can make up to like 35 custom product pages."
+    },
+    {
+      "start": 897.0,
+      "end": 902.0,
+      "text": "So you can just have a bunch of custom product pages for different ads."
+    },
+    {
+      "start": 902.0,
+      "end": 904.0,
+      "text": "Like one for every single head if you wanted to."
+    },
+    {
+      "start": 904.0,
+      "end": 909.0,
+      "text": "We just use one for winners and one for test ads, I believe."
+    },
+    {
+      "start": 909.0,
+      "end": 914.0,
+      "text": "But yes, this is the attribution section completed."
+    },
+    {
+      "start": 914.0,
+      "end": 919.0,
+      "text": "Attributions, one of the hardest things of paper click advertising."
+    },
+    {
+      "start": 919.0,
+      "end": 925.0,
+      "text": "And so definitely recommend either reading up a lot yourself and just grinding it out."
+    },
+    {
+      "start": 925.0,
+      "end": 931.0,
+      "text": "Because you know, it's doable or finding a specialist on upwork, save yourself some time."
+    },
+    {
+      "start": 931.0,
+      "end": 934.0,
+      "text": "Cool. Let's get in the next section."
+    }
+  ]
+}

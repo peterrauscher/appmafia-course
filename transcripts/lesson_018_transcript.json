@@ -1,0 +1,577 @@
+{
+  "file_name": "018_Lesson_18.faudio-hi-0-Default.mp4",
+  "text": " Let's talk about some viral design. How are we going to make your shitty app designs actually look good in an influencer video so that it converts and it goes viral? It's not overly complicated. It's not overly complicated. It's kind of about branding your own app. What I mean by this, let me just break this down. If you have an influencer talk about your app, if you have a paid ad talk about your app, if you have, if you're making UGC content and they're showing your app, you need people to know it's your app. There's so many videos where people show apps and the video blows up. But then everyone's asking in the comments, what app is that? And no one fucking knows. And you're not going in in the comments and responding. So it doesn't actually work or it no one finds out and then it doesn't convert. And by the way, let me be honest by saying or go back and say, you want people commenting what app is that? That's a very good sign. But just people should be able to figure it out if they looked hard enough in the video. People are always going to comment what app is that because consumers are generally not smart. And so they'll see something they're lazy. They'll just comment instead of doing their like hard work themselves. But influencers show your app on screen. How are people going to know it's your app? A few ways. One, let's see what we do in Cali. In Cali, we have the name Cali Big at the top of the app screen on the home page. So if an influencer shows it, boom, right there. We also do the same thing on the scanning page. It's actually not updated here. This is an old version. But we replace scanner with big text that's as Cal AI on influencers. Actually, something interesting that we did is I didn't like always having Cali and branding it for regular users. Because I thought it was low-key low quality to just put names on everything. For example, I'm someone who doesn't wear clothing with labels typically, or brand names typically. And so I feel the same way about apps. So we have two separate versions of the app. One for the creator and one for users. The one for the creator has the big Cali right here. Very big. Because this is the screen everyone's showing off. It's the scan screen, the core traction. And so we need it there. When the influencer shows it, we want people to know in big that it is Cal AI. And for users, we don't show that. We have it at the top on the home page, but we do not show it in the scanner. I'd say that's the main thing. Just making it super obvious from content, what your app is. And the best way to do that is literally by putting your name and putting your logo. Okay. How else can we make the design viral? People like visuals on social media. People want things to be cool. They want it to be aesthetic. If for Cal AI, we had, if the screens looked very first of all, okay. Saying a lot. This goes into the general design principles for everything, but you need it to be straightforward and simple. If you have too much going on, then if your app is shown in a frame of a video for like two seconds, and you have so much, no one will know what they're seeing. You need the app, the contents of the app to be very simple and concise, so that it's very obvious on a glance what's going on. They understand exactly the process of what's happening. Also, you do need cool visuals. So when things are happening, you want it to look nice. When you take a picture of food on Cal AI, you go, you take the picture. Not much we can do. It's just a camera. Then we show it analyzing. And we've basically created a three step flow for all influencers, where they will show taking a picture, show scanning. And then they'll go to the results page, and they'll show what the result is ultimately exploding right now. We require this for all influencers. And really all ad creatives in general. So they'll show the taking picture, the loading, and then this page. And this is actually an outdated version. This one is more recent. So you'll kind of want to think about your main flow, the main aha moment. You should call it that influencers should show off. I'm a believer every app, pretty much every app, 90%, 99%, even, has an aha moment. There, wherever your users realize that they're getting the value. For Cal AI, it's okay, you take a picture of your food, you get the calories. For Quitter, I think it's the first time it actually helps you, it stops you from your urges. And so I think the panic button is really the big thing. It's like the big core action that is like a viral action. It's flashy. It's in your face. And there are a bunch of other examples on this as well. So you'll want to come up with your aha moment, and then just make sure that that is branded well, so that when your influencers talk about it, or not just I know I keep saying influencers, but when the app is shown in some kind of ad, or some kind of marketing material, it is easy to understand from a glance, easy to understand what's going on to comprehend what the app does, to comprehend the value that they're receiving. Make sure it's in sequential order. And make sure that the name of your app and your logo is shown very clearly, so that people know where to go download it afterwards. These are the main principles to keep in mind. You should iterate, you should always change things, see how they affect conversion rate. And that's how we go from here. Good luck.",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "text": "Let's talk about some viral design."
+    },
+    {
+      "start": 3.04,
+      "end": 6.48,
+      "text": "How are we going to make your shitty app designs"
+    },
+    {
+      "start": 6.48,
+      "end": 12.08,
+      "text": "actually look good in an influencer video so that it converts and it goes viral?"
+    },
+    {
+      "start": 12.72,
+      "end": 18.16,
+      "text": "It's not overly complicated. It's not overly complicated."
+    },
+    {
+      "start": 18.16,
+      "end": 22.56,
+      "text": "It's kind of about branding your own app."
+    },
+    {
+      "start": 22.56,
+      "end": 25.68,
+      "text": "What I mean by this, let me just break this down."
+    },
+    {
+      "start": 25.68,
+      "end": 27.92,
+      "text": "If you have an influencer talk about your app,"
+    },
+    {
+      "start": 27.92,
+      "end": 31.76,
+      "text": "if you have a paid ad talk about your app, if you have, if you're making UGC content"
+    },
+    {
+      "start": 31.76,
+      "end": 35.2,
+      "text": "and they're showing your app, you need people to know it's your app."
+    },
+    {
+      "start": 35.2,
+      "end": 39.68,
+      "text": "There's so many videos where people show apps and the video blows up."
+    },
+    {
+      "start": 39.68,
+      "end": 42.56,
+      "text": "But then everyone's asking in the comments, what app is that?"
+    },
+    {
+      "start": 42.56,
+      "end": 43.92,
+      "text": "And no one fucking knows."
+    },
+    {
+      "start": 43.92,
+      "end": 46.160000000000004,
+      "text": "And you're not going in in the comments and responding."
+    },
+    {
+      "start": 46.160000000000004,
+      "end": 51.68000000000001,
+      "text": "So it doesn't actually work or it no one finds out and then it doesn't convert."
+    },
+    {
+      "start": 53.040000000000006,
+      "end": 56.400000000000006,
+      "text": "And by the way, let me be honest by saying or go back and say,"
+    },
+    {
+      "start": 57.12,
+      "end": 59.04,
+      "text": "you want people commenting what app is that?"
+    },
+    {
+      "start": 59.04,
+      "end": 60.08,
+      "text": "That's a very good sign."
+    },
+    {
+      "start": 60.08,
+      "end": 64.8,
+      "text": "But just people should be able to figure it out if they looked hard enough in the video."
+    },
+    {
+      "start": 64.8,
+      "end": 69.84,
+      "text": "People are always going to comment what app is that because consumers are generally not smart."
+    },
+    {
+      "start": 69.84,
+      "end": 71.92,
+      "text": "And so they'll see something they're lazy."
+    },
+    {
+      "start": 71.92,
+      "end": 75.92,
+      "text": "They'll just comment instead of doing their like hard work themselves."
+    },
+    {
+      "start": 75.92,
+      "end": 79.75999999999999,
+      "text": "But influencers show your app on screen."
+    },
+    {
+      "start": 80.4,
+      "end": 81.92,
+      "text": "How are people going to know it's your app?"
+    },
+    {
+      "start": 81.92,
+      "end": 82.56,
+      "text": "A few ways."
+    },
+    {
+      "start": 82.56,
+      "end": 84.64,
+      "text": "One, let's see what we do in Cali."
+    },
+    {
+      "start": 85.52,
+      "end": 91.84,
+      "text": "In Cali, we have the name Cali Big at the top of the app screen on the home page."
+    },
+    {
+      "start": 92.48,
+      "end": 95.92,
+      "text": "So if an influencer shows it, boom, right there."
+    },
+    {
+      "start": 96.56,
+      "end": 99.36,
+      "text": "We also do the same thing on the scanning page."
+    },
+    {
+      "start": 99.36,
+      "end": 100.64,
+      "text": "It's actually not updated here."
+    },
+    {
+      "start": 100.64,
+      "end": 101.84,
+      "text": "This is an old version."
+    },
+    {
+      "start": 101.84,
+      "end": 106.88,
+      "text": "But we replace scanner with big text that's as Cal AI on influencers."
+    },
+    {
+      "start": 107.68,
+      "end": 112.96000000000001,
+      "text": "Actually, something interesting that we did is I didn't like always having Cali"
+    },
+    {
+      "start": 113.03999999999999,
+      "end": 115.6,
+      "text": "and branding it for regular users."
+    },
+    {
+      "start": 115.6,
+      "end": 120.16,
+      "text": "Because I thought it was low-key low quality to just put names on everything."
+    },
+    {
+      "start": 120.16,
+      "end": 125.36,
+      "text": "For example, I'm someone who doesn't wear clothing with labels typically,"
+    },
+    {
+      "start": 125.36,
+      "end": 127.03999999999999,
+      "text": "or brand names typically."
+    },
+    {
+      "start": 127.6,
+      "end": 129.51999999999998,
+      "text": "And so I feel the same way about apps."
+    },
+    {
+      "start": 129.51999999999998,
+      "end": 131.68,
+      "text": "So we have two separate versions of the app."
+    },
+    {
+      "start": 131.68,
+      "end": 134.24,
+      "text": "One for the creator and one for users."
+    },
+    {
+      "start": 134.24,
+      "end": 137.6,
+      "text": "The one for the creator has the big Cali right here."
+    },
+    {
+      "start": 137.6,
+      "end": 138.4,
+      "text": "Very big."
+    },
+    {
+      "start": 138.4,
+      "end": 140.4,
+      "text": "Because this is the screen everyone's showing off."
+    },
+    {
+      "start": 140.4,
+      "end": 142.72,
+      "text": "It's the scan screen, the core traction."
+    },
+    {
+      "start": 142.72,
+      "end": 143.92,
+      "text": "And so we need it there."
+    },
+    {
+      "start": 143.92,
+      "end": 148.08,
+      "text": "When the influencer shows it, we want people to know in big that it is Cal AI."
+    },
+    {
+      "start": 149.44,
+      "end": 152.16,
+      "text": "And for users, we don't show that."
+    },
+    {
+      "start": 152.16,
+      "end": 156.72,
+      "text": "We have it at the top on the home page, but we do not show it in the scanner."
+    },
+    {
+      "start": 157.68,
+      "end": 158.72,
+      "text": "I'd say that's the main thing."
+    },
+    {
+      "start": 158.72,
+      "end": 162.0,
+      "text": "Just making it super obvious from content, what your app is."
+    },
+    {
+      "start": 162.0,
+      "end": 165.28,
+      "text": "And the best way to do that is literally by putting your name and putting your logo."
+    },
+    {
+      "start": 165.92,
+      "end": 166.64,
+      "text": "Okay."
+    },
+    {
+      "start": 166.64,
+      "end": 169.76,
+      "text": "How else can we make the design viral?"
+    },
+    {
+      "start": 170.72,
+      "end": 173.6,
+      "text": "People like visuals on social media."
+    },
+    {
+      "start": 174.95999999999998,
+      "end": 177.2,
+      "text": "People want things to be cool."
+    },
+    {
+      "start": 177.2,
+      "end": 178.39999999999998,
+      "text": "They want it to be aesthetic."
+    },
+    {
+      "start": 179.35999999999999,
+      "end": 185.84,
+      "text": "If for Cal AI, we had, if the screens looked very first of all, okay."
+    },
+    {
+      "start": 187.04,
+      "end": 187.68,
+      "text": "Saying a lot."
+    },
+    {
+      "start": 189.35999999999999,
+      "end": 192.88,
+      "text": "This goes into the general design principles for everything,"
+    },
+    {
+      "start": 192.88,
+      "end": 194.64,
+      "text": "but you need it to be straightforward and simple."
+    },
+    {
+      "start": 194.64,
+      "end": 195.92,
+      "text": "If you have too much going on,"
+    },
+    {
+      "start": 196.55999999999997,
+      "end": 201.04,
+      "text": "then if your app is shown in a frame of a video for like two seconds,"
+    },
+    {
+      "start": 201.04,
+      "end": 203.11999999999998,
+      "text": "and you have so much, no one will know what they're seeing."
+    },
+    {
+      "start": 203.67999999999998,
+      "end": 208.64,
+      "text": "You need the app, the contents of the app to be very simple and concise,"
+    },
+    {
+      "start": 209.11999999999998,
+      "end": 212.64,
+      "text": "so that it's very obvious on a glance what's going on."
+    },
+    {
+      "start": 212.64,
+      "end": 215.83999999999997,
+      "text": "They understand exactly the process of what's happening."
+    },
+    {
+      "start": 219.44,
+      "end": 222.72,
+      "text": "Also, you do need cool visuals."
+    },
+    {
+      "start": 222.72,
+      "end": 225.27999999999997,
+      "text": "So when things are happening, you want it to look nice."
+    },
+    {
+      "start": 226.07999999999998,
+      "end": 229.35999999999999,
+      "text": "When you take a picture of food on Cal AI, you go, you take the picture."
+    },
+    {
+      "start": 229.35999999999999,
+      "end": 230.16,
+      "text": "Not much we can do."
+    },
+    {
+      "start": 230.16,
+      "end": 230.95999999999998,
+      "text": "It's just a camera."
+    },
+    {
+      "start": 231.76,
+      "end": 234.23999999999998,
+      "text": "Then we show it analyzing."
+    },
+    {
+      "start": 234.88,
+      "end": 239.27999999999997,
+      "text": "And we've basically created a three step flow for all influencers,"
+    },
+    {
+      "start": 239.83999999999997,
+      "end": 242.56,
+      "text": "where they will show taking a picture,"
+    },
+    {
+      "start": 243.35999999999999,
+      "end": 244.39999999999998,
+      "text": "show scanning."
+    },
+    {
+      "start": 244.95999999999998,
+      "end": 248.07999999999998,
+      "text": "And then they'll go to the results page,"
+    },
+    {
+      "start": 248.07999999999998,
+      "end": 251.51999999999998,
+      "text": "and they'll show what the result is ultimately exploding right now."
+    },
+    {
+      "start": 253.04,
+      "end": 255.44,
+      "text": "We require this for all influencers."
+    },
+    {
+      "start": 255.44,
+      "end": 257.6,
+      "text": "And really all ad creatives in general."
+    },
+    {
+      "start": 257.6,
+      "end": 260.32,
+      "text": "So they'll show the taking picture, the loading, and then this page."
+    },
+    {
+      "start": 260.32,
+      "end": 261.92,
+      "text": "And this is actually an outdated version."
+    },
+    {
+      "start": 263.76,
+      "end": 264.96,
+      "text": "This one is more recent."
+    },
+    {
+      "start": 267.36,
+      "end": 271.84,
+      "text": "So you'll kind of want to think about your main flow,"
+    },
+    {
+      "start": 272.48,
+      "end": 274.0,
+      "text": "the main aha moment."
+    },
+    {
+      "start": 274.0,
+      "end": 277.68,
+      "text": "You should call it that influencers should show off."
+    },
+    {
+      "start": 277.68,
+      "end": 282.32,
+      "text": "I'm a believer every app, pretty much every app, 90%, 99%, even,"
+    },
+    {
+      "start": 282.32,
+      "end": 283.44,
+      "text": "has an aha moment."
+    },
+    {
+      "start": 284.0,
+      "end": 288.16,
+      "text": "There, wherever your users realize that they're getting the value."
+    },
+    {
+      "start": 288.16,
+      "end": 290.4,
+      "text": "For Cal AI, it's okay, you take a picture of your food,"
+    },
+    {
+      "start": 290.4,
+      "end": 291.2,
+      "text": "you get the calories."
+    },
+    {
+      "start": 291.76,
+      "end": 295.44,
+      "text": "For Quitter, I think it's the first time it actually helps you,"
+    },
+    {
+      "start": 295.44,
+      "end": 297.68,
+      "text": "it stops you from your urges."
+    },
+    {
+      "start": 298.16,
+      "end": 301.44,
+      "text": "And so I think the panic button is really the big thing."
+    },
+    {
+      "start": 301.44,
+      "end": 305.04,
+      "text": "It's like the big core action that is like a viral action."
+    },
+    {
+      "start": 305.04,
+      "end": 305.92,
+      "text": "It's flashy."
+    },
+    {
+      "start": 305.92,
+      "end": 306.64,
+      "text": "It's in your face."
+    },
+    {
+      "start": 308.24,
+      "end": 312.56,
+      "text": "And there are a bunch of other examples on this as well."
+    },
+    {
+      "start": 313.92,
+      "end": 317.92,
+      "text": "So you'll want to come up with your aha moment,"
+    },
+    {
+      "start": 317.92,
+      "end": 320.64,
+      "text": "and then just make sure that that is branded well,"
+    },
+    {
+      "start": 320.64,
+      "end": 322.4,
+      "text": "so that when your influencers talk about it,"
+    },
+    {
+      "start": 322.4,
+      "end": 325.04,
+      "text": "or not just I know I keep saying influencers,"
+    },
+    {
+      "start": 325.04,
+      "end": 327.6,
+      "text": "but when the app is shown in some kind of ad,"
+    },
+    {
+      "start": 327.6,
+      "end": 329.12,
+      "text": "or some kind of marketing material,"
+    },
+    {
+      "start": 329.12,
+      "end": 333.04,
+      "text": "it is easy to understand from a glance,"
+    },
+    {
+      "start": 333.04,
+      "end": 336.4,
+      "text": "easy to understand what's going on to comprehend what the app does,"
+    },
+    {
+      "start": 336.96,
+      "end": 339.84,
+      "text": "to comprehend the value that they're receiving."
+    },
+    {
+      "start": 339.84,
+      "end": 341.44,
+      "text": "Make sure it's in sequential order."
+    },
+    {
+      "start": 341.84,
+      "end": 347.04,
+      "text": "And make sure that the name of your app and your logo"
+    },
+    {
+      "start": 347.04,
+      "end": 349.04,
+      "text": "is shown very clearly,"
+    },
+    {
+      "start": 349.04,
+      "end": 352.64,
+      "text": "so that people know where to go download it afterwards."
+    },
+    {
+      "start": 352.64,
+      "end": 355.44,
+      "text": "These are the main principles to keep in mind."
+    },
+    {
+      "start": 356.64,
+      "end": 359.04,
+      "text": "You should iterate, you should always change things,"
+    },
+    {
+      "start": 359.04,
+      "end": 361.04,
+      "text": "see how they affect conversion rate."
+    },
+    {
+      "start": 361.04,
+      "end": 363.84,
+      "text": "And that's how we go from here."
+    },
+    {
+      "start": 363.84,
+      "end": 365.04,
+      "text": "Good luck."
+    }
+  ]
+}

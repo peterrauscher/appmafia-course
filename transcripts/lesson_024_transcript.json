@@ -1,0 +1,137 @@
+{
+  "file_name": "024_Lesson_24.faudio-hi-0-Default.mp4",
+  "text": " Okay, great. Now we've caught up. It's time to get into nitty gritty of the technical things we'll be using to build this application. I will start by saying the language we're using is SwiftUI and which is a language developed by Apple and I generally recommend it for building apps. There are other platforms like React Native or Expo or Flutter but they aren't as smooth as SwiftUI and so I would totally recommend that. That's all I coded with. Now the problem with it is that it's limited to iOS and iPhones for now. I know they are working on like an Android version but for now it's only iPhones which means you won't be able to sell your app on Android but in my opinion it doesn't really matter in the early days because most of the revenue is generated from Apple devices in the US specifically. Well because the US is so rich and the US the US's market penetration with iPhones is like 99% so you shouldn't really worry about Android too much. Also all of these like massive apps like Instagram for example they're built on SwiftUI for iOS and then they're built on something else for Android. I think it's Kotlin so it's just like very like it's optimizing for the platform that it's sold on so I wouldn't think about multi-platform right now. Yeah and like even my friend Blake Anderson he built I think it was 10x or it was Apex or something on React Native during PMF or Die and they rebuilt it from scratch because it wasn't that smooth and iOS and you like optimized for things being smooth and the reason you optimize for things being smooth and intuitive and natural etc is because it's easier to sell whereas if something's jittery or you can feel it like not really being designed for you people are more likely to turn or not actually pay it for subscription. So these are some things to keep in mind when it comes to choosing the language but this tutorial will be in SwiftUI because that's what I'm most comfortable with and that's all I know to code in.",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.2,
+      "text": "Okay, great. Now we've caught up. It's time to get into nitty gritty of the"
+    },
+    {
+      "start": 5.2,
+      "end": 10.08,
+      "text": "technical things we'll be using to build this application. I will start by"
+    },
+    {
+      "start": 10.08,
+      "end": 15.84,
+      "text": "saying the language we're using is SwiftUI and which is a language developed by"
+    },
+    {
+      "start": 15.84,
+      "end": 20.0,
+      "text": "Apple and I generally recommend it for building apps. There are other"
+    },
+    {
+      "start": 20.0,
+      "end": 26.04,
+      "text": "platforms like React Native or Expo or Flutter but they aren't as smooth as"
+    },
+    {
+      "start": 26.04,
+      "end": 33.6,
+      "text": "SwiftUI and so I would totally recommend that. That's all I coded with. Now the"
+    },
+    {
+      "start": 33.6,
+      "end": 38.68,
+      "text": "problem with it is that it's limited to iOS and iPhones for now. I know they are"
+    },
+    {
+      "start": 38.68,
+      "end": 41.96,
+      "text": "working on like an Android version but for now it's only iPhones which means"
+    },
+    {
+      "start": 41.96,
+      "end": 46.28,
+      "text": "you won't be able to sell your app on Android but in my opinion it doesn't"
+    },
+    {
+      "start": 46.28,
+      "end": 50.96,
+      "text": "really matter in the early days because most of the revenue is generated from"
+    },
+    {
+      "start": 50.96,
+      "end": 55.879999999999995,
+      "text": "Apple devices in the US specifically. Well because the US is so rich and the"
+    },
+    {
+      "start": 55.88,
+      "end": 63.2,
+      "text": "US the US's market penetration with iPhones is like 99% so you shouldn't"
+    },
+    {
+      "start": 63.2,
+      "end": 68.28,
+      "text": "really worry about Android too much. Also all of these like massive apps like"
+    },
+    {
+      "start": 68.28,
+      "end": 72.0,
+      "text": "Instagram for example they're built on SwiftUI for iOS and then they're built"
+    },
+    {
+      "start": 72.0,
+      "end": 77.48,
+      "text": "on something else for Android. I think it's Kotlin so it's just like very"
+    },
+    {
+      "start": 77.48,
+      "end": 81.6,
+      "text": "like it's optimizing for the platform that it's sold on so I wouldn't think about"
+    },
+    {
+      "start": 81.6,
+      "end": 88.19999999999999,
+      "text": "multi-platform right now. Yeah and like even my friend Blake Anderson he built"
+    },
+    {
+      "start": 88.19999999999999,
+      "end": 96.32,
+      "text": "I think it was 10x or it was Apex or something on React Native during PMF or"
+    },
+    {
+      "start": 96.32,
+      "end": 100.72,
+      "text": "Die and they rebuilt it from scratch because it wasn't that smooth and iOS and"
+    },
+    {
+      "start": 100.72,
+      "end": 104.67999999999999,
+      "text": "you like optimized for things being smooth and the reason you optimize for"
+    },
+    {
+      "start": 104.67999999999999,
+      "end": 109.16,
+      "text": "things being smooth and intuitive and natural etc is because it's easier to"
+    },
+    {
+      "start": 109.16,
+      "end": 113.47999999999999,
+      "text": "sell whereas if something's jittery or you can feel it like not really being"
+    },
+    {
+      "start": 113.47999999999999,
+      "end": 119.08,
+      "text": "designed for you people are more likely to turn or not actually pay it for"
+    },
+    {
+      "start": 119.08,
+      "end": 122.75999999999999,
+      "text": "subscription. So these are some things to keep in mind when it comes to choosing"
+    },
+    {
+      "start": 122.75999999999999,
+      "end": 126.19999999999999,
+      "text": "the language but this tutorial will be in SwiftUI because that's what I'm most"
+    },
+    {
+      "start": 126.19999999999999,
+      "end": 129.72,
+      "text": "comfortable with and that's all I know to code in."
+    }
+  ]
+}

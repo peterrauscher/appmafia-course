@@ -1,0 +1,342 @@
+{
+  "file_name": "026_Lesson_26.faudio-hi-0-Default.mp4",
+  "text": " Alright, so now that you've enrolled into Apple Developer, let's get the IDE and let's start coding. Very simple again, just click the blue Xcode button and then there's a blue download button on the top right. You click that, make sure you download the original Xcode and not the beta. The beta is unstable and also doesn't let you push new apps to the App Store. So just make sure you get the original Xcode, click on it. It will then pop up the Mac App Store. Really simple again, download install. Once that's done, you make sure you follow it. This is where it gets a little bit intricate. Once that's installed, open it. You'll get prompted with this screen. Go in the top left of your Mac, you see what it says Xcode up here. You click settings and in accounts, click the bottom left plus icon as you can see. And log into the account that you just enrolled Apple Developer subscription onto. Very crucial step. Once you've done that, let's get ready to start the project. So this is where the fun starts happening. So get excited boys. You click create new project, app, make sure it's an app. You can close whatever you want for simplicity sake. Then it'll call us UMX clone. An organization identifier is very important. And the team. So I have two teams because I'm also on the Cudder account, but I'll just add it to the Cudder account. For the organization identifier, you can do whatever you want. I have Comm.Slayder because that's my last name. You can do Comm.Anderson for Blake for example, or your company name. Let's just say super health. So now it's Comm.Superhealth.umxClone. This is one of one people can't copy it, but this just helps Apple identify your app on the App Store. So this is bug like permanent. You can't change it if you've already put like, yeah, just it's permanent. Just make sure it's right. But it doesn't really matter. It's very back end. It's not front end facing. So click next. Choose a place for your folder with your code to be. For example, mine's in the GitHub folder, which I'm happy with. Click create. Well, I've already got one called UMXClone. My bad. UMXClone 2. Next, create and bomb. Now app has built. You can see a preview on the right side. It's about to load. Just give it a second. And there you go. So now you can see a preview of the app. And now you can, yeah, like now things are starting to get exciting. But yeah, that's the escrow setup. One more thing I'd recommend. Go into here. So click on this tab on the blue top left. And then go to general in targets. Make sure this is all selected as a mine. And remove iPad, remove Mac, and remove Apple Vision. This just complicates things. And if you push your app to the app store with those checks, you can't then remove them. So you need to permanently keep supporting iPad, making sure everything's like fitting on the screen for iPad. And annoys us that could a lot because we can't do anything about it. So I've removed that straight away. But yeah, that should be the very simple escrow setup. In the next section, we'll go through kind of building things. And yeah, good shit, guys.",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "Alright, so now that you've enrolled into Apple Developer, let's get the IDE and let's start coding."
+    },
+    {
+      "start": 6.0,
+      "end": 12.0,
+      "text": "Very simple again, just click the blue Xcode button and then there's a blue download button on the top right."
+    },
+    {
+      "start": 12.0,
+      "end": 15.0,
+      "text": "You click that, make sure you download the original Xcode and not the beta."
+    },
+    {
+      "start": 15.0,
+      "end": 19.0,
+      "text": "The beta is unstable and also doesn't let you push new apps to the App Store."
+    },
+    {
+      "start": 19.0,
+      "end": 22.0,
+      "text": "So just make sure you get the original Xcode, click on it."
+    },
+    {
+      "start": 22.0,
+      "end": 25.0,
+      "text": "It will then pop up the Mac App Store."
+    },
+    {
+      "start": 25.0,
+      "end": 28.0,
+      "text": "Really simple again, download install."
+    },
+    {
+      "start": 28.0,
+      "end": 32.0,
+      "text": "Once that's done, you make sure you follow it."
+    },
+    {
+      "start": 32.0,
+      "end": 34.0,
+      "text": "This is where it gets a little bit intricate."
+    },
+    {
+      "start": 34.0,
+      "end": 36.0,
+      "text": "Once that's installed, open it."
+    },
+    {
+      "start": 36.0,
+      "end": 38.0,
+      "text": "You'll get prompted with this screen."
+    },
+    {
+      "start": 38.0,
+      "end": 41.0,
+      "text": "Go in the top left of your Mac, you see what it says Xcode up here."
+    },
+    {
+      "start": 41.0,
+      "end": 47.0,
+      "text": "You click settings and in accounts, click the bottom left plus icon as you can see."
+    },
+    {
+      "start": 47.0,
+      "end": 52.0,
+      "text": "And log into the account that you just enrolled Apple Developer subscription onto."
+    },
+    {
+      "start": 52.0,
+      "end": 54.0,
+      "text": "Very crucial step."
+    },
+    {
+      "start": 54.0,
+      "end": 58.0,
+      "text": "Once you've done that, let's get ready to start the project."
+    },
+    {
+      "start": 58.0,
+      "end": 60.0,
+      "text": "So this is where the fun starts happening."
+    },
+    {
+      "start": 60.0,
+      "end": 61.0,
+      "text": "So get excited boys."
+    },
+    {
+      "start": 61.0,
+      "end": 65.0,
+      "text": "You click create new project, app, make sure it's an app."
+    },
+    {
+      "start": 65.0,
+      "end": 67.0,
+      "text": "You can close whatever you want for simplicity sake."
+    },
+    {
+      "start": 67.0,
+      "end": 69.0,
+      "text": "Then it'll call us UMX clone."
+    },
+    {
+      "start": 69.0,
+      "end": 72.0,
+      "text": "An organization identifier is very important."
+    },
+    {
+      "start": 72.0,
+      "end": 73.0,
+      "text": "And the team."
+    },
+    {
+      "start": 73.0,
+      "end": 78.0,
+      "text": "So I have two teams because I'm also on the Cudder account, but I'll just add it to the Cudder account."
+    },
+    {
+      "start": 78.0,
+      "end": 81.0,
+      "text": "For the organization identifier, you can do whatever you want."
+    },
+    {
+      "start": 81.0,
+      "end": 83.0,
+      "text": "I have Comm.Slayder because that's my last name."
+    },
+    {
+      "start": 83.0,
+      "end": 87.0,
+      "text": "You can do Comm.Anderson for Blake for example, or your company name."
+    },
+    {
+      "start": 87.0,
+      "end": 88.0,
+      "text": "Let's just say super health."
+    },
+    {
+      "start": 88.0,
+      "end": 91.0,
+      "text": "So now it's Comm.Superhealth.umxClone."
+    },
+    {
+      "start": 91.0,
+      "end": 97.0,
+      "text": "This is one of one people can't copy it, but this just helps Apple identify your app on the App Store."
+    },
+    {
+      "start": 97.0,
+      "end": 99.0,
+      "text": "So this is bug like permanent."
+    },
+    {
+      "start": 99.0,
+      "end": 102.0,
+      "text": "You can't change it if you've already put like, yeah, just it's permanent."
+    },
+    {
+      "start": 102.0,
+      "end": 104.0,
+      "text": "Just make sure it's right."
+    },
+    {
+      "start": 104.0,
+      "end": 105.0,
+      "text": "But it doesn't really matter."
+    },
+    {
+      "start": 105.0,
+      "end": 106.0,
+      "text": "It's very back end."
+    },
+    {
+      "start": 106.0,
+      "end": 108.0,
+      "text": "It's not front end facing."
+    },
+    {
+      "start": 108.0,
+      "end": 110.0,
+      "text": "So click next."
+    },
+    {
+      "start": 110.0,
+      "end": 114.0,
+      "text": "Choose a place for your folder with your code to be."
+    },
+    {
+      "start": 114.0,
+      "end": 117.0,
+      "text": "For example, mine's in the GitHub folder, which I'm happy with."
+    },
+    {
+      "start": 117.0,
+      "end": 119.0,
+      "text": "Click create."
+    },
+    {
+      "start": 119.0,
+      "end": 122.0,
+      "text": "Well, I've already got one called UMXClone."
+    },
+    {
+      "start": 122.0,
+      "end": 123.0,
+      "text": "My bad."
+    },
+    {
+      "start": 123.0,
+      "end": 124.0,
+      "text": "UMXClone 2."
+    },
+    {
+      "start": 124.0,
+      "end": 126.0,
+      "text": "Next, create and bomb."
+    },
+    {
+      "start": 126.0,
+      "end": 128.0,
+      "text": "Now app has built."
+    },
+    {
+      "start": 128.0,
+      "end": 130.0,
+      "text": "You can see a preview on the right side."
+    },
+    {
+      "start": 130.0,
+      "end": 132.0,
+      "text": "It's about to load."
+    },
+    {
+      "start": 132.0,
+      "end": 135.0,
+      "text": "Just give it a second."
+    },
+    {
+      "start": 135.0,
+      "end": 140.0,
+      "text": "And there you go."
+    },
+    {
+      "start": 140.0,
+      "end": 143.0,
+      "text": "So now you can see a preview of the app."
+    },
+    {
+      "start": 143.0,
+      "end": 147.0,
+      "text": "And now you can, yeah, like now things are starting to get exciting."
+    },
+    {
+      "start": 147.0,
+      "end": 149.0,
+      "text": "But yeah, that's the escrow setup."
+    },
+    {
+      "start": 149.0,
+      "end": 151.0,
+      "text": "One more thing I'd recommend."
+    },
+    {
+      "start": 151.0,
+      "end": 152.0,
+      "text": "Go into here."
+    },
+    {
+      "start": 152.0,
+      "end": 156.0,
+      "text": "So click on this tab on the blue top left."
+    },
+    {
+      "start": 156.0,
+      "end": 159.0,
+      "text": "And then go to general in targets."
+    },
+    {
+      "start": 159.0,
+      "end": 161.0,
+      "text": "Make sure this is all selected as a mine."
+    },
+    {
+      "start": 161.0,
+      "end": 165.0,
+      "text": "And remove iPad, remove Mac, and remove Apple Vision."
+    },
+    {
+      "start": 165.0,
+      "end": 167.0,
+      "text": "This just complicates things."
+    },
+    {
+      "start": 167.0,
+      "end": 170.0,
+      "text": "And if you push your app to the app store with those checks,"
+    },
+    {
+      "start": 170.0,
+      "end": 172.0,
+      "text": "you can't then remove them."
+    },
+    {
+      "start": 172.0,
+      "end": 177.0,
+      "text": "So you need to permanently keep supporting iPad, making sure everything's like fitting on the screen for iPad."
+    },
+    {
+      "start": 177.0,
+      "end": 181.0,
+      "text": "And annoys us that could a lot because we can't do anything about it."
+    },
+    {
+      "start": 181.0,
+      "end": 184.0,
+      "text": "So I've removed that straight away."
+    },
+    {
+      "start": 184.0,
+      "end": 187.0,
+      "text": "But yeah, that should be the very simple escrow setup."
+    },
+    {
+      "start": 187.0,
+      "end": 191.0,
+      "text": "In the next section, we'll go through kind of building things."
+    },
+    {
+      "start": 191.0,
+      "end": 193.0,
+      "text": "And yeah, good shit, guys."
+    }
+  ]
+}

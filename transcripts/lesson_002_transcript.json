@@ -1,0 +1,427 @@
+{
+  "file_name": "002_Lesson_02.faudio-hi-0-Default.mp4",
+  "text": " People are always asking about our tech stack and the different tools that we use in the process of building and scaling apps. So here it is. Quick disclaimer, we are sponsored by some of these apps. But we first came up with the list of all the most important products that we used. And then we reached out to them and we said, hey, which of you guys want to have an affiliate code? You do get a discount with some of them, so I would highly recommend using the link provided or the code Mafia at checkout. Alright, let's get started. So you'll notice that we don't have any for ideation. I don't use any tools currently in the process of ideation. For design, we use Figma. It's the only tool that you should be designing your consumer apps in. And then ZitLac Media when we need additional design bandwidth for design sprints. Now, if I'm hiring a designer, I'll usually use Upwork or Dribble to source them. For development, for the front end, we use cursor, Xcode, and SwiftUI. I've gone back and forth between SwiftUI and React Native, but I've pretty much settled at. Build first and SwiftUI. And then if you're at a successful, build an Android version, either in React Native and or Kotlin. For back end, we use Superbase and OpenAI. Superbase as our database. And then OpenAI for AI functionality. Now you can also use Firebase or AWS or Anthropic or GROC. But these two seem to be the gold standard right now. Superwall, I cannot emphasize this enough. You should always use Superwall. I have been promoting them for the longest time. Only just recently, instead of a sponsorship deal with them. But they're the most important product to use. I use it for every single app. It is an absolute non-negotiable. Mixed panel for analytics, apps fire for attribution of your paid ads. For distribution, we've recently set up an exclusive deal with creators' corner. We are the only app studio, I guess, that they will work with. They are by far the best in the game. There's no contest. They've only been doing TikTok shop pretty much for the past couple of years. Because that's where creators make more money. But I'm really good friends with Jimmy Farley, one of the founders. And he agreed to set up an exclusive deal. They will not work with everybody. But if you are lucky enough to be able to hire their creators, they are no question the best in the game. They're the only UGC agency that I've ever worked with that actually produced massive returns. Every single other one, almost everyone that you see on Twitter, they don't do it. They're not actually good creators' corner it is. Groey, good for tracking. Good for tracking the results of individual posts. So influencer UGC gives you better data. Founders are, is so important. You're going to hire VA's from them. They source VA's. Cal AI, we've about 35 employees. Over half of them are VA's from Founders Arm. VA's are important for reaching out to influencers, managing UGC creators. And almost any monotonous task that you have in your business. Any other VA sourcing agency that I've used cannot compare to Founders Arm. Valid AI, good for paid ad agency. Most have worked with Aunt Good. They're pretty good, so I'd recommend them. Most have. So this is kind of like the tools that you're going to use in the process of running your business. Parker for banking, we're working with Parker to set up instant payouts at a lower interest rate than anywhere else on the market for app developers. If you've ever been paid out, you understand that the 45-day net payout cycle sucks. It's horrible. It makes it almost impossible to scale in the early days. So how do you recommend Parker? Alternatively, you can also use Mercury. Stripe Atlas for setting up your LLC or C-Corp slack for managing your team. You might want to use iMessage or Discord that's fine. You can use them in the early days, but as you scale, I usually just recommend using Slack. And then Rome as well. Rome, you definitely don't need unless you have a team grid and like five to ten people. But Rome is essentially a virtual office. It makes it a lot easier to manage your team as you scale. So please use the links attached here and or use the code mafia. But yeah, this is our tech stack. If you have any questions, let us know. We can update this as we move forward in the future.",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.32,
+      "text": "People are always asking about our tech stack and the different tools that we use in the process of building and scaling apps."
+    },
+    {
+      "start": 6.32,
+      "end": 7.82,
+      "text": "So here it is."
+    },
+    {
+      "start": 7.82,
+      "end": 11.6,
+      "text": "Quick disclaimer, we are sponsored by some of these apps."
+    },
+    {
+      "start": 11.6,
+      "end": 15.76,
+      "text": "But we first came up with the list of all the most important products that we used."
+    },
+    {
+      "start": 15.76,
+      "end": 21.0,
+      "text": "And then we reached out to them and we said, hey, which of you guys want to have an affiliate code?"
+    },
+    {
+      "start": 21.0,
+      "end": 28.64,
+      "text": "You do get a discount with some of them, so I would highly recommend using the link provided or the code Mafia at checkout."
+    },
+    {
+      "start": 29.44,
+      "end": 31.240000000000002,
+      "text": "Alright, let's get started."
+    },
+    {
+      "start": 31.240000000000002,
+      "end": 34.480000000000004,
+      "text": "So you'll notice that we don't have any for ideation."
+    },
+    {
+      "start": 34.480000000000004,
+      "end": 38.480000000000004,
+      "text": "I don't use any tools currently in the process of ideation."
+    },
+    {
+      "start": 38.480000000000004,
+      "end": 40.32,
+      "text": "For design, we use Figma."
+    },
+    {
+      "start": 40.32,
+      "end": 44.24,
+      "text": "It's the only tool that you should be designing your consumer apps in."
+    },
+    {
+      "start": 44.24,
+      "end": 51.28,
+      "text": "And then ZitLac Media when we need additional design bandwidth for design sprints."
+    },
+    {
+      "start": 51.28,
+      "end": 56.08,
+      "text": "Now, if I'm hiring a designer, I'll usually use Upwork or Dribble to source them."
+    },
+    {
+      "start": 56.96,
+      "end": 61.519999999999996,
+      "text": "For development, for the front end, we use cursor, Xcode, and SwiftUI."
+    },
+    {
+      "start": 62.4,
+      "end": 67.12,
+      "text": "I've gone back and forth between SwiftUI and React Native, but I've pretty much settled at."
+    },
+    {
+      "start": 67.12,
+      "end": 69.12,
+      "text": "Build first and SwiftUI."
+    },
+    {
+      "start": 69.12,
+      "end": 75.75999999999999,
+      "text": "And then if you're at a successful, build an Android version, either in React Native and or Kotlin."
+    },
+    {
+      "start": 77.52,
+      "end": 80.4,
+      "text": "For back end, we use Superbase and OpenAI."
+    },
+    {
+      "start": 80.4,
+      "end": 82.56,
+      "text": "Superbase as our database."
+    },
+    {
+      "start": 83.12,
+      "end": 85.60000000000001,
+      "text": "And then OpenAI for AI functionality."
+    },
+    {
+      "start": 86.24000000000001,
+      "end": 91.12,
+      "text": "Now you can also use Firebase or AWS or Anthropic or GROC."
+    },
+    {
+      "start": 91.12,
+      "end": 94.16000000000001,
+      "text": "But these two seem to be the gold standard right now."
+    },
+    {
+      "start": 95.04,
+      "end": 98.56,
+      "text": "Superwall, I cannot emphasize this enough."
+    },
+    {
+      "start": 98.56,
+      "end": 100.4,
+      "text": "You should always use Superwall."
+    },
+    {
+      "start": 100.4,
+      "end": 103.28,
+      "text": "I have been promoting them for the longest time."
+    },
+    {
+      "start": 103.28,
+      "end": 107.04,
+      "text": "Only just recently, instead of a sponsorship deal with them."
+    },
+    {
+      "start": 107.04,
+      "end": 111.12,
+      "text": "But they're the most important product to use."
+    },
+    {
+      "start": 111.84,
+      "end": 113.44000000000001,
+      "text": "I use it for every single app."
+    },
+    {
+      "start": 113.44000000000001,
+      "end": 115.12,
+      "text": "It is an absolute non-negotiable."
+    },
+    {
+      "start": 116.4,
+      "end": 121.76,
+      "text": "Mixed panel for analytics, apps fire for attribution of your paid ads."
+    },
+    {
+      "start": 122.64,
+      "end": 127.44000000000001,
+      "text": "For distribution, we've recently set up an exclusive deal with creators' corner."
+    },
+    {
+      "start": 127.44000000000001,
+      "end": 133.68,
+      "text": "We are the only app studio, I guess, that they will work with."
+    },
+    {
+      "start": 133.68,
+      "end": 135.60000000000002,
+      "text": "They are by far the best in the game."
+    },
+    {
+      "start": 135.68,
+      "end": 137.12,
+      "text": "There's no contest."
+    },
+    {
+      "start": 137.12,
+      "end": 140.23999999999998,
+      "text": "They've only been doing TikTok shop pretty much for the past couple of years."
+    },
+    {
+      "start": 140.88,
+      "end": 142.88,
+      "text": "Because that's where creators make more money."
+    },
+    {
+      "start": 142.88,
+      "end": 145.68,
+      "text": "But I'm really good friends with Jimmy Farley, one of the founders."
+    },
+    {
+      "start": 145.68,
+      "end": 147.92,
+      "text": "And he agreed to set up an exclusive deal."
+    },
+    {
+      "start": 147.92,
+      "end": 149.6,
+      "text": "They will not work with everybody."
+    },
+    {
+      "start": 149.6,
+      "end": 152.56,
+      "text": "But if you are lucky enough to be able to hire their creators,"
+    },
+    {
+      "start": 152.56,
+      "end": 155.44,
+      "text": "they are no question the best in the game."
+    },
+    {
+      "start": 156.48,
+      "end": 160.0,
+      "text": "They're the only UGC agency that I've ever worked with"
+    },
+    {
+      "start": 160.0,
+      "end": 162.95999999999998,
+      "text": "that actually produced massive returns."
+    },
+    {
+      "start": 163.04000000000002,
+      "end": 166.72,
+      "text": "Every single other one, almost everyone that you see on Twitter,"
+    },
+    {
+      "start": 167.36,
+      "end": 168.16,
+      "text": "they don't do it."
+    },
+    {
+      "start": 168.16,
+      "end": 170.64000000000001,
+      "text": "They're not actually good creators' corner it is."
+    },
+    {
+      "start": 171.84,
+      "end": 173.28,
+      "text": "Groey, good for tracking."
+    },
+    {
+      "start": 174.48000000000002,
+      "end": 177.44,
+      "text": "Good for tracking the results of individual posts."
+    },
+    {
+      "start": 177.44,
+      "end": 180.24,
+      "text": "So influencer UGC gives you better data."
+    },
+    {
+      "start": 180.96,
+      "end": 183.20000000000002,
+      "text": "Founders are, is so important."
+    },
+    {
+      "start": 186.96,
+      "end": 188.56,
+      "text": "You're going to hire VA's from them."
+    },
+    {
+      "start": 188.56,
+      "end": 189.92000000000002,
+      "text": "They source VA's."
+    },
+    {
+      "start": 190.0,
+      "end": 193.28,
+      "text": "Cal AI, we've about 35 employees."
+    },
+    {
+      "start": 193.28,
+      "end": 195.76,
+      "text": "Over half of them are VA's from Founders Arm."
+    },
+    {
+      "start": 196.56,
+      "end": 199.04,
+      "text": "VA's are important for reaching out to influencers,"
+    },
+    {
+      "start": 199.04,
+      "end": 200.88,
+      "text": "managing UGC creators."
+    },
+    {
+      "start": 200.88,
+      "end": 203.35999999999999,
+      "text": "And almost any monotonous task that you have in your business."
+    },
+    {
+      "start": 205.2,
+      "end": 207.83999999999997,
+      "text": "Any other VA sourcing agency that I've used"
+    },
+    {
+      "start": 207.83999999999997,
+      "end": 209.27999999999997,
+      "text": "cannot compare to Founders Arm."
+    },
+    {
+      "start": 210.56,
+      "end": 214.16,
+      "text": "Valid AI, good for paid ad agency."
+    },
+    {
+      "start": 214.79999999999998,
+      "end": 216.48,
+      "text": "Most have worked with Aunt Good."
+    },
+    {
+      "start": 216.48,
+      "end": 218.16,
+      "text": "They're pretty good, so I'd recommend them."
+    },
+    {
+      "start": 220.55999999999997,
+      "end": 221.28,
+      "text": "Most have."
+    },
+    {
+      "start": 221.83999999999997,
+      "end": 225.04,
+      "text": "So this is kind of like the tools that you're going to use in the process of"
+    },
+    {
+      "start": 228.16,
+      "end": 229.27999999999997,
+      "text": "running your business."
+    },
+    {
+      "start": 229.83999999999997,
+      "end": 233.92,
+      "text": "Parker for banking, we're working with Parker to set up instant payouts"
+    },
+    {
+      "start": 233.92,
+      "end": 238.39999999999998,
+      "text": "at a lower interest rate than anywhere else on the market for app developers."
+    },
+    {
+      "start": 238.39999999999998,
+      "end": 243.27999999999997,
+      "text": "If you've ever been paid out, you understand that the 45-day net payout cycle sucks."
+    },
+    {
+      "start": 243.92,
+      "end": 244.48,
+      "text": "It's horrible."
+    },
+    {
+      "start": 244.48,
+      "end": 246.72,
+      "text": "It makes it almost impossible to scale in the early days."
+    },
+    {
+      "start": 247.35999999999999,
+      "end": 249.2,
+      "text": "So how do you recommend Parker?"
+    },
+    {
+      "start": 249.2,
+      "end": 251.35999999999999,
+      "text": "Alternatively, you can also use Mercury."
+    },
+    {
+      "start": 252.96,
+      "end": 258.0,
+      "text": "Stripe Atlas for setting up your LLC or C-Corp slack for managing your team."
+    },
+    {
+      "start": 258.0,
+      "end": 260.4,
+      "text": "You might want to use iMessage or Discord that's fine."
+    },
+    {
+      "start": 260.4,
+      "end": 262.4,
+      "text": "You can use them in the early days, but as you scale,"
+    },
+    {
+      "start": 263.12,
+      "end": 264.96,
+      "text": "I usually just recommend using Slack."
+    },
+    {
+      "start": 265.68,
+      "end": 266.8,
+      "text": "And then Rome as well."
+    },
+    {
+      "start": 268.24,
+      "end": 272.64,
+      "text": "Rome, you definitely don't need unless you have a team grid and like five to ten people."
+    },
+    {
+      "start": 272.64,
+      "end": 275.52,
+      "text": "But Rome is essentially a virtual office."
+    },
+    {
+      "start": 276.96000000000004,
+      "end": 279.36,
+      "text": "It makes it a lot easier to manage your team as you scale."
+    },
+    {
+      "start": 280.8,
+      "end": 285.12,
+      "text": "So please use the links attached here and or use the code mafia."
+    },
+    {
+      "start": 286.96000000000004,
+      "end": 288.48,
+      "text": "But yeah, this is our tech stack."
+    },
+    {
+      "start": 288.48,
+      "end": 290.16,
+      "text": "If you have any questions, let us know."
+    },
+    {
+      "start": 290.16,
+      "end": 292.64000000000004,
+      "text": "We can update this as we move forward in the future."
+    }
+  ]
+}

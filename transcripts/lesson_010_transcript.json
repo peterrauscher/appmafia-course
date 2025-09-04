@@ -1,0 +1,1112 @@
+{
+  "file_name": "010_Lesson_10.faudio-hi-0-Default.mp4",
+  "text": " All right. All right. Second final lesson of ideation. We've got competitive analysis. Why is competitive analysis important? Well, as we know from our unit on case studies or rather lesson on case studies, I should say, it's important to understand the space that you're working in. So, the case studies that I provided earlier are to provide a general holistic representation of this domain of consumer apps. Now, when it comes to competitive analysis, if you have begun the process of ideation, seeking to solve your problems and scrolling social media, once your idea has become slightly more fully formed, it's very important to look at what other apps or what similar products in the space are doing. Honestly, I almost considered including this in the unit on ideation. The reason that I didn't is the majority of ideas that I have ever come up with that have been successful were based on idea slash problem first and then we compare what already exists in the space rather than looking at products that exist and then choosing the app to build. To be honest, I actually have employed that strategy a number of times and every single time it has failed. On the flip side, I do know other people that use that strategy and it works. And it also borders on being a copycat. There's one way which is to look at apps that exist in the space and to use that to build an adjacent product, which I think there's nothing wrong with. And then you look at other apps in the space and you just build a complete copycat and you don't innovate at all. And I find that to be very uninspiring. All right. So I'm actually going to switch these around. We're going to do app store rankings plus sensor tower and I'll explain why in a moment. But let's get right into it. Okay. So during this lesson, I'm going to just kind of scroll through without a very specific and idea in mind that I'm looking to analyze the competitors for it. But you can employ really any sort of strategy here. I usually do this on my phone, but you know, I'm on the computer. So we'll do it here today. So if you search up app store, iOS app store charts, you'll come somewhere like you'll get somewhere like here, I think. Yeah. So I just searched up Quitter. I pressed this 68 and health and fitness. And then I changed to lifestyle to start the first app I built. RizGPT was in lifestyle, but you can really go through any category. But we'll start here arbitrarily. Okay. So when I come here, the big things that I'm looking for are new products. Now the reason that that's important is as I explained in case studies, right? We're not looking to try to copy Pinterest or hinge or, you know, Zilla. Like these are all multi, multi billion dollar companies that received a ton of funding and took years and years to find any level of success. T dating advice is interesting to me because T, I believe the company may have received some funding, but it kind of came out of nowhere, right? It's a very new product. Keep scrolling through deep search AI. I think this is similar. Now if when you want to see how old one of these products is, you should go to version history, scroll down. So deep search AI came out in March of 2025. All right. So we'll start with this product as an example. Let's see if they do in-app purchases. Yeah, they do. All right. Now let's take a look. So we'll go, you search up sensor tower top charts on Google. The reason I do this is if you just go to sensor tower.com. So I should like, you don't really know where to go. So what I do is I search up sensor tower top charts. Now guys, like I don't even have an account. I don't even pay for sensor tower. I had deep search. So here we'll see the little icons here. This is Android. This is iOS. Deep search AI came out in March and is doing over $300,000 a month post-appled tax. Now these numbers aren't perfect, but they're in my experience very, very accurate. See if they build any other apps. They build a phone cleaner product. Interesting. Cool. So this product seems pretty basic. You enter someone's name, gives you all the links. It's actually very clear value add. I think that most current LLMs will not actually tell you about people. So one of the key learnings here is like if there's too much risk liability or maybe even political backlash that companies like OpenAI and Thropic, XAI would receive for a feature here being getting information on real life people, then maybe there's an opportunity to build it yourself. Okay, let's keep going. Here we got NGL, which we're all familiar with. I wonder if this is like a fine-to-weat app. That's funny. So this is always interesting seeing an app that is number 45 in lifestyle, but has 38 ratings, meaning it's either extremely new or it just went viral. So this being a little bit of both came out a number months ago, probably just had its first viral moment. Ashtra, one of our case studies. Okay, we'll keep going pretty quickly. Oh, Candle, this is pretty interesting. It's like playing games for couples. Definitely viral domain. We got a UMax copycat right here. I love to see it. Cool. Alright, let's move forward. Let's go to Health and Fitness. We got Cal AI, beanie out my fitness pal. It's fucking sick to see we just did a Mr. Beast promo. So that's exciting. These apps are super interesting. This sort of like brain training game apps. I think I'll provide a concrete example here within fitness. Okay. AI calorie tracking would be a terrible space to build in right now, unless you have some like clear distribution edge on the basis of the fact that they're just like there are thousands and thousands of products that you're competing with. However, one space that I think actually has a lot of opportunity is sort of weightlifting planning. Most of the apps aren't very good. So what I would do is I would find apps like this. Apps that help you plan your workout. You go through, find them. And then so, okay, let's say, let's say this one first step in my eyes is like find comparables and then find out how much they're making. Like are they making a lot? They get a lot of downloads. So strong workout tracker, which is obviously very generic product is making over 500,000 dollars a month after Apple's tax on just 200,000 downloads, which indicates relatively high user intent. Okay, let's go back. And to be honest, you can apply this to pretty much any domain like any idea that you have, go find the products, toss them in, see how much they're making. So I mentioned impulse, right? These apps are insane. At face value, it's a freemium app and it just teaches you, you know, you're literally just playing like these little brain games, but they make over $3 million a month after Apple's tax, which is bananas. To put that into perspective, Cal AI also makes $3 million. They've got the number. Well, actually after Apple tax, it's under $3 million. So that's why they would round down to two. But it's a great product. That was a little self-prag there. It's meant to be a little bit ironic. The joke came across well. But okay, what are some other interesting domains productivity? You've sometimes find some, yeah, okay, here we've got one. Focus friend, Hank Green. I guess he has produced some little like app tell people stay focused. Speechify, awesome app, find it by Cliff Weitzman, good friend. I'm not seeing too much interesting here right now. We do see all the AI note-taking apps. So as an example here, we mentioned minutes as a case study. It makes $300,000 a month on just 20,000 downloads, which is insane, absolutely bananas. The AI note-taking apps, when you market it to high-intent students, as well as professionals, you can make a lot of money per download. Let's go business now. Let's take a look. Not too much is interesting. So once again, as I mentioned earlier, when I'm taking a look here, when I'm seeing is indeed, it's a complex product, you need both applicants and companies. Companies looking higher. Microsoft Teams, it's like, okay, it's Microsoft. Zoom, it's Zoom, right? Video chat, I'm not going to encourage field to build that. LinkedIn, professional networking site, DoorDash. So most of these products, I'm taking a look at them. And I'm like, all right, these are built by major corporations and are very complex products, which is why I kind of skipped through them. And I'm like, you know what, there's not much for me to teach most of this. This scanner app, this is actually something that you could theoretically build. But it's maybe not as viral, not as not really in line with what, with the sort of ethos of the majority of products and consumer apps that I provided in the case studies and that are, you have any amount of reasonable chance to make highly profitable within just a few months. Prep AI, this does look pretty basic. This looks like a basic AI app designed to help you find jobs. Let's see, they've in-app purchases. Yep, they do. So much prep AI is making. I'm not actually making that much. So they may be either under monetized or they're pursuing a more premium route where the strategy is to build up their user base and that can increase retention, K factor, and enable them to sort of scale over time, as opposed to trying to rip right now. Reference is always a great, great space. You'll see even in reference, you have like these coin scanners and whatnot. The reason is because reference is arguably the easiest category in the app, sort of climb the ranks. And so people that are kind of hacking ASO will put their product in reference. But reference is primarily for religious slash, I guess, cultural. So maybe that's also why the coin scanners right here. I've never really understood the reference category all that well. Yeah, cool. Okay. I think that's pretty much it from now for this video. In the next module in design, you'll learn a little bit about what to actually do with these apps once you identify them, going through their flows, taking the screenshots, pacing and figma. But yeah, that will come next. Yeah, download the app, analyze its onboarding paywall core functionality. Honestly, you can do that now to some extent. Just use the app, see what it feels like, and this will help inform your sort of understanding of the problem that you are solving when you download these apps that are similar to your product. And then additionally, something that I guess two other points I didn't touch on. I would cross reference the app with its social media presence. So you'll learn more about how to do that in distribution. But you can just search it up on Instagram, TikTok, try to find its meta ads library. See what the hooks are that's working. Put yourself in the mind of the customer as you use, you know, this the market landscape to make your idea more fully formed. And then finally, scroll these rankings daily to stay up to date. Sensor Tower also has some interesting data. But you guys can go play around with that platform. But as you see here, like I can also just scroll the rankings within sensor tower. Cool. All right, that's it for this video. I will see you guys in my final lesson of the module of ideation, which will be finalizing your idea. Peace out guys.",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "All right."
+    },
+    {
+      "start": 1.0,
+      "end": 7.2,
+      "text": "All right."
+    },
+    {
+      "start": 7.2,
+      "end": 9.8,
+      "text": "Second final lesson of ideation."
+    },
+    {
+      "start": 9.8,
+      "end": 13.120000000000001,
+      "text": "We've got competitive analysis."
+    },
+    {
+      "start": 13.120000000000001,
+      "end": 15.32,
+      "text": "Why is competitive analysis important?"
+    },
+    {
+      "start": 15.32,
+      "end": 21.080000000000002,
+      "text": "Well, as we know from our unit on case studies or rather lesson on case studies, I should"
+    },
+    {
+      "start": 21.080000000000002,
+      "end": 27.2,
+      "text": "say, it's important to understand the space that you're working in."
+    },
+    {
+      "start": 27.2,
+      "end": 33.6,
+      "text": "So, the case studies that I provided earlier are to provide a general holistic representation"
+    },
+    {
+      "start": 33.6,
+      "end": 36.56,
+      "text": "of this domain of consumer apps."
+    },
+    {
+      "start": 36.56,
+      "end": 45.56,
+      "text": "Now, when it comes to competitive analysis, if you have begun the process of ideation,"
+    },
+    {
+      "start": 45.56,
+      "end": 51.28,
+      "text": "seeking to solve your problems and scrolling social media, once your idea has become"
+    },
+    {
+      "start": 51.28,
+      "end": 56.879999999999995,
+      "text": "slightly more fully formed, it's very important to look at what other apps or what similar"
+    },
+    {
+      "start": 56.88,
+      "end": 60.400000000000006,
+      "text": "products in the space are doing."
+    },
+    {
+      "start": 60.400000000000006,
+      "end": 67.52000000000001,
+      "text": "Honestly, I almost considered including this in the unit on ideation."
+    },
+    {
+      "start": 67.52000000000001,
+      "end": 73.92,
+      "text": "The reason that I didn't is the majority of ideas that I have ever come up with that have"
+    },
+    {
+      "start": 73.92,
+      "end": 83.48,
+      "text": "been successful were based on idea slash problem first and then we compare what already exists"
+    },
+    {
+      "start": 83.48,
+      "end": 93.0,
+      "text": "in the space rather than looking at products that exist and then choosing the app to build."
+    },
+    {
+      "start": 93.0,
+      "end": 100.48,
+      "text": "To be honest, I actually have employed that strategy a number of times and every single"
+    },
+    {
+      "start": 100.48,
+      "end": 102.80000000000001,
+      "text": "time it has failed."
+    },
+    {
+      "start": 102.80000000000001,
+      "end": 112.08000000000001,
+      "text": "On the flip side, I do know other people that use that strategy and it works."
+    },
+    {
+      "start": 112.08,
+      "end": 116.2,
+      "text": "And it also borders on being a copycat."
+    },
+    {
+      "start": 116.2,
+      "end": 121.48,
+      "text": "There's one way which is to look at apps that exist in the space and to use that to build"
+    },
+    {
+      "start": 121.48,
+      "end": 126.12,
+      "text": "an adjacent product, which I think there's nothing wrong with."
+    },
+    {
+      "start": 126.12,
+      "end": 129.88,
+      "text": "And then you look at other apps in the space and you just build a complete copycat and you"
+    },
+    {
+      "start": 129.88,
+      "end": 132.0,
+      "text": "don't innovate at all."
+    },
+    {
+      "start": 132.0,
+      "end": 136.0,
+      "text": "And I find that to be very uninspiring."
+    },
+    {
+      "start": 136.0,
+      "end": 140.07999999999998,
+      "text": "All right."
+    },
+    {
+      "start": 140.08,
+      "end": 142.12,
+      "text": "So I'm actually going to switch these around."
+    },
+    {
+      "start": 142.12,
+      "end": 147.16000000000003,
+      "text": "We're going to do app store rankings plus sensor tower and I'll explain why in a moment."
+    },
+    {
+      "start": 147.16000000000003,
+      "end": 151.28,
+      "text": "But let's get right into it."
+    },
+    {
+      "start": 151.28,
+      "end": 152.28,
+      "text": "Okay."
+    },
+    {
+      "start": 152.28,
+      "end": 157.84,
+      "text": "So during this lesson, I'm going to just kind of scroll through without a very specific"
+    },
+    {
+      "start": 157.84,
+      "end": 165.20000000000002,
+      "text": "and idea in mind that I'm looking to analyze the competitors for it."
+    },
+    {
+      "start": 165.20000000000002,
+      "end": 169.48000000000002,
+      "text": "But you can employ really any sort of strategy here."
+    },
+    {
+      "start": 169.48,
+      "end": 173.04,
+      "text": "I usually do this on my phone, but you know, I'm on the computer."
+    },
+    {
+      "start": 173.04,
+      "end": 177.07999999999998,
+      "text": "So we'll do it here today."
+    },
+    {
+      "start": 177.07999999999998,
+      "end": 184.51999999999998,
+      "text": "So if you search up app store, iOS app store charts, you'll come somewhere like you'll"
+    },
+    {
+      "start": 184.51999999999998,
+      "end": 187.32,
+      "text": "get somewhere like here, I think."
+    },
+    {
+      "start": 187.32,
+      "end": 188.32,
+      "text": "Yeah."
+    },
+    {
+      "start": 188.32,
+      "end": 190.28,
+      "text": "So I just searched up Quitter."
+    },
+    {
+      "start": 190.28,
+      "end": 194.07999999999998,
+      "text": "I pressed this 68 and health and fitness."
+    },
+    {
+      "start": 194.08,
+      "end": 199.96,
+      "text": "And then I changed to lifestyle to start the first app I built."
+    },
+    {
+      "start": 199.96,
+      "end": 203.76000000000002,
+      "text": "RizGPT was in lifestyle, but you can really go through any category."
+    },
+    {
+      "start": 203.76000000000002,
+      "end": 205.68,
+      "text": "But we'll start here arbitrarily."
+    },
+    {
+      "start": 205.68,
+      "end": 206.68,
+      "text": "Okay."
+    },
+    {
+      "start": 206.68,
+      "end": 214.24,
+      "text": "So when I come here, the big things that I'm looking for are new products."
+    },
+    {
+      "start": 214.24,
+      "end": 217.88000000000002,
+      "text": "Now the reason that that's important is as I explained in case studies, right?"
+    },
+    {
+      "start": 217.88,
+      "end": 224.79999999999998,
+      "text": "We're not looking to try to copy Pinterest or hinge or, you know, Zilla."
+    },
+    {
+      "start": 224.79999999999998,
+      "end": 231.4,
+      "text": "Like these are all multi, multi billion dollar companies that received a ton of funding"
+    },
+    {
+      "start": 231.4,
+      "end": 235.64,
+      "text": "and took years and years to find any level of success."
+    },
+    {
+      "start": 235.64,
+      "end": 240.84,
+      "text": "T dating advice is interesting to me because T, I believe the company may have received some"
+    },
+    {
+      "start": 240.84,
+      "end": 245.2,
+      "text": "funding, but it kind of came out of nowhere, right?"
+    },
+    {
+      "start": 245.2,
+      "end": 248.6,
+      "text": "It's a very new product."
+    },
+    {
+      "start": 248.6,
+      "end": 250.6,
+      "text": "Keep scrolling through deep search AI."
+    },
+    {
+      "start": 250.6,
+      "end": 253.67999999999998,
+      "text": "I think this is similar."
+    },
+    {
+      "start": 253.67999999999998,
+      "end": 258.24,
+      "text": "Now if when you want to see how old one of these products is, you should go to version"
+    },
+    {
+      "start": 258.24,
+      "end": 260.48,
+      "text": "history, scroll down."
+    },
+    {
+      "start": 260.48,
+      "end": 264.68,
+      "text": "So deep search AI came out in March of 2025."
+    },
+    {
+      "start": 264.68,
+      "end": 265.68,
+      "text": "All right."
+    },
+    {
+      "start": 265.68,
+      "end": 267.76,
+      "text": "So we'll start with this product as an example."
+    },
+    {
+      "start": 267.76,
+      "end": 269.64,
+      "text": "Let's see if they do in-app purchases."
+    },
+    {
+      "start": 269.64,
+      "end": 270.64,
+      "text": "Yeah, they do."
+    },
+    {
+      "start": 270.64,
+      "end": 271.64,
+      "text": "All right."
+    },
+    {
+      "start": 271.64,
+      "end": 273.28,
+      "text": "Now let's take a look."
+    },
+    {
+      "start": 273.28,
+      "end": 277.59999999999997,
+      "text": "So we'll go, you search up sensor tower top charts on Google."
+    },
+    {
+      "start": 277.59999999999997,
+      "end": 281.59999999999997,
+      "text": "The reason I do this is if you just go to sensor tower.com."
+    },
+    {
+      "start": 281.59999999999997,
+      "end": 285.28,
+      "text": "So I should like, you don't really know where to go."
+    },
+    {
+      "start": 285.28,
+      "end": 290.64,
+      "text": "So what I do is I search up sensor tower top charts."
+    },
+    {
+      "start": 290.64,
+      "end": 292.4,
+      "text": "Now guys, like I don't even have an account."
+    },
+    {
+      "start": 292.4,
+      "end": 295.0,
+      "text": "I don't even pay for sensor tower."
+    },
+    {
+      "start": 295.0,
+      "end": 300.0,
+      "text": "I had deep search."
+    },
+    {
+      "start": 300.0,
+      "end": 304.28,
+      "text": "So here we'll see the little icons here."
+    },
+    {
+      "start": 304.28,
+      "end": 305.72,
+      "text": "This is Android."
+    },
+    {
+      "start": 305.72,
+      "end": 307.48,
+      "text": "This is iOS."
+    },
+    {
+      "start": 307.48,
+      "end": 315.76,
+      "text": "Deep search AI came out in March and is doing over $300,000 a month post-appled tax."
+    },
+    {
+      "start": 315.76,
+      "end": 322.6,
+      "text": "Now these numbers aren't perfect, but they're in my experience very, very accurate."
+    },
+    {
+      "start": 322.6,
+      "end": 324.08,
+      "text": "See if they build any other apps."
+    },
+    {
+      "start": 324.08,
+      "end": 328.64,
+      "text": "They build a phone cleaner product."
+    },
+    {
+      "start": 328.64,
+      "end": 330.12,
+      "text": "Interesting."
+    },
+    {
+      "start": 330.12,
+      "end": 333.12,
+      "text": "Cool."
+    },
+    {
+      "start": 333.12,
+      "end": 334.96,
+      "text": "So this product seems pretty basic."
+    },
+    {
+      "start": 334.96,
+      "end": 337.2,
+      "text": "You enter someone's name, gives you all the links."
+    },
+    {
+      "start": 337.2,
+      "end": 339.32,
+      "text": "It's actually very clear value add."
+    },
+    {
+      "start": 339.32,
+      "end": 347.08,
+      "text": "I think that most current LLMs will not actually tell you about people."
+    },
+    {
+      "start": 347.08,
+      "end": 356.47999999999996,
+      "text": "So one of the key learnings here is like if there's too much risk liability or maybe even"
+    },
+    {
+      "start": 356.48,
+      "end": 365.0,
+      "text": "political backlash that companies like OpenAI and Thropic, XAI would receive for a feature"
+    },
+    {
+      "start": 365.0,
+      "end": 371.20000000000005,
+      "text": "here being getting information on real life people, then maybe there's an opportunity"
+    },
+    {
+      "start": 371.20000000000005,
+      "end": 373.20000000000005,
+      "text": "to build it yourself."
+    },
+    {
+      "start": 373.20000000000005,
+      "end": 376.68,
+      "text": "Okay, let's keep going."
+    },
+    {
+      "start": 376.68,
+      "end": 383.56,
+      "text": "Here we got NGL, which we're all familiar with."
+    },
+    {
+      "start": 383.56,
+      "end": 389.32,
+      "text": "I wonder if this is like a fine-to-weat app."
+    },
+    {
+      "start": 389.32,
+      "end": 390.84,
+      "text": "That's funny."
+    },
+    {
+      "start": 390.84,
+      "end": 397.08,
+      "text": "So this is always interesting seeing an app that is number 45 in lifestyle, but has 38"
+    },
+    {
+      "start": 397.08,
+      "end": 403.4,
+      "text": "ratings, meaning it's either extremely new or it just went viral."
+    },
+    {
+      "start": 403.4,
+      "end": 407.96,
+      "text": "So this being a little bit of both came out a number months ago, probably just had its"
+    },
+    {
+      "start": 407.96,
+      "end": 411.36,
+      "text": "first viral moment."
+    },
+    {
+      "start": 411.36,
+      "end": 417.04,
+      "text": "Ashtra, one of our case studies."
+    },
+    {
+      "start": 417.04,
+      "end": 420.2,
+      "text": "Okay, we'll keep going pretty quickly."
+    },
+    {
+      "start": 420.2,
+      "end": 423.04,
+      "text": "Oh, Candle, this is pretty interesting."
+    },
+    {
+      "start": 423.04,
+      "end": 427.16,
+      "text": "It's like playing games for couples."
+    },
+    {
+      "start": 427.16,
+      "end": 430.52000000000004,
+      "text": "Definitely viral domain."
+    },
+    {
+      "start": 430.52000000000004,
+      "end": 432.76,
+      "text": "We got a UMax copycat right here."
+    },
+    {
+      "start": 432.76,
+      "end": 436.16,
+      "text": "I love to see it."
+    },
+    {
+      "start": 436.16,
+      "end": 437.16,
+      "text": "Cool."
+    },
+    {
+      "start": 437.16,
+      "end": 440.96000000000004,
+      "text": "Alright, let's move forward."
+    },
+    {
+      "start": 440.96,
+      "end": 443.88,
+      "text": "Let's go to Health and Fitness."
+    },
+    {
+      "start": 443.88,
+      "end": 449.47999999999996,
+      "text": "We got Cal AI, beanie out my fitness pal."
+    },
+    {
+      "start": 449.47999999999996,
+      "end": 453.64,
+      "text": "It's fucking sick to see we just did a Mr. Beast promo."
+    },
+    {
+      "start": 453.64,
+      "end": 456.52,
+      "text": "So that's exciting."
+    },
+    {
+      "start": 456.52,
+      "end": 458.15999999999997,
+      "text": "These apps are super interesting."
+    },
+    {
+      "start": 458.15999999999997,
+      "end": 461.96,
+      "text": "This sort of like brain training game apps."
+    },
+    {
+      "start": 461.96,
+      "end": 468.64,
+      "text": "I think I'll provide a concrete example here within fitness."
+    },
+    {
+      "start": 468.64,
+      "end": 469.64,
+      "text": "Okay."
+    },
+    {
+      "start": 470.24,
+      "end": 475.8,
+      "text": "AI calorie tracking would be a terrible space to build in right now, unless you have some"
+    },
+    {
+      "start": 475.8,
+      "end": 481.32,
+      "text": "like clear distribution edge on the basis of the fact that they're just like there are"
+    },
+    {
+      "start": 481.32,
+      "end": 484.96,
+      "text": "thousands and thousands of products that you're competing with."
+    },
+    {
+      "start": 484.96,
+      "end": 495.03999999999996,
+      "text": "However, one space that I think actually has a lot of opportunity is sort of weightlifting"
+    },
+    {
+      "start": 495.03999999999996,
+      "end": 496.44,
+      "text": "planning."
+    },
+    {
+      "start": 496.44,
+      "end": 499.59999999999997,
+      "text": "Most of the apps aren't very good."
+    },
+    {
+      "start": 499.6,
+      "end": 504.12,
+      "text": "So what I would do is I would find apps like this."
+    },
+    {
+      "start": 504.12,
+      "end": 508.0,
+      "text": "Apps that help you plan your workout."
+    },
+    {
+      "start": 508.0,
+      "end": 509.8,
+      "text": "You go through, find them."
+    },
+    {
+      "start": 509.8,
+      "end": 515.32,
+      "text": "And then so, okay, let's say, let's say this one first step in my eyes is like find"
+    },
+    {
+      "start": 515.32,
+      "end": 518.84,
+      "text": "comparables and then find out how much they're making."
+    },
+    {
+      "start": 518.84,
+      "end": 520.64,
+      "text": "Like are they making a lot?"
+    },
+    {
+      "start": 520.64,
+      "end": 522.52,
+      "text": "They get a lot of downloads."
+    },
+    {
+      "start": 522.52,
+      "end": 529.5600000000001,
+      "text": "So strong workout tracker, which is obviously very generic product is making over 500,000"
+    },
+    {
+      "start": 529.56,
+      "end": 535.9599999999999,
+      "text": "dollars a month after Apple's tax on just 200,000 downloads, which indicates relatively"
+    },
+    {
+      "start": 535.9599999999999,
+      "end": 537.7199999999999,
+      "text": "high user intent."
+    },
+    {
+      "start": 537.7199999999999,
+      "end": 542.52,
+      "text": "Okay, let's go back."
+    },
+    {
+      "start": 542.52,
+      "end": 546.64,
+      "text": "And to be honest, you can apply this to pretty much any domain like any idea that you"
+    },
+    {
+      "start": 546.64,
+      "end": 551.28,
+      "text": "have, go find the products, toss them in, see how much they're making."
+    },
+    {
+      "start": 551.28,
+      "end": 553.76,
+      "text": "So I mentioned impulse, right?"
+    },
+    {
+      "start": 553.76,
+      "end": 555.68,
+      "text": "These apps are insane."
+    },
+    {
+      "start": 556.0799999999999,
+      "end": 561.8,
+      "text": "At face value, it's a freemium app and it just teaches you, you know, you're literally"
+    },
+    {
+      "start": 561.8,
+      "end": 567.04,
+      "text": "just playing like these little brain games, but they make over $3 million a month after"
+    },
+    {
+      "start": 567.04,
+      "end": 569.52,
+      "text": "Apple's tax, which is bananas."
+    },
+    {
+      "start": 569.52,
+      "end": 577.2399999999999,
+      "text": "To put that into perspective, Cal AI also makes $3 million."
+    },
+    {
+      "start": 577.2399999999999,
+      "end": 578.2399999999999,
+      "text": "They've got the number."
+    },
+    {
+      "start": 578.2399999999999,
+      "end": 580.92,
+      "text": "Well, actually after Apple tax, it's under $3 million."
+    },
+    {
+      "start": 580.92,
+      "end": 582.92,
+      "text": "So that's why they would round down to two."
+    },
+    {
+      "start": 582.92,
+      "end": 586.16,
+      "text": "But it's a great product."
+    },
+    {
+      "start": 586.16,
+      "end": 587.64,
+      "text": "That was a little self-prag there."
+    },
+    {
+      "start": 587.64,
+      "end": 591.04,
+      "text": "It's meant to be a little bit ironic."
+    },
+    {
+      "start": 591.04,
+      "end": 592.76,
+      "text": "The joke came across well."
+    },
+    {
+      "start": 592.76,
+      "end": 598.0,
+      "text": "But okay, what are some other interesting domains productivity?"
+    },
+    {
+      "start": 598.0,
+      "end": 602.7199999999999,
+      "text": "You've sometimes find some, yeah, okay, here we've got one."
+    },
+    {
+      "start": 602.7199999999999,
+      "end": 605.7199999999999,
+      "text": "Focus friend, Hank Green."
+    },
+    {
+      "start": 605.96,
+      "end": 613.96,
+      "text": "I guess he has produced some little like app tell people stay focused."
+    },
+    {
+      "start": 613.96,
+      "end": 618.32,
+      "text": "Speechify, awesome app, find it by Cliff Weitzman, good friend."
+    },
+    {
+      "start": 621.6800000000001,
+      "end": 624.1600000000001,
+      "text": "I'm not seeing too much interesting here right now."
+    },
+    {
+      "start": 624.1600000000001,
+      "end": 627.2,
+      "text": "We do see all the AI note-taking apps."
+    },
+    {
+      "start": 627.2,
+      "end": 633.0400000000001,
+      "text": "So as an example here, we mentioned minutes as a case study."
+    },
+    {
+      "start": 634.04,
+      "end": 639.52,
+      "text": "It makes $300,000 a month on just 20,000 downloads,"
+    },
+    {
+      "start": 639.52,
+      "end": 642.04,
+      "text": "which is insane, absolutely bananas."
+    },
+    {
+      "start": 644.28,
+      "end": 649.4,
+      "text": "The AI note-taking apps, when you market it to high-intent students,"
+    },
+    {
+      "start": 649.4,
+      "end": 653.92,
+      "text": "as well as professionals, you can make a lot of money per download."
+    },
+    {
+      "start": 664.04,
+      "end": 668.04,
+      "text": "Let's go business now."
+    },
+    {
+      "start": 668.04,
+      "end": 670.04,
+      "text": "Let's take a look."
+    },
+    {
+      "start": 672.04,
+      "end": 675.04,
+      "text": "Not too much is interesting."
+    },
+    {
+      "start": 675.04,
+      "end": 678.04,
+      "text": "So once again, as I mentioned earlier,"
+    },
+    {
+      "start": 678.04,
+      "end": 683.04,
+      "text": "when I'm taking a look here, when I'm seeing is indeed,"
+    },
+    {
+      "start": 683.04,
+      "end": 690.04,
+      "text": "it's a complex product, you need both applicants and companies."
+    },
+    {
+      "start": 691.04,
+      "end": 694.04,
+      "text": "Companies looking higher."
+    },
+    {
+      "start": 694.04,
+      "end": 697.04,
+      "text": "Microsoft Teams, it's like, okay, it's Microsoft."
+    },
+    {
+      "start": 697.04,
+      "end": 700.04,
+      "text": "Zoom, it's Zoom, right?"
+    },
+    {
+      "start": 700.04,
+      "end": 702.04,
+      "text": "Video chat, I'm not going to encourage field to build that."
+    },
+    {
+      "start": 702.04,
+      "end": 705.04,
+      "text": "LinkedIn, professional networking site, DoorDash."
+    },
+    {
+      "start": 705.04,
+      "end": 709.04,
+      "text": "So most of these products, I'm taking a look at them."
+    },
+    {
+      "start": 709.04,
+      "end": 712.04,
+      "text": "And I'm like, all right, these are built by major corporations"
+    },
+    {
+      "start": 712.04,
+      "end": 717.04,
+      "text": "and are very complex products, which is why I kind of skipped through them."
+    },
+    {
+      "start": 718.04,
+      "end": 723.04,
+      "text": "And I'm like, you know what, there's not much for me to teach most of this."
+    },
+    {
+      "start": 723.04,
+      "end": 728.04,
+      "text": "This scanner app, this is actually something that you could theoretically build."
+    },
+    {
+      "start": 728.04,
+      "end": 734.04,
+      "text": "But it's maybe not as viral, not as not really in line with what,"
+    },
+    {
+      "start": 734.04,
+      "end": 740.04,
+      "text": "with the sort of ethos of the majority of products and consumer apps"
+    },
+    {
+      "start": 740.04,
+      "end": 746.04,
+      "text": "that I provided in the case studies and that are,"
+    },
+    {
+      "start": 746.04,
+      "end": 752.04,
+      "text": "you have any amount of reasonable chance to make highly profitable within just a few months."
+    },
+    {
+      "start": 752.04,
+      "end": 757.04,
+      "text": "Prep AI, this does look pretty basic."
+    },
+    {
+      "start": 757.04,
+      "end": 763.04,
+      "text": "This looks like a basic AI app designed to help you find jobs."
+    },
+    {
+      "start": 763.04,
+      "end": 766.04,
+      "text": "Let's see, they've in-app purchases."
+    },
+    {
+      "start": 766.04,
+      "end": 768.04,
+      "text": "Yep, they do."
+    },
+    {
+      "start": 768.04,
+      "end": 771.04,
+      "text": "So much prep AI is making."
+    },
+    {
+      "start": 777.04,
+      "end": 779.04,
+      "text": "I'm not actually making that much."
+    },
+    {
+      "start": 779.04,
+      "end": 782.04,
+      "text": "So they may be either under monetized or they're pursuing a more premium route"
+    },
+    {
+      "start": 782.04,
+      "end": 785.04,
+      "text": "where the strategy is to build up their user base"
+    },
+    {
+      "start": 785.04,
+      "end": 789.04,
+      "text": "and that can increase retention, K factor,"
+    },
+    {
+      "start": 789.04,
+      "end": 794.04,
+      "text": "and enable them to sort of scale over time, as opposed to trying to rip right now."
+    },
+    {
+      "start": 794.04,
+      "end": 798.04,
+      "text": "Reference is always a great, great space."
+    },
+    {
+      "start": 798.04,
+      "end": 802.04,
+      "text": "You'll see even in reference, you have like these coin scanners and whatnot."
+    },
+    {
+      "start": 802.04,
+      "end": 807.04,
+      "text": "The reason is because reference is arguably the easiest category in the app,"
+    },
+    {
+      "start": 807.04,
+      "end": 810.04,
+      "text": "sort of climb the ranks."
+    },
+    {
+      "start": 810.04,
+      "end": 816.04,
+      "text": "And so people that are kind of hacking ASO will put their product in reference."
+    },
+    {
+      "start": 816.04,
+      "end": 826.04,
+      "text": "But reference is primarily for religious slash, I guess, cultural."
+    },
+    {
+      "start": 826.04,
+      "end": 831.04,
+      "text": "So maybe that's also why the coin scanners right here."
+    },
+    {
+      "start": 831.04,
+      "end": 837.04,
+      "text": "I've never really understood the reference category all that well."
+    },
+    {
+      "start": 837.04,
+      "end": 840.04,
+      "text": "Yeah, cool."
+    },
+    {
+      "start": 840.04,
+      "end": 841.04,
+      "text": "Okay."
+    },
+    {
+      "start": 841.04,
+      "end": 845.04,
+      "text": "I think that's pretty much it from now for this video."
+    },
+    {
+      "start": 845.04,
+      "end": 850.04,
+      "text": "In the next module in design, you'll learn a little bit about what to actually do"
+    },
+    {
+      "start": 850.04,
+      "end": 854.04,
+      "text": "with these apps once you identify them, going through their flows,"
+    },
+    {
+      "start": 854.04,
+      "end": 859.04,
+      "text": "taking the screenshots, pacing and figma."
+    },
+    {
+      "start": 859.04,
+      "end": 863.04,
+      "text": "But yeah, that will come next."
+    },
+    {
+      "start": 863.04,
+      "end": 867.04,
+      "text": "Yeah, download the app, analyze its onboarding paywall core functionality."
+    },
+    {
+      "start": 867.04,
+      "end": 870.04,
+      "text": "Honestly, you can do that now to some extent."
+    },
+    {
+      "start": 870.04,
+      "end": 876.04,
+      "text": "Just use the app, see what it feels like, and this will help inform your sort of understanding"
+    },
+    {
+      "start": 876.04,
+      "end": 885.04,
+      "text": "of the problem that you are solving when you download these apps that are similar to your product."
+    },
+    {
+      "start": 885.04,
+      "end": 891.04,
+      "text": "And then additionally, something that I guess two other points I didn't touch on."
+    },
+    {
+      "start": 891.04,
+      "end": 895.04,
+      "text": "I would cross reference the app with its social media presence."
+    },
+    {
+      "start": 895.04,
+      "end": 898.04,
+      "text": "So you'll learn more about how to do that in distribution."
+    },
+    {
+      "start": 898.04,
+      "end": 904.04,
+      "text": "But you can just search it up on Instagram, TikTok, try to find its meta ads library."
+    },
+    {
+      "start": 904.04,
+      "end": 906.04,
+      "text": "See what the hooks are that's working."
+    },
+    {
+      "start": 906.04,
+      "end": 914.04,
+      "text": "Put yourself in the mind of the customer as you use, you know, this the market landscape to make"
+    },
+    {
+      "start": 914.04,
+      "end": 917.04,
+      "text": "your idea more fully formed."
+    },
+    {
+      "start": 917.04,
+      "end": 922.04,
+      "text": "And then finally, scroll these rankings daily to stay up to date."
+    },
+    {
+      "start": 922.04,
+      "end": 925.04,
+      "text": "Sensor Tower also has some interesting data."
+    },
+    {
+      "start": 925.04,
+      "end": 928.04,
+      "text": "But you guys can go play around with that platform."
+    },
+    {
+      "start": 928.04,
+      "end": 934.04,
+      "text": "But as you see here, like I can also just scroll the rankings within sensor tower."
+    },
+    {
+      "start": 934.04,
+      "end": 937.04,
+      "text": "Cool. All right, that's it for this video."
+    },
+    {
+      "start": 937.04,
+      "end": 943.04,
+      "text": "I will see you guys in my final lesson of the module of ideation,"
+    },
+    {
+      "start": 943.04,
+      "end": 946.04,
+      "text": "which will be finalizing your idea."
+    },
+    {
+      "start": 946.04,
+      "end": 948.04,
+      "text": "Peace out guys."
+    }
+  ]
+}

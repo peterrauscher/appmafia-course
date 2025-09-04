@@ -1,0 +1,427 @@
+{
+  "file_name": "036_Lesson_36.faudio-hi-0-Default.mp4",
+  "text": " Hey everyone welcome back to the development module today we'll be talking about how to master adjust. Adjust is a tool that I use to track revenue from ads, send out affiliate links to X creators and also see which channels are bringing in the most revenue when it comes to traffic. This tool is great but it takes a hell of a lot of time to set up. I had to get several devs, I had to get so many independent people to help me set it up so we won't be going over that today sadly but I will be showing you how to use it and how to be the best fucking like data guy for your company using adjust. So let's get right into it. The website is adjust.com and I haven't account I've already set everything up so again I will be going over how I use it in my day-to-day operations when it comes to Quissa. So this is the full dashboard overview. I don't know what this time period is this is seemingly the last month or two months and it says we've generated 1.1 million dollars of revenue because we passed the revenue that we generate in the app back to adjust so it just displays on the front and here it shows us the installs we don't have to track this manually this gets tracked automatically this is great and yeah this is very something stuff that you see in a bunch of other platforms but we'll get straight into the meat and potatoes. Let's go to campaign lab and custom links. So anytime we put a blog out anytime we send out a link to an influencer to put in that bio anytime we walk even x affiliate page to post the quid a link in the comments we send them an individual tracking link and you can see a bunch of names here these are campaigns so like there are 77 campaigns within the influencer channel and then you can see all of the influencer names under here and the way we structure this is anytime we want to create a new link let's say it's an x affiliate or affiliate program you would click in the top right new link you will call the channel x affiliates we'll call this test for example you click next next again next again next and then create link. Boom you create an x affiliate link now if we want to send this to specific pages and see the ROI instead of just seeing the whole entire channels ROI we will go to test at the bottom click on the campaigns you campaign link and we'll do the influencer name as like let's just say this pages hourly ship host which is a real account that we partner within the past we'll go next next next next next create link and now anytime the hourly ship host guy uses this link we will be able to see the revenue he's generated for our business so it just makes the whole you know data data part really really simple when it comes to apps usually you don't know what you're doing Apple limits a lot of the traffic data because they're so privacy focused so tools like adjust really make it simple to see the truth and everything it doing so yeah I would send this link to an influencer tell him to use that and then when you go back into the dashboards and the overview you will see a start to accumulate under campaign name so for example an influencer we've walked over the past moon we can see the he's generated 3.2k in the last two months and that's just for his link alone and you can see the same different revenue breakdowns for everyone else we've worked with specifically like socials so this is our main accounts unknown is obviously not tracked we also have all of these meta ads so you can see these are made like 50,000 for 20,000, 26,000 and yeah like adjust is a no-brainer when it comes to breaking down exactly what traffic is bringing and what revenue so you know how to and where to invest all your money back into and you know what like that is the main thing I'll use it for I'll be honest maybe there are other things but I use it for the affiliate links and I absolutely love it and I suggest as you can see blogs and this should be way more than one K which is weird but we have individual links for individual things we do so the main website has a has a custom link I think this is this link 63 installs that does not seem right anyways we have one link for the main website and then for the blogs and the SEO we have another link and you can see that this is generating way more traffic than the main page so instead of like for example instead of giving the same link to the entire website and just like assuming that the entire website is doing well you can attribute it to a specific part of the website for example the blogs we know blogs are doing very well and have brought in 50 thousand dollars for example instead of just the domain bringing 50K so you want to get really specific and you want to just get diving just diving there and like improve everything and then we also have the settings so the app settings once you go into here you want to click into social sharing preview and you want to make this a very clear CTA for example mine's called Quitter Quippoint now join this should be a million people well great for spotting that guys good stuff join a million people on that mission to Quippoint today download now from the up store and Google play and then we have a really sick image and anytime this link is shared on social media this entire preview is shown and this serves kind of like a converting landing page so yeah that's adjust pretty simple stuff I didn't want to dive too deep into it it is very confusing and complex and there's a lot of shit going on I stick to essentials I use it for links cost links and I also use it for ads and then the final thing about the sharing preview is very important to get right for Cali I for example you can call it say download Cali on the app so today join 10 million other people checking their calories on the iPhone or App Store which is very very clear that there's an app specifying that it's an app is very beneficial when it comes to converting people because they don't know if there's a product they hate buying physical products they hate if it's a service they hate services they just want an app that makes it really easy to download that makes it really easy to convert hope that's very clear you know I might re-record this tomorrow who knows I am tired but I will say I did cover a lot of the essentials and if you guys need help setting up a just they have full support team when it comes to setting up your demo but yeah good shit boys",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.32,
+      "text": "Hey everyone welcome back to the development module today we'll be talking about"
+    },
+    {
+      "start": 4.32,
+      "end": 10.24,
+      "text": "how to master adjust. Adjust is a tool that I use to track revenue from ads,"
+    },
+    {
+      "start": 10.24,
+      "end": 16.18,
+      "text": "send out affiliate links to X creators and also see which channels are bringing in"
+    },
+    {
+      "start": 16.18,
+      "end": 23.28,
+      "text": "the most revenue when it comes to traffic. This tool is great but it takes a"
+    },
+    {
+      "start": 23.28,
+      "end": 29.28,
+      "text": "hell of a lot of time to set up. I had to get several devs, I had to get so many"
+    },
+    {
+      "start": 29.28,
+      "end": 33.6,
+      "text": "independent people to help me set it up so we won't be going over that today"
+    },
+    {
+      "start": 33.6,
+      "end": 39.08,
+      "text": "sadly but I will be showing you how to use it and how to be the best fucking"
+    },
+    {
+      "start": 39.08,
+      "end": 46.2,
+      "text": "like data guy for your company using adjust. So let's get right into it. The"
+    },
+    {
+      "start": 46.2,
+      "end": 50.92,
+      "text": "website is adjust.com and I haven't account I've already set everything up so"
+    },
+    {
+      "start": 50.92,
+      "end": 55.36,
+      "text": "again I will be going over how I use it in my day-to-day operations when it"
+    },
+    {
+      "start": 55.36,
+      "end": 65.56,
+      "text": "comes to Quissa. So this is the full dashboard overview. I don't know what"
+    },
+    {
+      "start": 65.56,
+      "end": 71.4,
+      "text": "this time period is this is seemingly the last month or two months and it says"
+    },
+    {
+      "start": 71.4,
+      "end": 75.2,
+      "text": "we've generated 1.1 million dollars of revenue because we passed the revenue"
+    },
+    {
+      "start": 75.2,
+      "end": 79.16,
+      "text": "that we generate in the app back to adjust so it just displays on the front"
+    },
+    {
+      "start": 79.16,
+      "end": 83.56,
+      "text": "and here it shows us the installs we don't have to track this manually this"
+    },
+    {
+      "start": 83.56,
+      "end": 88.8,
+      "text": "gets tracked automatically this is great and yeah this is very something"
+    },
+    {
+      "start": 88.8,
+      "end": 91.76,
+      "text": "stuff that you see in a bunch of other platforms but we'll get straight into"
+    },
+    {
+      "start": 91.76,
+      "end": 100.6,
+      "text": "the meat and potatoes. Let's go to campaign lab and custom links. So anytime we"
+    },
+    {
+      "start": 100.6,
+      "end": 105.68,
+      "text": "put a blog out anytime we send out a link to an influencer to put in that bio"
+    },
+    {
+      "start": 105.68,
+      "end": 111.28,
+      "text": "anytime we walk even x affiliate page to post the quid a link in the comments"
+    },
+    {
+      "start": 111.28,
+      "end": 116.16,
+      "text": "we send them an individual tracking link and you can see a bunch of names"
+    },
+    {
+      "start": 116.16,
+      "end": 122.72,
+      "text": "here these are campaigns so like there are 77 campaigns within the influencer"
+    },
+    {
+      "start": 122.72,
+      "end": 131.44,
+      "text": "channel and then you can see all of the influencer names under here and the way"
+    },
+    {
+      "start": 131.44,
+      "end": 135.84,
+      "text": "we structure this is anytime we want to create a new link let's say it's an"
+    },
+    {
+      "start": 135.84,
+      "end": 141.6,
+      "text": "x affiliate or affiliate program you would click in the top right new link you"
+    },
+    {
+      "start": 141.6,
+      "end": 147.84,
+      "text": "will call the channel x affiliates we'll call this test for example you click"
+    },
+    {
+      "start": 147.84,
+      "end": 157.68,
+      "text": "next next again next again next and then create link. Boom you create an x affiliate"
+    },
+    {
+      "start": 157.68,
+      "end": 165.44,
+      "text": "link now if we want to send this to specific pages and see the ROI instead of"
+    },
+    {
+      "start": 165.44,
+      "end": 173.92,
+      "text": "just seeing the whole entire channels ROI we will go to test at the bottom click"
+    },
+    {
+      "start": 173.92,
+      "end": 179.92,
+      "text": "on the campaigns you campaign link and we'll do the influencer name as like"
+    },
+    {
+      "start": 179.92,
+      "end": 184.12,
+      "text": "let's just say this pages hourly ship host which is a real account that we"
+    },
+    {
+      "start": 184.12,
+      "end": 190.4,
+      "text": "partner within the past we'll go next next next next next create link and now"
+    },
+    {
+      "start": 190.4,
+      "end": 196.68,
+      "text": "anytime the hourly ship host guy uses this link we will be able to see the"
+    },
+    {
+      "start": 196.68,
+      "end": 201.36,
+      "text": "revenue he's generated for our business so it just makes the whole you know"
+    },
+    {
+      "start": 201.36,
+      "end": 206.12,
+      "text": "data data part really really simple when it comes to apps usually you don't"
+    },
+    {
+      "start": 206.12,
+      "end": 210.64000000000001,
+      "text": "know what you're doing Apple limits a lot of the traffic data because they're"
+    },
+    {
+      "start": 210.64000000000001,
+      "end": 217.04000000000002,
+      "text": "so privacy focused so tools like adjust really make it simple to see the"
+    },
+    {
+      "start": 217.04,
+      "end": 222.23999999999998,
+      "text": "truth and everything it doing so yeah I would send this link to an"
+    },
+    {
+      "start": 222.23999999999998,
+      "end": 226.23999999999998,
+      "text": "influencer tell him to use that and then when you go back into the dashboards"
+    },
+    {
+      "start": 226.23999999999998,
+      "end": 233.32,
+      "text": "and the overview you will see a start to accumulate under campaign name so for"
+    },
+    {
+      "start": 233.32,
+      "end": 237.16,
+      "text": "example an influencer we've walked over the past moon we can see the he's"
+    },
+    {
+      "start": 237.16,
+      "end": 246.0,
+      "text": "generated 3.2k in the last two months and that's just for his link alone and"
+    },
+    {
+      "start": 246.0,
+      "end": 250.24,
+      "text": "you can see the same different revenue breakdowns for everyone else we've"
+    },
+    {
+      "start": 250.24,
+      "end": 257.16,
+      "text": "worked with specifically like socials so this is our main accounts unknown is"
+    },
+    {
+      "start": 257.16,
+      "end": 262.18,
+      "text": "obviously not tracked we also have all of these meta ads so you can see these"
+    },
+    {
+      "start": 262.18,
+      "end": 269.48,
+      "text": "are made like 50,000 for 20,000, 26,000 and yeah like adjust is a no-brainer when"
+    },
+    {
+      "start": 269.48,
+      "end": 275.76,
+      "text": "it comes to breaking down exactly what traffic is bringing and what revenue so"
+    },
+    {
+      "start": 275.76,
+      "end": 284.92,
+      "text": "you know how to and where to invest all your money back into and you know what"
+    },
+    {
+      "start": 284.92,
+      "end": 289.8,
+      "text": "like that is the main thing I'll use it for I'll be honest maybe there are other"
+    },
+    {
+      "start": 289.8,
+      "end": 294.36,
+      "text": "things but I use it for the affiliate links and I absolutely love it and I"
+    },
+    {
+      "start": 294.36,
+      "end": 300.08,
+      "text": "suggest as you can see blogs and this should be way more than one K which is"
+    },
+    {
+      "start": 300.08,
+      "end": 304.84,
+      "text": "weird but we have individual links for individual things we do so the main"
+    },
+    {
+      "start": 304.84,
+      "end": 310.67999999999995,
+      "text": "website has a has a custom link I think this is this link 63 installs that"
+    },
+    {
+      "start": 310.67999999999995,
+      "end": 315.84,
+      "text": "does not seem right anyways we have one link for the main website and then for"
+    },
+    {
+      "start": 315.84,
+      "end": 319.32,
+      "text": "the blogs and the SEO we have another link and you can see that this is"
+    },
+    {
+      "start": 319.32,
+      "end": 325.35999999999996,
+      "text": "generating way more traffic than the main page so instead of like for"
+    },
+    {
+      "start": 325.35999999999996,
+      "end": 329.47999999999996,
+      "text": "example instead of giving the same link to the entire website and just like"
+    },
+    {
+      "start": 329.47999999999996,
+      "end": 334.52,
+      "text": "assuming that the entire website is doing well you can attribute it to a"
+    },
+    {
+      "start": 334.52,
+      "end": 339.08,
+      "text": "specific part of the website for example the blogs we know blogs are"
+    },
+    {
+      "start": 339.08,
+      "end": 344.52,
+      "text": "doing very well and have brought in 50 thousand dollars for example instead of"
+    },
+    {
+      "start": 344.52,
+      "end": 349.32,
+      "text": "just the domain bringing 50K so you want to get really specific and you"
+    },
+    {
+      "start": 349.32,
+      "end": 357.59999999999997,
+      "text": "want to just get diving just diving there and like improve everything and then"
+    },
+    {
+      "start": 357.6,
+      "end": 368.56,
+      "text": "we also have the settings so the app settings once you go into here you want to"
+    },
+    {
+      "start": 368.56,
+      "end": 374.52000000000004,
+      "text": "click into social sharing preview and you want to make this a very clear CTA"
+    },
+    {
+      "start": 374.52000000000004,
+      "end": 379.72,
+      "text": "for example mine's called Quitter Quippoint now join this should be a million"
+    },
+    {
+      "start": 379.72,
+      "end": 386.68,
+      "text": "people well great for spotting that guys good stuff join a million people on"
+    },
+    {
+      "start": 386.68,
+      "end": 392.68,
+      "text": "that mission to Quippoint today download now from the up store and Google play and"
+    },
+    {
+      "start": 392.68,
+      "end": 400.32,
+      "text": "then we have a really sick image and anytime this link is shared on social media"
+    },
+    {
+      "start": 400.32,
+      "end": 408.44,
+      "text": "this entire preview is shown and this serves kind of like a converting landing"
+    },
+    {
+      "start": 408.44,
+      "end": 422.6,
+      "text": "page so yeah that's adjust pretty simple stuff I didn't want to dive too deep"
+    },
+    {
+      "start": 422.6,
+      "end": 427.44,
+      "text": "into it it is very confusing and complex and there's a lot of shit going on"
+    },
+    {
+      "start": 427.44,
+      "end": 435.28,
+      "text": "I stick to essentials I use it for links cost links and I also use it for ads"
+    },
+    {
+      "start": 435.67999999999995,
+      "end": 439.71999999999997,
+      "text": "and then the final thing about the sharing preview is very important to get"
+    },
+    {
+      "start": 439.71999999999997,
+      "end": 445.84,
+      "text": "right for Cali I for example you can call it say download Cali on the"
+    },
+    {
+      "start": 445.84,
+      "end": 449.35999999999996,
+      "text": "app so today join 10 million other people checking their calories on the"
+    },
+    {
+      "start": 449.35999999999996,
+      "end": 455.55999999999995,
+      "text": "iPhone or App Store which is very very clear that there's an app specifying"
+    },
+    {
+      "start": 455.55999999999995,
+      "end": 460.28,
+      "text": "that it's an app is very beneficial when it comes to converting people because"
+    },
+    {
+      "start": 460.28,
+      "end": 464.52,
+      "text": "they don't know if there's a product they hate buying physical products they hate"
+    },
+    {
+      "start": 464.52,
+      "end": 469.71999999999997,
+      "text": "if it's a service they hate services they just want an app that makes it really"
+    },
+    {
+      "start": 469.71999999999997,
+      "end": 475.71999999999997,
+      "text": "easy to download that makes it really easy to convert hope that's very clear you"
+    },
+    {
+      "start": 475.71999999999997,
+      "end": 481.91999999999996,
+      "text": "know I might re-record this tomorrow who knows I am tired but I will say I did"
+    },
+    {
+      "start": 481.91999999999996,
+      "end": 486.24,
+      "text": "cover a lot of the essentials and if you guys need help setting up a"
+    },
+    {
+      "start": 486.24,
+      "end": 495.18,
+      "text": "just they have full support team when it comes to setting up your demo but"
+    },
+    {
+      "start": 495.18,
+      "end": 496.40000000000003,
+      "text": "yeah good shit boys"
+    }
+  ]
+}

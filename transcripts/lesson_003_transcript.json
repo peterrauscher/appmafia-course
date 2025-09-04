@@ -1,0 +1,1552 @@
+{
+  "file_name": "003_Lesson_03.faudio-hi-0-Default.mp4",
+  "text": " All right, what's up, Pussy's? Welcome to the start of our first module of this course, ideation. To start off with ideation, we're going to be going over case studies. I'm a big believer in the principle that like the best way to learn to ride a bike is to ride a bike. You might scrape yourself, you might get cut, but you're going to learn better. Then like studying the underlying mechanics and physics of how bikes work, it's like get on the bike and ride. Now I think approaching building apps is a little bit different in that you have to invest significantly more time and resources into actually building and marketing and designing an application. But what you can do instead is take a look at examples of apps that have succeeded. Apps that have been built quickly and made a lot of money. So that's what we're going to do here today. So the apps listed here, almost every single one, makes over a million dollars per year in profit, was started by one to three people, has received zero funding and has been built in the past three years. Now I can verify this because about almost half of the apps here have been built by somebody in AppMafia and the majority of the rest, we know the founders personally. The reason that we selected these in addition to our own experience with them is because there are a lot of apps on the App Store where you can, you know, you can scroll the charts and you find apps like My Fitness Pal or apps like, you know, maybe Impulse or different apps that make millions and millions of dollars a month. But some of the key issues with studying apps like that is they were built ten years ago and they've raised tens to hundreds of millions of dollars in funding and sure they make money and sure they may have been founded by a couple of people. But it's very common that these case studies just aren't going to be that applicable to the people watching this content. And now whether you already have a successful app or you are completely new to this space, these are the apps that have really sort of taken over the industry by storm over the course of the past few years. A lot of these apps apply AI to bring new products to life, whereas others just take advantage of other trends or other, you know, consumer interests. Now, a very important disclaimer here is that there are many other app categories that we did not include here. But these are app categories where we have domain expertise and also will also currently present a lot of opportunity and will continue to present a ton of opportunity in the future. So we're going to focus on this within the course of this course. But there are many other apps that are worth studying. So do your own research. At the top of this first row, you'll see this sort of like higher order problems. We'll get into that a little bit in some of the future lessons about how to kind of determine what problems to work on and how you're going to go about solving them. But for the sake of this first video, I'm going to run through some of these apps, explain a little bit of the background on why they worked and kind of just get the creative juices flowing. So let's get into it. All right, Rizapp number one. First problem that we're looking at is dating. I'm actually going to talk a lot about that in a future lesson why dating is so important. But Riz is actually our first competitor for the first app that I built. Riz GPT. I was in school and I had a friend who was using dating apps a lot. Always getting with different girls and whatnot. And he would be like, dude, what should I say to this girl in a very normal casual way. And this was shortly after ChatsyPetit came out and I'm like, man, we, I could very easily build an app to generate responses. And it kind of spring out of curiosity. I'm like, I wonder how good ChatsyPetit would do given proper prompt engineering. And so I started working on this app. And as I'm starting to work on it, I did a little bit of market research. And Riz was our number one competitor. Riz had already launched, but they weren't popular. They'd done maybe like 20,000 downloads, something like that. But they are a great case study. The founders have a good amount of experience. Before we had jumped into the scene with Riz GPT, I actually go ahead and pull that up right now. Plug AIs that I built. We had to rename from Riz GPT because of a lawsuit from Riz. No bad blood there. But we launched and like we did everything wrong that you could possibly imagine. The app was named Riz GPT-Production when you downloaded it. I had to open AI API keys stored in the front end. It was a complete mess. But what Riz GPT, Plug AI and the Riz app do, they enabled you to upload a screenshot of a conversation that you're having with a girl. And it'll help give you recommendations on what to set. And there's been some innovation over the course of the past year in terms of what the product actually looked like. Looks like. But it touches on the key thread which is highlighted in a South Park episode actually, which is like, it's not always easy to know what to say to girls. It's actually very hard for a high proportion of guys. And AI in this case can help kind of augment that. So we launched, we did some underground influencer promos that ended up ripping. And then we started into a bloodbath war with the Riz app. Honestly, I think Plug AI slash Riz GPT and Riz are kind of the first big players in the new AI product crossed with organic social media marketing sort of strategy. I think both. So Riz GPT, we make a little bit over 300 km on right now. I think Riz is probably somewhere in the range of four to five hundred. But definitely worth studying these products. So that's a little bit of a background there in terms of how we, what this part of the industry looks like. Okay, now we've got another relatively new app T. T has been absolutely ripping. T is number one on the app store for a little while. There's a little bit distinct from a lot of apps that we're going to touch on and that most of these are kind of single player apps. But I wanted to include it because I think that it highlights a very important component of user and consumer psychology, which is T kind of plays on this concept of FOMO to some extent. You can even see it in their messaging. It's like they say that they're helping women date safe. No, it's really an anonymous gossip forum. But it's a very intelligent product decision. So we're studying and keep moving on. Cali, Cali is the app that Zach and I built together. Cali does a little bit over $3 million a month in revenue. Quick background on this. AI Calary Trackers were beginning to become popular shortly after the release and popularization of the vision models. So the GPT vision and whatnot. This was the end of 2023 around the time I built UMax, which I'll touch in in a second. Touch on in a second. Now we saw players entering the space, but we felt like no one was really doing it right. And from product nor distribution lens. So we did it. We were like, what's the simplest possible fucking product we can build? We saw these tailwinds. They're very important to sort of identify if you want to come up with new ideas and take advantage of new technologies and new consumer behaviors. We're like, what's the simplest product we can build? Take a picture. Get your calories. That was it. There was one one button. And then from there we innovated and grew and now we are almost certainly the number one most popular AI Cali tracker. We're like competing. We're head to head. Let's see, pull this up with my fitness pal. We're like kind of consistently ranking above them right now. So it's pretty cool. So not just AI calorie tracker, but calorie tracker as a whole. All right, UMax. UMax is my favorite personal case study. You can see we got, we got me right here. Pretty cool, pretty cool. We've done almost 30 million downloads across platforms. So Android and iOS UMax, what I think everybody can learn from is the point that I just touch on of identifying tailwinds. Looks Maxing was becoming incredibly popular. It was just taking over social media for men age like 13 through 25. It was on everybody's feet. And I saw it and I was like, man, this is the perfect place to build a product, perfect sort of niche. And it was also perfect timing. The GPT vision API, as I mentioned, was released in the end of 2020. I think I had said, yeah, no, this was 2023, end of 2023. And I was like, this opportunity is too good. I need to figure out how to build this product right now because the API hadn't been released. So this is back in September, October of 2023. And I know that the vision API was coming up, but I also knew that there was going to be competition. So I'm like, okay, what can I do to be ahead of the curve? So I built the entire product with no functional API. The entire product was ready to go. And then the moment that the API got released, I plugged in the URL and I submitted to the App Store within a few days. I was approved. And I already had influencer deals lined up on contingency, so I didn't pan anybody ahead of time. Okay, long rambles, but what's the takeaway here? The takeaway is that as we see these continuous advancements in AI technology, so this is an example of image analysis. We're seeing video analysis coming to play, video generation, image generation. And we're going to see a whole new set of modalities that can be applied to create experiences like never before. Facial analysis was somewhat possible before AI vision APIs, but it was using more traditional ML vision models, which just like you can't get the same performance and it's way more expensive and difficult to build. Now it's as simple as plain text, English prompting. So study you max. Onward. I'm going to start moving a little bit faster so that this isn't take too long. But I hope you guys are kind of picking up on how these ideas come to play, as well as how important time is. We got Quitter, Connor and Alex, amazing fucking app. One of my favorite in the industry right now. For them, it's not taking advantage of some new AI technology. It's looking at an incredibly, incredibly important problem that our generation faces. And not just our generation, that man as a whole face nowadays, which is lust and pornography. Whether you think it's good or bad, a lot of people think it's bad. A lot of people jerk off and watch porn and they know it's bad for them, at least as individuals. Connor and Alex recognize this. They saw how big of a problem it was and they went to solve it. They drew an inspiration from some previously successful apps in terms of marketing, namely like the apps that I built as well as Zach. And then they created a completely sort of new experience. They took a look at apps that help people track sobriety. And then they embedded that within a product to help quit porn. Alcoholism has been an issue for longer than pornography has. And so therefore, there's been more innovation on the UX side of how to solve alcoholism, alcoholism relative to how to solve pornographic addiction. So yeah, sweet app. They are going to continue to rise in the rankings. Okay, Opal, similar, very similar. Actually Opal may have been more of a case study for quitter than the sobriety tracking apps. Nevertheless, similar, very, very similar products, people are addicted to jerking off, people are also addicted to their phones. Solve that, make content, people pay. Great. All right, Bible chat, different thread of your spirituality. We're in a meeting crisis. I mean, people have heard this. We're in a meeting crisis nowadays. People are increasingly looking for ways to become more spiritual. Bible chat helps people connect with their Christianity. Awesome. Great product. You also see this for Muslims and Jews as well. Different thread rather than religion, Astra helps people solve it, solve the spirituality, whatever that they want to find in their life through astrology. Also becoming increasingly popular. This is actually built by my co-founders of Riz Gpt. You see, they are vert ventures. If we go back to Plague AI, this was vert media. We built Riz Gpt, Plague AI together. I went off and built U-Max. They went off and built Astra. All right. Minutes AI, AI note taking. I'm sure everyone's familiar with this industry. It's one of the most popular, sort of clear productivity increase value ads from AI. Minutes is one example, founded by a small team. There's Turbo. There is Otter or something. And a bunch of others, pretty straightforward. People don't like to pay attention during meetings or school or team. Okay. Quizzard. Very, very common AI homework helper. Super simple. Take a picture of your homework. Nice, pretty UI. I feel like that's pretty self-explanatory why it works. It's built by O'Leave Labs. O'Leave is a pretty cool company. They've got like another AI note taker, as I'd mentioned, with Minutes AI. One category is, or success category is great. It's like, all right, let's help you make money. Let's help you be more successful in your career. I think you can build a product that tangibly helps people make those incremental improvements. It's very obvious why they would pay for it. Social validation. Okay. Now, this is a slightly different territory that we're getting into. So generally, we recommend against building social apps. There's so much harder to build. We'll talk more about that later in the course. But there's an interesting subset of social sort of companion products. So HunterBuiltNGL. NGL has done, I think, 300 million downloads. One of the most popular apps in the world. They are a social companion app. You can post your NGL links on your Snapchat and Instagram story, get anonymous messages. So rather than build full on social platforms, like if you're here in this course, you should probably already know by now. But the probability that you succeed building a full social platform is extremely low. I don't say that to discourage you. Like, if you want to do it, you can do it. But I say that just so you know what you're getting yourself into. So if you're going to build social, social companion is usually the highest probability of finding success. Lock it. Lock it and enables you to like share images with your friends. Kind of stay up to date, put it on your home screen. Cool product. They're also one of the most popular apps in the world. I think that they've done tens of millions, maybe like 100 million plus downloads. Now laps once again, one of these sort of like, one of these like non-full fledged social platforms, but rather like social ex utility. So same boat, take these sort of like disposable camera aesthetic, whatever images with your friends, share them. Cool. All right. That is it for case studies. Lot of rambling. But it's one to give you guys a little bit of a background on how I think through these products so that you guys can refer back to this if you want throughout the rest and the remainder of our course. To be honest, like even beyond us referencing these apps, whenever we are lecturing and providing information, you should refer back to them. You want to start training this muscle. When I first built RISGPT, I had like pretty much zero understanding of this space. Number one, most valuable thing I ever did was begin to study these apps. As it started to grow, I picked up on the fact that each time I downloaded a successful app and used it, I would uncover some new sort of strategy, be it UI, be it marketing, be it general UX, engineering, whatever. That would add a, you know, 5 plus percent increase. For example, with RISGPT, like after we downloaded a few different apps, we realized that everyone was using Superwall and split testing their paywalls. And that three X star revenue as soon as we implemented it and began using a harder paywall. Notifications, analytics, like these are all things that we did not have set up from day one. But when you take this course, you'll learn how to do all this. Okay, that wraps this up. Now we're going to go all the way down to the very bottom. We started at a general high level overview of these apps all the way down to the bottom of the very, very, very fundamentals of coming up with your idea and determining what idea you should actually build and how these people, myself included, how we all came up with hours using these sort of frameworks. Okay, part two soon. I want to redo that. Okay, that's lesson one. I'll see you guys in lesson two.",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.24,
+      "text": "All right, what's up, Pussy's?"
+    },
+    {
+      "start": 4.24,
+      "end": 11.24,
+      "text": "Welcome to the start of our first module of this course,"
+    },
+    {
+      "start": 11.24,
+      "end": 14.24,
+      "text": "ideation."
+    },
+    {
+      "start": 14.24,
+      "end": 18.36,
+      "text": "To start off with ideation, we're going to be going over case studies."
+    },
+    {
+      "start": 18.36,
+      "end": 23.96,
+      "text": "I'm a big believer in the principle that like the best way to learn to ride a bike"
+    },
+    {
+      "start": 23.96,
+      "end": 26.84,
+      "text": "is to ride a bike."
+    },
+    {
+      "start": 26.84,
+      "end": 29.96,
+      "text": "You might scrape yourself, you might get cut, but you're going to learn better."
+    },
+    {
+      "start": 29.96,
+      "end": 34.96,
+      "text": "Then like studying the underlying mechanics and physics of how bikes work, it's like"
+    },
+    {
+      "start": 34.96,
+      "end": 37.28,
+      "text": "get on the bike and ride."
+    },
+    {
+      "start": 37.28,
+      "end": 43.92,
+      "text": "Now I think approaching building apps is a little bit different in that you have to invest"
+    },
+    {
+      "start": 43.92,
+      "end": 51.480000000000004,
+      "text": "significantly more time and resources into actually building and marketing and designing"
+    },
+    {
+      "start": 51.480000000000004,
+      "end": 53.8,
+      "text": "an application."
+    },
+    {
+      "start": 53.8,
+      "end": 61.64,
+      "text": "But what you can do instead is take a look at examples of apps that have succeeded."
+    },
+    {
+      "start": 61.64,
+      "end": 66.0,
+      "text": "Apps that have been built quickly and made a lot of money."
+    },
+    {
+      "start": 66.0,
+      "end": 69.32,
+      "text": "So that's what we're going to do here today."
+    },
+    {
+      "start": 69.32,
+      "end": 73.67999999999999,
+      "text": "So the apps listed here, almost every single one, makes over a million dollars per year"
+    },
+    {
+      "start": 73.67999999999999,
+      "end": 81.56,
+      "text": "in profit, was started by one to three people, has received zero funding and has been built"
+    },
+    {
+      "start": 81.56,
+      "end": 83.47999999999999,
+      "text": "in the past three years."
+    },
+    {
+      "start": 83.48,
+      "end": 89.32000000000001,
+      "text": "Now I can verify this because about almost half of the apps here have been built by somebody"
+    },
+    {
+      "start": 89.32000000000001,
+      "end": 99.84,
+      "text": "in AppMafia and the majority of the rest, we know the founders personally."
+    },
+    {
+      "start": 99.84,
+      "end": 106.24000000000001,
+      "text": "The reason that we selected these in addition to our own experience with them is because"
+    },
+    {
+      "start": 106.24000000000001,
+      "end": 111.96000000000001,
+      "text": "there are a lot of apps on the App Store where you can, you know, you can scroll the charts"
+    },
+    {
+      "start": 111.96,
+      "end": 118.47999999999999,
+      "text": "and you find apps like My Fitness Pal or apps like, you know, maybe Impulse or different"
+    },
+    {
+      "start": 118.47999999999999,
+      "end": 122.36,
+      "text": "apps that make millions and millions of dollars a month."
+    },
+    {
+      "start": 122.36,
+      "end": 127.75999999999999,
+      "text": "But some of the key issues with studying apps like that is they were built ten years"
+    },
+    {
+      "start": 127.75999999999999,
+      "end": 135.56,
+      "text": "ago and they've raised tens to hundreds of millions of dollars in funding and sure they"
+    },
+    {
+      "start": 135.56,
+      "end": 139.84,
+      "text": "make money and sure they may have been founded by a couple of people."
+    },
+    {
+      "start": 139.84,
+      "end": 145.56,
+      "text": "But it's very common that these case studies just aren't going to be that applicable to"
+    },
+    {
+      "start": 145.56,
+      "end": 148.64000000000001,
+      "text": "the people watching this content."
+    },
+    {
+      "start": 148.64000000000001,
+      "end": 154.28,
+      "text": "And now whether you already have a successful app or you are completely new to this space,"
+    },
+    {
+      "start": 154.28,
+      "end": 159.56,
+      "text": "these are the apps that have really sort of taken over the industry by storm over the"
+    },
+    {
+      "start": 159.56,
+      "end": 161.84,
+      "text": "course of the past few years."
+    },
+    {
+      "start": 161.84,
+      "end": 169.8,
+      "text": "A lot of these apps apply AI to bring new products to life, whereas others just take advantage"
+    },
+    {
+      "start": 169.8,
+      "end": 173.52,
+      "text": "of other trends or other, you know, consumer interests."
+    },
+    {
+      "start": 173.52,
+      "end": 180.24,
+      "text": "Now, a very important disclaimer here is that there are many other app categories that"
+    },
+    {
+      "start": 180.24,
+      "end": 183.56,
+      "text": "we did not include here."
+    },
+    {
+      "start": 183.56,
+      "end": 190.12,
+      "text": "But these are app categories where we have domain expertise and also will also currently"
+    },
+    {
+      "start": 190.12,
+      "end": 195.04,
+      "text": "present a lot of opportunity and will continue to present a ton of opportunity in the future."
+    },
+    {
+      "start": 195.04,
+      "end": 202.44,
+      "text": "So we're going to focus on this within the course of this course."
+    },
+    {
+      "start": 202.44,
+      "end": 207.20000000000002,
+      "text": "But there are many other apps that are worth studying."
+    },
+    {
+      "start": 207.20000000000002,
+      "end": 212.48000000000002,
+      "text": "So do your own research."
+    },
+    {
+      "start": 212.48000000000002,
+      "end": 217.56,
+      "text": "At the top of this first row, you'll see this sort of like higher order problems."
+    },
+    {
+      "start": 217.96,
+      "end": 223.16,
+      "text": "We'll get into that a little bit in some of the future lessons about how to kind of determine"
+    },
+    {
+      "start": 223.16,
+      "end": 228.48,
+      "text": "what problems to work on and how you're going to go about solving them."
+    },
+    {
+      "start": 228.48,
+      "end": 232.2,
+      "text": "But for the sake of this first video, I'm going to run through some of these apps, explain"
+    },
+    {
+      "start": 232.2,
+      "end": 237.64000000000001,
+      "text": "a little bit of the background on why they worked and kind of just get the creative juices"
+    },
+    {
+      "start": 237.64000000000001,
+      "end": 239.4,
+      "text": "flowing."
+    },
+    {
+      "start": 239.4,
+      "end": 240.64000000000001,
+      "text": "So let's get into it."
+    },
+    {
+      "start": 240.64000000000001,
+      "end": 243.24,
+      "text": "All right, Rizapp number one."
+    },
+    {
+      "start": 243.24,
+      "end": 245.24,
+      "text": "First problem that we're looking at is dating."
+    },
+    {
+      "start": 245.48000000000002,
+      "end": 250.36,
+      "text": "I'm actually going to talk a lot about that in a future lesson why dating is so important."
+    },
+    {
+      "start": 250.36,
+      "end": 256.36,
+      "text": "But Riz is actually our first competitor for the first app that I built."
+    },
+    {
+      "start": 256.36,
+      "end": 258.0,
+      "text": "Riz GPT."
+    },
+    {
+      "start": 258.0,
+      "end": 262.28000000000003,
+      "text": "I was in school and I had a friend who was using dating apps a lot."
+    },
+    {
+      "start": 262.28000000000003,
+      "end": 265.12,
+      "text": "Always getting with different girls and whatnot."
+    },
+    {
+      "start": 265.12,
+      "end": 272.28000000000003,
+      "text": "And he would be like, dude, what should I say to this girl in a very normal casual way."
+    },
+    {
+      "start": 272.28,
+      "end": 279.11999999999995,
+      "text": "And this was shortly after ChatsyPetit came out and I'm like, man, we, I could very easily"
+    },
+    {
+      "start": 279.11999999999995,
+      "end": 282.55999999999995,
+      "text": "build an app to generate responses."
+    },
+    {
+      "start": 282.55999999999995,
+      "end": 284.28,
+      "text": "And it kind of spring out of curiosity."
+    },
+    {
+      "start": 284.28,
+      "end": 289.47999999999996,
+      "text": "I'm like, I wonder how good ChatsyPetit would do given proper prompt engineering."
+    },
+    {
+      "start": 289.47999999999996,
+      "end": 291.35999999999996,
+      "text": "And so I started working on this app."
+    },
+    {
+      "start": 291.35999999999996,
+      "end": 294.11999999999995,
+      "text": "And as I'm starting to work on it, I did a little bit of market research."
+    },
+    {
+      "start": 294.11999999999995,
+      "end": 297.44,
+      "text": "And Riz was our number one competitor."
+    },
+    {
+      "start": 297.44,
+      "end": 299.23999999999995,
+      "text": "Riz had already launched, but they weren't popular."
+    },
+    {
+      "start": 299.24,
+      "end": 305.32,
+      "text": "They'd done maybe like 20,000 downloads, something like that."
+    },
+    {
+      "start": 305.32,
+      "end": 308.56,
+      "text": "But they are a great case study."
+    },
+    {
+      "start": 308.56,
+      "end": 312.76,
+      "text": "The founders have a good amount of experience."
+    },
+    {
+      "start": 312.76,
+      "end": 316.56,
+      "text": "Before we had jumped into the scene with Riz GPT, I actually go ahead and pull that up"
+    },
+    {
+      "start": 316.56,
+      "end": 317.56,
+      "text": "right now."
+    },
+    {
+      "start": 317.56,
+      "end": 319.08,
+      "text": "Plug AIs that I built."
+    },
+    {
+      "start": 319.08,
+      "end": 322.72,
+      "text": "We had to rename from Riz GPT because of a lawsuit from Riz."
+    },
+    {
+      "start": 322.72,
+      "end": 324.68,
+      "text": "No bad blood there."
+    },
+    {
+      "start": 325.68,
+      "end": 331.16,
+      "text": "But we launched and like we did everything wrong that you could possibly imagine."
+    },
+    {
+      "start": 331.16,
+      "end": 335.64,
+      "text": "The app was named Riz GPT-Production when you downloaded it."
+    },
+    {
+      "start": 335.64,
+      "end": 339.32,
+      "text": "I had to open AI API keys stored in the front end."
+    },
+    {
+      "start": 339.32,
+      "end": 342.8,
+      "text": "It was a complete mess."
+    },
+    {
+      "start": 342.8,
+      "end": 347.96000000000004,
+      "text": "But what Riz GPT, Plug AI and the Riz app do, they enabled you to upload a screenshot"
+    },
+    {
+      "start": 347.96000000000004,
+      "end": 350.2,
+      "text": "of a conversation that you're having with a girl."
+    },
+    {
+      "start": 350.2,
+      "end": 354.4,
+      "text": "And it'll help give you recommendations on what to set."
+    },
+    {
+      "start": 354.4,
+      "end": 357.44,
+      "text": "And there's been some innovation over the course of the past year in terms of what the"
+    },
+    {
+      "start": 357.44,
+      "end": 359.44,
+      "text": "product actually looked like."
+    },
+    {
+      "start": 359.44,
+      "end": 360.44,
+      "text": "Looks like."
+    },
+    {
+      "start": 360.44,
+      "end": 366.08,
+      "text": "But it touches on the key thread which is highlighted in a South Park episode actually,"
+    },
+    {
+      "start": 366.08,
+      "end": 370.32,
+      "text": "which is like, it's not always easy to know what to say to girls."
+    },
+    {
+      "start": 370.32,
+      "end": 374.47999999999996,
+      "text": "It's actually very hard for a high proportion of guys."
+    },
+    {
+      "start": 374.47999999999996,
+      "end": 380.88,
+      "text": "And AI in this case can help kind of augment that."
+    },
+    {
+      "start": 380.88,
+      "end": 385.52,
+      "text": "So we launched, we did some underground influencer promos that ended up ripping."
+    },
+    {
+      "start": 385.52,
+      "end": 390.44,
+      "text": "And then we started into a bloodbath war with the Riz app."
+    },
+    {
+      "start": 390.44,
+      "end": 399.92,
+      "text": "Honestly, I think Plug AI slash Riz GPT and Riz are kind of the first big players in"
+    },
+    {
+      "start": 399.92,
+      "end": 410.52,
+      "text": "the new AI product crossed with organic social media marketing sort of strategy."
+    },
+    {
+      "start": 410.52,
+      "end": 411.52,
+      "text": "I think both."
+    },
+    {
+      "start": 411.52,
+      "end": 415.44,
+      "text": "So Riz GPT, we make a little bit over 300 km on right now."
+    },
+    {
+      "start": 415.44,
+      "end": 420.44,
+      "text": "I think Riz is probably somewhere in the range of four to five hundred."
+    },
+    {
+      "start": 420.44,
+      "end": 423.71999999999997,
+      "text": "But definitely worth studying these products."
+    },
+    {
+      "start": 423.71999999999997,
+      "end": 428.32,
+      "text": "So that's a little bit of a background there in terms of how we, what this part of the"
+    },
+    {
+      "start": 428.32,
+      "end": 429.32,
+      "text": "industry looks like."
+    },
+    {
+      "start": 429.32,
+      "end": 433.56,
+      "text": "Okay, now we've got another relatively new app T. T has been absolutely ripping."
+    },
+    {
+      "start": 433.56,
+      "end": 438.59999999999997,
+      "text": "T is number one on the app store for a little while."
+    },
+    {
+      "start": 438.6,
+      "end": 441.20000000000005,
+      "text": "There's a little bit distinct from a lot of apps that we're going to touch on and that"
+    },
+    {
+      "start": 441.20000000000005,
+      "end": 443.20000000000005,
+      "text": "most of these are kind of single player apps."
+    },
+    {
+      "start": 443.20000000000005,
+      "end": 447.92,
+      "text": "But I wanted to include it because I think that it highlights a very important component"
+    },
+    {
+      "start": 447.92,
+      "end": 454.16,
+      "text": "of user and consumer psychology, which is T kind of plays on this concept of FOMO to"
+    },
+    {
+      "start": 454.16,
+      "end": 456.64000000000004,
+      "text": "some extent."
+    },
+    {
+      "start": 456.64000000000004,
+      "end": 458.76000000000005,
+      "text": "You can even see it in their messaging."
+    },
+    {
+      "start": 458.76000000000005,
+      "end": 461.88,
+      "text": "It's like they say that they're helping women date safe."
+    },
+    {
+      "start": 461.88,
+      "end": 465.32000000000005,
+      "text": "No, it's really an anonymous gossip forum."
+    },
+    {
+      "start": 465.32,
+      "end": 469.32,
+      "text": "But it's a very intelligent product decision."
+    },
+    {
+      "start": 469.32,
+      "end": 473.32,
+      "text": "So we're studying and keep moving on."
+    },
+    {
+      "start": 473.32,
+      "end": 476.96,
+      "text": "Cali, Cali is the app that Zach and I built together."
+    },
+    {
+      "start": 476.96,
+      "end": 481.15999999999997,
+      "text": "Cali does a little bit over $3 million a month in revenue."
+    },
+    {
+      "start": 481.15999999999997,
+      "end": 483.15999999999997,
+      "text": "Quick background on this."
+    },
+    {
+      "start": 483.15999999999997,
+      "end": 491.28,
+      "text": "AI Calary Trackers were beginning to become popular shortly after the release and popularization"
+    },
+    {
+      "start": 491.28,
+      "end": 493.44,
+      "text": "of the vision models."
+    },
+    {
+      "start": 493.44,
+      "end": 495.35999999999996,
+      "text": "So the GPT vision and whatnot."
+    },
+    {
+      "start": 495.35999999999996,
+      "end": 499.96,
+      "text": "This was the end of 2023 around the time I built UMax, which I'll touch in in a second."
+    },
+    {
+      "start": 499.96,
+      "end": 502.03999999999996,
+      "text": "Touch on in a second."
+    },
+    {
+      "start": 502.03999999999996,
+      "end": 508.35999999999996,
+      "text": "Now we saw players entering the space, but we felt like no one was really doing it right."
+    },
+    {
+      "start": 508.35999999999996,
+      "end": 511.28,
+      "text": "And from product nor distribution lens."
+    },
+    {
+      "start": 511.28,
+      "end": 512.28,
+      "text": "So we did it."
+    },
+    {
+      "start": 512.28,
+      "end": 516.8,
+      "text": "We were like, what's the simplest possible fucking product we can build?"
+    },
+    {
+      "start": 516.8,
+      "end": 518.04,
+      "text": "We saw these tailwinds."
+    },
+    {
+      "start": 518.04,
+      "end": 522.76,
+      "text": "They're very important to sort of identify if you want to come up with new ideas and take"
+    },
+    {
+      "start": 522.76,
+      "end": 526.24,
+      "text": "advantage of new technologies and new consumer behaviors."
+    },
+    {
+      "start": 526.24,
+      "end": 530.8,
+      "text": "We're like, what's the simplest product we can build?"
+    },
+    {
+      "start": 530.8,
+      "end": 532.8,
+      "text": "Take a picture."
+    },
+    {
+      "start": 532.8,
+      "end": 533.9599999999999,
+      "text": "Get your calories."
+    },
+    {
+      "start": 533.9599999999999,
+      "end": 534.9599999999999,
+      "text": "That was it."
+    },
+    {
+      "start": 534.9599999999999,
+      "end": 538.36,
+      "text": "There was one one button."
+    },
+    {
+      "start": 538.36,
+      "end": 543.3199999999999,
+      "text": "And then from there we innovated and grew and now we are almost certainly the number"
+    },
+    {
+      "start": 543.3199999999999,
+      "end": 546.1999999999999,
+      "text": "one most popular AI Cali tracker."
+    },
+    {
+      "start": 547.2,
+      "end": 548.24,
+      "text": "We're like competing."
+    },
+    {
+      "start": 548.24,
+      "end": 549.24,
+      "text": "We're head to head."
+    },
+    {
+      "start": 549.24,
+      "end": 551.32,
+      "text": "Let's see, pull this up with my fitness pal."
+    },
+    {
+      "start": 551.32,
+      "end": 553.84,
+      "text": "We're like kind of consistently ranking above them right now."
+    },
+    {
+      "start": 553.84,
+      "end": 555.0,
+      "text": "So it's pretty cool."
+    },
+    {
+      "start": 555.0,
+      "end": 558.6400000000001,
+      "text": "So not just AI calorie tracker, but calorie tracker as a whole."
+    },
+    {
+      "start": 558.6400000000001,
+      "end": 559.6400000000001,
+      "text": "All right, UMax."
+    },
+    {
+      "start": 562.76,
+      "end": 566.9200000000001,
+      "text": "UMax is my favorite personal case study."
+    },
+    {
+      "start": 566.9200000000001,
+      "end": 570.0,
+      "text": "You can see we got, we got me right here."
+    },
+    {
+      "start": 570.0,
+      "end": 571.2800000000001,
+      "text": "Pretty cool, pretty cool."
+    },
+    {
+      "start": 571.2800000000001,
+      "end": 574.48,
+      "text": "We've done almost 30 million downloads across platforms."
+    },
+    {
+      "start": 574.48,
+      "end": 582.5,
+      "text": "So Android and iOS UMax, what I think everybody can learn from is the point that I just"
+    },
+    {
+      "start": 582.5,
+      "end": 587.6800000000001,
+      "text": "touch on of identifying tailwinds."
+    },
+    {
+      "start": 587.6800000000001,
+      "end": 590.24,
+      "text": "Looks Maxing was becoming incredibly popular."
+    },
+    {
+      "start": 590.24,
+      "end": 597.2,
+      "text": "It was just taking over social media for men age like 13 through 25."
+    },
+    {
+      "start": 597.2,
+      "end": 599.2,
+      "text": "It was on everybody's feet."
+    },
+    {
+      "start": 599.2,
+      "end": 603.9200000000001,
+      "text": "And I saw it and I was like, man, this is the perfect place to build a product, perfect"
+    },
+    {
+      "start": 603.92,
+      "end": 607.4,
+      "text": "sort of niche."
+    },
+    {
+      "start": 607.4,
+      "end": 610.28,
+      "text": "And it was also perfect timing."
+    },
+    {
+      "start": 610.28,
+      "end": 617.52,
+      "text": "The GPT vision API, as I mentioned, was released in the end of 2020."
+    },
+    {
+      "start": 617.52,
+      "end": 624.88,
+      "text": "I think I had said, yeah, no, this was 2023, end of 2023."
+    },
+    {
+      "start": 624.88,
+      "end": 627.24,
+      "text": "And I was like, this opportunity is too good."
+    },
+    {
+      "start": 627.24,
+      "end": 630.92,
+      "text": "I need to figure out how to build this product right now because the API hadn't been released."
+    },
+    {
+      "start": 630.92,
+      "end": 638.64,
+      "text": "So this is back in September, October of 2023."
+    },
+    {
+      "start": 638.64,
+      "end": 641.5999999999999,
+      "text": "And I know that the vision API was coming up, but I also knew that there was going to"
+    },
+    {
+      "start": 641.5999999999999,
+      "end": 642.5999999999999,
+      "text": "be competition."
+    },
+    {
+      "start": 642.5999999999999,
+      "end": 645.12,
+      "text": "So I'm like, okay, what can I do to be ahead of the curve?"
+    },
+    {
+      "start": 645.12,
+      "end": 649.9599999999999,
+      "text": "So I built the entire product with no functional API."
+    },
+    {
+      "start": 649.9599999999999,
+      "end": 653.4399999999999,
+      "text": "The entire product was ready to go."
+    },
+    {
+      "start": 653.4399999999999,
+      "end": 658.92,
+      "text": "And then the moment that the API got released, I plugged in the URL and I submitted to the"
+    },
+    {
+      "start": 658.92,
+      "end": 660.5999999999999,
+      "text": "App Store within a few days."
+    },
+    {
+      "start": 660.5999999999999,
+      "end": 661.68,
+      "text": "I was approved."
+    },
+    {
+      "start": 661.68,
+      "end": 666.3199999999999,
+      "text": "And I already had influencer deals lined up on contingency, so I didn't pan anybody ahead"
+    },
+    {
+      "start": 666.3199999999999,
+      "end": 668.3199999999999,
+      "text": "of time."
+    },
+    {
+      "start": 668.3199999999999,
+      "end": 672.68,
+      "text": "Okay, long rambles, but what's the takeaway here?"
+    },
+    {
+      "start": 672.68,
+      "end": 678.4399999999999,
+      "text": "The takeaway is that as we see these continuous advancements in AI technology, so this is"
+    },
+    {
+      "start": 678.4399999999999,
+      "end": 681.76,
+      "text": "an example of image analysis."
+    },
+    {
+      "start": 681.76,
+      "end": 686.16,
+      "text": "We're seeing video analysis coming to play, video generation, image generation."
+    },
+    {
+      "start": 687.16,
+      "end": 694.24,
+      "text": "And we're going to see a whole new set of modalities that can be applied to create"
+    },
+    {
+      "start": 694.24,
+      "end": 697.8,
+      "text": "experiences like never before."
+    },
+    {
+      "start": 697.8,
+      "end": 705.92,
+      "text": "Facial analysis was somewhat possible before AI vision APIs, but it was using more traditional"
+    },
+    {
+      "start": 705.92,
+      "end": 711.24,
+      "text": "ML vision models, which just like you can't get the same performance and it's way more"
+    },
+    {
+      "start": 711.24,
+      "end": 713.16,
+      "text": "expensive and difficult to build."
+    },
+    {
+      "start": 713.16,
+      "end": 718.36,
+      "text": "Now it's as simple as plain text, English prompting."
+    },
+    {
+      "start": 718.36,
+      "end": 721.28,
+      "text": "So study you max."
+    },
+    {
+      "start": 721.28,
+      "end": 722.28,
+      "text": "Onward."
+    },
+    {
+      "start": 722.28,
+      "end": 725.5600000000001,
+      "text": "I'm going to start moving a little bit faster so that this isn't take too long."
+    },
+    {
+      "start": 725.5600000000001,
+      "end": 731.36,
+      "text": "But I hope you guys are kind of picking up on how these ideas come to play, as well as"
+    },
+    {
+      "start": 731.36,
+      "end": 734.0,
+      "text": "how important time is."
+    },
+    {
+      "start": 734.0,
+      "end": 739.48,
+      "text": "We got Quitter, Connor and Alex, amazing fucking app."
+    },
+    {
+      "start": 739.48,
+      "end": 743.36,
+      "text": "One of my favorite in the industry right now."
+    },
+    {
+      "start": 743.36,
+      "end": 747.08,
+      "text": "For them, it's not taking advantage of some new AI technology."
+    },
+    {
+      "start": 747.08,
+      "end": 753.16,
+      "text": "It's looking at an incredibly, incredibly important problem that our generation faces."
+    },
+    {
+      "start": 753.16,
+      "end": 762.44,
+      "text": "And not just our generation, that man as a whole face nowadays, which is lust and pornography."
+    },
+    {
+      "start": 762.44,
+      "end": 768.2,
+      "text": "Whether you think it's good or bad, a lot of people think it's bad."
+    },
+    {
+      "start": 768.2,
+      "end": 775.32,
+      "text": "A lot of people jerk off and watch porn and they know it's bad for them, at least as individuals."
+    },
+    {
+      "start": 775.32,
+      "end": 777.36,
+      "text": "Connor and Alex recognize this."
+    },
+    {
+      "start": 777.36,
+      "end": 781.32,
+      "text": "They saw how big of a problem it was and they went to solve it."
+    },
+    {
+      "start": 781.32,
+      "end": 786.72,
+      "text": "They drew an inspiration from some previously successful apps in terms of marketing, namely"
+    },
+    {
+      "start": 786.72,
+      "end": 790.32,
+      "text": "like the apps that I built as well as Zach."
+    },
+    {
+      "start": 790.32,
+      "end": 794.2,
+      "text": "And then they created a completely sort of new experience."
+    },
+    {
+      "start": 794.2,
+      "end": 800.12,
+      "text": "They took a look at apps that help people track sobriety."
+    },
+    {
+      "start": 800.12,
+      "end": 804.6800000000001,
+      "text": "And then they embedded that within a product to help quit porn."
+    },
+    {
+      "start": 804.6800000000001,
+      "end": 810.96,
+      "text": "Alcoholism has been an issue for longer than pornography has."
+    },
+    {
+      "start": 810.96,
+      "end": 815.32,
+      "text": "And so therefore, there's been more innovation on the UX side of how to solve alcoholism,"
+    },
+    {
+      "start": 815.32,
+      "end": 821.0,
+      "text": "alcoholism relative to how to solve pornographic addiction."
+    },
+    {
+      "start": 821.0,
+      "end": 823.48,
+      "text": "So yeah, sweet app."
+    },
+    {
+      "start": 823.48,
+      "end": 826.84,
+      "text": "They are going to continue to rise in the rankings."
+    },
+    {
+      "start": 826.84,
+      "end": 832.28,
+      "text": "Okay, Opal, similar, very similar."
+    },
+    {
+      "start": 832.28,
+      "end": 838.04,
+      "text": "Actually Opal may have been more of a case study for quitter than the sobriety tracking apps."
+    },
+    {
+      "start": 838.04,
+      "end": 845.2,
+      "text": "Nevertheless, similar, very, very similar products, people are addicted to jerking off, people"
+    },
+    {
+      "start": 845.2,
+      "end": 848.96,
+      "text": "are also addicted to their phones."
+    },
+    {
+      "start": 848.96,
+      "end": 851.28,
+      "text": "Solve that, make content, people pay."
+    },
+    {
+      "start": 851.28,
+      "end": 851.96,
+      "text": "Great."
+    },
+    {
+      "start": 851.96,
+      "end": 855.8000000000001,
+      "text": "All right, Bible chat, different thread of your spirituality."
+    },
+    {
+      "start": 855.8000000000001,
+      "end": 857.32,
+      "text": "We're in a meeting crisis."
+    },
+    {
+      "start": 857.32,
+      "end": 862.96,
+      "text": "I mean, people have heard this."
+    },
+    {
+      "start": 862.96,
+      "end": 864.36,
+      "text": "We're in a meeting crisis nowadays."
+    },
+    {
+      "start": 864.36,
+      "end": 871.1600000000001,
+      "text": "People are increasingly looking for ways to become more spiritual."
+    },
+    {
+      "start": 871.1600000000001,
+      "end": 874.2,
+      "text": "Bible chat helps people connect with their Christianity."
+    },
+    {
+      "start": 874.2,
+      "end": 875.2,
+      "text": "Awesome."
+    },
+    {
+      "start": 875.2,
+      "end": 876.2,
+      "text": "Great product."
+    },
+    {
+      "start": 876.2,
+      "end": 881.8000000000001,
+      "text": "You also see this for Muslims and Jews as well."
+    },
+    {
+      "start": 882.1999999999999,
+      "end": 888.92,
+      "text": "Different thread rather than religion, Astra helps people solve it, solve the spirituality,"
+    },
+    {
+      "start": 888.92,
+      "end": 894.28,
+      "text": "whatever that they want to find in their life through astrology."
+    },
+    {
+      "start": 894.28,
+      "end": 896.3199999999999,
+      "text": "Also becoming increasingly popular."
+    },
+    {
+      "start": 896.3199999999999,
+      "end": 900.04,
+      "text": "This is actually built by my co-founders of Riz Gpt."
+    },
+    {
+      "start": 900.04,
+      "end": 902.12,
+      "text": "You see, they are vert ventures."
+    },
+    {
+      "start": 902.12,
+      "end": 906.4,
+      "text": "If we go back to Plague AI, this was vert media."
+    },
+    {
+      "start": 906.4,
+      "end": 909.04,
+      "text": "We built Riz Gpt, Plague AI together."
+    },
+    {
+      "start": 909.04,
+      "end": 910.24,
+      "text": "I went off and built U-Max."
+    },
+    {
+      "start": 910.24,
+      "end": 912.04,
+      "text": "They went off and built Astra."
+    },
+    {
+      "start": 912.04,
+      "end": 914.04,
+      "text": "All right."
+    },
+    {
+      "start": 914.04,
+      "end": 916.04,
+      "text": "Minutes AI, AI note taking."
+    },
+    {
+      "start": 916.04,
+      "end": 918.4,
+      "text": "I'm sure everyone's familiar with this industry."
+    },
+    {
+      "start": 918.4,
+      "end": 927.1999999999999,
+      "text": "It's one of the most popular, sort of clear productivity increase value ads from AI."
+    },
+    {
+      "start": 927.1999999999999,
+      "end": 930.36,
+      "text": "Minutes is one example, founded by a small team."
+    },
+    {
+      "start": 930.36,
+      "end": 931.68,
+      "text": "There's Turbo."
+    },
+    {
+      "start": 931.68,
+      "end": 934.8399999999999,
+      "text": "There is Otter or something."
+    },
+    {
+      "start": 934.8399999999999,
+      "end": 938.4,
+      "text": "And a bunch of others, pretty straightforward."
+    },
+    {
+      "start": 938.4,
+      "end": 942.4,
+      "text": "People don't like to pay attention during meetings or school or team."
+    },
+    {
+      "start": 942.4,
+      "end": 943.4,
+      "text": "Okay."
+    },
+    {
+      "start": 943.4,
+      "end": 944.4,
+      "text": "Quizzard."
+    },
+    {
+      "start": 944.4,
+      "end": 947.24,
+      "text": "Very, very common AI homework helper."
+    },
+    {
+      "start": 947.24,
+      "end": 948.24,
+      "text": "Super simple."
+    },
+    {
+      "start": 948.24,
+      "end": 949.24,
+      "text": "Take a picture of your homework."
+    },
+    {
+      "start": 949.24,
+      "end": 950.24,
+      "text": "Nice, pretty UI."
+    },
+    {
+      "start": 950.24,
+      "end": 953.4,
+      "text": "I feel like that's pretty self-explanatory why it works."
+    },
+    {
+      "start": 953.4,
+      "end": 955.4,
+      "text": "It's built by O'Leave Labs."
+    },
+    {
+      "start": 955.4,
+      "end": 957.64,
+      "text": "O'Leave is a pretty cool company."
+    },
+    {
+      "start": 957.64,
+      "end": 964.68,
+      "text": "They've got like another AI note taker, as I'd mentioned, with Minutes AI."
+    },
+    {
+      "start": 964.68,
+      "end": 968.4399999999999,
+      "text": "One category is, or success category is great."
+    },
+    {
+      "start": 968.4399999999999,
+      "end": 970.1999999999999,
+      "text": "It's like, all right, let's help you make money."
+    },
+    {
+      "start": 970.1999999999999,
+      "end": 972.5999999999999,
+      "text": "Let's help you be more successful in your career."
+    },
+    {
+      "start": 972.5999999999999,
+      "end": 979.2399999999999,
+      "text": "I think you can build a product that tangibly helps people make those incremental improvements."
+    },
+    {
+      "start": 979.2399999999999,
+      "end": 983.28,
+      "text": "It's very obvious why they would pay for it."
+    },
+    {
+      "start": 983.28,
+      "end": 984.28,
+      "text": "Social validation."
+    },
+    {
+      "start": 984.28,
+      "end": 985.28,
+      "text": "Okay."
+    },
+    {
+      "start": 985.28,
+      "end": 990.8399999999999,
+      "text": "Now, this is a slightly different territory that we're getting into."
+    },
+    {
+      "start": 990.84,
+      "end": 994.6,
+      "text": "So generally, we recommend against building social apps."
+    },
+    {
+      "start": 994.6,
+      "end": 996.9200000000001,
+      "text": "There's so much harder to build."
+    },
+    {
+      "start": 996.9200000000001,
+      "end": 1001.64,
+      "text": "We'll talk more about that later in the course."
+    },
+    {
+      "start": 1001.64,
+      "end": 1009.96,
+      "text": "But there's an interesting subset of social sort of companion products."
+    },
+    {
+      "start": 1009.96,
+      "end": 1010.96,
+      "text": "So HunterBuiltNGL."
+    },
+    {
+      "start": 1010.96,
+      "end": 1014.64,
+      "text": "NGL has done, I think, 300 million downloads."
+    },
+    {
+      "start": 1014.64,
+      "end": 1018.32,
+      "text": "One of the most popular apps in the world."
+    },
+    {
+      "start": 1018.32,
+      "end": 1021.1600000000001,
+      "text": "They are a social companion app."
+    },
+    {
+      "start": 1021.1600000000001,
+      "end": 1029.72,
+      "text": "You can post your NGL links on your Snapchat and Instagram story, get anonymous messages."
+    },
+    {
+      "start": 1029.72,
+      "end": 1034.0800000000002,
+      "text": "So rather than build full on social platforms, like if you're here in this course, you should"
+    },
+    {
+      "start": 1034.0800000000002,
+      "end": 1035.92,
+      "text": "probably already know by now."
+    },
+    {
+      "start": 1035.92,
+      "end": 1042.68,
+      "text": "But the probability that you succeed building a full social platform is extremely low."
+    },
+    {
+      "start": 1042.68,
+      "end": 1044.44,
+      "text": "I don't say that to discourage you."
+    },
+    {
+      "start": 1044.44,
+      "end": 1047.76,
+      "text": "Like, if you want to do it, you can do it."
+    },
+    {
+      "start": 1047.76,
+      "end": 1053.52,
+      "text": "But I say that just so you know what you're getting yourself into."
+    },
+    {
+      "start": 1053.52,
+      "end": 1057.28,
+      "text": "So if you're going to build social, social companion is usually the highest probability"
+    },
+    {
+      "start": 1057.28,
+      "end": 1059.2,
+      "text": "of finding success."
+    },
+    {
+      "start": 1059.2,
+      "end": 1060.2,
+      "text": "Lock it."
+    },
+    {
+      "start": 1060.2,
+      "end": 1062.2,
+      "text": "Lock it and enables you to like share images with your friends."
+    },
+    {
+      "start": 1062.2,
+      "end": 1064.8,
+      "text": "Kind of stay up to date, put it on your home screen."
+    },
+    {
+      "start": 1064.8,
+      "end": 1065.8,
+      "text": "Cool product."
+    },
+    {
+      "start": 1065.8,
+      "end": 1067.84,
+      "text": "They're also one of the most popular apps in the world."
+    },
+    {
+      "start": 1067.84,
+      "end": 1073.76,
+      "text": "I think that they've done tens of millions, maybe like 100 million plus downloads."
+    },
+    {
+      "start": 1073.76,
+      "end": 1086.0,
+      "text": "Now laps once again, one of these sort of like, one of these like non-full fledged social"
+    },
+    {
+      "start": 1086.0,
+      "end": 1092.52,
+      "text": "platforms, but rather like social ex utility."
+    },
+    {
+      "start": 1092.52,
+      "end": 1098.04,
+      "text": "So same boat, take these sort of like disposable camera aesthetic, whatever images with your"
+    },
+    {
+      "start": 1098.04,
+      "end": 1100.08,
+      "text": "friends, share them."
+    },
+    {
+      "start": 1100.08,
+      "end": 1101.08,
+      "text": "Cool."
+    },
+    {
+      "start": 1102.08,
+      "end": 1104.32,
+      "text": "All right."
+    },
+    {
+      "start": 1104.32,
+      "end": 1105.8799999999999,
+      "text": "That is it for case studies."
+    },
+    {
+      "start": 1105.8799999999999,
+      "end": 1109.76,
+      "text": "Lot of rambling."
+    },
+    {
+      "start": 1109.76,
+      "end": 1113.6799999999998,
+      "text": "But it's one to give you guys a little bit of a background on how I think through these"
+    },
+    {
+      "start": 1113.6799999999998,
+      "end": 1122.56,
+      "text": "products so that you guys can refer back to this if you want throughout the rest and"
+    },
+    {
+      "start": 1122.56,
+      "end": 1129.9199999999998,
+      "text": "the remainder of our course."
+    },
+    {
+      "start": 1129.9199999999998,
+      "end": 1135.24,
+      "text": "To be honest, like even beyond us referencing these apps, whenever we are lecturing and providing"
+    },
+    {
+      "start": 1135.24,
+      "end": 1138.3999999999999,
+      "text": "information, you should refer back to them."
+    },
+    {
+      "start": 1138.3999999999999,
+      "end": 1140.9199999999998,
+      "text": "You want to start training this muscle."
+    },
+    {
+      "start": 1140.9199999999998,
+      "end": 1146.36,
+      "text": "When I first built RISGPT, I had like pretty much zero understanding of this space."
+    },
+    {
+      "start": 1147.36,
+      "end": 1153.1599999999999,
+      "text": "Number one, most valuable thing I ever did was begin to study these apps."
+    },
+    {
+      "start": 1153.1599999999999,
+      "end": 1158.6,
+      "text": "As it started to grow, I picked up on the fact that each time I downloaded a successful"
+    },
+    {
+      "start": 1158.6,
+      "end": 1166.1599999999999,
+      "text": "app and used it, I would uncover some new sort of strategy, be it UI, be it marketing,"
+    },
+    {
+      "start": 1166.1599999999999,
+      "end": 1169.1999999999998,
+      "text": "be it general UX, engineering, whatever."
+    },
+    {
+      "start": 1169.1999999999998,
+      "end": 1175.1999999999998,
+      "text": "That would add a, you know, 5 plus percent increase."
+    },
+    {
+      "start": 1175.2,
+      "end": 1179.76,
+      "text": "For example, with RISGPT, like after we downloaded a few different apps, we realized that everyone"
+    },
+    {
+      "start": 1179.76,
+      "end": 1183.4,
+      "text": "was using Superwall and split testing their paywalls."
+    },
+    {
+      "start": 1183.4,
+      "end": 1187.88,
+      "text": "And that three X star revenue as soon as we implemented it and began using a harder"
+    },
+    {
+      "start": 1187.88,
+      "end": 1191.56,
+      "text": "paywall."
+    },
+    {
+      "start": 1191.56,
+      "end": 1196.6000000000001,
+      "text": "Notifications, analytics, like these are all things that we did not have set up from day"
+    },
+    {
+      "start": 1196.6000000000001,
+      "end": 1197.6000000000001,
+      "text": "one."
+    },
+    {
+      "start": 1197.6000000000001,
+      "end": 1203.76,
+      "text": "But when you take this course, you'll learn how to do all this."
+    },
+    {
+      "start": 1203.76,
+      "end": 1206.24,
+      "text": "Okay, that wraps this up."
+    },
+    {
+      "start": 1206.24,
+      "end": 1209.64,
+      "text": "Now we're going to go all the way down to the very bottom."
+    },
+    {
+      "start": 1209.64,
+      "end": 1213.72,
+      "text": "We started at a general high level overview of these apps all the way down to the bottom"
+    },
+    {
+      "start": 1213.72,
+      "end": 1219.68,
+      "text": "of the very, very, very fundamentals of coming up with your idea and determining what idea"
+    },
+    {
+      "start": 1219.68,
+      "end": 1224.72,
+      "text": "you should actually build and how these people, myself included, how we all came up with"
+    },
+    {
+      "start": 1224.72,
+      "end": 1227.48,
+      "text": "hours using these sort of frameworks."
+    },
+    {
+      "start": 1227.48,
+      "end": 1231.8799999999999,
+      "text": "Okay, part two soon."
+    },
+    {
+      "start": 1231.88,
+      "end": 1233.88,
+      "text": "I want to redo that."
+    },
+    {
+      "start": 1233.88,
+      "end": 1237.2800000000002,
+      "text": "Okay, that's lesson one."
+    },
+    {
+      "start": 1237.2800000000002,
+      "end": 1239.3600000000001,
+      "text": "I'll see you guys in lesson two."
+    }
+  ]
+}

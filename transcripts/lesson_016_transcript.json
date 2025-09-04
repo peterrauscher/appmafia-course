@@ -1,0 +1,987 @@
+{
+  "file_name": "016_Lesson_16.faudio-hi-0-Default.mp4",
+  "text": " Hey everyone, welcome back to the design module. Today we'll be going through onboarding and paywalls. These are probably the most essential parts of your app for being successful long-term because if you're onboarding sucks your conversion rate is going to be super low and if you convert your super low you won't be profitable and you won't be able to scale and be successful. So like what is an onboarding? Why can't I just skip to the paywall straight away? Explain that of course of course of course. So people objectively and objectively don't want to spend money if they don't have to. So you need to communicate value across to the user otherwise they'll just reject it and swipe up uninstall boom your user's gone. So the way we found best to communicate that value across is through quiz. It's a multi-choice quiz where you ask a user a bunch of personal questions and they answer it based on their personal life. So for example and we'll pull up the very old quitter onboarding the design has been upgraded immensely but like the content is relatively the same. So yeah if we look at the quitter onboarding you can see us a bunch of personal questions and you can see it on the screen now and get inspired on how to tailor this down to your niche but everything is super direct and you know the more user answers these questions the more they feel like the apps being built around them and their life and if like they feel like you resonate with them and their goals all extremely intentional. And you can do the same thing for color tracking it's like what is your way? How long have you been trying to lose way? What has stopped you in the past? Like what could help you moving forward? And then born, born, born you're answering these questions for them people inputting their personal information and they're like okay does app hears me? It understands me it understands my situation and this is essential because usually every product you are going to create has a pain point that you solve and so if you show them that you understand and that you have the magic solution they'll be like holy shit I'm going to just pay for it but that comes at the end but yeah that's the question now so you skip past the question now you asked our name and age we use this for like data and stuff we also use your name very attention and later to like make it feel more personal and I'll show you how we do that too so then we calculate the calculate actually does nothing but what it does is adds more time that you spend in the onboarding because if you've completed it you're intent super high now I'm going to tell you a little analogy before we continue like the longer user spends in the onboarding the better because if it's super simple to just click off and uninstall the app and save 30 bucks a year then I'll do it but if I've spent a lot a lot a lot of time building my profile and setting this app up for me and it's towards my goals then I'm more convinced to just pay and fuck you I'm just gonna do it rather than get nothing back for all the time I spent this is the typical gambler's phenomenon gamblers don't necessarily they're not as necessarily addicted to gambling they're just addicted to getting something back for all the time they spent gambling at least someone told me that it sounds legit there take my word for it okay so anyways we do an analysis and we say look we have some news to break to you you are addicted you have a problem you need this app quit up you need it but let's check your symptoms first like this let's verify this information and this check your symptoms but so one this screen scares you and two it nudges you into the next screen and every subsequent screen yes adds friction but it also increases your intent to buy so it's all very important so then we go to symptoms and you know you can have different things with different apps for quitter it's like you know one of the porn side effects for like calorie tracking it's like what the side effects of you being fat or you eating you know unhealthy food and it could be the it could be the exact same stuff like I'm eating junk food and I feel unmotivated I have no ambition I have difficulty concentrating etc etc but the goal of this screen and I'll show you very soon is to compare these negative symptoms to an eventual positive outcome if you buy the subscription so it's like okay we scare you with all these words like you you're like getting weak erections and then we flash after you finish this we flash up a red screen porn is a drug porn destroys relationship porn shatters sex drive and are you feeling unhappy a lot of people feel unhappy so like this screen is kind of triggered kind of nothing but what was it down to porn it's like all the problems in your life it's fucking porn you need to quit but you probably can't quit that's why you downloaded this app and then born welcome to quitter this is your path to recovery rewire your brain back to normal stay motivated and avoid setbacks don't go back to that bad life we are unmotivated we're getting weak erections and conquer yourself be a fucking man like rise to the occasion just be the best version of yourself and level up to life so this is a very intentional juxtaposition we compared a super negative cloud of stuff where you've answered personal questions about your life and all of these are like like not negative but like they are negative they are towards the the pain point that you're solving with your app so for example quitter porn all these are porn related so super negative you're feeling bad about yourself like I've been addicted I mean but sorry as well you're also learning about yourself when I ask you these questions you're learning about yourself you're learning down I've been addicted since I was fucking 12 this needs to stop this is insane and am I getting do I need to watch more extreme material like fuck this is ruining my mind so you're learning about yourself you're then getting scared by the symptoms then getting scared by the language we're using saying it's porn is the worst thing ever and then boom path to recovery you're in the right place quitter we are here for you we loved you and like we're gonna help you rely your brain help you stay motivated etc etc so that contrast is very uplifting for people which is also why we have a super high conversion rate you heard it from the man himself and then we give social proof so rewiring benefits and people are talking about the app so let's say these all NPCs they aren't real we probably should have real people but Jack says he's he's feel like a different person he's way more talk to and aware so and then Michael he wants to go out he wants to work out he wants to live he wants to be a fucking man he wants to he wants to conquer the world plona who's my co-founder obviously has been very addicted he wrote this one personally quitting as an army to change my mindset on the little things in life i was coming to grips with the fact that life is dark boring depressing and then i die screw that quitting has allowed me to change my mindset on the little things in life and yeah like you get the point so personal question there calculate the result scare you uplift you social proof and then we give the chart we show okay like you could quit on your own but look at quitter look how much faster you can quit and whoa how is this guy here right now it's interesting anyways you can see that you can see that by week free you're going to go through the same bullshit cycle but with quitter you're gonna win you're gonna rise to the occasion you're gonna finally beat the addiction and then we get into like the more uplifting part of things like choose your goals i want to be strong i want to have stronger relationships i want to have improved self confidence and then do you have a referral code this is useful if you want to track which influences sent you to what place what influences suggested you're up and actually downloaded it like what the fuck this is important for you to track which influences brought in your traffic there we go then give us a reading this is probably one of the most essential screens as well not everyone is gonna rate you five stars straight out the game out trying your app but they will obviously be like the 0.5% of people that actually do and when you have a million downloads 0.5% is a hell of a lot of people that give you a five star review so i totally recommend this screen i will say as well the more five star of ratings you have on the app store the more people trust you and all the more the more people actually end up getting to the end of your onboarding whereas if you're a brand new app and you have like 20 reviews people don't trust you like they don't trust you they're gonna be hesitant they're gonna be more reluctant to not they're gonna be more reluctant to pay than if you had 50,000 five stars and it's like 20 bucks but like 50,000 people rate this five stars hell yeah like sign me up and then this is one thing we do quitter that i've seen a lot of people not be able to do or not done i'm losing my mind but like i hope you guys hear me through this hear me through this this is fucking source right here right so we say welcome to quitter your path to freedom here's your card it's decided to help you quit porn forever now this is the most fucking this is the most forward thing i've ever done but it's low key working now it's time to invest in yourself and like short it's a bit pushy and it's a bit like like uh it's in the uncanny value territory but instead of people spamming me with reviews saying i thought this app was gonna be free i don't know i was gonna be paid or even is it paid a lot of people don't even know if they have to pay they don't want to pay they think there's a free version but the fact it says now it's time to invest in yourself they're like okay it's time to lock in and even though it's like they're reading it on a screen and it's not like this is inhuman like there's no one there's not your friend isn't telling you to invest in yourself which has a really high like conversion rate the fact you're reading on a screen will sit in the back of your mind and when you do get to the paywall you remember that sentence it's four forty five bucks a year but now it's time to invest in myself i would spend that shit on big max but now it's time to invest in yourself start my journey pay boom you're in and that's a really really really good funnel this is one of the best funnels ever i can pull up my revenue for for the day oh we're gonna get into paywalls at a sec i can pull up my revenue for the day this is proceeds after apple's fighting is cut but fuck that don't even look at that just look at the conversion rate like this is pretty good um 16 my actually fucking it's good but it's it's it's it's usually better it's usually like 20% so like one in six people are paying this isn't a free trial field this is one in six people paying so yeah that is onboarding for you guys peace out all right boys so i would usually explain how to design a good onboarding but for all of my future apps if i do create future apps i'm just gonna be repping this exact format but just re-wording it and you know i'm just gonna recommend you guys do the same um cal ai has a very similar onboarding to quitter literally almost exactly the same format and you know you guys can design this rectangle text text for question etc like this is this is like one screen very simple it's right out in front of you say with these these are just lotty files so if you search through google lotty files you'll find a bunch and then search within lotty files what you like so maybe uh search star and you might find this one or sun or meditate you'll find this one or lock you'll find this one etc um this is a very well designed onboarding i wouldn't really met the will and like we like me and cal ai we've made millions of dollars with this exact format so i'm not gonna teach you how to design it but i will link this in the uh the course but yeah now let's get to the paywall so this is a paywall that i started with which is just a simulator of all the screens kind of laid out so you can kind of get intro of such preview of the app before you pay at the top we have very intentional texts saying get unlimited access to quitter including personalize the science based custom plan adult content blocker community chat through tracking daily pledges plus much more um and you know what this is great and you can copy this if you go to supool you click into templates and you scroll down a little bit and you will find the here we go the quitter quitter paywall right here so what you do on supool is you click onto this and you click use template and i wouldn't generally recommend you go into the game and start designing your own one and i know it's counterintuitive because this is a design course but i can show you what good design is without having you design it yourself so when it comes to consumer utility you usually want to display all the benefits up front so something like something like something like homework AI is actually pretty good um you can see unlock all features of pro you're kind of explaining the core features remember the onboarding has already sold your app people are convinced now just summarize the core features and make it super easy to pay and i'm going to show you my current onboarding the one that's doing the best and we hired a design to do this but you can see it's pretty simple again still the very core features that people are paying and buying into you also have the previews of the app so very similar to the first iteration that suit that quitter launch with but just in a different format you see this time it's in a scroly carousel and then also you can just change the plan so if i don't want to pay 29 19 year why don't i just pay 15 a month and people do do that so interesting though we also on this iteration show the reviews so this is a very interesting point um and you know designing this in figma i can definitely show you how to do it but i think it might be a better use of my time to just show you what good design is show you the core principles and then you can apply this yourself blake has already covered a lot of app design um and i'm not the best at pigma i used to go off the ball but i have a lot of insight so yeah this is a very good payal as well i believe they have something very similar in their templates and i would just use templates because up to your first like 100k even 500k i think we didn't even change the quitter payal until maybe one and a half million dollars in revenue so it's not as important as you think it might have slight maybe two to three to four to five percent increases but just don't over index on perfecting it per se so like okay if i want to do a calorie checking out i'll show you what's the good one because we've already done the calorie checking tutorial actually that comes next i'll show you guys in the development module but like if i wanted to choose a calorie tracking payal i would pick hmm this is a great one for you say i obviously not for calorie checking this is so bad this is zest duh duh duh duh actually this is the cal ai i want so yeah and it has the gif so i would use this i would have we want you to try cal ai for free i would have a moving gif of the app and you can record this in screen studio i believe that's the name of the app screen studio um and just run through it and then obviously link this to your product we cover this in the development module so make sure you watch that next and this is a solid design um and then with super i'll show you real quick how you can actually change things around and personalize it for you so unlock cal ai unlock cal ai there you go so we just change text super simple no commitment canceling time this is great and then we go into products we change products of 499 a week and then the second year in land 19 and a month and as you can see bomb this is a solid payal and then for the video for the video we get to upload a video do i have any videos of the app actually you know what we do we do we do we do we do so this is the app i'm building for you guys you'll see it later in the development module but i'm just gonna screen report it so i'm gonna do command art run you through it bomb bomb and you can't see the actual app because this is just the onboarding but i will upload it ready let's see yeah you gotta get off you gotta get off and you gotta teach me to get off i'm recording recording yeah what up gang someone doesn't know where the group chats well you you opened it so at that point i think i play all studying uh yeah listen this kids gotta go fucking party right now we don't want to a bit us we did to this paywall that made it double the conversions going it's that the privacy it used to be spelled privacy policy but just make it privacy double the hour for the details that Matt this is a complete joke it was actually you know uh deceiving the consumer that i hate all this can you guys a scam guys no but what you want to do here is you see it says try for zero and then they click it and it's a multi page i don't know this is an us did you create this this is a template bro yeah yeah it's well created template out of us yeah they've done it so i'll try and we're gonna continue they fucking stop multi page is actually great guys saying to the user will send your reminder before you free trial ends they fucking love that is that true love it's true we do send an notification it would be very fucked up you say you will but then you do not if i if we actually did an 80 test and it did decrease the conversion rate slightly but you need to actually set like it would be really fucked up not to yeah true yeah so we tell them what it would like you zero days that's like i'm gonna stop yeah that's gonna get yeah yeah she started for trial and um there we go you got on that's the source guys tell you get on that's on boarding and peels done now we're gonna go fucking party let's go out tonight let's fucking go see boys",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.84,
+      "text": "Hey everyone, welcome back to the design module. Today we'll be going through"
+    },
+    {
+      "start": 3.84,
+      "end": 9.120000000000001,
+      "text": "onboarding and paywalls. These are probably the most essential parts of your app"
+    },
+    {
+      "start": 9.120000000000001,
+      "end": 13.84,
+      "text": "for being successful long-term because if you're onboarding sucks your"
+    },
+    {
+      "start": 13.84,
+      "end": 17.12,
+      "text": "conversion rate is going to be super low and if you convert your super low you"
+    },
+    {
+      "start": 17.12,
+      "end": 22.0,
+      "text": "won't be profitable and you won't be able to scale and be successful. So like what"
+    },
+    {
+      "start": 22.0,
+      "end": 25.68,
+      "text": "is an onboarding? Why can't I just skip to the paywall straight away? Explain that"
+    },
+    {
+      "start": 26.32,
+      "end": 33.12,
+      "text": "of course of course of course. So people objectively and objectively don't want to spend"
+    },
+    {
+      "start": 33.12,
+      "end": 38.32,
+      "text": "money if they don't have to. So you need to communicate value across to the user otherwise"
+    },
+    {
+      "start": 38.32,
+      "end": 45.760000000000005,
+      "text": "they'll just reject it and swipe up uninstall boom your user's gone. So the way we found"
+    },
+    {
+      "start": 47.120000000000005,
+      "end": 52.96,
+      "text": "best to communicate that value across is through quiz. It's a multi-choice quiz where you ask"
+    },
+    {
+      "start": 52.96,
+      "end": 58.0,
+      "text": "a user a bunch of personal questions and they answer it based on their personal life. So for"
+    },
+    {
+      "start": 58.0,
+      "end": 62.72,
+      "text": "example and we'll pull up the very old quitter onboarding the design has been upgraded immensely but"
+    },
+    {
+      "start": 63.68,
+      "end": 69.36,
+      "text": "like the content is relatively the same. So yeah if we look at the quitter onboarding you can see us"
+    },
+    {
+      "start": 69.36,
+      "end": 74.24000000000001,
+      "text": "a bunch of personal questions and you can see it on the screen now and get inspired on how to"
+    },
+    {
+      "start": 74.24000000000001,
+      "end": 82.0,
+      "text": "tailor this down to your niche but everything is super direct and you know the more user answers"
+    },
+    {
+      "start": 82.08,
+      "end": 87.2,
+      "text": "these questions the more they feel like the apps being built around them and their life and if"
+    },
+    {
+      "start": 87.2,
+      "end": 94.56,
+      "text": "like they feel like you resonate with them and their goals all extremely intentional."
+    },
+    {
+      "start": 96.88,
+      "end": 101.6,
+      "text": "And you can do the same thing for color tracking it's like what is your way? How long have you"
+    },
+    {
+      "start": 101.6,
+      "end": 107.44,
+      "text": "been trying to lose way? What has stopped you in the past? Like what could help you moving forward?"
+    },
+    {
+      "start": 108.16,
+      "end": 112.64,
+      "text": "And then born, born, born you're answering these questions for them people inputting their personal"
+    },
+    {
+      "start": 112.64,
+      "end": 118.72,
+      "text": "information and they're like okay does app hears me? It understands me it understands my situation"
+    },
+    {
+      "start": 119.92,
+      "end": 126.88,
+      "text": "and this is essential because usually every product you are going to create has a pain point"
+    },
+    {
+      "start": 126.88,
+      "end": 135.44,
+      "text": "that you solve and so if you show them that you understand and that you have the magic solution"
+    },
+    {
+      "start": 136.16,
+      "end": 142.24,
+      "text": "they'll be like holy shit I'm going to just pay for it but that comes at the end but yeah that's"
+    },
+    {
+      "start": 142.24,
+      "end": 147.12,
+      "text": "the question now so you skip past the question now you asked our name and age we use this for"
+    },
+    {
+      "start": 147.12,
+      "end": 152.88,
+      "text": "like data and stuff we also use your name very attention and later to like make it feel more personal"
+    },
+    {
+      "start": 152.88,
+      "end": 157.52,
+      "text": "and I'll show you how we do that too so then we calculate the calculate actually does nothing"
+    },
+    {
+      "start": 157.52,
+      "end": 162.96,
+      "text": "but what it does is adds more time that you spend in the onboarding because if you've completed it"
+    },
+    {
+      "start": 162.96,
+      "end": 167.84,
+      "text": "you're intent super high now I'm going to tell you a little analogy before we continue like the"
+    },
+    {
+      "start": 167.84,
+      "end": 177.36,
+      "text": "longer user spends in the onboarding the better because if it's super simple to just click off"
+    },
+    {
+      "start": 177.36,
+      "end": 184.24,
+      "text": "and uninstall the app and save 30 bucks a year then I'll do it but if I've spent a lot a lot a lot of"
+    },
+    {
+      "start": 184.24,
+      "end": 191.44,
+      "text": "time building my profile and setting this app up for me and it's towards my goals then I'm more"
+    },
+    {
+      "start": 191.44,
+      "end": 197.52,
+      "text": "convinced to just pay and fuck you I'm just gonna do it rather than get nothing back for all the"
+    },
+    {
+      "start": 197.52,
+      "end": 205.52,
+      "text": "time I spent this is the typical gambler's phenomenon gamblers don't necessarily they're not as"
+    },
+    {
+      "start": 205.52,
+      "end": 211.44,
+      "text": "necessarily addicted to gambling they're just addicted to getting something back for all the time"
+    },
+    {
+      "start": 211.44,
+      "end": 218.16,
+      "text": "they spent gambling at least someone told me that it sounds legit there take my word for it"
+    },
+    {
+      "start": 219.12,
+      "end": 226.07999999999998,
+      "text": "okay so anyways we do an analysis and we say look we have some news to break to you"
+    },
+    {
+      "start": 226.64,
+      "end": 234.0,
+      "text": "you are addicted you have a problem you need this app quit up you need it but let's check"
+    },
+    {
+      "start": 234.0,
+      "end": 239.68,
+      "text": "your symptoms first like this let's verify this information and this check your symptoms but so"
+    },
+    {
+      "start": 239.68,
+      "end": 247.84,
+      "text": "one this screen scares you and two it nudges you into the next screen and every subsequent screen"
+    },
+    {
+      "start": 247.84,
+      "end": 255.36,
+      "text": "yes adds friction but it also increases your intent to buy so it's all very important"
+    },
+    {
+      "start": 257.04,
+      "end": 262.0,
+      "text": "so then we go to symptoms and you know you can have different things with different apps"
+    },
+    {
+      "start": 262.0,
+      "end": 267.28000000000003,
+      "text": "for quitter it's like you know one of the porn side effects for like calorie tracking it's like"
+    },
+    {
+      "start": 267.28,
+      "end": 272.79999999999995,
+      "text": "what the side effects of you being fat or you eating you know unhealthy food and it could be the"
+    },
+    {
+      "start": 272.79999999999995,
+      "end": 278.4,
+      "text": "it could be the exact same stuff like I'm eating junk food and I feel unmotivated I have no"
+    },
+    {
+      "start": 278.4,
+      "end": 284.79999999999995,
+      "text": "ambition I have difficulty concentrating etc etc but the goal of this screen and I'll show you"
+    },
+    {
+      "start": 284.79999999999995,
+      "end": 292.55999999999995,
+      "text": "very soon is to compare these negative symptoms to an eventual positive outcome if you buy the"
+    },
+    {
+      "start": 292.56,
+      "end": 298.16,
+      "text": "subscription so it's like okay we scare you with all these words like you you're like getting weak"
+    },
+    {
+      "start": 298.16,
+      "end": 307.2,
+      "text": "erections and then we flash after you finish this we flash up a red screen porn is a drug"
+    },
+    {
+      "start": 307.84000000000003,
+      "end": 314.96,
+      "text": "porn destroys relationship porn shatters sex drive and are you feeling unhappy a lot of people"
+    },
+    {
+      "start": 314.96,
+      "end": 319.76,
+      "text": "feel unhappy so like this screen is kind of triggered kind of nothing but what was it down to porn"
+    },
+    {
+      "start": 319.76,
+      "end": 324.15999999999997,
+      "text": "it's like all the problems in your life it's fucking porn you need to quit but you probably can't"
+    },
+    {
+      "start": 324.15999999999997,
+      "end": 331.92,
+      "text": "quit that's why you downloaded this app and then born welcome to quitter this is your path to recovery"
+    },
+    {
+      "start": 332.64,
+      "end": 340.32,
+      "text": "rewire your brain back to normal stay motivated and avoid setbacks don't go back to that bad life"
+    },
+    {
+      "start": 340.32,
+      "end": 347.12,
+      "text": "we are unmotivated we're getting weak erections and conquer yourself be a fucking man like rise"
+    },
+    {
+      "start": 347.12,
+      "end": 354.16,
+      "text": "to the occasion just be the best version of yourself and level up to life so this is a very"
+    },
+    {
+      "start": 354.16,
+      "end": 361.84000000000003,
+      "text": "intentional juxtaposition we compared a super negative cloud of stuff where you've answered personal"
+    },
+    {
+      "start": 361.84000000000003,
+      "end": 366.56,
+      "text": "questions about your life and all of these are like like not negative but like they are negative"
+    },
+    {
+      "start": 366.56,
+      "end": 370.96,
+      "text": "they are towards the the pain point that you're solving with your app so for example quitter"
+    },
+    {
+      "start": 370.96,
+      "end": 376.16,
+      "text": "porn all these are porn related so super negative you're feeling bad about yourself like I've been"
+    },
+    {
+      "start": 376.16,
+      "end": 380.48,
+      "text": "addicted I mean but sorry as well you're also learning about yourself when I ask you these"
+    },
+    {
+      "start": 380.48,
+      "end": 386.32000000000005,
+      "text": "questions you're learning about yourself you're learning down I've been addicted since I was"
+    },
+    {
+      "start": 386.32000000000005,
+      "end": 394.32000000000005,
+      "text": "fucking 12 this needs to stop this is insane and am I getting do I need to watch more extreme"
+    },
+    {
+      "start": 394.32000000000005,
+      "end": 399.68,
+      "text": "material like fuck this is ruining my mind so you're learning about yourself you're then getting"
+    },
+    {
+      "start": 399.68,
+      "end": 404.8,
+      "text": "scared by the symptoms then getting scared by the language we're using saying it's porn is the"
+    },
+    {
+      "start": 404.8,
+      "end": 411.92,
+      "text": "worst thing ever and then boom path to recovery you're in the right place quitter we are here for"
+    },
+    {
+      "start": 411.92,
+      "end": 417.2,
+      "text": "you we loved you and like we're gonna help you rely your brain help you stay motivated"
+    },
+    {
+      "start": 418.72,
+      "end": 424.24,
+      "text": "etc etc so that contrast is very uplifting for people which is also why we have a super high"
+    },
+    {
+      "start": 424.24,
+      "end": 431.92,
+      "text": "conversion rate you heard it from the man himself and then we give social proof so rewiring benefits"
+    },
+    {
+      "start": 431.92,
+      "end": 438.24,
+      "text": "and people are talking about the app so let's say these all NPCs they aren't real we probably"
+    },
+    {
+      "start": 438.24,
+      "end": 444.24,
+      "text": "should have real people but Jack says he's he's feel like a different person he's way more talk to"
+    },
+    {
+      "start": 444.24,
+      "end": 450.32,
+      "text": "and aware so and then Michael he wants to go out he wants to work out he wants to live he wants to"
+    },
+    {
+      "start": 450.32,
+      "end": 456.72,
+      "text": "be a fucking man he wants to he wants to conquer the world plona who's my co-founder obviously"
+    },
+    {
+      "start": 456.72,
+      "end": 461.6,
+      "text": "has been very addicted he wrote this one personally quitting as an army to change my mindset"
+    },
+    {
+      "start": 461.6,
+      "end": 467.92,
+      "text": "on the little things in life i was coming to grips with the fact that life is dark boring depressing"
+    },
+    {
+      "start": 467.92,
+      "end": 473.44000000000005,
+      "text": "and then i die screw that quitting has allowed me to change my mindset on the little things in life"
+    },
+    {
+      "start": 474.96000000000004,
+      "end": 480.8,
+      "text": "and yeah like you get the point so personal question there calculate the result"
+    },
+    {
+      "start": 481.52000000000004,
+      "end": 490.0,
+      "text": "scare you uplift you social proof and then we give the chart we show okay like you could quit"
+    },
+    {
+      "start": 490.0,
+      "end": 497.76,
+      "text": "on your own but look at quitter look how much faster you can quit and whoa how is this guy here"
+    },
+    {
+      "start": 497.76,
+      "end": 507.6,
+      "text": "right now it's interesting anyways you can see that you can see that by week free you're going to"
+    },
+    {
+      "start": 507.6,
+      "end": 513.84,
+      "text": "go through the same bullshit cycle but with quitter you're gonna win you're gonna rise to the"
+    },
+    {
+      "start": 513.84,
+      "end": 519.52,
+      "text": "occasion you're gonna finally beat the addiction and then we get into like the more uplifting part of"
+    },
+    {
+      "start": 519.52,
+      "end": 523.44,
+      "text": "things like choose your goals i want to be strong i want to have stronger relationships i want to"
+    },
+    {
+      "start": 523.44,
+      "end": 533.28,
+      "text": "have improved self confidence and then do you have a referral code this is useful if you want to"
+    },
+    {
+      "start": 533.28,
+      "end": 540.4,
+      "text": "track which influences sent you to what place what influences suggested you're up and actually"
+    },
+    {
+      "start": 540.4,
+      "end": 548.9599999999999,
+      "text": "downloaded it like what the fuck this is important for you to track which influences brought in your"
+    },
+    {
+      "start": 548.9599999999999,
+      "end": 556.3199999999999,
+      "text": "traffic there we go then give us a reading this is probably one of the most essential screens as well"
+    },
+    {
+      "start": 556.3199999999999,
+      "end": 561.12,
+      "text": "not everyone is gonna rate you five stars straight out the game out trying your app but they will"
+    },
+    {
+      "start": 561.12,
+      "end": 567.2,
+      "text": "obviously be like the 0.5% of people that actually do and when you have a million downloads 0.5%"
+    },
+    {
+      "start": 567.2,
+      "end": 571.84,
+      "text": "is a hell of a lot of people that give you a five star review so i totally recommend this screen"
+    },
+    {
+      "start": 573.12,
+      "end": 578.32,
+      "text": "i will say as well the more five star of ratings you have on the app store the more people trust you"
+    },
+    {
+      "start": 578.32,
+      "end": 583.36,
+      "text": "and all the more the more people actually end up getting to the end of your onboarding whereas if"
+    },
+    {
+      "start": 583.36,
+      "end": 589.12,
+      "text": "you're a brand new app and you have like 20 reviews people don't trust you like they don't trust you"
+    },
+    {
+      "start": 589.12,
+      "end": 594.16,
+      "text": "they're gonna be hesitant they're gonna be more reluctant to not they're gonna be more reluctant to pay"
+    },
+    {
+      "start": 594.88,
+      "end": 600.24,
+      "text": "than if you had 50,000 five stars and it's like 20 bucks but like 50,000 people rate this five stars"
+    },
+    {
+      "start": 600.24,
+      "end": 605.52,
+      "text": "hell yeah like sign me up and then this is one thing we do quitter that i've seen a lot of people not"
+    },
+    {
+      "start": 605.52,
+      "end": 611.92,
+      "text": "be able to do or not done i'm losing my mind but like i hope you guys hear me through this hear me"
+    },
+    {
+      "start": 611.92,
+      "end": 618.72,
+      "text": "through this this is fucking source right here right so we say welcome to quitter your path to freedom"
+    },
+    {
+      "start": 618.72,
+      "end": 623.12,
+      "text": "here's your card it's decided to help you quit porn forever now this is the most fucking"
+    },
+    {
+      "start": 624.24,
+      "end": 630.64,
+      "text": "this is the most forward thing i've ever done but it's low key working now it's time to invest in"
+    },
+    {
+      "start": 630.64,
+      "end": 638.96,
+      "text": "yourself and like short it's a bit pushy and it's a bit like like uh it's in the uncanny value"
+    },
+    {
+      "start": 638.96,
+      "end": 645.2,
+      "text": "territory but instead of people spamming me with reviews saying i thought this app was gonna be"
+    },
+    {
+      "start": 645.2,
+      "end": 649.84,
+      "text": "free i don't know i was gonna be paid or even is it paid a lot of people don't even know if they"
+    },
+    {
+      "start": 649.84,
+      "end": 653.6800000000001,
+      "text": "have to pay they don't want to pay they think there's a free version but the fact it says now"
+    },
+    {
+      "start": 653.6800000000001,
+      "end": 660.96,
+      "text": "it's time to invest in yourself they're like okay it's time to lock in and even though it's like"
+    },
+    {
+      "start": 660.96,
+      "end": 667.36,
+      "text": "they're reading it on a screen and it's not like this is inhuman like there's no one there's not"
+    },
+    {
+      "start": 667.36,
+      "end": 671.5200000000001,
+      "text": "your friend isn't telling you to invest in yourself which has a really high like conversion rate"
+    },
+    {
+      "start": 672.16,
+      "end": 676.56,
+      "text": "the fact you're reading on a screen will sit in the back of your mind and when you do get to"
+    },
+    {
+      "start": 676.56,
+      "end": 687.1999999999999,
+      "text": "the paywall you remember that sentence it's four forty five bucks a year but now it's time to invest"
+    },
+    {
+      "start": 687.1999999999999,
+      "end": 692.88,
+      "text": "in myself i would spend that shit on big max but now it's time to invest in yourself"
+    },
+    {
+      "start": 693.84,
+      "end": 704.0,
+      "text": "start my journey pay boom you're in and that's a really really really good funnel this is one"
+    },
+    {
+      "start": 704.0,
+      "end": 708.08,
+      "text": "of the best funnels ever i can pull up my revenue for for the day oh we're gonna get into paywalls"
+    },
+    {
+      "start": 708.08,
+      "end": 713.28,
+      "text": "at a sec i can pull up my revenue for the day this is proceeds after apple's fighting is"
+    },
+    {
+      "start": 713.28,
+      "end": 718.16,
+      "text": "cut but fuck that don't even look at that just look at the conversion rate like this is pretty good"
+    },
+    {
+      "start": 719.36,
+      "end": 721.68,
+      "text": "um 16 my actually fucking"
+    },
+    {
+      "start": 723.52,
+      "end": 730.16,
+      "text": "it's good but it's it's it's it's usually better it's usually like 20%"
+    },
+    {
+      "start": 731.6,
+      "end": 738.48,
+      "text": "so like one in six people are paying this isn't a free trial field this is one in six"
+    },
+    {
+      "start": 738.48,
+      "end": 745.12,
+      "text": "people paying so yeah that is onboarding for you guys"
+    },
+    {
+      "start": 745.6,
+      "end": 755.6,
+      "text": "peace out all right boys so i would usually explain how to design a good onboarding but"
+    },
+    {
+      "start": 757.28,
+      "end": 762.32,
+      "text": "for all of my future apps if i do create future apps i'm just gonna be repping this exact"
+    },
+    {
+      "start": 762.32,
+      "end": 768.4,
+      "text": "format but just re-wording it and you know i'm just gonna recommend you guys do the same um"
+    },
+    {
+      "start": 768.4,
+      "end": 773.12,
+      "text": "cal ai has a very similar onboarding to quitter literally almost exactly the same format"
+    },
+    {
+      "start": 773.76,
+      "end": 781.2,
+      "text": "and you know you guys can design this rectangle text text for question etc like this is"
+    },
+    {
+      "start": 781.2,
+      "end": 785.84,
+      "text": "this is like one screen very simple it's right out in front of you say with these these are"
+    },
+    {
+      "start": 785.84,
+      "end": 790.08,
+      "text": "just lotty files so if you search through google lotty files you'll find a bunch and then"
+    },
+    {
+      "start": 790.08,
+      "end": 795.68,
+      "text": "search within lotty files what you like so maybe uh search star and you might find this one"
+    },
+    {
+      "start": 795.68,
+      "end": 802.88,
+      "text": "or sun or meditate you'll find this one or lock you'll find this one etc um this is a"
+    },
+    {
+      "start": 803.04,
+      "end": 809.2,
+      "text": "very well designed onboarding i wouldn't really met the will and like we like me and cal ai we've made"
+    },
+    {
+      "start": 809.2,
+      "end": 815.28,
+      "text": "millions of dollars with this exact format so i'm not gonna teach you how to design it"
+    },
+    {
+      "start": 816.56,
+      "end": 825.84,
+      "text": "but i will link this in the uh the course but yeah now let's get to the paywall so this is a paywall"
+    },
+    {
+      "start": 825.84,
+      "end": 832.48,
+      "text": "that i started with which is just a simulator of all the screens kind of laid out so you can kind"
+    },
+    {
+      "start": 832.48,
+      "end": 838.96,
+      "text": "of get intro of such preview of the app before you pay at the top we have very intentional texts"
+    },
+    {
+      "start": 838.96,
+      "end": 844.64,
+      "text": "saying get unlimited access to quitter including personalize the science based custom plan"
+    },
+    {
+      "start": 845.36,
+      "end": 851.6800000000001,
+      "text": "adult content blocker community chat through tracking daily pledges plus much more um"
+    },
+    {
+      "start": 852.48,
+      "end": 858.96,
+      "text": "and you know what this is great and you can copy this if you go to supool you click into templates"
+    },
+    {
+      "start": 858.96,
+      "end": 863.44,
+      "text": "and you scroll down a little bit and you will find the"
+    },
+    {
+      "start": 866.0,
+      "end": 872.64,
+      "text": "here we go the quitter quitter paywall right here so what you do on supool is you click onto this"
+    },
+    {
+      "start": 872.64,
+      "end": 877.2800000000001,
+      "text": "and you click use template and i wouldn't generally recommend you go into the"
+    },
+    {
+      "start": 877.2800000000001,
+      "end": 883.0400000000001,
+      "text": "game and start designing your own one and i know it's counterintuitive because this is a design"
+    },
+    {
+      "start": 883.0400000000001,
+      "end": 888.72,
+      "text": "course but i can show you what good design is without having you design it yourself so when it comes"
+    },
+    {
+      "start": 888.72,
+      "end": 894.8000000000001,
+      "text": "to consumer utility you usually want to display all the benefits up front so something like"
+    },
+    {
+      "start": 896.4,
+      "end": 907.2,
+      "text": "something like something like homework AI is actually pretty good um you can see unlock all features"
+    },
+    {
+      "start": 907.2,
+      "end": 911.28,
+      "text": "of pro you're kind of explaining the core features remember the onboarding has already sold your"
+    },
+    {
+      "start": 911.28,
+      "end": 916.1600000000001,
+      "text": "app people are convinced now just summarize the core features and make it super easy to pay"
+    },
+    {
+      "start": 916.8,
+      "end": 922.0,
+      "text": "and i'm going to show you my current onboarding the one that's doing the best and we hired a design"
+    },
+    {
+      "start": 922.0,
+      "end": 928.3199999999999,
+      "text": "to do this but you can see it's pretty simple again still the very core features that people are"
+    },
+    {
+      "start": 928.3199999999999,
+      "end": 933.76,
+      "text": "paying and buying into you also have the previews of the app so very similar to the first iteration"
+    },
+    {
+      "start": 933.76,
+      "end": 938.3199999999999,
+      "text": "that suit that quitter launch with but just in a different format you see this time it's in a"
+    },
+    {
+      "start": 938.3199999999999,
+      "end": 945.8399999999999,
+      "text": "scroly carousel and then also you can just change the plan so if i don't want to pay"
+    },
+    {
+      "start": 946.16,
+      "end": 952.0,
+      "text": "29 19 year why don't i just pay 15 a month and people do do that so interesting though"
+    },
+    {
+      "start": 952.56,
+      "end": 959.68,
+      "text": "we also on this iteration show the reviews so this is a very interesting point um and you know"
+    },
+    {
+      "start": 961.04,
+      "end": 965.4399999999999,
+      "text": "designing this in figma i can definitely show you how to do it but i think it might be a better"
+    },
+    {
+      "start": 965.4399999999999,
+      "end": 969.52,
+      "text": "use of my time to just show you what good design is show you the core principles and then you can"
+    },
+    {
+      "start": 969.52,
+      "end": 975.28,
+      "text": "apply this yourself blake has already covered a lot of app design um and i'm not the best at"
+    },
+    {
+      "start": 975.28,
+      "end": 980.8,
+      "text": "pigma i used to go off the ball but i have a lot of insight so yeah this is a very good payal as well"
+    },
+    {
+      "start": 982.4,
+      "end": 986.0799999999999,
+      "text": "i believe they have something very similar in their templates and i would just use templates"
+    },
+    {
+      "start": 986.0799999999999,
+      "end": 991.68,
+      "text": "because up to your first like 100k even 500k i think we didn't even change the quitter payal"
+    },
+    {
+      "start": 991.68,
+      "end": 998.0,
+      "text": "until maybe one and a half million dollars in revenue so it's not as important as you think"
+    },
+    {
+      "start": 998.0,
+      "end": 1003.76,
+      "text": "it might have slight maybe two to three to four to five percent increases but just don't over"
+    },
+    {
+      "start": 1003.76,
+      "end": 1010.0,
+      "text": "index on perfecting it per se so like okay if i want to do a calorie checking out i'll show you"
+    },
+    {
+      "start": 1010.0,
+      "end": 1013.36,
+      "text": "what's the good one because we've already done the calorie checking tutorial actually that comes"
+    },
+    {
+      "start": 1013.36,
+      "end": 1018.24,
+      "text": "next i'll show you guys in the development module but like if i wanted to choose a calorie tracking"
+    },
+    {
+      "start": 1018.8,
+      "end": 1026.8,
+      "text": "payal i would pick hmm this is a great one for you say i obviously not for calorie checking"
+    },
+    {
+      "start": 1027.68,
+      "end": 1031.52,
+      "text": "this is so bad this is zest"
+    },
+    {
+      "start": 1039.36,
+      "end": 1047.84,
+      "text": "duh duh duh duh actually this is the cal ai i want so yeah and it has the gif so i would use this"
+    },
+    {
+      "start": 1047.84,
+      "end": 1053.84,
+      "text": "i would have we want you to try cal ai for free i would have a moving gif of the app and you can"
+    },
+    {
+      "start": 1053.84,
+      "end": 1063.12,
+      "text": "record this in screen studio i believe that's the name of the app screen studio um and just run"
+    },
+    {
+      "start": 1063.12,
+      "end": 1067.4399999999998,
+      "text": "through it and then obviously link this to your product we cover this in the development module"
+    },
+    {
+      "start": 1067.4399999999998,
+      "end": 1074.3999999999999,
+      "text": "so make sure you watch that next and this is a solid design um and then with super i'll show you"
+    },
+    {
+      "start": 1074.3999999999999,
+      "end": 1079.36,
+      "text": "real quick how you can actually change things around and personalize it for you so unlock"
+    },
+    {
+      "start": 1079.84,
+      "end": 1091.04,
+      "text": "cal ai unlock cal ai there you go so we just change text super simple no commitment"
+    },
+    {
+      "start": 1091.04,
+      "end": 1097.04,
+      "text": "canceling time this is great and then we go into products we change products of 499 a week"
+    },
+    {
+      "start": 1097.04,
+      "end": 1105.04,
+      "text": "and then the second year in land 19 and a month and as you can see bomb this is a solid payal"
+    },
+    {
+      "start": 1105.12,
+      "end": 1115.04,
+      "text": "and then for the video for the video we get to upload a video do i have any videos of the app"
+    },
+    {
+      "start": 1115.04,
+      "end": 1120.32,
+      "text": "actually you know what we do we do we do we do we do so this is the app i'm building for you guys"
+    },
+    {
+      "start": 1120.32,
+      "end": 1125.2,
+      "text": "you'll see it later in the development module but i'm just gonna screen report it so i'm gonna do"
+    },
+    {
+      "start": 1125.2,
+      "end": 1135.1200000000001,
+      "text": "command art run you through it bomb bomb and you can't see the actual app because this is just the"
+    },
+    {
+      "start": 1135.1200000000001,
+      "end": 1147.6000000000001,
+      "text": "onboarding but i will upload it ready let's see yeah you gotta get off you gotta get off"
+    },
+    {
+      "start": 1147.6000000000001,
+      "end": 1153.28,
+      "text": "and you gotta teach me to get off i'm recording recording yeah what up gang someone doesn't"
+    },
+    {
+      "start": 1153.28,
+      "end": 1159.28,
+      "text": "know where the group chats well you you opened it so at that point i think i play all studying uh"
+    },
+    {
+      "start": 1159.28,
+      "end": 1163.6,
+      "text": "yeah listen this kids gotta go fucking party right now we don't want to a bit us we did to this"
+    },
+    {
+      "start": 1163.6,
+      "end": 1170.6399999999999,
+      "text": "paywall that made it double the conversions going it's that the privacy it used to be spelled"
+    },
+    {
+      "start": 1170.6399999999999,
+      "end": 1175.52,
+      "text": "privacy policy but just make it privacy double the hour for the details that Matt this is a"
+    },
+    {
+      "start": 1175.52,
+      "end": 1181.6,
+      "text": "complete joke it was actually you know uh deceiving the consumer that i hate all this"
+    },
+    {
+      "start": 1183.28,
+      "end": 1190.08,
+      "text": "can you guys a scam guys no but what you want to do here is you see it says try for zero and then"
+    },
+    {
+      "start": 1190.08,
+      "end": 1196.0,
+      "text": "they click it and it's a multi page i don't know this is an us did you create this this is a template"
+    },
+    {
+      "start": 1196.0,
+      "end": 1200.48,
+      "text": "bro yeah yeah it's well created template out of us yeah they've done it so i'll try"
+    },
+    {
+      "start": 1200.48,
+      "end": 1205.84,
+      "text": "and we're gonna continue they fucking stop multi page is actually great guys saying to the user"
+    },
+    {
+      "start": 1205.84,
+      "end": 1210.24,
+      "text": "will send your reminder before you free trial ends they fucking love that is that true love it's true"
+    },
+    {
+      "start": 1210.24,
+      "end": 1213.76,
+      "text": "we do send an notification it would be very fucked up you say you will but then you do not"
+    },
+    {
+      "start": 1214.4,
+      "end": 1218.64,
+      "text": "if i if we actually did an 80 test and it did decrease the conversion rate slightly"
+    },
+    {
+      "start": 1218.64,
+      "end": 1223.6,
+      "text": "but you need to actually set like it would be really fucked up not to yeah true yeah so we tell"
+    },
+    {
+      "start": 1223.6,
+      "end": 1229.3600000000001,
+      "text": "them what it would like you zero days that's like i'm gonna stop yeah that's gonna get yeah"
+    },
+    {
+      "start": 1229.36,
+      "end": 1234.8,
+      "text": "yeah she started for trial and um there we go you got on that's the source guys"
+    },
+    {
+      "start": 1235.6799999999998,
+      "end": 1240.8799999999999,
+      "text": "tell you get on that's on boarding and peels done now we're gonna go fucking party"
+    },
+    {
+      "start": 1241.6,
+      "end": 1245.9199999999998,
+      "text": "let's go out tonight let's fucking go see boys"
+    }
+  ]
+}

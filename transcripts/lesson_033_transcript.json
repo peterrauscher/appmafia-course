@@ -1,0 +1,762 @@
+{
+  "file_name": "033_Lesson_33.faudio-hi-0-Default.mp4",
+  "text": " Alright boys, welcome to the monetizing part of the course. I will pretty much be running through how the paywall works, getting it fully set up, when to trigger it and how to collect the best amount of information data you can so you can make better informed decisions when it comes to A.B. testing pricing and paywalls and products etc. So, okay, this all starts with installing this package which will be linked in the document. So, just come to this 3.2.3 slide and copy it. Got an Xcode, on the left side right click and click add package dependencies. Then paste in the top right corner the super wall and then click add package. And then we're going to do this wait for this to load. Make sure this added to the Cal AI target or whatever you call your app and then click add package. Born, that's solid. Then what you want to do is go to super wall.com and make an account. I already have an account, by the way this these steps suck. I usually make around 15 thousand dollars a day but I think super had a bug and we lost like 30% of our revenue which sucks but it happens sometimes. But yeah, once you're in it should put you for an onboarding process but you should get to this page eventually. I'm going to make a brand new project. I'm going to call this Cal AI and then the app name I'm just going to call it Cal AI. Oh this is new, not it released yet. And then com. I believe I call it mafia.cal AI. Make sure this is accurate though. You can check this by going top left general. Mafia tutorial. Cal AI. Okay, make sure you copy that word for word. Cal AI. Boom and then click create app. We are in. So you're going to see zero dollars per se zero and you use this etc. Very very obvious why it's zero. I'd go to settings. Actually you know go to quick start. Make sure you check this off because you've installed the SDK. Configure the SDK. Okay, so to configure the SDK make sure you copy this and we'll import super cool. Okay very soon. What you want to do is go to Cal AI underscore app or whatever your app is called. Click import super wall kits and then under struct copy exactly what I'm doing in it and then in it the super configuration. What this does is as soon as your app loads up it initiates your API key and links it to super wall. So now it's pulling all of the paywalls you've made and allowing you to use them on the front end for your code which is very crucial. So make sure you do that after you present after I read in the word after you've set that up make sure you present a paywall. So copy this example and you will understand what I mean. So what we're going to do is we're just going to make a brand new file. I'm going to call this paywall view. I'm going to add a new button. So I'm going to turn this into a B stack first and foremost. B stack text, paywall, and then button, the label of open paywall. And then I'm going to paste in this make sure super wall is actually imported so import super wall kit. And now this is what super is doing when I paste this in. Anytime someone clicks the open paywall button is going to communicate with the backend and your super wall account and then pull whatever paywall is linked to this placement which is campaign trigger. Sounds confusing, this should work. Okay, so this is an example paywall and I will go through linking a product. So this would have a price right here and as soon as someone clicks continue they are prompted to pay and once they have paid they get access to the app and that is really simple. So think about the pieces we have now. We have the onboarding view which allows someone to answer questions and figure out why this app is good for them. After the results have been calculated they then presented with the paywall view and then they have to decide to themselves okay I just answered a bunch of questions I've learned more about myself, about my goals about the app. Should I pay this 20 bucks, 30 bucks, 40 bucks a year? If the answer is yes to that question and they do end up paying then they get prompted with uh oh preview. Oh shit wrong side, wrong side, wrong side. Clonset view. After they paid they are presented this, this, this, wow can be built. Way to ruin my recording but often they appear they are essentially presented with the main app which is what we just built in Estimate and the calories and allowing you to take a photo of your food etc. Very simple stuff. So those are the free like extremely essential components and once you have that you can easily go out into the market and start selling a product making money for sure but there's some pre-reducts we need to do so let's do that. So let's think. Okay so let's go to App Store Connect and start building these products so we can share it with Superwall and allow you to monetize. So I would make a new app from App Store Connect, new app. We're going to call it Cal AI. Choose the language of English US if that is your main region. I'm going to click the... Huh. It's not showing. It's confusing. Okay anyways I'm going to call it App name Cal AI. English US if that is your main region and then we are going to select the bundle ID for some reason mine isn't showing but I can always change it later and then call this Cal AI or whatever else you want to call it and then just click full access and then make sure iOS is selected at the top. We'll click Create. Okay Cal AI has taken my pad Cal AI mafia test. Okay cool now your app is made on the App Store and of course we're going to go through this later and optimize it in another module but we'll go to subscriptions. You click Create Subscription group you call this Superwall and we're going to make our first subscription. I'm going to call this yearly. The product that is going to be yearly 30 and we'll click Create. Availability is going to be the entire world and the subscription price I'm going to say of like 2999 which is like a solid most optimal price for this app and that's based off all the testing Zach and his team have done over the past year. Later we will go through how to like really reopt my Superwall and make a bunch of different products put those products into paywalls and then AP test that and try and find like the highest LTV the highest average order value etc etc but final just make one product the localization this doesn't really matter we're just going to call yearly yearly subscription to Cal AI. Okay great and then we'll click Save and that should be fine actually I think we need an image for some reason they still make you do this very confusing very very confusing but we'll add an image we'll just copy this and drag that in. Okay great now this has to be submitted for review and of course we can't submit it for review until the app is finished so upon launch I don't think you'll be able to monetize your app I think you need to wait at least like one version cycle so let's see release 1.0 and 1.1 you can release the in that purchase for some reason I don't know why Apple does this I don't know why they need to even review subscriptions and pricing it just seems like a complete waste of time but hey that's how they do it the most important thing you need to do here is copy this yearly first the product ID and for every subsequent and future subscription you create the product ID is how super will will super wall will identify this on the back and with App Store Connect so what we're going to do is go to Super wall and clicking next next and then adding products on the left hand side so click add products paste in the product ID and then select the price and trial and period so we did 29.99 so we'll select that the period is the year and we'll click safe so now this is our first product this isn't like fully registered because Apple need to approve it but we can now use it to test our paywalls and fuck her out so that's great so we'll go into paywalls we'll click into this paywall and then on the left hand side click products and then for the primary we'll just click the 29.99 zone a year then we can remove the tertiary and secondary and bomb we are good just click save and publish some top right so as you can see it's now pulling the pricing it says 29.99 a year only 2.49 a month now when people click the big blue button they are prompted to pay using Apple pay for your app and that should be fleeced up which is great okay cool okay all right so now we're going to put this all into practice let me run you through the exact flow how we're going to put it together and how this will work holistically so first we're going to go to Cali app make sure on-boarding view is the first one I think for this example this is very clear after the on-boarding view and after it's been calculated let's see when it's been calculated so it runs this command which is on done on done is triggered okay on done finalize on-boarding so we'll find this and then we will do superwall.shared.presentview actually let me just copy it's a registered placement not presentview we'll paste that in here and then we'll import superwall kit and now we'll do this actually just just for example we'll add state bar private bar clicked pewall equals false so now if this has been clicked because usually we can't test out superwall until they improve the product so if this has been clicked we will do if pewall clicked if what was it again if clicked pewall equals false we'll trigger this else if clicked pewall equals true actually you know should just be else this and then if else it should present the content view so we'll do that before that works we need to make sure click the pewall dot toggle great okay we'll just do this and then open pewall wait okay so now we should be this if clicked pewall equals true navigation link label access app and the navigation link should link to the main view which is content view okay so now this should work this is like the full package right here so we'll have it on warning so welcome to Kalaiar tell us to use this sound good yes let's do it where am I starting from I'm a total what's my primary goal to lose fat what's my target pace I'm gonna say balanced how do you want to track I want to do photo estimates you'll take targets fucking sick I want to play around with it typical weak day activity I'd say some movement not that much but some movement how many workouts do I do a week I do fucking zero I don't know what I'm doing what tricks you up the most probably late actually weekends I just drink drink drink drink and I get nowhere and I become fat that's what I do any do's I love or hate I hate tuna okay if we nail this what changes first look cleaner feel more confident more into your focus oh this is very intentional language and I kind of created charge you be to give this kind of response but like showing them the transformation of like okay if this app works out what happens I get more energy focus I become more confident I look cleaner I perform better in training like these are all direct results so when you're prompted with a pay all for like 2999 a year you're like fuck yeah I get all of this and all I gotta do is pay 30 bucks now it is slightly misleading because it's still up to the person to make those changes in their own life like the app just because you pay doesn't mean it's gonna like fucking transform overnight it still takes a time and dedication and grip but this language really helps sell the product so then you click finish calculates your plan boom you get hit with the paywall not obviously this is a little bit fast they would change it up at the end but this is just for demonstration purposes hits you with the paywall so now that trigger is done let's hyperfittingly say I click continue and I pay obviously we have this error because we can't find the product yet which is totally fine obviously expected that you click x out and now you see access app oh can I click it click it damn it's probably because that's in front but let's say you did click it and you did pay what would happen now well you guessed it we're in the fucking app we paid for it we're in and now I can take a picture of my lasagna and cal ai will estimate the calories and it's doing exactly what I paid for it works like a charm so you see everything we've just done in under like an hour has built us a product that has an onboarding that convinces a user to finally pay we have a paywall that prompts the user to actually pay with a price that we can AB test etc and after the user is paid they have access to the app and now they can use it and it works and everyone's happy you've just made money you just provided a great product experience and now people are using your app to better their lives congrats everyone we did it now obviously this is not the end of the tutorial I'm going to get way more in depth with like building a way more polished products but that's just kind of like the service level of what we're building here this is more of a demonstration how easy it is there is more technical components in order to like log the subscription to track the data to make sure that actually looks good to ask the right questions and I will be running through that but that's like the main public tutorial just to show you how I got from zero to hero I finally have a product that I could actually sell and even without like the paywall logic you could probably fucking sell this by the way all the get hub links and all the code links will be in the description or in the document so find that and yeah the next part of this let's see what we're going through so we'll be going through database setup which I'd say is important I'll get back to it analytics final cleanup and optimizations I'm going to spend a lot more time on the cleanup and optimizations to show you how to build like an actual solid robust app but yeah that's it for this congrats guys good shit",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "Alright boys, welcome to the monetizing part of the course. I will pretty much be running through"
+    },
+    {
+      "start": 8.0,
+      "end": 14.0,
+      "text": "how the paywall works, getting it fully set up, when to trigger it and how to collect the best"
+    },
+    {
+      "start": 14.0,
+      "end": 19.2,
+      "text": "amount of information data you can so you can make better informed decisions when it comes to"
+    },
+    {
+      "start": 19.2,
+      "end": 26.48,
+      "text": "A.B. testing pricing and paywalls and products etc. So, okay, this all starts with installing this"
+    },
+    {
+      "start": 26.48,
+      "end": 32.0,
+      "text": "package which will be linked in the document. So, just come to this 3.2.3 slide and copy it."
+    },
+    {
+      "start": 32.0,
+      "end": 38.4,
+      "text": "Got an Xcode, on the left side right click and click add package dependencies. Then paste in"
+    },
+    {
+      "start": 38.4,
+      "end": 44.480000000000004,
+      "text": "the top right corner the super wall and then click add package. And then we're going to do"
+    },
+    {
+      "start": 44.480000000000004,
+      "end": 48.480000000000004,
+      "text": "this wait for this to load. Make sure this added to the Cal AI target or whatever you call"
+    },
+    {
+      "start": 48.48,
+      "end": 56.48,
+      "text": "your app and then click add package. Born, that's solid. Then what you want to do is go to super"
+    },
+    {
+      "start": 56.48,
+      "end": 63.12,
+      "text": "wall.com and make an account. I already have an account, by the way this these steps suck. I usually"
+    },
+    {
+      "start": 63.12,
+      "end": 70.32,
+      "text": "make around 15 thousand dollars a day but I think super had a bug and we lost like 30% of our revenue"
+    },
+    {
+      "start": 71.19999999999999,
+      "end": 78.16,
+      "text": "which sucks but it happens sometimes. But yeah, once you're in it should put you for an onboarding"
+    },
+    {
+      "start": 78.16,
+      "end": 82.16,
+      "text": "process but you should get to this page eventually. I'm going to make a brand new project. I'm going"
+    },
+    {
+      "start": 82.16,
+      "end": 91.36,
+      "text": "to call this Cal AI and then the app name I'm just going to call it Cal AI. Oh this is new, not"
+    },
+    {
+      "start": 91.36,
+      "end": 100.16,
+      "text": "it released yet. And then com. I believe I call it mafia.cal AI. Make sure this is accurate though."
+    },
+    {
+      "start": 100.16,
+      "end": 107.84,
+      "text": "You can check this by going top left general. Mafia tutorial. Cal AI. Okay, make sure you copy that"
+    },
+    {
+      "start": 107.84,
+      "end": 120.24000000000001,
+      "text": "word for word. Cal AI. Boom and then click create app. We are in. So you're going to see zero"
+    },
+    {
+      "start": 120.24000000000001,
+      "end": 127.44,
+      "text": "dollars per se zero and you use this etc. Very very obvious why it's zero. I'd go to settings."
+    },
+    {
+      "start": 129.12,
+      "end": 133.2,
+      "text": "Actually you know go to quick start. Make sure you check this off because you've installed the"
+    },
+    {
+      "start": 133.2,
+      "end": 143.35999999999999,
+      "text": "SDK. Configure the SDK. Okay, so to configure the SDK make sure you copy this and we'll import"
+    },
+    {
+      "start": 143.35999999999999,
+      "end": 148.0,
+      "text": "super cool. Okay very soon. What you want to do is go to Cal AI underscore app or whatever your app"
+    },
+    {
+      "start": 148.0,
+      "end": 155.67999999999998,
+      "text": "is called. Click import super wall kits and then under struct copy exactly what I'm doing in it"
+    },
+    {
+      "start": 156.48,
+      "end": 162.48,
+      "text": "and then in it the super configuration. What this does is as soon as your app loads up it initiates"
+    },
+    {
+      "start": 163.6,
+      "end": 168.64,
+      "text": "your API key and links it to super wall. So now it's pulling all of the paywalls you've made"
+    },
+    {
+      "start": 168.64,
+      "end": 173.76,
+      "text": "and allowing you to use them on the front end for your code which is very crucial. So make sure you do"
+    },
+    {
+      "start": 173.76,
+      "end": 179.83999999999997,
+      "text": "that after you present after I read in the word after you've set that up make sure you present a paywall."
+    },
+    {
+      "start": 179.83999999999997,
+      "end": 186.0,
+      "text": "So copy this example and you will understand what I mean. So what we're going to do is we're just"
+    },
+    {
+      "start": 186.0,
+      "end": 193.44,
+      "text": "going to make a brand new file. I'm going to call this paywall view. I'm going to add a new button."
+    },
+    {
+      "start": 193.44,
+      "end": 202.48,
+      "text": "So I'm going to turn this into a B stack first and foremost. B stack text, paywall,"
+    },
+    {
+      "start": 205.76,
+      "end": 215.52,
+      "text": "and then button, the label of open paywall. And then I'm going to paste in this"
+    },
+    {
+      "start": 216.0,
+      "end": 220.56,
+      "text": "make sure super wall is actually imported so import super wall kit. And now this is what"
+    },
+    {
+      "start": 220.56,
+      "end": 225.2,
+      "text": "super is doing when I paste this in. Anytime someone clicks the open paywall button is going to"
+    },
+    {
+      "start": 225.2,
+      "end": 230.64,
+      "text": "communicate with the backend and your super wall account and then pull whatever paywall is linked"
+    },
+    {
+      "start": 230.64,
+      "end": 235.44,
+      "text": "to this placement which is campaign trigger. Sounds confusing, this should work. Okay, so this is an"
+    },
+    {
+      "start": 235.44,
+      "end": 241.12,
+      "text": "example paywall and I will go through linking a product. So this would have a price right here"
+    },
+    {
+      "start": 242.08,
+      "end": 246.96,
+      "text": "and as soon as someone clicks continue they are prompted to pay and once they have paid they get"
+    },
+    {
+      "start": 246.96,
+      "end": 252.88,
+      "text": "access to the app and that is really simple. So think about the pieces we have now. We have the"
+    },
+    {
+      "start": 252.88,
+      "end": 258.32,
+      "text": "onboarding view which allows someone to answer questions and figure out why this app is good for"
+    },
+    {
+      "start": 258.32,
+      "end": 264.0,
+      "text": "them. After the results have been calculated they then presented with the paywall view and then"
+    },
+    {
+      "start": 264.0,
+      "end": 268.16,
+      "text": "they have to decide to themselves okay I just answered a bunch of questions I've learned more about"
+    },
+    {
+      "start": 268.16,
+      "end": 273.52000000000004,
+      "text": "myself, about my goals about the app. Should I pay this 20 bucks, 30 bucks, 40 bucks a year?"
+    },
+    {
+      "start": 273.84000000000003,
+      "end": 278.56,
+      "text": "If the answer is yes to that question and they do end up paying then they get prompted with"
+    },
+    {
+      "start": 279.44,
+      "end": 291.20000000000005,
+      "text": "uh oh preview. Oh shit wrong side, wrong side, wrong side. Clonset view. After they paid they are presented"
+    },
+    {
+      "start": 291.2,
+      "end": 305.28,
+      "text": "this, this, this, wow can be built. Way to ruin my recording but often they appear they are"
+    },
+    {
+      "start": 305.28,
+      "end": 311.03999999999996,
+      "text": "essentially presented with the main app which is what we just built in Estimate and the calories"
+    },
+    {
+      "start": 311.03999999999996,
+      "end": 316.48,
+      "text": "and allowing you to take a photo of your food etc. Very simple stuff. So those are the free like"
+    },
+    {
+      "start": 316.48,
+      "end": 320.88,
+      "text": "extremely essential components and once you have that you can easily go out into the market and"
+    },
+    {
+      "start": 320.88,
+      "end": 326.71999999999997,
+      "text": "start selling a product making money for sure but there's some pre-reducts we need to do so let's do that."
+    },
+    {
+      "start": 327.6,
+      "end": 343.52,
+      "text": "So let's think. Okay so let's go to App Store Connect and start building these products so we can"
+    },
+    {
+      "start": 343.52,
+      "end": 349.2,
+      "text": "share it with Superwall and allow you to monetize. So I would make a new app from App Store Connect,"
+    },
+    {
+      "start": 350.08,
+      "end": 359.28,
+      "text": "new app. We're going to call it Cal AI. Choose the language of English US if that is your main region."
+    },
+    {
+      "start": 359.28,
+      "end": 369.28,
+      "text": "I'm going to click the... Huh. It's not showing."
+    },
+    {
+      "start": 369.28,
+      "end": 378.15999999999997,
+      "text": "It's confusing."
+    },
+    {
+      "start": 399.59999999999997,
+      "end": 408.88,
+      "text": "Okay anyways I'm going to call it App name Cal AI. English US if that is your main region and then"
+    },
+    {
+      "start": 408.88,
+      "end": 412.79999999999995,
+      "text": "we are going to select the bundle ID for some reason mine isn't showing but I can always change it"
+    },
+    {
+      "start": 412.79999999999995,
+      "end": 418.79999999999995,
+      "text": "later and then call this Cal AI or whatever else you want to call it and then just click full"
+    },
+    {
+      "start": 418.79999999999995,
+      "end": 425.91999999999996,
+      "text": "access and then make sure iOS is selected at the top. We'll click Create. Okay Cal AI has taken my"
+    },
+    {
+      "start": 425.92,
+      "end": 428.72,
+      "text": "pad Cal AI mafia test."
+    },
+    {
+      "start": 435.12,
+      "end": 439.84000000000003,
+      "text": "Okay cool now your app is made on the App Store and of course we're going to go through this"
+    },
+    {
+      "start": 439.84000000000003,
+      "end": 445.52000000000004,
+      "text": "later and optimize it in another module but we'll go to subscriptions. You click Create"
+    },
+    {
+      "start": 445.52000000000004,
+      "end": 451.76,
+      "text": "Subscription group you call this Superwall and we're going to make our first subscription."
+    },
+    {
+      "start": 452.08,
+      "end": 460.0,
+      "text": "I'm going to call this yearly. The product that is going to be yearly 30 and we'll click Create."
+    },
+    {
+      "start": 462.15999999999997,
+      "end": 466.96,
+      "text": "Availability is going to be the entire world and the subscription price I'm going to say of like"
+    },
+    {
+      "start": 466.96,
+      "end": 474.56,
+      "text": "2999 which is like a solid most optimal price for this app and that's based off all the testing"
+    },
+    {
+      "start": 474.64,
+      "end": 482.24,
+      "text": "Zach and his team have done over the past year. Later we will go through how to like really"
+    },
+    {
+      "start": 482.24,
+      "end": 488.4,
+      "text": "reopt my Superwall and make a bunch of different products put those products into paywalls and then"
+    },
+    {
+      "start": 488.4,
+      "end": 495.84000000000003,
+      "text": "AP test that and try and find like the highest LTV the highest average order value etc etc but"
+    },
+    {
+      "start": 495.84000000000003,
+      "end": 500.48,
+      "text": "final just make one product the localization this doesn't really matter we're just going to call"
+    },
+    {
+      "start": 501.20000000000005,
+      "end": 511.28000000000003,
+      "text": "yearly yearly subscription to Cal AI. Okay great and then we'll click Save"
+    },
+    {
+      "start": 516.24,
+      "end": 521.12,
+      "text": "and that should be fine actually I think we need an image for some reason they still make you do"
+    },
+    {
+      "start": 521.12,
+      "end": 528.64,
+      "text": "this very confusing very very confusing but we'll add an image we'll just copy this and drag that in."
+    },
+    {
+      "start": 531.28,
+      "end": 538.0,
+      "text": "Okay great now this has to be submitted for review and of course we can't submit it for review"
+    },
+    {
+      "start": 538.0,
+      "end": 542.96,
+      "text": "until the app is finished so upon launch I don't think you'll be able to monetize your app I think"
+    },
+    {
+      "start": 542.96,
+      "end": 550.5600000000001,
+      "text": "you need to wait at least like one version cycle so let's see release 1.0 and 1.1 you can release"
+    },
+    {
+      "start": 550.5600000000001,
+      "end": 554.08,
+      "text": "the in that purchase for some reason I don't know why Apple does this I don't know why they need"
+    },
+    {
+      "start": 554.08,
+      "end": 559.52,
+      "text": "to even review subscriptions and pricing it just seems like a complete waste of time but hey that's"
+    },
+    {
+      "start": 559.52,
+      "end": 565.4399999999999,
+      "text": "how they do it the most important thing you need to do here is copy this yearly first the product"
+    },
+    {
+      "start": 565.4399999999999,
+      "end": 571.1999999999999,
+      "text": "ID and for every subsequent and future subscription you create the product ID is how super will"
+    },
+    {
+      "start": 571.1999999999999,
+      "end": 576.3199999999999,
+      "text": "will super wall will identify this on the back and with App Store Connect so what we're going to do"
+    },
+    {
+      "start": 577.36,
+      "end": 586.0799999999999,
+      "text": "is go to Super wall and clicking next next and then adding products on the left hand side so"
+    },
+    {
+      "start": 586.08,
+      "end": 593.36,
+      "text": "click add products paste in the product ID and then select the price and trial and period so we did"
+    },
+    {
+      "start": 593.36,
+      "end": 601.6,
+      "text": "29.99 so we'll select that the period is the year and we'll click safe so now this is our first"
+    },
+    {
+      "start": 601.6,
+      "end": 606.8000000000001,
+      "text": "product this isn't like fully registered because Apple need to approve it but we can now use it"
+    },
+    {
+      "start": 606.8000000000001,
+      "end": 613.9200000000001,
+      "text": "to test our paywalls and fuck her out so that's great so we'll go into paywalls we'll click into this"
+    },
+    {
+      "start": 613.92,
+      "end": 620.7199999999999,
+      "text": "paywall and then on the left hand side click products and then for the primary we'll just click"
+    },
+    {
+      "start": 620.7199999999999,
+      "end": 628.8,
+      "text": "the 29.99 zone a year then we can remove the tertiary and secondary and bomb we are good just click"
+    },
+    {
+      "start": 628.8,
+      "end": 636.4799999999999,
+      "text": "save and publish some top right so as you can see it's now pulling the pricing it says 29.99"
+    },
+    {
+      "start": 636.4799999999999,
+      "end": 642.3199999999999,
+      "text": "a year only 2.49 a month now when people click the big blue button they are prompted to pay using"
+    },
+    {
+      "start": 642.32,
+      "end": 650.48,
+      "text": "Apple pay for your app and that should be fleeced up which is great okay cool"
+    },
+    {
+      "start": 665.44,
+      "end": 665.84,
+      "text": "okay"
+    },
+    {
+      "start": 702.32,
+      "end": 707.44,
+      "text": "all right so now we're going to put this all into practice let me run you through the exact"
+    },
+    {
+      "start": 707.44,
+      "end": 712.5600000000001,
+      "text": "flow how we're going to put it together and how this will work holistically so first we're"
+    },
+    {
+      "start": 712.5600000000001,
+      "end": 718.8000000000001,
+      "text": "going to go to Cali app make sure on-boarding view is the first one I think for this example"
+    },
+    {
+      "start": 718.8000000000001,
+      "end": 725.84,
+      "text": "this is very clear after the on-boarding view and after it's been calculated let's see when"
+    },
+    {
+      "start": 725.84,
+      "end": 732.88,
+      "text": "it's been calculated so it runs this command which is on done on done is triggered"
+    },
+    {
+      "start": 736.4,
+      "end": 747.0400000000001,
+      "text": "okay on done finalize on-boarding so we'll find this and then we will do superwall.shared.presentview"
+    },
+    {
+      "start": 747.04,
+      "end": 758.56,
+      "text": "actually let me just copy it's a registered placement not presentview we'll paste that in here"
+    },
+    {
+      "start": 759.4399999999999,
+      "end": 770.16,
+      "text": "and then we'll import superwall kit and now we'll do this actually just just for example"
+    },
+    {
+      "start": 770.24,
+      "end": 775.6,
+      "text": "we'll add state bar private bar clicked pewall equals false"
+    },
+    {
+      "start": 778.3199999999999,
+      "end": 784.48,
+      "text": "so now if this has been clicked because usually we can't test out superwall until they improve"
+    },
+    {
+      "start": 784.48,
+      "end": 795.6,
+      "text": "the product so if this has been clicked we will do if pewall clicked if what was it again"
+    },
+    {
+      "start": 796.08,
+      "end": 807.2,
+      "text": "if clicked pewall equals false we'll trigger this else if clicked pewall equals true"
+    },
+    {
+      "start": 808.4,
+      "end": 818.4,
+      "text": "actually you know should just be else this and then if else it should present the content view"
+    },
+    {
+      "start": 818.8,
+      "end": 826.0799999999999,
+      "text": "so we'll do that before that works we need to make sure click the pewall dot toggle"
+    },
+    {
+      "start": 830.48,
+      "end": 838.48,
+      "text": "great"
+    },
+    {
+      "start": 838.5600000000001,
+      "end": 854.4,
+      "text": "okay we'll just do this and then open pewall wait"
+    },
+    {
+      "start": 854.48,
+      "end": 879.04,
+      "text": "okay so now we should be this if clicked pewall equals true navigation link label"
+    },
+    {
+      "start": 879.1999999999999,
+      "end": 891.68,
+      "text": "access app and the navigation link should link to the main view which is content view okay so now this"
+    },
+    {
+      "start": 891.68,
+      "end": 899.04,
+      "text": "should work this is like the full package right here so we'll have it on warning so welcome to"
+    },
+    {
+      "start": 899.04,
+      "end": 904.16,
+      "text": "Kalaiar tell us to use this sound good yes let's do it where am I starting from I'm a total"
+    },
+    {
+      "start": 905.12,
+      "end": 911.76,
+      "text": "what's my primary goal to lose fat what's my target pace I'm gonna say balanced how do you want to"
+    },
+    {
+      "start": 911.76,
+      "end": 916.64,
+      "text": "track I want to do photo estimates you'll take targets fucking sick I want to play around with it"
+    },
+    {
+      "start": 916.64,
+      "end": 923.28,
+      "text": "typical weak day activity I'd say some movement not that much but some movement how many workouts do"
+    },
+    {
+      "start": 923.28,
+      "end": 928.64,
+      "text": "I do a week I do fucking zero I don't know what I'm doing what tricks you up the most probably late"
+    },
+    {
+      "start": 929.1999999999999,
+      "end": 934.64,
+      "text": "actually weekends I just drink drink drink drink and I get nowhere and I become fat that's what I do"
+    },
+    {
+      "start": 935.92,
+      "end": 947.28,
+      "text": "any do's I love or hate I hate tuna okay if we nail this what changes first look cleaner feel more"
+    },
+    {
+      "start": 947.28,
+      "end": 952.08,
+      "text": "confident more into your focus oh this is very intentional language and I kind of created"
+    },
+    {
+      "start": 952.1600000000001,
+      "end": 959.12,
+      "text": "charge you be to give this kind of response but like showing them the transformation of like okay if"
+    },
+    {
+      "start": 959.12,
+      "end": 965.44,
+      "text": "this app works out what happens I get more energy focus I become more confident I look cleaner I"
+    },
+    {
+      "start": 965.44,
+      "end": 969.76,
+      "text": "perform better in training like these are all direct results so when you're prompted with a pay"
+    },
+    {
+      "start": 969.76,
+      "end": 975.76,
+      "text": "all for like 2999 a year you're like fuck yeah I get all of this and all I gotta do is pay 30 bucks"
+    },
+    {
+      "start": 975.76,
+      "end": 979.9200000000001,
+      "text": "now it is slightly misleading because it's still up to the person to make those changes in their"
+    },
+    {
+      "start": 979.92,
+      "end": 985.28,
+      "text": "own life like the app just because you pay doesn't mean it's gonna like fucking transform overnight"
+    },
+    {
+      "start": 985.28,
+      "end": 991.12,
+      "text": "it still takes a time and dedication and grip but this language really helps sell the product so"
+    },
+    {
+      "start": 991.12,
+      "end": 996.56,
+      "text": "then you click finish calculates your plan boom you get hit with the paywall not obviously this is"
+    },
+    {
+      "start": 996.56,
+      "end": 1000.8,
+      "text": "a little bit fast they would change it up at the end but this is just for demonstration purposes"
+    },
+    {
+      "start": 1000.8,
+      "end": 1006.24,
+      "text": "hits you with the paywall so now that trigger is done let's hyperfittingly say I click continue"
+    },
+    {
+      "start": 1006.32,
+      "end": 1012.08,
+      "text": "and I pay obviously we have this error because we can't find the product yet which is totally fine"
+    },
+    {
+      "start": 1012.08,
+      "end": 1019.12,
+      "text": "obviously expected that you click x out and now you see access app oh can I click it click it"
+    },
+    {
+      "start": 1021.04,
+      "end": 1028.48,
+      "text": "damn it's probably because that's in front but let's say you did click it and you did pay"
+    },
+    {
+      "start": 1029.2,
+      "end": 1037.84,
+      "text": "what would happen now well you guessed it we're in the fucking app we paid for it we're in"
+    },
+    {
+      "start": 1037.84,
+      "end": 1047.04,
+      "text": "and now I can take a picture of my lasagna and cal ai will estimate the calories and it's doing"
+    },
+    {
+      "start": 1047.04,
+      "end": 1052.32,
+      "text": "exactly what I paid for it works like a charm so you see everything we've just done"
+    },
+    {
+      "start": 1053.28,
+      "end": 1060.3999999999999,
+      "text": "in under like an hour has built us a product that has an onboarding that convinces a user to"
+    },
+    {
+      "start": 1060.3999999999999,
+      "end": 1066.1599999999999,
+      "text": "finally pay we have a paywall that prompts the user to actually pay with a price that we can"
+    },
+    {
+      "start": 1066.1599999999999,
+      "end": 1073.84,
+      "text": "AB test etc and after the user is paid they have access to the app and now they can use it"
+    },
+    {
+      "start": 1075.4399999999998,
+      "end": 1079.76,
+      "text": "and it works and everyone's happy you've just made money you just provided a great product"
+    },
+    {
+      "start": 1079.76,
+      "end": 1090.56,
+      "text": "experience and now people are using your app to better their lives congrats everyone we did it"
+    },
+    {
+      "start": 1091.12,
+      "end": 1095.36,
+      "text": "now obviously this is not the end of the tutorial I'm going to get way more in depth with like"
+    },
+    {
+      "start": 1095.36,
+      "end": 1100.16,
+      "text": "building a way more polished products but that's just kind of like the service level of what we're"
+    },
+    {
+      "start": 1100.16,
+      "end": 1105.84,
+      "text": "building here this is more of a demonstration how easy it is there is more technical components"
+    },
+    {
+      "start": 1105.84,
+      "end": 1112.0,
+      "text": "in order to like log the subscription to track the data to make sure that actually looks good to"
+    },
+    {
+      "start": 1112.0,
+      "end": 1117.12,
+      "text": "ask the right questions and I will be running through that but that's like the main public"
+    },
+    {
+      "start": 1117.12,
+      "end": 1123.28,
+      "text": "tutorial just to show you how I got from zero to hero I finally have a product that I could"
+    },
+    {
+      "start": 1123.28,
+      "end": 1129.1999999999998,
+      "text": "actually sell and even without like the paywall logic you could probably fucking sell this"
+    },
+    {
+      "start": 1129.28,
+      "end": 1136.16,
+      "text": "by the way all the get hub links and all the code links will be in the description or in the"
+    },
+    {
+      "start": 1136.16,
+      "end": 1141.8400000000001,
+      "text": "document so find that and yeah the next part of this let's see what we're going through"
+    },
+    {
+      "start": 1143.1200000000001,
+      "end": 1147.04,
+      "text": "so we'll be going through database setup which"
+    },
+    {
+      "start": 1152.4,
+      "end": 1158.72,
+      "text": "I'd say is important I'll get back to it analytics final cleanup and optimizations I'm going"
+    },
+    {
+      "start": 1158.72,
+      "end": 1161.76,
+      "text": "to spend a lot more time on the cleanup and optimizations to show you how to build like an"
+    },
+    {
+      "start": 1161.76,
+      "end": 1168.08,
+      "text": "actual solid robust app but yeah that's it for this congrats guys good shit"
+    }
+  ]
+}

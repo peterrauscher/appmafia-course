@@ -1,0 +1,1077 @@
+{
+  "file_name": "015_Lesson_15.faudio-hi-0-Default.mp4",
+  "text": " What's up guys, Zach Yada Garry here, co-founder and CEO of Cal AI. You're going to hear about me more later in the distribution section especially, but I'm just going to jump in here and talk about some primary and secondary design principles for you to keep in mind. I'm going to be picking off after Blake's. So he put together this whole testosterone max app design and he showed you guys how to wire for him it. He also showed you how to hire a designer to take these designs and make them into something beautiful. We have not had a designer redesign it yet. However, so I'm just going to jump in and assume by this point you should have more beautiful designs. I guess it doesn't actually. You should honestly have this stuff done in your wire frame. The stuff I'm about to go over to be honest and then you should probably send it to a designer. So he showed the wire frame so you open the app and then it's going to tell you complete your first analysis. You hit start. This is a primary action, the start. You are doing your first analysis. There are other buttons on the screen. This is some kind of calendar. You can click and see past days. It depends if you want to add that functionality to see past days. But then maybe at the bottom you'll have an app bar where you have multiple different tabs that they could go to. A home tab of I think is a little cut off. My full screen is actually not being shown. Let me adjust this. Okay, it should be better now. But I don't know how much was cut off. I'm just going to keep going. So the primary action is the start because this is what you want your users to do. You basically want to spoon feed them the buttons to click. You want to make sure that they clearly understand where to go in the flow of the app. And that's kind of what makes an intuitive design. An intuitive design is when you have one clear action per screen. So on this screen the clear action is to start your analysis. That's the big button. And then you might have some secondary ones at the bottom where it's like, okay, home settings. There's not much content without having your first analysis. You'll want to show. Maybe you'll have like something like recommendations unavailable. Something like this, the designer would make this look good. And the reason they're unavailable. It's just to show the user. Yeah, there is more content. But until you start your analysis, you're going to do that. Maybe like recommendations. You could even put some recommendations here. But then kind of blur them out. And that could actually be a cool thing. It's like, put something over, make it kind of light, but add a blur effect to it. Layer blur. I don't know if the layer is the right. Is what I'm looking for. I think layer blur on this actually. So recommendations needs to be separate. Okay. Look. Give her this. Take this stuff. Get out of here. Okay. So I'm going to add a layer blur to I'm going to make two separate text elements. Lucky, this is all part of the wireframe. So I'm just like going off here, but I just think it's a cool idea to add a layer blur. Be like very blurry. And then you would put a button or it's like, scan to get recommendations. Just to like show them. Honestly, this might not look good after having a designer go over it. Like a lot of the time you just want to put things out there. And by the way, this is too long of a text for a call to action. You always want it to be shorter. But sometimes you'll want to just put stuff out there and just have designers work on it and then see what you like and what you don't like. Don't be afraid to try things and then cut them if they are not good. But this isn't, this isn't the worst. So something like this. And then you click this basically just like the start button, but just more content on the page. This is technically a secondary action, but it takes you to the same flows the primary. So primary actions are everything that's you only have typically one primary action per page and then everything else is secondary. I mean, you could have like secondary tertiary and just keep going down the list. But we're all that really matters. You don't need to overcomplicate this. So you want one clear button on a repage. Here is the start button. Once you click this, then we're going to want to take them to a page where it shows, where it shows maybe a camera, for example, or not a camera. So let's see the input is a selfie. Okay, so camera. So you want like a camera, a take picture button, and the take picture now is the primary action. Take picture. Obviously you don't want to have like a text label like this. You'll actually want a real camera button, but again, this is this is all wireframe. I have not had a designer go over it. So take picture. You'll also want a back button. Boom. And this will, this is a camera. So you'll see your face. Great. Big smile. And so on this page, the primary action is taking a picture. The secondary action is hitting a knee back arrow. That's a good thing about this. Once you take a picture, get the scan. You're going to enter your info blah blah. You have like ideally a good thing to do. You don't always have to do this, but putting one input field per page makes it very simple. Like onboarding flows, for example, it's one question per page generally. Sometimes they put multiple. Like if things fit together, sometimes age, sorry, sometimes weight and height is put together because that that is that flows and is typically seen as something together. It's also proportional. They affect each other. But then if you're going to ask unrelated questions and a row, it's always smoother to just separate the screens to keep one primary action per screen. So once you take the picture, go through all the questions that you'll design. The homepage will look something like this. Five actions left for the day. You'll have all your actions. And then you'll probably want something at the bottom where it's like new scan or like I honestly would put like a picture frame here. This is a picture of you when you scan. You'll be like last scan, 9-21, like some date. And then I'm honestly modeling this kind of after Kelly. Right now it can be anything but last scan, overall score, 99, add 100. And then maybe then like a few more bottomer like open. Lucky this is pretty shitty. It can fire frame and this is a wire frame. Okay. But maybe you want all your scans and then like I honestly so I would think you don't like scans section here. So you have your recommendation section, your scan section and you'll want a new scan button. Honestly how this is all laid out may not be optimal. You might want the new scan above your previous scan. You might want a list of like all of your past scans. That's a little bit more unclear. You might want the scans above the actions that honestly could work too. I can see how that could look good. But you want a new scan button. So on this page, the primary actions, although there's not necessarily one clear button, the primary action is to clear these actions. Maybe it's like maybe these are check boxes. You're just ticking them off. I don't like the auto layout stuff that Blake did. I'm not good at this stuff. So what you should learn it though. It's a good thing if you do something that I'm bad at. So it's not dry. But whatever you have like check boxes, you could check off the actions as you complete them. And technically if you want to really break down the hierarchy of things, the top action, this would be the primary action. This would be the secondary action to reshare you blah blah blah. And then new scan is like whatever the next after all of those. So the user comes on and they do that. Let's look at more examples of when you design how to think about the primary and secondary actions. So let's open up actually Cal AI in the design here. So in Cal AI, this is the main homepage. And the primary action, can you guess what it is? Primary action is clicking the plus. And it's a little bit less clear here that this is the primary action because there's so much going on on the screen. You see your calories left. You see a calendar at the top. You see a bar at the bottom with different pages. You see a recently uploaded section. The way you know it's the primary action and the way we show users that it is to make it easier is that we say you haven't uploaded any food and we have an arrow pointing to this big black button in the corner with a plus. This entire section is just dedicated to someone clicking on the black button. So that's how we kind of solve for so much going on on the screen. Then they hit the plus. Once they do it once the learn that that is it's all of this design really is most important for when a user first uses your app because you want it to be so easy. They don't need a manual. They don't need a god to use it. Video games, the first video games ever invented. You actually needed to read an entire manual in order to play them, which sucked obviously. That was way too much friction for most consumers who care enough to want to learn and play the game. For apps we want to make sure you do not need any instructions. You don't need any manual. It should be so easy, so intuitive, so simple that they just jump in and know exactly where to go. So you hit the plus. That's the primary action. There are a ton of other secondary actions like the pages clicking into this clicking past days in the calendar. And how I would think about designing your app is the primary action by far as what matters, especially for launch. When we launched KLAI, actually let me try to see if I can find this picture. But when we launched KLAI, it had one feature on it. Trying to find it right now. Actually, oh here it is. Suck. Okay. So Blake made this tweet. This was KLAI version 0.0. This is what we launched with. We literally launched with just the primary action. Take a picture of your meal. You hit the plus. It will take you to a camera. Snap the picture. Takes you back to the home screen. We'll load and show you the calories. That was it. There are no secondary actions here. But only other action there even is is clicking the calendar to go back to yesterday. That was the only other action even possible. And this worked for us. This was with this design we did $30,000 that month. And so in the second month, we did $150,000. And I think we were actually still in this design. Maybe a little bit more built out. But it was still very poor. So that should show you that you don't need to overthink things. You don't need to have too many features. The primary action is truly all that really matters right away. But you do want secondary actions to really build out the content of the app. This is kind of where more of retention comes in. Like obviously if they're downloading their app, your app, they're doing it because of your primary action. And that's what all your marketing is around. The secondary actions should kind of help the primary action. So for example, Cali. We're not just going to put random secondary actions. Like it would be if the primary action was track your calories, track your food. And then the secondary action was create a workout plan. That's somewhat related. But it's not close enough where it really, it's not close enough where it's intuitive. Instead, what we have is when you hit the plus, you're prompted with a few things. So you could scan food, log food from the database, log food from your save foods. And you also can long an exercise. All of this is related to calories. Basically, you could say the core action is log either calories eaten or calories burned because that's all this is. There's logging calories. You're either logging the food you ate or you're logging calories you've earned. We didn't have log exercise early on in Cali. We just had log food. And logging exercise that is a secondary action that benefits the user and helps because it helps them track their calories more accurately. That's how really I would look at secondary actions is that they are just supporting to the primary action, support a supporting role. Make sure that you don't put too much into your into your designs and screens. That was a big innovation we made going from Cali to my fitness belt was just simplifying the entire app. I'm actually going to find something right now that I have basically Cali. One of the best things about us that most people don't talk about is just how we made ourselves so easy to use. Look at this. So it's pretty blurry. I just pulled this from Forbes article about us. So it'll flex right there. You have Cali. It's actually crazy. You could build an app. An app idea can just come out of your mind and boom your informs a few months later. This could be you next. So Cali, you can see on the left and you can see all the other ones even though they're super blurry next to it. So my fitness pal look at everything going on. This is Cali. You can see everything fits in one page. My fitness pal it's already cut off. You have to scroll. There's so much more content. There are four different tabs here. There are these things underneath for steps and exercise. Your weight grabs you. Just so much shoved into one page. The core action is searching food. But then they put so many secondary actions that the app is so hard to understand. It's unintuitive. You need a manual. You need someone helping you. Legitimately, when you download my fitness pal, you need a friend telling you how to really onboard to it. There's a lot of friction. There are some other apps here and I don't really know their names for all of them. But you could see they all also have a ton going on. So much. It's confusing. When you look at a screen that you should instantly know what is the button I click to perform the desired action. With my fitness pal to be honest, it's very confusing to just know how to track your calories properly and all of these other apps as well. Cali, you could see weight easier and obviously I'm biased but like you could see this with your own eyes. It's fucking clear. So primary action right here clearly you could see it is hitting the plus. With my fitness pal, it's a little bit less clear but you can see it's searching for food. The reason this is not great is because primary actions a search bar is usually not a primary action. That's a little bit unintuitive. People are used to hitting a button, not hitting a search bar. But it's a search for food after like it's easy enough where you look at it the first time and then you're like okay that's how I do it. But then with everything else going on it's just so much. It takes the user wild to even see the search bar there. It's confusing. A jumble, a mess. Here this is honestly a lot less clear. There's an orange plus at the bottom. It's very small but and so much going on here you even see it take the quiz button. If I'm looking at this I kind of think that the take the quiz might even be the call to action. That might be the primary action because it's the biggest button on the screen and it's bright orange. So to me that's calling out to me which obviously it's wrong taking a quiz shouldn't be the core action. It's logging your food. This app a little bit better because the button is bigger at the bottom I think it's the biggest break green button in the app. So more clear but still a ton going on. It's not super not super obvious. Life sum it does better for sure. It's a lot more simple. They are much more intuitive and easy to understand. However they too are a little bit convoluted. You can see you have to scroll down to see all of the content on the page. I see four plus buttons on this app. So I'm confused. Okay am I supposed to click the green one at the bottom or am I supposed to click the one on the side here. But overall they're probably better. Then they're better than the other ones besides Kalei. Kalei is the best. So going back and talking about your design. I would think about orienting everything around the primary action. Making it very clear on every single page. Not just the homepage but every single page with the main button is and then you could have secondary buttons but they should always be de-emphasized. So if you're going to have two buttons for example a take picture button or if you want the option that less people do but you want to offer it be upload a picture. Then what you do is you just you put the button somewhere but you make it less less big less flashy. Put it underneath. If I'm looking at this it's clear. The core action is take a picture. Segmentary action is upload both are an option but more people will gravitate towards take a picture. If alternatively you want people to take more and upload less then you just flip them. Put one upload and then take at the bottom and consumer psychology will tell you that this will just cause more people to click the bigger the bigger more flashy button. Nine times out of time. Sick. Not much more for me to say on this. I think I really exhausted the terms primary and secondary actions. Something I do want to say though for your design. Just keep in mind that all of this can be iterated on it. All of this can be changed. Don't be a perfectionist. Just launch. Going back to the version of Cali we initially launched with. It was fucking embarrassing. If you're not embarrassed with what you're launching with then you launch too late. That's a quote. It's not necessarily always the case but I think generally it's a good framework you should launch earlier than you think. You don't need to have everything perfect but you need to have most importantly the core action. And it's also something in business just in general is that users are coming to your app for the one main action and the secondary actions aren't going to get them to leave. They're not going to get them to stay unless you overdo them. You yeah you really just should not have that. You don't want too many features in your app. You own one core feature and then you want some supporting features to the core feature but you not want all these random things baked in. Keep your app simple. Don't be the one stop shop for mediocre products. Instead be the single store shop for great products. Everyone asks why we don't put workout plans into Cali. And the answer is because it's going to convolut the app too much. There's going to be way too much going on. Sure people who track their calories probably want to work out as well and want workout plans. A good percentage of them but I would prefer to build a whole separate app under the same umbrella company that is all about fitness and we could even have a link in Cali to go download that app. But including them together is too much going on. That's the point of the app store. That's why we have multiple apps on our phones. I think each app should serve a very specific purpose. One app for track and calories, one app for working out. If you combine both then it's mediocre on both fronts. It gets convoluted confusing and it's just not what's intended by the fact that we literally have two. You could have multiple apps on your phones. For a reason, also you're missing out on additional revenue because you could charge two subscriptions. Two for different apps. That is actually more new ones because like some people say, okay, I want to build a super app for everything. You just charge a higher price. But we don't want to do that. We want to be simple, intuitive straight to the point and pump and print fucking cash. We're not the next reach out. Okay, I'm going to end this section here and see you guys in one of the later ones. Good luck.",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.72,
+      "text": "What's up guys, Zach Yada Garry here, co-founder and CEO of Cal AI."
+    },
+    {
+      "start": 4.72,
+      "end": 8.96,
+      "text": "You're going to hear about me more later in the distribution section especially,"
+    },
+    {
+      "start": 8.96,
+      "end": 14.72,
+      "text": "but I'm just going to jump in here and talk about some primary and secondary design principles"
+    },
+    {
+      "start": 14.72,
+      "end": 18.48,
+      "text": "for you to keep in mind. I'm going to be picking off after Blake's."
+    },
+    {
+      "start": 18.48,
+      "end": 29.36,
+      "text": "So he put together this whole testosterone max app design and he showed you guys how to wire for him it."
+    },
+    {
+      "start": 29.36,
+      "end": 34.72,
+      "text": "He also showed you how to hire a designer to take these designs and make them into something beautiful."
+    },
+    {
+      "start": 35.519999999999996,
+      "end": 38.08,
+      "text": "We have not had a designer redesign it yet."
+    },
+    {
+      "start": 38.8,
+      "end": 45.04,
+      "text": "However, so I'm just going to jump in and assume by this point you should have more beautiful designs."
+    },
+    {
+      "start": 46.4,
+      "end": 50.56,
+      "text": "I guess it doesn't actually. You should honestly have this stuff done in your wire"
+    },
+    {
+      "start": 50.56,
+      "end": 54.879999999999995,
+      "text": "frame. The stuff I'm about to go over to be honest and then you should probably send it to a designer."
+    },
+    {
+      "start": 55.28,
+      "end": 62.800000000000004,
+      "text": "So he showed the wire frame so you open the app and then it's going to tell you complete your first analysis."
+    },
+    {
+      "start": 62.800000000000004,
+      "end": 71.44,
+      "text": "You hit start. This is a primary action, the start. You are doing your first analysis."
+    },
+    {
+      "start": 72.0,
+      "end": 77.44,
+      "text": "There are other buttons on the screen. This is some kind of calendar. You can click and see past days."
+    },
+    {
+      "start": 78.32000000000001,
+      "end": 82.72,
+      "text": "It depends if you want to add that functionality to see past days. But then maybe at the bottom"
+    },
+    {
+      "start": 82.8,
+      "end": 87.36,
+      "text": "you'll have an app bar where you have multiple different tabs that they could go to."
+    },
+    {
+      "start": 87.92,
+      "end": 96.0,
+      "text": "A home tab of I think is a little cut off. My full screen is actually not being shown. Let me adjust this."
+    },
+    {
+      "start": 101.2,
+      "end": 108.24,
+      "text": "Okay, it should be better now. But I don't know how much was cut off. I'm just going to keep going."
+    },
+    {
+      "start": 109.19999999999999,
+      "end": 116.72,
+      "text": "So the primary action is the start because this is what you want your users to do. You basically want to"
+    },
+    {
+      "start": 117.52,
+      "end": 125.6,
+      "text": "spoon feed them the buttons to click. You want to make sure that they clearly understand where to go"
+    },
+    {
+      "start": 125.6,
+      "end": 131.04,
+      "text": "in the flow of the app. And that's kind of what makes an intuitive design. An intuitive design"
+    },
+    {
+      "start": 131.67999999999998,
+      "end": 139.44,
+      "text": "is when you have one clear action per screen. So on this screen the clear action is to start your"
+    },
+    {
+      "start": 139.44,
+      "end": 144.72,
+      "text": "analysis. That's the big button. And then you might have some secondary ones at the bottom where it's"
+    },
+    {
+      "start": 144.72,
+      "end": 151.28,
+      "text": "like, okay, home settings. There's not much content without having your first analysis. You'll want"
+    },
+    {
+      "start": 151.28,
+      "end": 158.48,
+      "text": "to show. Maybe you'll have like something like recommendations unavailable. Something like this,"
+    },
+    {
+      "start": 158.48,
+      "end": 162.95999999999998,
+      "text": "the designer would make this look good. And the reason they're unavailable. It's just to show the"
+    },
+    {
+      "start": 162.95999999999998,
+      "end": 167.76,
+      "text": "user. Yeah, there is more content. But until you start your analysis, you're going to do that."
+    },
+    {
+      "start": 167.76,
+      "end": 174.56,
+      "text": "Maybe like recommendations. You could even put some recommendations here. But then kind of blur them out."
+    },
+    {
+      "start": 176.39999999999998,
+      "end": 184.23999999999998,
+      "text": "And that could actually be a cool thing. It's like, put something over, make it kind of light,"
+    },
+    {
+      "start": 184.24,
+      "end": 197.20000000000002,
+      "text": "but add a blur effect to it. Layer blur. I don't know if the layer is the right. Is what I'm looking"
+    },
+    {
+      "start": 197.20000000000002,
+      "end": 202.96,
+      "text": "for. I think layer blur on this actually. So recommendations needs to be separate."
+    },
+    {
+      "start": 203.12,
+      "end": 206.32000000000002,
+      "text": "Okay."
+    },
+    {
+      "start": 209.04000000000002,
+      "end": 217.84,
+      "text": "Look. Give her this. Take this stuff. Get out of here. Okay. So I'm going to add a layer blur to"
+    },
+    {
+      "start": 218.32,
+      "end": 233.12,
+      "text": "I'm going to make two separate text elements. Lucky, this is all part of the wireframe. So I'm just"
+    },
+    {
+      "start": 233.12,
+      "end": 239.92000000000002,
+      "text": "like going off here, but I just think it's a cool idea to add a layer blur. Be like very blurry."
+    },
+    {
+      "start": 240.79999999999998,
+      "end": 244.07999999999998,
+      "text": "And then you would put a button or it's like,"
+    },
+    {
+      "start": 247.92,
+      "end": 254.72,
+      "text": "scan to get recommendations. Just to like show them. Honestly, this might not look good"
+    },
+    {
+      "start": 254.72,
+      "end": 258.24,
+      "text": "after having a designer go over it. Like a lot of the time you just want to"
+    },
+    {
+      "start": 259.52,
+      "end": 263.36,
+      "text": "put things out there. And by the way, this is too long of a text for a call to action. You always"
+    },
+    {
+      "start": 263.36,
+      "end": 267.91999999999996,
+      "text": "want it to be shorter. But sometimes you'll want to just put stuff out there and just have"
+    },
+    {
+      "start": 267.92,
+      "end": 272.72,
+      "text": "designers work on it and then see what you like and what you don't like. Don't be afraid to try"
+    },
+    {
+      "start": 272.72,
+      "end": 280.88,
+      "text": "things and then cut them if they are not good. But this isn't, this isn't the worst. So something"
+    },
+    {
+      "start": 280.88,
+      "end": 284.8,
+      "text": "like this. And then you click this basically just like the start button, but just more content on"
+    },
+    {
+      "start": 284.8,
+      "end": 289.52000000000004,
+      "text": "the page. This is technically a secondary action, but it takes you to the same flows the primary."
+    },
+    {
+      "start": 290.40000000000003,
+      "end": 297.12,
+      "text": "So primary actions are everything that's you only have typically one primary action per page"
+    },
+    {
+      "start": 297.12,
+      "end": 302.64,
+      "text": "and then everything else is secondary. I mean, you could have like secondary tertiary and just"
+    },
+    {
+      "start": 302.64,
+      "end": 308.0,
+      "text": "keep going down the list. But we're all that really matters. You don't need to overcomplicate this."
+    },
+    {
+      "start": 308.0,
+      "end": 312.16,
+      "text": "So you want one clear button on a repage. Here is the start button. Once you click this,"
+    },
+    {
+      "start": 313.04,
+      "end": 321.52,
+      "text": "then we're going to want to take them to a page where it shows, where it shows maybe a camera,"
+    },
+    {
+      "start": 321.52,
+      "end": 325.52,
+      "text": "for example, or not a camera. So let's see the input is a selfie. Okay, so camera."
+    },
+    {
+      "start": 325.91999999999996,
+      "end": 334.08,
+      "text": "So you want like a camera, a take picture button, and the take picture now is the primary action."
+    },
+    {
+      "start": 335.91999999999996,
+      "end": 340.15999999999997,
+      "text": "Take picture. Obviously you don't want to have like a text label like this. You'll actually want"
+    },
+    {
+      "start": 340.15999999999997,
+      "end": 345.52,
+      "text": "a real camera button, but again, this is this is all wireframe. I have not had a"
+    },
+    {
+      "start": 346.47999999999996,
+      "end": 352.15999999999997,
+      "text": "designer go over it. So take picture. You'll also want a back button. Boom."
+    },
+    {
+      "start": 352.56,
+      "end": 359.92,
+      "text": "And this will, this is a camera. So you'll see your face. Great. Big smile."
+    },
+    {
+      "start": 360.88000000000005,
+      "end": 365.84000000000003,
+      "text": "And so on this page, the primary action is taking a picture. The secondary action is hitting"
+    },
+    {
+      "start": 365.84000000000003,
+      "end": 371.04,
+      "text": "a knee back arrow. That's a good thing about this. Once you take a picture, get the scan. You're"
+    },
+    {
+      "start": 371.04,
+      "end": 376.64000000000004,
+      "text": "going to enter your info blah blah. You have like ideally a good thing to do. You don't always"
+    },
+    {
+      "start": 376.64,
+      "end": 382.32,
+      "text": "have to do this, but putting one input field per page makes it very simple. Like onboarding"
+    },
+    {
+      "start": 382.32,
+      "end": 388.15999999999997,
+      "text": "flows, for example, it's one question per page generally. Sometimes they put multiple. Like if"
+    },
+    {
+      "start": 388.15999999999997,
+      "end": 394.08,
+      "text": "things fit together, sometimes age, sorry, sometimes weight and height is put together because that"
+    },
+    {
+      "start": 394.08,
+      "end": 399.68,
+      "text": "that is that flows and is typically seen as something together. It's also proportional."
+    },
+    {
+      "start": 399.68,
+      "end": 405.28,
+      "text": "They affect each other. But then if you're going to ask unrelated questions and a row, it's always"
+    },
+    {
+      "start": 405.28,
+      "end": 412.15999999999997,
+      "text": "smoother to just separate the screens to keep one primary action per screen. So once you take"
+    },
+    {
+      "start": 412.15999999999997,
+      "end": 417.11999999999995,
+      "text": "the picture, go through all the questions that you'll design. The homepage will look something"
+    },
+    {
+      "start": 417.11999999999995,
+      "end": 422.32,
+      "text": "like this. Five actions left for the day. You'll have all your actions. And then you'll probably"
+    },
+    {
+      "start": 422.32,
+      "end": 429.91999999999996,
+      "text": "want something at the bottom where it's like new scan or like I honestly would put like a picture"
+    },
+    {
+      "start": 429.92,
+      "end": 439.12,
+      "text": "frame here. This is a picture of you when you scan. You'll be like last scan,"
+    },
+    {
+      "start": 440.08000000000004,
+      "end": 448.72,
+      "text": "9-21, like some date. And then I'm honestly modeling this kind of after Kelly. Right now it"
+    },
+    {
+      "start": 448.8,
+      "end": 461.6,
+      "text": "can be anything but last scan, overall score, 99, add 100. And then maybe"
+    },
+    {
+      "start": 467.44000000000005,
+      "end": 474.64000000000004,
+      "text": "then like a few more bottomer like open. Lucky this is pretty shitty. It can fire frame and"
+    },
+    {
+      "start": 474.88,
+      "end": 485.84,
+      "text": "this is a wire frame. Okay. But maybe you want all your scans and then like I honestly"
+    },
+    {
+      "start": 488.0,
+      "end": 493.68,
+      "text": "so I would think you don't like scans section here. So you have your recommendation section,"
+    },
+    {
+      "start": 493.68,
+      "end": 500.71999999999997,
+      "text": "your scan section and you'll want a new scan button. Honestly how this is all laid out may not"
+    },
+    {
+      "start": 500.72,
+      "end": 505.20000000000005,
+      "text": "be optimal. You might want the new scan above your previous scan. You might want a list of like all"
+    },
+    {
+      "start": 505.20000000000005,
+      "end": 510.96000000000004,
+      "text": "of your past scans. That's a little bit more unclear. You might want the scans above the actions"
+    },
+    {
+      "start": 511.52000000000004,
+      "end": 516.32,
+      "text": "that honestly could work too. I can see how that could look good. But you want a new scan button."
+    },
+    {
+      "start": 516.32,
+      "end": 521.84,
+      "text": "So on this page, the primary actions, although there's not necessarily one clear button,"
+    },
+    {
+      "start": 522.8000000000001,
+      "end": 529.36,
+      "text": "the primary action is to clear these actions. Maybe it's like maybe these are check boxes."
+    },
+    {
+      "start": 529.92,
+      "end": 531.28,
+      "text": "You're just ticking them off."
+    },
+    {
+      "start": 540.08,
+      "end": 544.72,
+      "text": "I don't like the auto layout stuff that Blake did. I'm not good at this stuff. So what"
+    },
+    {
+      "start": 545.92,
+      "end": 550.5600000000001,
+      "text": "you should learn it though. It's a good thing if you do something that I'm bad at. So"
+    },
+    {
+      "start": 552.32,
+      "end": 556.72,
+      "text": "it's not dry. But whatever you have like check boxes, you could check off the actions as you"
+    },
+    {
+      "start": 556.8000000000001,
+      "end": 560.0,
+      "text": "complete them. And technically if you want to really break down the hierarchy of things,"
+    },
+    {
+      "start": 560.0,
+      "end": 563.6,
+      "text": "the top action, this would be the primary action. This would be the secondary action to reshare"
+    },
+    {
+      "start": 563.6,
+      "end": 567.6,
+      "text": "you blah blah blah. And then new scan is like whatever the next after all of those."
+    },
+    {
+      "start": 568.96,
+      "end": 575.2,
+      "text": "So the user comes on and they do that. Let's look at more examples of"
+    },
+    {
+      "start": 576.48,
+      "end": 582.48,
+      "text": "when you design how to think about the primary and secondary actions. So let's open up actually"
+    },
+    {
+      "start": 582.5600000000001,
+      "end": 595.9200000000001,
+      "text": "Cal AI in the design here. So in Cal AI, this is the main homepage. And the primary action,"
+    },
+    {
+      "start": 595.9200000000001,
+      "end": 602.32,
+      "text": "can you guess what it is? Primary action is clicking the plus. And it's a little bit"
+    },
+    {
+      "start": 603.04,
+      "end": 608.4,
+      "text": "less clear here that this is the primary action because there's so much going on on the screen."
+    },
+    {
+      "start": 608.4,
+      "end": 613.52,
+      "text": "You see your calories left. You see a calendar at the top. You see a bar at the bottom with"
+    },
+    {
+      "start": 613.52,
+      "end": 618.0,
+      "text": "different pages. You see a recently uploaded section. The way you know it's the primary action and"
+    },
+    {
+      "start": 618.0,
+      "end": 624.0799999999999,
+      "text": "the way we show users that it is to make it easier is that we say you haven't uploaded any food"
+    },
+    {
+      "start": 624.0799999999999,
+      "end": 628.3199999999999,
+      "text": "and we have an arrow pointing to this big black button in the corner with a plus."
+    },
+    {
+      "start": 628.9599999999999,
+      "end": 634.4,
+      "text": "This entire section is just dedicated to someone clicking on the black button. So that's how we"
+    },
+    {
+      "start": 634.4,
+      "end": 639.1999999999999,
+      "text": "kind of solve for so much going on on the screen. Then they hit the plus. Once they do it once"
+    },
+    {
+      "start": 639.1999999999999,
+      "end": 646.16,
+      "text": "the learn that that is it's all of this design really is most important for when a user first uses"
+    },
+    {
+      "start": 646.16,
+      "end": 650.72,
+      "text": "your app because you want it to be so easy. They don't need a manual. They don't need a god to use it."
+    },
+    {
+      "start": 650.72,
+      "end": 656.0799999999999,
+      "text": "Video games, the first video games ever invented. You actually needed to read an entire manual in"
+    },
+    {
+      "start": 656.0799999999999,
+      "end": 661.84,
+      "text": "order to play them, which sucked obviously. That was way too much friction for most consumers who"
+    },
+    {
+      "start": 662.48,
+      "end": 668.24,
+      "text": "care enough to want to learn and play the game. For apps we want to make sure you do not need any"
+    },
+    {
+      "start": 668.24,
+      "end": 673.36,
+      "text": "instructions. You don't need any manual. It should be so easy, so intuitive, so simple that they"
+    },
+    {
+      "start": 673.36,
+      "end": 680.72,
+      "text": "just jump in and know exactly where to go. So you hit the plus. That's the primary action. There"
+    },
+    {
+      "start": 680.72,
+      "end": 685.36,
+      "text": "are a ton of other secondary actions like the pages clicking into this clicking past days in the"
+    },
+    {
+      "start": 685.36,
+      "end": 693.6,
+      "text": "calendar. And how I would think about designing your app is the primary action by far as"
+    },
+    {
+      "start": 693.6,
+      "end": 699.84,
+      "text": "what matters, especially for launch. When we launched KLAI, actually let me try to see if I can"
+    },
+    {
+      "start": 699.9200000000001,
+      "end": 704.96,
+      "text": "find this picture. But when we launched KLAI, it had one feature on it."
+    },
+    {
+      "start": 719.9200000000001,
+      "end": 724.1600000000001,
+      "text": "Trying to find it right now. Actually, oh here it is. Suck."
+    },
+    {
+      "start": 730.24,
+      "end": 738.32,
+      "text": "Okay. So Blake made this tweet. This was KLAI version 0.0. This is what we launched with."
+    },
+    {
+      "start": 738.32,
+      "end": 744.08,
+      "text": "We literally launched with just the primary action. Take a picture of your meal. You hit the"
+    },
+    {
+      "start": 744.08,
+      "end": 750.0,
+      "text": "plus. It will take you to a camera. Snap the picture. Takes you back to the home screen. We'll"
+    },
+    {
+      "start": 750.0,
+      "end": 755.84,
+      "text": "load and show you the calories. That was it. There are no secondary actions here. But only other"
+    },
+    {
+      "start": 755.84,
+      "end": 762.24,
+      "text": "action there even is is clicking the calendar to go back to yesterday. That was the only other action"
+    },
+    {
+      "start": 762.24,
+      "end": 769.2800000000001,
+      "text": "even possible. And this worked for us. This was with this design we did $30,000 that month."
+    },
+    {
+      "start": 770.48,
+      "end": 774.96,
+      "text": "And so in the second month, we did $150,000. And I think we were actually still in this design."
+    },
+    {
+      "start": 774.96,
+      "end": 783.36,
+      "text": "Maybe a little bit more built out. But it was still very poor. So that should show you that you"
+    },
+    {
+      "start": 783.36,
+      "end": 787.12,
+      "text": "don't need to overthink things. You don't need to have too many features. The primary action is"
+    },
+    {
+      "start": 787.12,
+      "end": 793.2,
+      "text": "truly all that really matters right away. But you do want secondary actions to really build out"
+    },
+    {
+      "start": 793.2,
+      "end": 799.92,
+      "text": "the content of the app. This is kind of where more of retention comes in. Like obviously if they're"
+    },
+    {
+      "start": 799.92,
+      "end": 805.6,
+      "text": "downloading their app, your app, they're doing it because of your primary action. And that's what"
+    },
+    {
+      "start": 805.6,
+      "end": 811.36,
+      "text": "all your marketing is around. The secondary actions should kind of help the primary action. So for"
+    },
+    {
+      "start": 811.36,
+      "end": 818.88,
+      "text": "example, Cali. We're not just going to put random secondary actions. Like it would be if the"
+    },
+    {
+      "start": 818.88,
+      "end": 824.88,
+      "text": "primary action was track your calories, track your food. And then the secondary action was"
+    },
+    {
+      "start": 827.36,
+      "end": 836.0,
+      "text": "create a workout plan. That's somewhat related. But it's not close enough where it really,"
+    },
+    {
+      "start": 836.0,
+      "end": 841.28,
+      "text": "it's not close enough where it's intuitive. Instead, what we have is when you hit the plus,"
+    },
+    {
+      "start": 841.84,
+      "end": 849.76,
+      "text": "you're prompted with a few things. So you could scan food, log food from the database, log food from"
+    },
+    {
+      "start": 849.76,
+      "end": 855.44,
+      "text": "your save foods. And you also can long an exercise. All of this is related to calories. Basically,"
+    },
+    {
+      "start": 855.44,
+      "end": 862.0,
+      "text": "you could say the core action is log either calories eaten or calories burned because that's all"
+    },
+    {
+      "start": 862.0,
+      "end": 866.24,
+      "text": "this is. There's logging calories. You're either logging the food you ate or you're logging calories"
+    },
+    {
+      "start": 866.24,
+      "end": 872.96,
+      "text": "you've earned. We didn't have log exercise early on in Cali. We just had log food. And logging"
+    },
+    {
+      "start": 872.96,
+      "end": 878.72,
+      "text": "exercise that is a secondary action that benefits the user and helps because it helps them track"
+    },
+    {
+      "start": 878.72,
+      "end": 884.48,
+      "text": "their calories more accurately. That's how really I would look at secondary actions is that they are"
+    },
+    {
+      "start": 884.48,
+      "end": 889.2,
+      "text": "just supporting to the primary action, support a supporting role."
+    },
+    {
+      "start": 901.36,
+      "end": 909.12,
+      "text": "Make sure that you don't put too much into your into your designs and screens. That was a big"
+    },
+    {
+      "start": 909.12,
+      "end": 915.36,
+      "text": "innovation we made going from Cali to my fitness belt was just simplifying the entire app."
+    },
+    {
+      "start": 916.0,
+      "end": 921.6,
+      "text": "I'm actually going to find something right now that I have basically"
+    },
+    {
+      "start": 924.08,
+      "end": 930.32,
+      "text": "Cali. One of the best things about us that most people don't talk about is just how we made"
+    },
+    {
+      "start": 930.32,
+      "end": 937.76,
+      "text": "ourselves so easy to use. Look at this. So it's pretty blurry. I just pulled this from Forbes"
+    },
+    {
+      "start": 937.92,
+      "end": 945.36,
+      "text": "article about us. So it'll flex right there. You have Cali. It's actually crazy. You could build an app."
+    },
+    {
+      "start": 945.36,
+      "end": 949.28,
+      "text": "An app idea can just come out of your mind and boom your informs a few months later. This could be"
+    },
+    {
+      "start": 949.28,
+      "end": 955.28,
+      "text": "you next. So Cali, you can see on the left and you can see all the other ones even though they're"
+    },
+    {
+      "start": 955.28,
+      "end": 962.4,
+      "text": "super blurry next to it. So my fitness pal look at everything going on. This is Cali. You can see"
+    },
+    {
+      "start": 962.4,
+      "end": 966.56,
+      "text": "everything fits in one page. My fitness pal it's already cut off. You have to scroll. There's"
+    },
+    {
+      "start": 966.56,
+      "end": 973.1199999999999,
+      "text": "so much more content. There are four different tabs here. There are these things underneath for"
+    },
+    {
+      "start": 973.1199999999999,
+      "end": 978.4799999999999,
+      "text": "steps and exercise. Your weight grabs you. Just so much shoved into one page. The core action is"
+    },
+    {
+      "start": 978.4799999999999,
+      "end": 984.64,
+      "text": "searching food. But then they put so many secondary actions that the app is so hard to understand."
+    },
+    {
+      "start": 984.64,
+      "end": 989.28,
+      "text": "It's unintuitive. You need a manual. You need someone helping you. Legitimately, when you download"
+    },
+    {
+      "start": 989.28,
+      "end": 995.1999999999999,
+      "text": "my fitness pal, you need a friend telling you how to really onboard to it. There's a lot of friction."
+    },
+    {
+      "start": 995.36,
+      "end": 1001.2,
+      "text": "There are some other apps here and I don't really know their names for all of them. But you could see"
+    },
+    {
+      "start": 1001.2,
+      "end": 1008.88,
+      "text": "they all also have a ton going on. So much. It's confusing. When you look at a screen that you"
+    },
+    {
+      "start": 1008.88,
+      "end": 1013.76,
+      "text": "should instantly know what is the button I click to perform the desired action."
+    },
+    {
+      "start": 1013.92,
+      "end": 1024.96,
+      "text": "With my fitness pal to be honest, it's very confusing to just know how to"
+    },
+    {
+      "start": 1026.0,
+      "end": 1031.28,
+      "text": "track your calories properly and all of these other apps as well. Cali, you could see"
+    },
+    {
+      "start": 1032.0,
+      "end": 1035.92,
+      "text": "weight easier and obviously I'm biased but like you could see this with your own eyes. It's"
+    },
+    {
+      "start": 1035.92,
+      "end": 1043.04,
+      "text": "fucking clear. So primary action right here clearly you could see it is hitting the plus."
+    },
+    {
+      "start": 1043.04,
+      "end": 1047.84,
+      "text": "With my fitness pal, it's a little bit less clear but you can see it's searching for food."
+    },
+    {
+      "start": 1048.48,
+      "end": 1056.24,
+      "text": "The reason this is not great is because primary actions a search bar is usually not a primary action."
+    },
+    {
+      "start": 1056.24,
+      "end": 1061.92,
+      "text": "That's a little bit unintuitive. People are used to hitting a button, not hitting a search bar."
+    },
+    {
+      "start": 1061.92,
+      "end": 1066.24,
+      "text": "But it's a search for food after like it's easy enough where you look at it the first time and"
+    },
+    {
+      "start": 1066.24,
+      "end": 1070.96,
+      "text": "then you're like okay that's how I do it. But then with everything else going on it's just so much."
+    },
+    {
+      "start": 1070.96,
+      "end": 1076.08,
+      "text": "It takes the user wild to even see the search bar there. It's confusing. A jumble, a mess."
+    },
+    {
+      "start": 1076.96,
+      "end": 1083.28,
+      "text": "Here this is honestly a lot less clear. There's an orange plus at the bottom. It's very small but"
+    },
+    {
+      "start": 1084.48,
+      "end": 1088.32,
+      "text": "and so much going on here you even see it take the quiz button. If I'm looking at this I kind of"
+    },
+    {
+      "start": 1088.32,
+      "end": 1092.32,
+      "text": "think that the take the quiz might even be the call to action. That might be the primary action"
+    },
+    {
+      "start": 1092.32,
+      "end": 1098.48,
+      "text": "because it's the biggest button on the screen and it's bright orange. So to me that's calling"
+    },
+    {
+      "start": 1098.48,
+      "end": 1103.84,
+      "text": "out to me which obviously it's wrong taking a quiz shouldn't be the core action. It's"
+    },
+    {
+      "start": 1103.84,
+      "end": 1111.28,
+      "text": "logging your food. This app a little bit better because the button is bigger at the bottom I think"
+    },
+    {
+      "start": 1111.28,
+      "end": 1116.24,
+      "text": "it's the biggest break green button in the app. So more clear but still a ton going on."
+    },
+    {
+      "start": 1116.96,
+      "end": 1124.64,
+      "text": "It's not super not super obvious. Life sum it does better for sure. It's a lot more simple."
+    },
+    {
+      "start": 1125.0400000000002,
+      "end": 1136.0,
+      "text": "They are much more intuitive and easy to understand. However they too are a little bit convoluted."
+    },
+    {
+      "start": 1136.0,
+      "end": 1141.44,
+      "text": "You can see you have to scroll down to see all of the content on the page. I see four plus buttons"
+    },
+    {
+      "start": 1141.44,
+      "end": 1146.3200000000002,
+      "text": "on this app. So I'm confused. Okay am I supposed to click the green one at the bottom or am I supposed"
+    },
+    {
+      "start": 1146.3200000000002,
+      "end": 1152.64,
+      "text": "to click the one on the side here. But overall they're probably better. Then they're better than"
+    },
+    {
+      "start": 1152.64,
+      "end": 1161.76,
+      "text": "the other ones besides Kalei. Kalei is the best. So going back and talking about your design."
+    },
+    {
+      "start": 1163.2,
+      "end": 1170.48,
+      "text": "I would think about orienting everything around the primary action. Making it very clear on every"
+    },
+    {
+      "start": 1170.48,
+      "end": 1174.88,
+      "text": "single page. Not just the homepage but every single page with the main button is and then you"
+    },
+    {
+      "start": 1174.88,
+      "end": 1179.8400000000001,
+      "text": "could have secondary buttons but they should always be de-emphasized. So if you're going to have"
+    },
+    {
+      "start": 1180.72,
+      "end": 1187.04,
+      "text": "two buttons for example a take picture button or if you want the option that less people do but"
+    },
+    {
+      "start": 1187.04,
+      "end": 1194.8,
+      "text": "you want to offer it be upload a picture. Then what you do is you just you put the button somewhere"
+    },
+    {
+      "start": 1195.4399999999998,
+      "end": 1203.52,
+      "text": "but you make it less less big less flashy. Put it underneath. If I'm looking at this it's clear. The"
+    },
+    {
+      "start": 1203.52,
+      "end": 1208.24,
+      "text": "core action is take a picture. Segmentary action is upload both are an option but more people will"
+    },
+    {
+      "start": 1208.24,
+      "end": 1214.32,
+      "text": "gravitate towards take a picture. If alternatively you want people to take more and upload less then"
+    },
+    {
+      "start": 1214.32,
+      "end": 1221.04,
+      "text": "you just flip them. Put one upload and then take at the bottom and consumer psychology will"
+    },
+    {
+      "start": 1221.04,
+      "end": 1226.24,
+      "text": "tell you that this will just cause more people to click the bigger the bigger more flashy button."
+    },
+    {
+      "start": 1226.32,
+      "end": 1227.68,
+      "text": "Nine times out of time."
+    },
+    {
+      "start": 1231.84,
+      "end": 1239.52,
+      "text": "Sick. Not much more for me to say on this. I think I really exhausted the terms primary and"
+    },
+    {
+      "start": 1239.52,
+      "end": 1248.24,
+      "text": "secondary actions. Something I do want to say though for your design. Just keep in mind that all"
+    },
+    {
+      "start": 1248.24,
+      "end": 1253.52,
+      "text": "of this can be iterated on it. All of this can be changed. Don't be a perfectionist. Just launch."
+    },
+    {
+      "start": 1254.08,
+      "end": 1260.4,
+      "text": "Going back to the version of Cali we initially launched with. It was fucking embarrassing."
+    },
+    {
+      "start": 1260.96,
+      "end": 1265.52,
+      "text": "If you're not embarrassed with what you're launching with then you launch too late. That's a quote."
+    },
+    {
+      "start": 1265.52,
+      "end": 1269.68,
+      "text": "It's not necessarily always the case but I think generally it's a good framework you should"
+    },
+    {
+      "start": 1269.68,
+      "end": 1276.6399999999999,
+      "text": "launch earlier than you think. You don't need to have everything perfect but you need to have"
+    },
+    {
+      "start": 1276.6399999999999,
+      "end": 1281.92,
+      "text": "most importantly the core action. And it's also something in business just in general is that"
+    },
+    {
+      "start": 1282.64,
+      "end": 1291.1200000000001,
+      "text": "users are coming to your app for the one main action and the secondary actions aren't going to get"
+    },
+    {
+      "start": 1291.1200000000001,
+      "end": 1294.64,
+      "text": "them to leave. They're not going to get them to stay unless you overdo them."
+    },
+    {
+      "start": 1296.4,
+      "end": 1300.16,
+      "text": "You yeah you really just should not have that. You don't want too many features in your app."
+    },
+    {
+      "start": 1300.16,
+      "end": 1305.1200000000001,
+      "text": "You own one core feature and then you want some supporting features to the core feature but you"
+    },
+    {
+      "start": 1305.12,
+      "end": 1311.76,
+      "text": "not want all these random things baked in. Keep your app simple. Don't be the one stop shop for"
+    },
+    {
+      "start": 1311.76,
+      "end": 1317.84,
+      "text": "mediocre products. Instead be the single store shop for great products. Everyone asks why we don't"
+    },
+    {
+      "start": 1317.84,
+      "end": 1323.36,
+      "text": "put workout plans into Cali. And the answer is because it's going to convolut the app too much."
+    },
+    {
+      "start": 1323.36,
+      "end": 1328.2399999999998,
+      "text": "There's going to be way too much going on. Sure people who track their calories probably want to"
+    },
+    {
+      "start": 1328.2399999999998,
+      "end": 1333.4399999999998,
+      "text": "work out as well and want workout plans. A good percentage of them but I would prefer to build a"
+    },
+    {
+      "start": 1333.44,
+      "end": 1339.3600000000001,
+      "text": "whole separate app under the same umbrella company that is all about fitness and we could even have"
+    },
+    {
+      "start": 1339.3600000000001,
+      "end": 1344.96,
+      "text": "a link in Cali to go download that app. But including them together is too much going on. That's"
+    },
+    {
+      "start": 1344.96,
+      "end": 1349.52,
+      "text": "the point of the app store. That's why we have multiple apps on our phones. I think each app should"
+    },
+    {
+      "start": 1349.52,
+      "end": 1354.4,
+      "text": "serve a very specific purpose. One app for track and calories, one app for working out. If you combine"
+    },
+    {
+      "start": 1354.4,
+      "end": 1362.0800000000002,
+      "text": "both then it's mediocre on both fronts. It gets convoluted confusing and it's just not what's"
+    },
+    {
+      "start": 1362.08,
+      "end": 1367.28,
+      "text": "intended by the fact that we literally have two. You could have multiple apps on your phones."
+    },
+    {
+      "start": 1367.28,
+      "end": 1372.48,
+      "text": "For a reason, also you're missing out on additional revenue because you could charge two subscriptions."
+    },
+    {
+      "start": 1373.4399999999998,
+      "end": 1378.08,
+      "text": "Two for different apps. That is actually more new ones because like some people say,"
+    },
+    {
+      "start": 1378.08,
+      "end": 1381.9199999999998,
+      "text": "okay, I want to build a super app for everything. You just charge a higher price. But we don't want to"
+    },
+    {
+      "start": 1381.9199999999998,
+      "end": 1386.8,
+      "text": "do that. We want to be simple, intuitive straight to the point and pump and print fucking cash. We're"
+    },
+    {
+      "start": 1386.8,
+      "end": 1395.12,
+      "text": "not the next reach out. Okay, I'm going to end this section here and see you guys in one of the"
+    },
+    {
+      "start": 1395.12,
+      "end": 1397.12,
+      "text": "later ones. Good luck."
+    }
+  ]
+}
